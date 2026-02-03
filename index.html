@@ -3,174 +3,133 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FOSS Finder - Progetto Didattico</title>
+    <title>FOSS Finder - Esplora</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Forza il footer in fondo se la pagina è corta */
+        body { min-height: 100vh; display: flex; flex-direction: column; }
+        main { flex: 1 0 auto; }
+        footer { flex-shrink: 0; }
+    </style>
 </head>
-<body class="bg-slate-50 text-slate-900 flex flex-col min-h-screen">
+<body class="bg-slate-50 text-slate-900">
 
     <nav class="bg-white border-b p-4 sticky top-0 z-50 shadow-sm">
         <div class="max-w-6xl mx-auto flex flex-col md:flex-row gap-4 items-center justify-between">
-            <h1 class="text-xl font-bold text-indigo-600 flex items-center gap-2">
-                <span class="text-2xl">📱</span> FOSS Finder
-            </h1>
-            <input type="text" id="searchBar" oninput="render()" placeholder="Cerca tra le app estratte..." 
+            <h1 class="text-xl font-bold text-indigo-600 flex items-center gap-2">📱 FOSS Finder</h1>
+            <input type="text" id="searchBar" oninput="render()" placeholder="Cerca app..." 
                 class="w-full md:w-96 p-2 rounded-xl border border-slate-200 outline-none focus:ring-2 focus:ring-indigo-500 shadow-sm">
         </div>
     </nav>
 
     <header class="bg-white border-b">
-        <div class="max-w-6xl mx-auto px-6 py-12 md:py-16">
-            <div class="max-w-3xl">
-                <h2 class="text-4xl md:text-5xl font-black text-slate-900 leading-tight mb-4">
-                    Esplora il software <span class="text-indigo-600">Open Source.</span>
-                </h2>
-                <p class="text-lg text-slate-600 leading-relaxed mb-6">
-                    FOSS Finder è un catalogo di applicazioni estratte dai repository di <b>F-Droid</b>. 
-                    Mostra software trasparente, sicuro e privo di tracciatori invasivi.
-                </p>
-                
-                <div class="bg-indigo-50 border-l-4 border-indigo-500 p-4 rounded-r-xl mb-8">
-                    <p class="text-sm text-indigo-900 leading-relaxed">
-                        ⚠️ <b>Nota sul progetto:</b> Questo sito è stato creato a scopo <b>amatoriale e didattico</b>. 
-                        L'obiettivo è imparare a utilizzare tecnologie come <b>Python</b>, 
-                        le <b>GitHub Actions</b> e lo sviluppo web moderno.
-                    </p>
-                </div>
-
-                <div class="flex flex-wrap gap-4">
-                    <div class="flex items-center gap-2 text-sm font-bold text-slate-500">
-                        <span class="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span> 
-                        Aggiornamento Automatizzato
-                    </div>
-                </div>
-            </div>
+        <div class="max-w-6xl mx-auto px-6 py-8">
+            <h2 class="text-3xl font-black text-slate-900 mb-2">Software Libero</h2>
+            <p class="text-slate-600 text-sm italic">Progetto didattico amatoriale basato su dati F-Droid.</p>
         </div>
     </header>
 
     <div class="bg-white border-b sticky top-[73px] z-40 overflow-x-auto shadow-sm">
-        <div id="filterBar" class="max-w-6xl mx-auto p-4 flex gap-2 whitespace-nowrap">
-            <button onclick="filterCat('All', this)" class="cat-btn bg-indigo-600 text-white px-5 py-2 rounded-full text-sm font-bold transition-all shadow-md">Tutte le App</button>
-            <button onclick="filterCat('Internet', this)" class="cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all">Internet</button>
-            <button onclick="filterCat('Games', this)" class="cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all">Giochi</button>
-            <button onclick="filterCat('Multimedia', this)" class="cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all">Multimedia</button>
-            <button onclick="filterCat('Security', this)" class="cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all">Sicurezza</button>
+        <div id="filterBar" class="max-w-6xl mx-auto p-4 flex gap-2 whitespace-nowrap text-sm font-bold">
+            <button onclick="filterCat('All', this)" class="cat-btn bg-indigo-600 text-white px-5 py-2 rounded-full transition-all">Tutte le App</button>
+            <button onclick="filterCat('Internet', this)" class="cat-btn bg-slate-100 px-5 py-2 rounded-full transition-all">Internet</button>
+            <button onclick="filterCat('Games', this)" class="cat-btn bg-slate-100 px-5 py-2 rounded-full transition-all">Giochi</button>
+            <button onclick="filterCat('Multimedia', this)" class="cat-btn bg-slate-100 px-5 py-2 rounded-full transition-all">Multimedia</button>
+            <button onclick="filterCat('Security', this)" class="cat-btn bg-slate-100 px-5 py-2 rounded-full transition-all">Sicurezza</button>
         </div>
     </div>
 
-    <main class="max-w-6xl mx-auto p-6 mt-4 flex-grow w-full">
+    <main class="max-w-6xl mx-auto p-6 w-full">
+        <div id="resultsCount" class="mb-6 text-sm text-slate-400 font-bold uppercase tracking-widest"></div>
         <div id="appGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <p class="col-span-full text-center py-20 text-slate-400">Inizializzazione database...</p>
-        </div>
+            </div>
     </main>
 
-    <footer class="bg-white border-t mt-12 py-10">
-        <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-8">
+    <footer class="bg-white border-t py-10 mt-auto">
+        <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
             <div class="text-center md:text-left">
-                <h3 class="text-lg font-bold text-indigo-600 mb-1">FOSS Finder</h3>
-                <p class="text-sm text-slate-500 max-w-xs italic leading-relaxed">
-                    "Imparando a costruire un web più trasparente, un'app alla volta."
-                </p>
+                <h3 class="font-bold text-indigo-600">FOSS Finder</h3>
+                <p class="text-xs text-slate-400 mt-1">Creato da Giampiero Santoro per studio.</p>
             </div>
-            <div class="flex flex-col items-center md:items-end gap-2">
-                <div class="flex gap-4 mb-2 font-bold text-sm">
-                    <a href="https://github.com/giampiero-santoro" target="_blank" class="text-slate-600 hover:text-indigo-600">Profilo GitHub</a>
-                    <a href="https://github.com/giampiero-santoro/foss-app-finder" target="_blank" class="text-slate-600 hover:text-indigo-600">Codice Sorgente</a>
-                </div>
-                <div class="text-[10px] text-slate-300 uppercase tracking-widest font-black">MIT LICENSE • 2024-2026</div>
+            <div class="flex gap-4 text-sm font-bold text-slate-600">
+                <a href="https://github.com/giampiero-santoro" target="_blank">Profilo GitHub</a>
+                <a href="https://github.com/giampiero-santoro/foss-app-finder" target="_blank">Codice</a>
             </div>
         </div>
     </footer>
 
     <script>
-        let allApps = []; 
+        let allApps = [];
         let activeCategory = 'All';
 
         async function init() {
-            const grid = document.getElementById('appGrid');
             try {
-                // Fetch con timestamp per forzare l'aggiornamento
                 const resp = await fetch('apps.json?v=' + Date.now());
-                if (!resp.ok) throw new Error("File apps.json non trovato sul server.");
-                
                 allApps = await resp.json();
-                
-                if (!Array.isArray(allApps) || allApps.length === 0) {
-                    grid.innerHTML = "<p class='col-span-full text-center py-20 text-slate-400 font-medium italic'>Il database è attualmente vuoto. <br> Lo scraper Python deve ancora generare i dati.</p>";
-                } else {
-                    render();
-                }
+                render();
             } catch (e) {
-                grid.innerHTML = `
-                    <div class="col-span-full text-center py-20">
-                        <p class="text-red-500 font-bold">Errore di caricamento</p>
-                        <p class="text-slate-500 text-sm mt-2">${e.message}</p>
-                    </div>`;
+                document.getElementById('appGrid').innerHTML = "Errore caricamento dati.";
             }
         }
 
         function filterCat(cat, btn) {
             activeCategory = cat;
             document.querySelectorAll('.cat-btn').forEach(b => {
-                b.className = 'cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all';
+                b.className = 'cat-btn bg-slate-100 px-5 py-2 rounded-full transition-all';
             });
-            btn.className = 'cat-btn bg-indigo-600 text-white px-5 py-2 rounded-full text-sm font-bold transition-all shadow-md';
+            btn.className = 'cat-btn bg-indigo-600 text-white px-5 py-2 rounded-full transition-all shadow-md';
             render();
         }
 
         function goToDetails(index) {
             const app = allApps[index];
-            if (app) {
-                localStorage.setItem('selectedApp', JSON.stringify(app));
-                window.location.href = 'dettagli.html';
-            }
+            localStorage.setItem('selectedApp', JSON.stringify(app));
+            window.location.href = 'dettagli.html';
         }
 
-function render() {
+        function render() {
             const term = document.getElementById('searchBar').value.toLowerCase();
             const grid = document.getElementById('appGrid');
+            const countLabel = document.getElementById('resultsCount');
             
             const filtered = allApps.filter(app => {
-                // 1. Controllo Ricerca Testuale
-                const n = app.nome ? app.nome.toLowerCase() : "";
-                const r = app.riassunto ? app.riassunto.toLowerCase() : "";
-                const matchSearch = (n + r).includes(term);
+                const matchSearch = (app.nome + app.riassunto).toLowerCase().includes(term);
                 
-                // 2. Controllo Categoria (reso più flessibile)
                 let matchCat = false;
                 if (activeCategory === 'All') {
                     matchCat = true;
-                } else if (app.categorie && Array.isArray(app.categorie)) {
-                    // Controlla se la categoria scelta è presente (senza distinguere maiuscole/minuscole)
-                    matchCat = app.categorie.some(c => c.toLowerCase() === activeCategory.toLowerCase());
+                } else {
+                    // Cerca se la stringa della categoria (es. "Internet") è contenuta in una delle categorie dell'app
+                    matchCat = app.categorie && app.categorie.some(c => 
+                        c.toLowerCase().includes(activeCategory.toLowerCase())
+                    );
                 }
-                
                 return matchSearch && matchCat;
             });
 
+            countLabel.innerText = `${filtered.length} Applicazioni trovate`;
+
             if (filtered.length === 0) {
-                grid.innerHTML = `
-                    <div class="col-span-full text-center py-20">
-                        <p class="text-slate-400 text-lg">Nessun risultato trovato per "${activeCategory}".</p>
-                        <p class="text-slate-400 text-sm italic">Potrebbe non esserci ancora questa categoria nel database estratto.</p>
-                    </div>`;
-            } else {
-                grid.innerHTML = filtered.map((app) => {
-                    const originalIndex = allApps.findIndex(a => a.id_pacchetto === app.id_pacchetto);
-                    return `
-                    <div class="bg-white p-6 rounded-2xl border border-slate-200 flex flex-col h-full shadow-sm hover:shadow-lg transition-all duration-300">
-                        <h2 class="font-bold text-xl text-slate-800 mb-2">${app.nome || 'App'}</h2>
-                        <p class="text-slate-500 text-sm mb-6 line-clamp-3 leading-relaxed">${app.riassunto || ''}</p>
-                        <div class="mt-auto pt-4 flex justify-between items-center border-t border-slate-50">
-                            <span class="text-[10px] bg-slate-50 text-slate-400 px-2 py-1 rounded font-bold uppercase tracking-widest">
-                                ${app.categorie ? app.categorie[0] : 'FOSS'}
-                            </span>
-                            <button onclick="goToDetails(${originalIndex})" class="bg-indigo-600 text-white px-5 py-2 rounded-xl text-sm font-bold hover:bg-indigo-700 transition-colors shadow-sm">
-                                Vedi Dettagli
-                            </button>
-                        </div>
-                    </div>`;
-                }).join('');
+                grid.innerHTML = '<div class="col-span-full py-20 text-center text-slate-400 italic">Nessun risultato per questa categoria.</div>';
+                return;
             }
+
+            grid.innerHTML = filtered.map((app) => {
+                const originalIndex = allApps.findIndex(a => a.id_pacchetto === app.id_pacchetto);
+                return `
+                <div class="bg-white p-6 rounded-2xl border border-slate-200 flex flex-col h-full shadow-sm hover:shadow-lg transition-all duration-300">
+                    <h2 class="font-bold text-lg text-slate-800 mb-2">${app.nome}</h2>
+                    <p class="text-slate-500 text-sm mb-6 line-clamp-3">${app.riassunto}</p>
+                    <div class="mt-auto pt-4 flex justify-between items-center border-t border-slate-50">
+                        <span class="text-[10px] bg-slate-50 text-slate-400 px-2 py-1 rounded font-bold uppercase italic">
+                            ${app.categorie ? app.categorie[0] : 'App'}
+                        </span>
+                        <button onclick="goToDetails(${originalIndex})" class="bg-indigo-600 text-white px-4 py-2 rounded-lg text-xs font-bold hover:bg-indigo-700 transition-colors">
+                            Dettagli
+                        </button>
+                    </div>
+                </div>`;
+            }).join('');
         }
 
         init();
