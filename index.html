@@ -1,55 +1,159 @@
-<script>
-    let allApps = [];
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOSS Finder - Esplora il Software Libero</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-900 flex flex-col min-h-screen">
 
-    // 1. Carica i dati
-    async function loadApps() {
-        try {
-            const response = await fetch('apps.json');
-            if (!response.ok) throw new Error("File apps.json non trovato.");
-            allApps = await response.json();
-            renderApps(allApps);
-        } catch (error) {
-            document.getElementById('appGrid').innerHTML = `
-                <div class="col-span-full text-center p-10 bg-red-50 text-red-600 rounded-xl">
-                    ${error.message}
-                </div>`;
-        }
-    }
+    <nav class="bg-white border-b p-4 sticky top-0 z-50 shadow-sm">
+        <div class="max-w-6xl mx-auto flex flex-col md:flex-row gap-4 items-center justify-between">
+            <h1 class="text-xl font-bold text-indigo-600 flex items-center gap-2">
+                <span class="text-2xl">📱</span> FOSS Finder
+            </h1>
+            <input type="text" id="searchBar" oninput="render()" placeholder="Cerca app per nome o funzione..." 
+                class="w-full md:w-96 p-2 rounded-xl border border-slate-200 outline-none focus:ring-2 focus:ring-indigo-500 shadow-sm">
+        </div>
+    </nav>
 
-    // 2. Funzione aggiornata con le chiavi corrette (nome, riassunto, etc.)
-    function renderApps(apps) {
-        const grid = document.getElementById('appGrid');
-        if (apps.length === 0) {
-            grid.innerHTML = '<p class="col-span-full text-center py-10 text-slate-500">Nessuna app trovata.</p>';
-            return;
-        }
-
-        grid.innerHTML = apps.map(app => `
-            <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 hover:shadow-md transition-all">
-                <div class="flex items-center gap-4 mb-3">
-                    <img src="${app.icona || 'https://via.placeholder.com/64'}" 
-                         onerror="this.src='https://via.placeholder.com/64'"
-                         class="w-12 h-12 rounded-xl bg-slate-100 object-cover">
-                    <h2 class="font-bold text-lg text-slate-800">${app.nome || 'Senza Nome'}</h2>
-                </div>
-                <p class="text-slate-600 text-sm h-12 overflow-hidden">${app.riassunto || 'Nessuna descrizione disponibile'}</p>
-                <div class="mt-4 flex items-center justify-between">
-                    <span class="text-[10px] bg-indigo-50 px-2 py-1 rounded text-indigo-600 uppercase font-bold">${app.licenza || 'Open'}</span>
-                    <a href="${app.url_codice_sorgente}" target="_blank" class="text-indigo-600 font-semibold text-sm hover:underline">Vedi Codice →</a>
+    <header class="bg-white border-b">
+        <div class="max-w-6xl mx-auto px-6 py-12 md:py-16">
+            <div class="max-w-3xl">
+                <h2 class="text-4xl md:text-5xl font-black text-slate-900 leading-tight mb-4">
+                    Scopri il software che <span class="text-indigo-600">rispetta la tua privacy.</span>
+                </h2>
+                <p class="text-lg text-slate-600 leading-relaxed mb-6">
+                    FOSS Finder è un catalogo curato di applicazioni <b>Free and Open Source</b> estratte da F-Droid. 
+                    Niente tracker, niente pubblicità invasiva, solo codice trasparente e sicuro per il tuo dispositivo Android.
+                </p>
+                <div class="flex flex-wrap gap-4">
+                    <div class="flex items-center gap-2 text-sm font-bold text-slate-500">
+                        <span class="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span> 
+                        Database aggiornato quotidianamente
+                    </div>
+                    <div class="flex items-center gap-2 text-sm font-bold text-slate-500">
+                        <span class="w-2 h-2 bg-indigo-500 rounded-full"></span> 
+                        100% Open Source
+                    </div>
                 </div>
             </div>
-        `).join('');
-    }
+        </div>
+    </header>
 
-    // 3. Logica di ricerca corretta
-    document.getElementById('searchBar').addEventListener('input', (e) => {
-        const term = e.target.value.toLowerCase();
-        const filtered = allApps.filter(app => 
-            (app.nome && app.nome.toLowerCase().includes(term)) || 
-            (app.riassunto && app.riassunto.toLowerCase().includes(term))
-        );
-        renderApps(filtered);
-    });
+    <div class="bg-white border-b sticky top-[73px] md:top-[73px] z-40 overflow-x-auto shadow-sm">
+        <div id="filterBar" class="max-w-6xl mx-auto p-4 flex gap-2 whitespace-nowrap">
+            <button onclick="filterCat('All', this)" class="cat-btn bg-indigo-600 text-white px-5 py-2 rounded-full text-sm font-bold transition-all shadow-md shadow-indigo-100">Tutte le App</button>
+            <button onclick="filterCat('Internet', this)" class="cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all">Internet</button>
+            <button onclick="filterCat('Games', this)" class="cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all">Giochi</button>
+            <button onclick="filterCat('Multimedia', this)" class="cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all">Multimedia</button>
+            <button onclick="filterCat('Security', this)" class="cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all">Sicurezza</button>
+        </div>
+    </div>
 
-    loadApps();
-</script>
+    <main class="max-w-6xl mx-auto p-6 mt-4 flex-grow w-full">
+        <div id="appGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <p class="col-span-full text-center py-20 text-slate-400 animate-pulse">Caricamento applicazioni...</p>
+        </div>
+    </main>
+
+    <footer class="bg-white border-t mt-12 py-10">
+        <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+            <div class="text-center md:text-left">
+                <h3 class="text-lg font-bold text-indigo-600 mb-1">FOSS Finder</h3>
+                <p class="text-sm text-slate-500 max-w-xs leading-relaxed">
+                    Promuoviamo il software libero e la trasparenza digitale. 
+                    Tutti i dati provengono dai repository ufficiali di F-Droid.
+                </p>
+            </div>
+            
+            <div class="flex flex-col items-center md:items-end gap-2">
+                <div class="flex gap-4 mb-2">
+                    <a href="https://github.com/giampiero-santoro" target="_blank" class="text-slate-600 hover:text-indigo-600 font-medium text-sm transition-colors">
+                        GitHub Profile
+                    </a>
+                    <a href="https://github.com/giampiero-santoro/foss-app-finder" target="_blank" class="text-slate-600 hover:text-indigo-600 font-medium text-sm transition-colors">
+                        Repository
+                    </a>
+                </div>
+                <div class="text-[10px] text-slate-400 uppercase tracking-[0.2em] font-black">
+                    Distributed under MIT License
+                </div>
+                <div class="text-[11px] text-slate-400">
+                    © 2024-2026 Giampiero Santoro
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        let allApps = [];
+        let activeCategory = 'All';
+
+        async function init() {
+            try {
+                const resp = await fetch('apps.json?v=' + Date.now());
+                allApps = await resp.json();
+                render();
+            } catch (e) {
+                document.getElementById('appGrid').innerHTML = `
+                    <div class="col-span-full text-center py-10">
+                        <p class="text-red-500 font-bold text-lg">Errore nel caricamento del database.</p>
+                        <p class="text-slate-400 text-sm">Controlla che il file apps.json sia stato generato correttamente.</p>
+                    </div>`;
+            }
+        }
+
+        function filterCat(cat, btn) {
+            activeCategory = cat;
+            document.querySelectorAll('.cat-btn').forEach(b => {
+                b.className = 'cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all';
+            });
+            btn.className = 'cat-btn bg-indigo-600 text-white px-5 py-2 rounded-full text-sm font-bold transition-all shadow-md shadow-indigo-100';
+            render();
+        }
+
+        function goToDetails(index) {
+            const app = allApps[index];
+            localStorage.setItem('selectedApp', JSON.stringify(app));
+            window.location.href = 'dettagli.html';
+        }
+
+        function render() {
+            const term = document.getElementById('searchBar').value.toLowerCase();
+            const grid = document.getElementById('appGrid');
+            
+            const filtered = allApps.filter(app => {
+                const matchSearch = app.nome.toLowerCase().includes(term) || app.riassunto.toLowerCase().includes(term);
+                const matchCat = activeCategory === 'All' || (app.categorie && app.categorie.includes(activeCategory));
+                return matchSearch && matchCat;
+            });
+
+            if (filtered.length === 0) {
+                grid.innerHTML = '<p class="col-span-full text-center py-20 text-slate-400">Nessuna app trovata per questa ricerca.</p>';
+                return;
+            }
+
+            grid.innerHTML = filtered.map((app) => {
+                const originalIndex = allApps.indexOf(app);
+                return `
+                <div class="bg-white p-6 rounded-2xl border border-slate-200 flex flex-col h-full shadow-sm hover:shadow-lg hover:border-indigo-100 transition-all duration-300">
+                    <h2 class="font-bold text-xl text-slate-800 mb-2">${app.nome}</h2>
+                    <p class="text-slate-500 text-sm mb-6 line-clamp-3 leading-relaxed">${app.riassunto}</p>
+                    <div class="mt-auto pt-4 flex justify-between items-center border-t border-slate-50">
+                        <span class="text-[10px] bg-slate-50 text-slate-400 px-2 py-1 rounded font-black uppercase tracking-wider">
+                            ${app.categorie ? app.categorie[0] : 'App'}
+                        </span>
+                        <button onclick="goToDetails(${originalIndex})" class="bg-indigo-600 text-white px-5 py-2 rounded-xl text-sm font-bold hover:bg-indigo-700 transition-colors shadow-sm">
+                            Vedi Dettagli
+                        </button>
+                    </div>
+                </div>`;
+            }).join('');
+        }
+
+        init();
+    </script>
+</body>
+</html>
