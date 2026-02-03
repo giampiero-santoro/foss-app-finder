@@ -27,16 +27,19 @@ def scrape_f_droid():
                 icon_file = list(icon_data.values())[0].get('name')
                 if icon_file: icona_url = f"{ICON_BASE}{icon_file}"
             except: pass
-
+                
         app_entry = {
-            "nome": metadata.get('name', {}).get('it') or metadata.get('name', {}).get('en-US') or pkg_name,
+            "nome": nome,
             "id_pacchetto": pkg_name,
-            "riassunto": metadata.get('summary', {}).get('it') or metadata.get('summary', {}).get('en-US') or "",
+            "riassunto": riassunto,
             "licenza": metadata.get('license', 'FOSS'),
             "icona": icona_url,
-            "categorie": metadata.get('categories', ['Altro']), # <--- Recupera categorie
+            "categorie": metadata.get('categories', ['Altro']),
             "url_codice_sorgente": metadata.get('sourceCode'),
-            "ultimo_aggiornamento": pkg_info.get('lastUpdated')
+            "ultimo_aggiornamento": pkg_info.get('lastUpdated'),
+            # Aggiungiamo i sistemi operativi (default Android per F-Droid)
+            "sistemi": ["Android"], 
+            "url_fdroid": f"https://f-droid.org/packages/{pkg_name}/"
         }
         
         if app_entry["url_codice_sorgente"]:
