@@ -3,135 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FOSS Finder - Catalogo App</title>
+    <title>FOSS Finder - Catalogo</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-slate-50 text-slate-900 font-sans">
+<body class="bg-slate-50 text-slate-900">
 
-    <nav class="bg-white border-b border-slate-200 sticky top-0 z-50 p-4 shadow-sm">
-        <div class="max-w-6xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-4">
+    <nav class="bg-white border-b p-4 sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
             <h1 class="text-xl font-bold text-indigo-600">FOSS Finder</h1>
-            <input type="text" id="searchBar" placeholder="Cerca app..." 
-                class="w-full md:w-96 p-2 rounded-lg border border-slate-300 focus:ring-2 focus:ring-indigo-500 outline-none">
+            <input type="text" id="searchBar" placeholder="Cerca..." class="p-2 border rounded-lg outline-none focus:ring-2 focus:ring-indigo-500">
         </div>
     </nav>
 
     <main class="max-w-6xl mx-auto p-6">
-        <div id="appGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            <p class="col-span-full text-center py-20 text-slate-400">Caricamento in corso...</p>
-        </div>
-    </main>
-
-    <div id="detailsModal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-[100] hidden items-center justify-center p-4">
-        <div class="bg-white rounded-3xl max-w-2xl w-full max-h-[90vh] overflow-y-auto shadow-2xl">
-            <div id="modalContent" class="p-8">
-                </div>
-            <div class="p-6 border-t bg-slate-50 flex justify-end">
-                <button onclick="closeModal()" class="px-6 py-2 bg-slate-200 hover:bg-slate-300 rounded-xl font-bold transition-colors">Chiudi</button>
+        <div id="appGrid" class="grid grid-cols-1 md:grid-cols-3 gap-6">
             </div>
-        </div>
-    </div>
+    </main>
 
     <script>
         let allApps = [];
 
-        async function loadApps() {
-            try {
-                const response = await fetch('apps.json?v=' + new Date().getTime());
-                allApps = await response.json();
-                renderApps(allApps);
-            } catch (error) {
-                console.error("Errore caricamento:", error);
-            }
+        async function init() {
+            const resp = await fetch('apps.json?v=' + Date.now());
+            allApps = await resp.json();
+            render(allApps);
         }
 
-        function renderApps(apps) {
+        function render(apps) {
             const grid = document.getElementById('appGrid');
             grid.innerHTML = apps.map((app, index) => `
-                <div class="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm flex flex-col h-full">
-                    <h2 class="font-bold text-xl text-slate-800 mb-2">${app.nome}</h2>
+                <div class="bg-white p-6 rounded-2xl border border-slate-200 flex flex-col h-full shadow-sm hover:shadow-md transition-shadow">
+                    <h2 class="font-bold text-lg mb-2">${app.nome}</h2>
                     <p class="text-slate-500 text-sm mb-4 line-clamp-2">${app.riassunto}</p>
-                    <div class="mt-auto pt-4 flex justify-between items-center">
-                        <span class="text-[10px] bg-slate-100 px-2 py-1 rounded font-bold text-slate-500 uppercase">${app.licenza}</span>
-                        <button onclick="openDetails(${index})" class="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-lg text-sm font-bold transition-all">
-                            Scopri di più
-                        </button>
+                    <div class="mt-auto">
+                        <a href="dettagli.html?id=${index}" class="block text-center bg-indigo-600 text-white py-2 rounded-lg font-bold hover:bg-indigo-700 transition-colors">
+                            Vedi Dettagli
+                        </a>
                     </div>
                 </div>
             `).join('');
         }
 
-        function openDetails(index) {
-            const app = allApps[index];
-            const modal = document.getElementById('detailsModal');
-            const content = document.getElementById('modalContent');
-
-            // Qui inseriamo tutte le informazioni dettagliate
-            content.innerHTML = `
-                <div class="flex items-start justify-between mb-6">
-                    <div>
-                        <h2 class="text-3xl font-black text-slate-900 mb-2">${app.nome}</h2>
-                        <span class="bg-indigo-100 text-indigo-700 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider">
-                            Licenza: ${app.licenza}
-                        </span>
-                    </div>
-                    <img src="${app.icona}" onerror="this.style.display='none'" class="w-20 h-20 rounded-2xl bg-slate-100 p-2">
-                </div>
-                
-                <div class="space-y-6">
-                    <section>
-                        <h3 class="text-sm font-bold text-slate-400 uppercase tracking-widest mb-2">Descrizione</h3>
-                        <p class="text-slate-700 leading-relaxed text-lg">${app.riassunto}</p>
-                    </section>
-
-                    <section class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <div class="p-4 bg-slate-50 rounded-2xl border border-slate-100">
-                            <h3 class="text-xs font-bold text-slate-400 uppercase mb-1">ID Pacchetto</h3>
-                            <p class="font-mono text-sm text-slate-600 truncate">${app.id_pacchetto}</p>
-                        </div>
-                        <div class="p-4 bg-slate-50 rounded-2xl border border-slate-100">
-                            <h3 class="text-xs font-bold text-slate-400 uppercase mb-1">Ultimo Aggiornamento</h3>
-                            <p class="text-sm text-slate-600">${new Date(app.ultimo_aggiornamento).toLocaleDateString('it-IT')}</p>
-                        </div>
-                    </section>
-
-                    <div class="pt-6">
-                        <a href="${app.url_codice_sorgente}" target="_blank" 
-                           class="block w-full text-center bg-slate-900 hover:bg-black text-white py-4 rounded-2xl font-bold shadow-lg transition-transform active:scale-95">
-                            Visita il Codice Sorgente (GitHub/GitLab)
-                        </a>
-                    </div>
-                </div>
-            `;
-
-            modal.classList.remove('hidden');
-            modal.classList.add('flex');
-            document.body.style.overflow = 'hidden'; // Blocca lo scroll della pagina sotto
-        }
-
-        function closeModal() {
-            const modal = document.getElementById('detailsModal');
-            modal.classList.add('hidden');
-            modal.classList.remove('flex');
-            document.body.style.overflow = 'auto'; // Riattiva lo scroll
-        }
-
-        // Chiudi se clicchi fuori dal modal
-        window.onclick = (event) => {
-            const modal = document.getElementById('detailsModal');
-            if (event.target == modal) closeModal();
-        }
-
         document.getElementById('searchBar').addEventListener('input', (e) => {
             const term = e.target.value.toLowerCase();
-            const filtered = allApps.filter(app => 
-                app.nome.toLowerCase().includes(term) || 
-                app.riassunto.toLowerCase().includes(term)
-            );
-            renderApps(filtered);
+            render(allApps.filter(a => a.nome.toLowerCase().includes(term) || a.riassunto.toLowerCase().includes(term)));
         });
 
-        loadApps();
+        init();
     </script>
 </body>
 </html>
