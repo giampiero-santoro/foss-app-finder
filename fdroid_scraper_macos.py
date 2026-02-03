@@ -4,8 +4,8 @@ import json
 def scrape_f_droid():
     # URL del database moderno di F-Droid (V2)
     INDEX_URL = "https://f-droid.org/repo/index-v2.json"
-    # URL base per le immagini
-    REPO_BASE = "https://f-droid.org/repo/"
+    # URL base per le immagini (cartella standard icone 64px)
+    ICON_BASE = "https://f-droid.org/repo/icons-64/"
     
     print("Scaricamento dati da F-Droid in corso...")
     try:
@@ -17,35 +17,32 @@ def scrape_f_droid():
         return
 
     apps_list = []
-    # Nel formato V2, le app sono sotto la chiave 'packages'
     packages = data.get('packages', {})
 
     for pkg_name, pkg_info in packages.items():
         metadata = pkg_info.get('metadata', {})
         
-        # Estrazione Nome (cerchiamo IT, poi EN, poi l'ID pacchetto)
+        # Estrazione Nome (IT -> EN -> ID)
         nome = metadata.get('name', {}).get('it') or \
                metadata.get('name', {}).get('en-US') or pkg_name
         
-        # Estrazione Riassunto
+        # Estrazione Riassunto (IT -> EN)
         riassunto = metadata.get('summary', {}).get('it') or \
                     metadata.get('summary', {}).get('en-US') or "Nessuna descrizione disponibile."
         
-        # COSTRUZIONE URL ICONA
+        # COSTRUZIONE URL ICONA COMPLETO
         icon_data = metadata.get('icon', {})
-        icona_url = "https://via.placeholder.com/64" # Default se non c'è icona
+        icona_url = "https://via.placeholder.com/64"
         
         if icon_data:
-            # Prendiamo la prima lingua disponibile nell'oggetto icona
             try:
-                first_lang_icon = list(icon_data.values())[0]
-                icon_file = first_lang_icon.get('name')
+                # Prende il nome del file dell'icona da qualsiasi lingua disponibile
+                icon_file = list(icon_data.values())[0].get('name')
                 if icon_file:
-                    icona_url = f"{REPO_BASE}{icon_file}"
+                    icona_url = f"{ICON_BASE}{icon_file}"
             except:
                 pass
 
-        # Creazione del dizionario con i nomi che il tuo index.html si aspetta
         app_entry = {
             "nome": nome,
             "id_pacchetto": pkg_name,
@@ -56,15 +53,14 @@ def scrape_f_droid():
             "ultimo_aggiornamento": pkg_info.get('lastUpdated')
         }
         
-        # Aggiungiamo l'app solo se ha un link al codice sorgente (filtro FOSS)
+        # Filtro: aggiungi solo se c'è il codice sorgente
         if app_entry["url_codice_sorgente"]:
             apps_list.append(app_entry)
 
-    # Scrittura del file apps.json
     with open('apps.json', 'w', encoding='utf-8') as f:
         json.dump(apps_list, f, ensure_ascii=False, indent=4)
     
-    print(f"Fatto! Salvate {len(apps_list)} app in apps.json")
+    print(f"Fatto! Generate {len(apps_list)} app con icone aggiornate.")
 
 if __name__ == "__main__":
     scrape_f_droid()
