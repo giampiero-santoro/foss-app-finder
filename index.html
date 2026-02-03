@@ -29,22 +29,15 @@
 
         async function loadApps() {
             try {
-                /* MODIFICA: Aggiungiamo un parametro casuale (?t=...) all'URL.
-                   Questo forza il browser a scaricare l'ultima versione di apps.json
-                   ignorando la vecchia cache (molto importante su GitHub Pages).
-                */
-                const response = await fetch('apps.json?v=' + new Date().getTime());
+                // Aggiungiamo ?t=... per forzare il browser a scaricare il file nuovo
+                const response = await fetch('apps.json?t=' + new Date().getTime());
                 if (!response.ok) throw new Error("Database non trovato.");
                 allApps = await response.json();
                 renderApps(allApps);
             } catch (error) {
-                document.getElementById('appGrid').innerHTML = `
-                    <div class="col-span-full text-center p-10 bg-red-50 text-red-600 rounded-xl">
-                        ${error.message}<br>Assicurati che l'Azione GitHub sia terminata correttamente.
-                    </div>`;
+                console.error(error);
             }
         }
-
         function renderApps(apps) {
             const grid = document.getElementById('appGrid');
             if (apps.length === 0) {
