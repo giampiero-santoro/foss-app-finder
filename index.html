@@ -32,8 +32,8 @@
                 <div class="bg-indigo-50 border-l-4 border-indigo-500 p-4 rounded-r-xl mb-8">
                     <p class="text-sm text-indigo-900 leading-relaxed">
                         ⚠️ <b>Nota sul progetto:</b> Questo sito è stato creato a scopo <b>amatoriale e didattico</b>. 
-                        L'obiettivo è imparare a utilizzare tecnologie come <b>Python</b> per lo scraping, 
-                        le <b>GitHub Actions</b> per l'automazione e il web design moderno.
+                        L'obiettivo è imparare a utilizzare tecnologie come <b>Python</b>, 
+                        le <b>GitHub Actions</b> e lo sviluppo web moderno.
                     </p>
                 </div>
 
@@ -41,10 +41,6 @@
                     <div class="flex items-center gap-2 text-sm font-bold text-slate-500">
                         <span class="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span> 
                         Aggiornamento Automatizzato
-                    </div>
-                    <div class="flex items-center gap-2 text-sm font-bold text-slate-500">
-                        <span class="w-2 h-2 bg-slate-300 rounded-full"></span> 
-                        Esperimento Tech
                     </div>
                 </div>
             </div>
@@ -63,7 +59,7 @@
 
     <main class="max-w-6xl mx-auto p-6 mt-4 flex-grow w-full">
         <div id="appGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <p class="col-span-full text-center py-20 text-slate-400">Caricamento database in corso...</p>
+            <p class="col-span-full text-center py-20 text-slate-400">Inizializzazione database...</p>
         </div>
     </main>
 
@@ -74,14 +70,98 @@
                 <p class="text-sm text-slate-500 max-w-xs italic leading-relaxed">
                     "Imparando a costruire un web più trasparente, un'app alla volta."
                 </p>
-                <p class="text-[11px] text-slate-400 mt-2 font-medium">
-                    Creato da Giampiero Santoro per studio e sperimentazione.
-                </p>
             </div>
-            
             <div class="flex flex-col items-center md:items-end gap-2">
-                <div class="flex gap-4 mb-2">
-                    <a href="https://github.com/giampiero-santoro" target="_blank" class="text-slate-600 hover:text-indigo-600 font-bold text-sm transition-colors">
-                        Profilo GitHub
-                    </a>
-                    
+                <div class="flex gap-4 mb-2 font-bold text-sm">
+                    <a href="https://github.com/giampiero-santoro" target="_blank" class="text-slate-600 hover:text-indigo-600">Profilo GitHub</a>
+                    <a href="https://github.com/giampiero-santoro/foss-app-finder" target="_blank" class="text-slate-600 hover:text-indigo-600">Codice Sorgente</a>
+                </div>
+                <div class="text-[10px] text-slate-300 uppercase tracking-widest font-black">MIT LICENSE • 2024-2026</div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        let allApps = []; 
+        let activeCategory = 'All';
+
+        async function init() {
+            const grid = document.getElementById('appGrid');
+            try {
+                // Fetch con timestamp per forzare l'aggiornamento
+                const resp = await fetch('apps.json?v=' + Date.now());
+                if (!resp.ok) throw new Error("File apps.json non trovato sul server.");
+                
+                allApps = await resp.json();
+                
+                if (!Array.isArray(allApps) || allApps.length === 0) {
+                    grid.innerHTML = "<p class='col-span-full text-center py-20 text-slate-400 font-medium italic'>Il database è attualmente vuoto. <br> Lo scraper Python deve ancora generare i dati.</p>";
+                } else {
+                    render();
+                }
+            } catch (e) {
+                grid.innerHTML = `
+                    <div class="col-span-full text-center py-20">
+                        <p class="text-red-500 font-bold">Errore di caricamento</p>
+                        <p class="text-slate-500 text-sm mt-2">${e.message}</p>
+                    </div>`;
+            }
+        }
+
+        function filterCat(cat, btn) {
+            activeCategory = cat;
+            document.querySelectorAll('.cat-btn').forEach(b => {
+                b.className = 'cat-btn bg-slate-100 hover:bg-slate-200 px-5 py-2 rounded-full text-sm font-bold transition-all';
+            });
+            btn.className = 'cat-btn bg-indigo-600 text-white px-5 py-2 rounded-full text-sm font-bold transition-all shadow-md';
+            render();
+        }
+
+        function goToDetails(index) {
+            const app = allApps[index];
+            if (app) {
+                localStorage.setItem('selectedApp', JSON.stringify(app));
+                window.location.href = 'dettagli.html';
+            }
+        }
+
+        function render() {
+            const term = document.getElementById('searchBar').value.toLowerCase();
+            const grid = document.getElementById('appGrid');
+            
+            const filtered = allApps.filter(app => {
+                const n = app.nome ? app.nome.toLowerCase() : "";
+                const r = app.riassunto ? app.riassunto.toLowerCase() : "";
+                const matchSearch = (n + r).includes(term);
+                const matchCat = activeCategory === 'All' || (app.categorie && app.categorie.includes(activeCategory));
+                return matchSearch && matchCat;
+            });
+
+            if (filtered.length === 0) {
+                grid.innerHTML = '<p class="col-span-full text-center py-20 text-slate-400">Nessun risultato trovato.</p>';
+                return;
+            }
+
+            grid.innerHTML = filtered.map((app) => {
+                // Trova l'indice corretto nell'array originale per il tasto dettagli
+                const originalIndex = allApps.findIndex(a => a.id_pacchetto === app.id_pacchetto);
+                return `
+                <div class="bg-white p-6 rounded-2xl border border-slate-200 flex flex-col h-full shadow-sm hover:shadow-lg transition-all duration-300">
+                    <h2 class="font-bold text-xl text-slate-800 mb-2">${app.nome || 'App Senza Nome'}</h2>
+                    <p class="text-slate-500 text-sm mb-6 line-clamp-3 leading-relaxed">${app.riassunto || 'Nessuna descrizione disponibile.'}</p>
+                    <div class="mt-auto pt-4 flex justify-between items-center border-t border-slate-50">
+                        <span class="text-[10px] bg-slate-50 text-slate-400 px-2 py-1 rounded font-bold uppercase">
+                            ${app.categorie ? app.categorie[0] : 'App'}
+                        </span>
+                        <button onclick="goToDetails(${originalIndex})" class="bg-indigo-600 text-white px-5 py-2 rounded-xl text-sm font-bold hover:bg-indigo-700 transition-colors">
+                            Vedi Dettagli
+                        </button>
+                    </div>
+                </div>`;
+            }).join('');
+        }
+
+        init();
+    </script>
+</body>
+</html>
