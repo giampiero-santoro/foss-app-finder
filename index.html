@@ -125,40 +125,52 @@
             }
         }
 
-        function render() {
+function render() {
             const term = document.getElementById('searchBar').value.toLowerCase();
             const grid = document.getElementById('appGrid');
             
             const filtered = allApps.filter(app => {
+                // 1. Controllo Ricerca Testuale
                 const n = app.nome ? app.nome.toLowerCase() : "";
                 const r = app.riassunto ? app.riassunto.toLowerCase() : "";
                 const matchSearch = (n + r).includes(term);
-                const matchCat = activeCategory === 'All' || (app.categorie && app.categorie.includes(activeCategory));
+                
+                // 2. Controllo Categoria (reso più flessibile)
+                let matchCat = false;
+                if (activeCategory === 'All') {
+                    matchCat = true;
+                } else if (app.categorie && Array.isArray(app.categorie)) {
+                    // Controlla se la categoria scelta è presente (senza distinguere maiuscole/minuscole)
+                    matchCat = app.categorie.some(c => c.toLowerCase() === activeCategory.toLowerCase());
+                }
+                
                 return matchSearch && matchCat;
             });
 
             if (filtered.length === 0) {
-                grid.innerHTML = '<p class="col-span-full text-center py-20 text-slate-400">Nessun risultato trovato.</p>';
-                return;
+                grid.innerHTML = `
+                    <div class="col-span-full text-center py-20">
+                        <p class="text-slate-400 text-lg">Nessun risultato trovato per "${activeCategory}".</p>
+                        <p class="text-slate-400 text-sm italic">Potrebbe non esserci ancora questa categoria nel database estratto.</p>
+                    </div>`;
+            } else {
+                grid.innerHTML = filtered.map((app) => {
+                    const originalIndex = allApps.findIndex(a => a.id_pacchetto === app.id_pacchetto);
+                    return `
+                    <div class="bg-white p-6 rounded-2xl border border-slate-200 flex flex-col h-full shadow-sm hover:shadow-lg transition-all duration-300">
+                        <h2 class="font-bold text-xl text-slate-800 mb-2">${app.nome || 'App'}</h2>
+                        <p class="text-slate-500 text-sm mb-6 line-clamp-3 leading-relaxed">${app.riassunto || ''}</p>
+                        <div class="mt-auto pt-4 flex justify-between items-center border-t border-slate-50">
+                            <span class="text-[10px] bg-slate-50 text-slate-400 px-2 py-1 rounded font-bold uppercase tracking-widest">
+                                ${app.categorie ? app.categorie[0] : 'FOSS'}
+                            </span>
+                            <button onclick="goToDetails(${originalIndex})" class="bg-indigo-600 text-white px-5 py-2 rounded-xl text-sm font-bold hover:bg-indigo-700 transition-colors shadow-sm">
+                                Vedi Dettagli
+                            </button>
+                        </div>
+                    </div>`;
+                }).join('');
             }
-
-            grid.innerHTML = filtered.map((app) => {
-                // Trova l'indice corretto nell'array originale per il tasto dettagli
-                const originalIndex = allApps.findIndex(a => a.id_pacchetto === app.id_pacchetto);
-                return `
-                <div class="bg-white p-6 rounded-2xl border border-slate-200 flex flex-col h-full shadow-sm hover:shadow-lg transition-all duration-300">
-                    <h2 class="font-bold text-xl text-slate-800 mb-2">${app.nome || 'App Senza Nome'}</h2>
-                    <p class="text-slate-500 text-sm mb-6 line-clamp-3 leading-relaxed">${app.riassunto || 'Nessuna descrizione disponibile.'}</p>
-                    <div class="mt-auto pt-4 flex justify-between items-center border-t border-slate-50">
-                        <span class="text-[10px] bg-slate-50 text-slate-400 px-2 py-1 rounded font-bold uppercase">
-                            ${app.categorie ? app.categorie[0] : 'App'}
-                        </span>
-                        <button onclick="goToDetails(${originalIndex})" class="bg-indigo-600 text-white px-5 py-2 rounded-xl text-sm font-bold hover:bg-indigo-700 transition-colors">
-                            Vedi Dettagli
-                        </button>
-                    </div>
-                </div>`;
-            }).join('');
         }
 
         init();
