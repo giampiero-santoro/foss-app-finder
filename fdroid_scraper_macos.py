@@ -2,8 +2,9 @@ import requests
 import json
 
 def scrape_f_droid():
+    # URL del database moderno
     INDEX_URL = "https://f-droid.org/repo/index-v2.json"
-    # Cartella specifica dove F-Droid salva le icone a 64px
+    # Cartella dove F-Droid tiene le icone a 64px
     ICON_BASE = "https://f-droid.org/repo/icons-64/"
     
     print("Scaricamento dati...")
@@ -20,19 +21,27 @@ def scrape_f_droid():
     for pkg_name, pkg_info in packages.items():
         metadata = pkg_info.get('metadata', {})
         
-        # Gestione Icona: estrae il nome file dall'oggetto icona
+        # LOGICA ICONA: estraiamo il nome del file dall'oggetto complesso di F-Droid
         icon_data = metadata.get('icon', {})
-        icon_file = None
+        icona_url = "https://via.placeholder.com/64" # Default se manca
+        
         if icon_data:
-            # Prende il primo file disponibile tra le lingue
-            icon_file = list(icon_data.values())[0].get('name')
+            try:
+                # F-Droid v2 ha le icone divise per lingua. Prendiamo la prima disponibile.
+                prime_lingue = list(icon_data.values())
+                if prime_lingue:
+                    icon_file = prime_lingue[0].get('name')
+                    if icon_file:
+                        icona_url = f"{ICON_BASE}{icon_file}"
+            except Exception:
+                pass
 
         app_entry = {
             "nome": metadata.get('name', {}).get('it') or metadata.get('name', {}).get('en-US') or pkg_name,
             "id_pacchetto": pkg_name,
             "riassunto": metadata.get('summary', {}).get('it') or metadata.get('summary', {}).get('en-US') or "",
             "licenza": metadata.get('license', 'FOSS'),
-            "icona": f"{ICON_BASE}{icon_file}" if icon_file else "https://via.placeholder.com/64",
+            "icona": icona_url,
             "url_codice_sorgente": metadata.get('sourceCode'),
         }
         
@@ -41,7 +50,7 @@ def scrape_f_droid():
 
     with open('apps.json', 'w', encoding='utf-8') as f:
         json.dump(apps_list, f, ensure_ascii=False, indent=4)
-    print(f"Completato: {len(apps_list)} app.")
+    print(f"Fatto! Generate {len(apps_list)} app.")
 
 if __name__ == "__main__":
     scrape_f_droid()
