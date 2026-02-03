@@ -37,12 +37,14 @@ def scrape_f_droid():
                 pass
 
         app_entry = {
-            "nome": metadata.get('name', {}).get('it') or metadata.get('name', {}).get('en-US') or pkg_name,
+            "nome": nome,
             "id_pacchetto": pkg_name,
-            "riassunto": metadata.get('summary', {}).get('it') or metadata.get('summary', {}).get('en-US') or "",
+            "riassunto": riassunto,
             "licenza": metadata.get('license', 'FOSS'),
             "icona": icona_url,
+            "categorie": metadata.get('categories', ['Generic']), # <--- Aggiungiamo questa riga
             "url_codice_sorgente": metadata.get('sourceCode'),
+            "ultimo_aggiornamento": pkg_info.get('lastUpdated')
         }
         
         if app_entry["url_codice_sorgente"]:
