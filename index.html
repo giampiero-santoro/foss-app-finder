@@ -1,55 +1,80 @@
-<script>
-    let allApps = [];
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open App Finder</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-900">
 
-    // 1. Carica i dati
-    async function loadApps() {
-        try {
-            const response = await fetch('apps.json');
-            if (!response.ok) throw new Error("File apps.json non trovato.");
-            allApps = await response.json();
-            renderApps(allApps);
-        } catch (error) {
-            document.getElementById('appGrid').innerHTML = `
-                <div class="col-span-full text-center p-10 bg-red-50 text-red-600 rounded-xl">
-                    ${error.message}
-                </div>`;
+    <nav class="bg-white border-b p-4 sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+            <h1 class="text-xl font-bold text-indigo-600 tracking-tight">FOSS Finder</h1>
+            <input type="text" id="searchBar" placeholder="Cerca tra le app..." 
+                class="w-full md:w-80 p-2 rounded-lg border border-slate-300 outline-none focus:ring-2 focus:ring-indigo-500">
+        </div>
+    </nav>
+
+    <main class="max-w-6xl mx-auto p-6">
+        <div id="appGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <p class="col-span-full text-center py-20 text-slate-500">Caricamento dati in corso...</p>
+        </div>
+    </main>
+
+    <script>
+        let allApps = [];
+
+        async function init() {
+            try {
+                // Cerchiamo di caricare il file
+                const resp = await fetch('apps.json');
+                if (!resp.ok) throw new Error("File apps.json non trovato sul server");
+                
+                allApps = await resp.json();
+                render(allApps);
+            } catch (err) {
+                console.error(err);
+                document.getElementById('appGrid').innerHTML = `
+                    <div class="col-span-full text-center p-10 text-red-500 bg-red-50 rounded-xl">
+                        Errore: ${err.message}<br>
+                        <small>Controlla che l'azione GitHub sia diventata verde.</small>
+                    </div>`;
+            }
         }
-    }
 
-    // 2. Funzione aggiornata con le chiavi corrette (nome, riassunto, etc.)
-    function renderApps(apps) {
-        const grid = document.getElementById('appGrid');
-        if (apps.length === 0) {
-            grid.innerHTML = '<p class="col-span-full text-center py-10 text-slate-500">Nessuna app trovata.</p>';
-            return;
+        function render(data) {
+            const container = document.getElementById('appGrid');
+            if (data.length === 0) {
+                container.innerHTML = '<p class="col-span-full text-center">Nessuna app trovata.</p>';
+                return;
+            }
+
+            container.innerHTML = data.map(app => `
+                <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200">
+                    <div class="flex items-center gap-4 mb-3">
+                        <img src="${app.icona}" class="w-12 h-12 rounded-xl bg-slate-100" onerror="this.src='https://via.placeholder.com/64'">
+                        <h2 class="font-bold text-lg">${app.nome || 'App'}</h2>
+                    </div>
+                    <p class="text-slate-600 text-sm h-12 overflow-hidden">${app.riassunto || ''}</p>
+                    <div class="mt-4 flex items-center justify-between">
+                        <span class="text-[10px] bg-slate-100 px-2 py-1 rounded text-slate-500 uppercase font-bold">${app.licenza || 'FOSS'}</span>
+                        <a href="${app.url_codice_sorgente}" target="_blank" class="text-indigo-600 font-bold text-sm hover:underline">Codice →</a>
+                    </div>
+                </div>
+            `).join('');
         }
 
-        grid.innerHTML = apps.map(app => `
-            <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 hover:shadow-md transition-all">
-                <div class="flex items-center gap-4 mb-3">
-                    <img src="${app.icona || 'https://via.placeholder.com/64'}" 
-                         onerror="this.src='https://via.placeholder.com/64'"
-                         class="w-12 h-12 rounded-xl bg-slate-100 object-cover">
-                    <h2 class="font-bold text-lg text-slate-800">${app.nome || 'Senza Nome'}</h2>
-                </div>
-                <p class="text-slate-600 text-sm h-12 overflow-hidden">${app.riassunto || 'Nessuna descrizione disponibile'}</p>
-                <div class="mt-4 flex items-center justify-between">
-                    <span class="text-[10px] bg-indigo-50 px-2 py-1 rounded text-indigo-600 uppercase font-bold">${app.licenza || 'Open'}</span>
-                    <a href="${app.url_codice_sorgente}" target="_blank" class="text-indigo-600 font-semibold text-sm hover:underline">Vedi Codice →</a>
-                </div>
-            </div>
-        `).join('');
-    }
+        document.getElementById('searchBar').addEventListener('input', (e) => {
+            const term = e.target.value.toLowerCase();
+            const filtered = allApps.filter(a => 
+                (a.nome && a.nome.toLowerCase().includes(term)) || 
+                (a.riassunto && a.riassunto.toLowerCase().includes(term))
+            );
+            render(filtered);
+        });
 
-    // 3. Logica di ricerca corretta
-    document.getElementById('searchBar').addEventListener('input', (e) => {
-        const term = e.target.value.toLowerCase();
-        const filtered = allApps.filter(app => 
-            (app.nome && app.nome.toLowerCase().includes(term)) || 
-            (app.riassunto && app.riassunto.toLowerCase().includes(term))
-        );
-        renderApps(filtered);
-    });
-
-    loadApps();
-</script>
+        init();
+    </script>
+</body>
+</html>
