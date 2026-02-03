@@ -19,52 +19,92 @@
     </div>
 
     <script>
-        async function loadDetail() {
-            const params = new URLSearchParams(window.location.search);
-            const id = params.get('id');
-
-            try {
-                const resp = await fetch('apps.json?v=' + Date.now());
-                const apps = await resp.json();
-                const app = apps[id];
-
-                if (!app) {
-                    document.getElementById('appDetail').innerHTML = "App non trovata.";
-                    return;
-                }
-
+        function loadDetail() {
+            // Leggiamo i dati passati dalla index tramite localStorage per la massima velocità
+            const appData = localStorage.getItem('selectedApp');
+            
+            if (!appData) {
                 document.getElementById('appDetail').innerHTML = `
-                    <div class="flex flex-col md:flex-row gap-8 items-start border-b pb-8 mb-8">
-                        <img src="${app.icona}" onerror="this.src='https://via.placeholder.com/128?text=FOSS'" 
-                             class="w-32 h-32 rounded-3xl bg-slate-100 p-2 shadow-sm">
-                        <div class="flex-1">
-                            <h1 class="text-4xl font-black mb-2 tracking-tight">${app.nome}</h1>
-                            <div class="flex flex-wrap gap-2 items-center">
-                                <span class="inline-block bg-indigo-50 text-indigo-600 px-3 py-1 rounded-full text-sm font-bold uppercase">
-                                    ${app.licenza}
-                                </span>
-                                <div class="flex gap-2">
-                                    <span class="bg-slate-800 text-white px-2 py-1 rounded text-[10px] font-bold">ANDROID</span>
-                                    <span class="bg-slate-100 text-slate-600 px-2 py-1 rounded text-[10px] font-bold">LINUX</span>
-                                    <span class="bg-slate-100 text-slate-600 px-2 py-1 rounded text-[10px] font-bold">WINDOWS</span>
+                    <div class="text-center py-20">
+                        <p class="text-slate-500 mb-4">Nessuna applicazione selezionata.</p>
+                        <a href="index.html" class="bg-indigo-600 text-white px-6 py-2 rounded-lg font-bold">Torna alla Home</a>
+                    </div>`;
+                return;
+            }
+
+            const app = JSON.parse(appData);
+
+            document.getElementById('appDetail').innerHTML = `
+                <div class="flex flex-col md:flex-row gap-8 items-start border-b pb-8 mb-8">
+                    <img src="${app.icona}" onerror="this.src='https://via.placeholder.com/128?text=FOSS'" 
+                         class="w-32 h-32 rounded-3xl bg-slate-100 p-2 shadow-sm">
+                    <div class="flex-1">
+                        <h1 class="text-4xl font-black mb-2 tracking-tight">${app.nome}</h1>
+                        <div class="flex flex-wrap gap-2 items-center">
+                            <span class="inline-block bg-indigo-50 text-indigo-600 px-3 py-1 rounded-full text-sm font-bold uppercase">
+                                ${app.licenza}
+                            </span>
+                            <div class="flex gap-2">
+                                <span class="bg-slate-800 text-white px-2 py-1 rounded text-[10px] font-bold">ANDROID</span>
+                                <span class="bg-slate-100 text-slate-600 px-2 py-1 rounded text-[10px] font-bold">LINUX</span>
+                                <span class="bg-slate-100 text-slate-600 px-2 py-1 rounded text-[10px] font-bold">WINDOWS</span>
+                            </div>
+                        </div>
+                        <p class="mt-4 text-slate-400 font-mono text-[10px]">ID: ${app.id_pacchetto}</p>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+                    <div class="md:col-span-2 space-y-10">
+                        <section>
+                            <h3 class="text-sm font-bold text-slate-400 uppercase tracking-widest mb-4">Descrizione</h3>
+                            <p class="text-lg text-slate-700 leading-relaxed">${app.riassunto}</p>
+                        </section>
+
+                        <section class="bg-slate-50 p-6 rounded-3xl border border-slate-100 shadow-inner">
+                            <h3 class="text-lg font-bold text-slate-800 mb-4 flex items-center gap-2">
+                                ⚙️ Guida all'installazione
+                            </h3>
+                            <div class="space-y-4 text-sm text-slate-600">
+                                <div class="flex gap-3">
+                                    <span class="font-bold text-indigo-600">01.</span>
+                                    <p>Scarica il file <b>APK</b> direttamente o installa lo store <b>F-Droid</b> sul tuo dispositivo Android.</p>
+                                </div>
+                                <div class="flex gap-3">
+                                    <span class="font-bold text-indigo-600">02.</span>
+                                    <p>Se scarichi l'APK, vai nelle impostazioni del telefono e consenti l'installazione da "Origini Sconosciute".</p>
+                                </div>
+                                <div class="flex gap-3">
+                                    <span class="font-bold text-indigo-600">03.</span>
+                                    <p>Apri il file scaricato e clicca su "Installa". Una volta terminato, l'app apparirà nel tuo menu.</p>
                                 </div>
                             </div>
-                            <p class="mt-4 text-slate-400 font-mono text-[10px]">ID: ${app.id_pacchetto}</p>
-                        </div>
+                        </section>
                     </div>
 
-                    <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
-                        <div class="md:col-span-2 space-y-10">
-                            <section>
-                                <h3 class="text-sm font-bold text-slate-400 uppercase tracking-widest mb-4">Descrizione</h3>
-                                <p class="text-lg text-slate-700 leading-relaxed">${app.riassunto}</p>
-                            </section>
+                    <div class="space-y-6">
+                        <div class="p-6 bg-indigo-600 rounded-3xl text-white shadow-xl shadow-indigo-100">
+                            <h4 class="font-bold mb-2">Pronta all'uso</h4>
+                            <p class="text-indigo-100 text-xs mb-6">Versione sicura verificata tramite repository ufficiale.</p>
+                            <a href="https://f-droid.org/packages/${app.id_pacchetto}/" target="_blank" 
+                               class="block w-full bg-white text-indigo-600 text-center py-3 rounded-xl font-bold hover:bg-indigo-50 transition-colors">
+                                Scarica su F-Droid
+                            </a>
+                        </div>
 
-                            <section class="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                                <h3 class="text-lg font-bold text-slate-800 mb-4 flex items-center gap-2">
-                                    ⚙️ Come installare
-                                </h3>
-                                <div class="space-y-4 text-sm text-slate-600">
-                                    <div class="flex gap-3">
-                                        <span class="font-bold text-indigo-600">01.</span>
-                                        <p>Scarica il file <b>APK</b> dal repository ufficiale o installa tramite l'app <b>F-Droid
+                        <a href="${app.url_codice_sorgente}" target="_blank" 
+                           class="block w-full text-center border-2 border-slate-100 text-slate-600 py-3 rounded-xl font-bold hover:bg-slate-50 transition-all">
+                            Esplora Sorgente
+                        </a>
+                    </div>
+                </div>
+            `;
+            
+            document.title = app.nome + " - Scheda Tecnica";
+        }
+
+        // Avvio immediato
+        loadDetail();
+    </script>
+</body>
+</html>
