@@ -46,10 +46,15 @@ def scrape_f_droid():
                 pass
 
         # Creazione del dizionario con i nomi che il tuo index.html si aspetta
+# --- AGGIUNGI QUESTA RIGA PER ESTRARRE LE CATEGORIE ---
+        categorie = metadata.get('categories', [])
+
+        # Modifica il dizionario aggiungendo la chiave "categorie"
         app_entry = {
             "nome": nome,
             "id_pacchetto": pkg_name,
             "riassunto": riassunto,
+            "categorie": categorie, # <--- QUESTA È LA RIGA MANCANTE
             "licenza": metadata.get('license', 'FOSS'),
             "icona": icona_url,
             "url_codice_sorgente": metadata.get('sourceCode'),
