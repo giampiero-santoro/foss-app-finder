@@ -3,63 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Open App Finder</title>
+    <title>FOSS Finder</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-slate-50 text-slate-900">
+<body class="bg-slate-50 text-slate-900 font-sans">
 
-    <nav class="bg-white border-b p-4 sticky top-0 z-50">
-        <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
-            <h1 class="text-xl font-bold text-indigo-600 tracking-tight">FOSS Finder</h1>
-            <input type="text" id="searchBar" placeholder="Cerca tra le app..." 
-                class="w-full md:w-80 p-2 rounded-lg border border-slate-300 outline-none focus:ring-2 focus:ring-indigo-500">
+    <nav class="bg-white border-b border-slate-200 sticky top-0 z-50 p-4">
+        <div class="max-w-6xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-4">
+            <h1 class="text-xl font-bold text-indigo-600">FOSS Finder</h1>
+            <input type="text" id="searchBar" placeholder="Cerca app (musica, note, privacy...)" 
+                class="w-full md:w-96 p-2 rounded-lg border border-slate-300 focus:ring-2 focus:ring-indigo-500 outline-none">
         </div>
     </nav>
 
     <main class="max-w-6xl mx-auto p-6">
         <div id="appGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            <p class="col-span-full text-center py-20 text-slate-500">Caricamento dati in corso...</p>
+            <div class="col-span-full text-center py-20">
+                <p class="text-slate-400 animate-pulse text-lg">Caricamento applicazioni...</p>
+            </div>
         </div>
     </main>
 
     <script>
         let allApps = [];
 
-        async function init() {
+        async function loadApps() {
             try {
-                // Cerchiamo di caricare il file
-                const resp = await fetch('apps.json');
-                if (!resp.ok) throw new Error("File apps.json non trovato sul server");
-                
-                allApps = await resp.json();
-                render(allApps);
-            } catch (err) {
-                console.error(err);
+                const response = await fetch('apps.json');
+                if (!response.ok) throw new Error("Database non trovato.");
+                allApps = await response.json();
+                renderApps(allApps);
+            } catch (error) {
                 document.getElementById('appGrid').innerHTML = `
-                    <div class="col-span-full text-center p-10 text-red-500 bg-red-50 rounded-xl">
-                        Errore: ${err.message}<br>
-                        <small>Controlla che l'azione GitHub sia diventata verde.</small>
+                    <div class="col-span-full text-center p-10 bg-red-50 text-red-600 rounded-xl">
+                        ${error.message}<br>Lancia l'Azione GitHub per generare il file.
                     </div>`;
             }
         }
 
-        function render(data) {
-            const container = document.getElementById('appGrid');
-            if (data.length === 0) {
-                container.innerHTML = '<p class="col-span-full text-center">Nessuna app trovata.</p>';
+        function renderApps(apps) {
+            const grid = document.getElementById('appGrid');
+            if (apps.length === 0) {
+                grid.innerHTML = '<p class="col-span-full text-center py-10">Nessuna app trovata.</p>';
                 return;
             }
 
-            container.innerHTML = data.map(app => `
-                <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200">
+            grid.innerHTML = apps.map(app => `
+                <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 hover:shadow-md transition-all duration-300">
                     <div class="flex items-center gap-4 mb-3">
-                        <img src="${app.icona}" class="w-12 h-12 rounded-xl bg-slate-100" onerror="this.src='https://via.placeholder.com/64'">
-                        <h2 class="font-bold text-lg">${app.nome || 'App'}</h2>
+                        <img src="${app.icona}" 
+                             onerror="this.src='https://via.placeholder.com/64'" 
+                             class="w-12 h-12 rounded-xl bg-slate-50 object-contain shadow-inner">
+                        <h2 class="font-bold text-lg text-slate-800 leading-tight">${app.nome}</h2>
                     </div>
-                    <p class="text-slate-600 text-sm h-12 overflow-hidden">${app.riassunto || ''}</p>
+                    <p class="text-slate-600 text-sm h-12 overflow-hidden leading-relaxed">${app.riassunto}</p>
                     <div class="mt-4 flex items-center justify-between">
-                        <span class="text-[10px] bg-slate-100 px-2 py-1 rounded text-slate-500 uppercase font-bold">${app.licenza || 'FOSS'}</span>
-                        <a href="${app.url_codice_sorgente}" target="_blank" class="text-indigo-600 font-bold text-sm hover:underline">Codice →</a>
+                        <span class="text-[10px] bg-indigo-50 px-2 py-1 rounded text-indigo-600 uppercase font-bold tracking-wider">${app.licenza}</span>
+                        <a href="${app.url_codice_sorgente}" target="_blank" class="text-indigo-600 font-bold text-sm hover:text-indigo-800">Sorgente →</a>
                     </div>
                 </div>
             `).join('');
@@ -67,14 +67,14 @@
 
         document.getElementById('searchBar').addEventListener('input', (e) => {
             const term = e.target.value.toLowerCase();
-            const filtered = allApps.filter(a => 
-                (a.nome && a.nome.toLowerCase().includes(term)) || 
-                (a.riassunto && a.riassunto.toLowerCase().includes(term))
+            const filtered = allApps.filter(app => 
+                app.nome.toLowerCase().includes(term) || 
+                app.riassunto.toLowerCase().includes(term)
             );
-            render(filtered);
+            renderApps(filtered);
         });
 
-        init();
+        loadApps();
     </script>
 </body>
 </html>
