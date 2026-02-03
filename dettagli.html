@@ -8,7 +8,7 @@
 </head>
 <body class="bg-white text-slate-900">
 
-    <div class="max-w-3xl mx-auto p-6 md:p-12">
+    <div class="max-w-4xl mx-auto p-6 md:p-12">
         <a href="index.html" class="text-indigo-600 font-bold flex items-center gap-2 mb-8 hover:underline">
             ← Torna al catalogo
         </a>
@@ -20,7 +20,6 @@
 
     <script>
         async function loadDetail() {
-            // 1. Prendi l'ID dall'indirizzo della pagina (es: dettagli.html?id=5)
             const params = new URLSearchParams(window.location.search);
             const id = params.get('id');
 
@@ -34,55 +33,38 @@
                     return;
                 }
 
-                // 2. Mostra i dettagli
                 document.getElementById('appDetail').innerHTML = `
                     <div class="flex flex-col md:flex-row gap-8 items-start border-b pb-8 mb-8">
                         <img src="${app.icona}" onerror="this.src='https://via.placeholder.com/128?text=FOSS'" 
                              class="w-32 h-32 rounded-3xl bg-slate-100 p-2 shadow-sm">
                         <div class="flex-1">
                             <h1 class="text-4xl font-black mb-2 tracking-tight">${app.nome}</h1>
-                            <span class="inline-block bg-indigo-50 text-indigo-600 px-3 py-1 rounded-full text-sm font-bold uppercase">
-                                ${app.licenza}
-                            </span>
-                            <p class="mt-4 text-slate-500 font-mono text-xs">Package: ${app.id_pacchetto}</p>
+                            <div class="flex flex-wrap gap-2 items-center">
+                                <span class="inline-block bg-indigo-50 text-indigo-600 px-3 py-1 rounded-full text-sm font-bold uppercase">
+                                    ${app.licenza}
+                                </span>
+                                <div class="flex gap-2">
+                                    <span class="bg-slate-800 text-white px-2 py-1 rounded text-[10px] font-bold">ANDROID</span>
+                                    <span class="bg-slate-100 text-slate-600 px-2 py-1 rounded text-[10px] font-bold">LINUX</span>
+                                    <span class="bg-slate-100 text-slate-600 px-2 py-1 rounded text-[10px] font-bold">WINDOWS</span>
+                                </div>
+                            </div>
+                            <p class="mt-4 text-slate-400 font-mono text-[10px]">ID: ${app.id_pacchetto}</p>
                         </div>
                     </div>
 
-                    <div class="space-y-10">
-                        <section>
-                            <h3 class="text-sm font-bold text-slate-400 uppercase tracking-widest mb-4">Informazioni sull'applicazione</h3>
-                            <p class="text-lg text-slate-700 leading-relaxed">${app.riassunto}</p>
-                        </section>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+                        <div class="md:col-span-2 space-y-10">
+                            <section>
+                                <h3 class="text-sm font-bold text-slate-400 uppercase tracking-widest mb-4">Descrizione</h3>
+                                <p class="text-lg text-slate-700 leading-relaxed">${app.riassunto}</p>
+                            </section>
 
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <div class="bg-slate-50 p-4 rounded-xl border">
-                                <span class="text-xs text-slate-400 font-bold uppercase">Sviluppo</span>
-                                <p class="text-slate-700 mt-1">Open Source</p>
-                            </div>
-                            <div class="bg-slate-50 p-4 rounded-xl border">
-                                <span class="text-xs text-slate-400 font-bold uppercase">Database Sorgente</span>
-                                <p class="text-slate-700 mt-1">F-Droid Repository</p>
-                            </div>
-                        </div>
-
-                        <div class="pt-10">
-                            <a href="${app.url_codice_sorgente}" target="_blank" 
-                               class="block w-full text-center bg-indigo-600 text-white py-4 rounded-2xl font-bold text-lg hover:bg-indigo-700 shadow-xl transition-all">
-                                Esplora Codice Sorgente
-                            </a>
-                        </div>
-                    </div>
-                `;
-                
-                // Cambia il titolo della scheda del browser col nome dell'app
-                document.title = app.nome + " - FOSS Finder";
-
-            } catch (err) {
-                document.getElementById('appDetail').innerHTML = "Errore nel caricamento dei dati.";
-            }
-        }
-
-        loadDetail();
-    </script>
-</body>
-</html>
+                            <section class="bg-slate-50 p-6 rounded-3xl border border-slate-100">
+                                <h3 class="text-lg font-bold text-slate-800 mb-4 flex items-center gap-2">
+                                    ⚙️ Come installare
+                                </h3>
+                                <div class="space-y-4 text-sm text-slate-600">
+                                    <div class="flex gap-3">
+                                        <span class="font-bold text-indigo-600">01.</span>
+                                        <p>Scarica il file <b>APK</b> dal repository ufficiale o installa tramite l'app <b>F-Droid
