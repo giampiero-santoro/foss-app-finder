@@ -48,21 +48,29 @@
             btn.className = 'cat-btn bg-indigo-600 text-white px-4 py-2 rounded-full text-sm font-bold';
             render();
         }
+function render(apps) {
+    const grid = document.getElementById('appGrid');
+    grid.innerHTML = apps.map((app, index) => `
+        <div class="bg-white p-6 rounded-2xl border border-slate-200 flex flex-col h-full shadow-sm">
+            <h2 class="font-bold text-lg mb-1">${app.nome}</h2>
+            <p class="text-slate-500 text-sm mb-4 line-clamp-2">${app.riassunto}</p>
+            <div class="mt-auto">
+                <button onclick="goToDetails(${index})" class="w-full bg-indigo-600 text-white py-2 rounded-lg font-bold hover:bg-indigo-700 transition-colors">
+                    Vedi Dettagli
+                </button>
+            </div>
+        </div>
+    `).join('');
+}
 
-        function render() {
-            const term = document.getElementById('searchBar').value.toLowerCase();
-            const grid = document.getElementById('appGrid');
-            
-            const filtered = allApps.filter(app => {
-                const matchSearch = app.nome.toLowerCase().includes(term) || app.riassunto.toLowerCase().includes(term);
-                const matchCat = activeCategory === 'All' || (app.categorie && app.categorie.includes(activeCategory));
-                return matchSearch && matchCat;
-            });
-
-            if (filtered.length === 0) {
-                grid.innerHTML = '<p class="col-span-full text-center py-10 text-slate-400">Nessuna app corrisponde ai criteri.</p>';
-                return;
-            }
+// Nuova funzione per passare i dati velocemente
+function goToDetails(index) {
+    const selectedApp = allApps[index];
+    // Salviamo l'app nella memoria del browser
+    localStorage.setItem('selectedApp', JSON.stringify(selectedApp));
+    // Andiamo alla pagina dettagli
+    window.location.href = 'dettagli.html';
+}
 
             grid.innerHTML = filtered.map(app => `
                 <div class="bg-white p-6 rounded-2xl border border-slate-200 flex flex-col h-full shadow-sm hover:shadow-md transition-all">
