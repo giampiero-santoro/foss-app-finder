@@ -29,14 +29,18 @@
 
         async function loadApps() {
             try {
-                const response = await fetch('apps.json');
+                /* MODIFICA: Aggiungiamo un parametro casuale (?t=...) all'URL.
+                   Questo forza il browser a scaricare l'ultima versione di apps.json
+                   ignorando la vecchia cache (molto importante su GitHub Pages).
+                */
+                const response = await fetch('apps.json?v=' + new Date().getTime());
                 if (!response.ok) throw new Error("Database non trovato.");
                 allApps = await response.json();
                 renderApps(allApps);
             } catch (error) {
                 document.getElementById('appGrid').innerHTML = `
                     <div class="col-span-full text-center p-10 bg-red-50 text-red-600 rounded-xl">
-                        ${error.message}<br>Lancia l'Azione GitHub per generare il file.
+                        ${error.message}<br>Assicurati che l'Azione GitHub sia terminata correttamente.
                     </div>`;
             }
         }
@@ -44,32 +48,41 @@
         function renderApps(apps) {
             const grid = document.getElementById('appGrid');
             if (apps.length === 0) {
-                grid.innerHTML = '<p class="col-span-full text-center py-10">Nessuna app trovata.</p>';
+                grid.innerHTML = '<p class="col-span-full text-center py-10 text-slate-500">Nessuna app trovata.</p>';
                 return;
             }
 
-            grid.innerHTML = apps.map(app => `
-                <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 hover:shadow-md transition-all duration-300">
-                    <div class="flex items-center gap-4 mb-3">
-                        <img src="${app.icona}" 
-                             onerror="this.src='https://via.placeholder.com/64'" 
-                             class="w-12 h-12 rounded-xl bg-slate-50 object-contain shadow-inner">
-                        <h2 class="font-bold text-lg text-slate-800 leading-tight">${app.nome}</h2>
+            grid.innerHTML = apps.map(app => {
+                // MODIFICA: Gestione sicura se nome o riassunto mancano nel JSON
+                const nome = app.nome || "App senza nome";
+                const desc = app.riassunto || "Nessuna descrizione disponibile";
+                const link = app.url_codice_sorgente || "#";
+
+                return `
+                <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 hover:shadow-md transition-all duration-300 flex flex-col justify-between">
+                    <div>
+                        <div class="flex items-center gap-4 mb-3">
+                            <img src="${app.icona}" 
+                                 onerror="this.src='https://via.placeholder.com/64?text=FOSS'" 
+                                 class="w-12 h-12 rounded-xl bg-slate-50 object-contain shadow-inner">
+                            <h2 class="font-bold text-lg text-slate-800 leading-tight">${nome}</h2>
+                        </div>
+                        <p class="text-slate-600 text-sm h-12 overflow-hidden leading-relaxed">${desc}</p>
                     </div>
-                    <p class="text-slate-600 text-sm h-12 overflow-hidden leading-relaxed">${app.riassunto}</p>
                     <div class="mt-4 flex items-center justify-between">
-                        <span class="text-[10px] bg-indigo-50 px-2 py-1 rounded text-indigo-600 uppercase font-bold tracking-wider">${app.licenza}</span>
-                        <a href="${app.url_codice_sorgente}" target="_blank" class="text-indigo-600 font-bold text-sm hover:text-indigo-800">Sorgente →</a>
+                        <span class="text-[10px] bg-indigo-50 px-2 py-1 rounded text-indigo-600 uppercase font-bold tracking-wider">${app.licenza || 'Open'}</span>
+                        <a href="${link}" target="_blank" class="text-indigo-600 font-bold text-sm hover:text-indigo-800">Sorgente →</a>
                     </div>
                 </div>
-            `).join('');
+                `;
+            }).join('');
         }
 
         document.getElementById('searchBar').addEventListener('input', (e) => {
             const term = e.target.value.toLowerCase();
             const filtered = allApps.filter(app => 
-                app.nome.toLowerCase().includes(term) || 
-                app.riassunto.toLowerCase().includes(term)
+                (app.nome && app.nome.toLowerCase().includes(term)) || 
+                (app.riassunto && app.riassunto.toLowerCase().includes(term))
             );
             renderApps(filtered);
         });
