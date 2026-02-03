@@ -1,0 +1,14 @@
+# File di sistema Mac (Evita i file ._ e .DS_Store)
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Python (File temporanei di esecuzione)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Dati (Se volessi ignorare il file generato, ma nel tuo caso apps.json serve, quindi lo lasciamo libero)
