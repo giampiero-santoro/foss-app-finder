@@ -26998,16 +26998,30 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Find My Device (FMD)",
+        "nome": "FMD",
         "id_pacchetto": "de.nulide.findmydevice",
         "riassunto": "Locate and control your device remotely",
         "categorie": [
-            "Phone & SMS",
+            "Location Tracker & Sharer",
             "Security",
             "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.nulide.findmydevice/en-US/icon_r3DNfcAtWSXKkZ76EhIi7CxSYVW0-uRx4Q-dynD4Qag=.png",
+        "url_codice_sorgente": "https://gitlab.com/fmd-foss/fmd-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FMD edge",
+        "id_pacchetto": "de.nulide.findmydevice.edge",
+        "riassunto": "Locate and control your device remotely",
+        "categorie": [
+            "Location Tracker & Sharer",
+            "Security",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//de.nulide.findmydevice.edge/en-US/icon_r3DNfcAtWSXKkZ76EhIi7CxSYVW0-uRx4Q-dynD4Qag=.png",
         "url_codice_sorgente": "https://gitlab.com/fmd-foss/fmd-android",
         "ultimo_aggiornamento": null
     },
