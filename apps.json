@@ -10138,7 +10138,7 @@
             "AI Chat"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.foss.aihub/en-US/icon_XdNpjRdOniHI8go1srYAUKN-Fshrre1BLwkoUHJvDtI=.png",
+        "icona": "https://f-droid.org/repo//com.foss.aihub/en-US/icon_MN1w7cyuCHCvNyLQsirwAj1mBGw4zfG3QwKk1TyrXro=.png",
         "url_codice_sorgente": "https://github.com/SilentCoderHere/aihub",
         "ultimo_aggiornamento": null
     },
@@ -12352,12 +12352,12 @@
     {
         "nome": "Sky Map",
         "id_pacchetto": "com.google.android.stardroid",
-        "riassunto": "Sky Map to explore the skies",
+        "riassunto": "Sky Map turns your phone into a window on the night sky.",
         "categorie": [
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png",
+        "icona": "https://f-droid.org/repo//com.google.android.stardroid/en-US/icon_6M8Rlz9mEmguY8lvzCLvgHeOWbMi8oLtKVfu99uqHhQ=.png",
         "url_codice_sorgente": "https://github.com/sky-map-team/stardroid",
         "ultimo_aggiornamento": null
     },
@@ -15490,7 +15490,9 @@
         "categorie": [
             "Calendar & Agenda",
             "Development",
-            "Reading"
+            "Note",
+            "Reading",
+            "Text Editor"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.madlonkay.orgro/de/icon_mb5NBT5w5HRBm3AtoxsUWz15B8gmH2lbMJKr21cEnCw=.png",
@@ -24636,7 +24638,8 @@
         "id_pacchetto": "de.bahnvorhersage.app",
         "riassunto": "Ranking for train journeys according to their reliability. (German only)",
         "categorie": [
-            "Navigation"
+            "Navigation",
+            "Public Transport"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.bahnvorhersage.app/en-US/icon__2IcNqVW72YfHnIALdEQ7JGbMAb26LMurSMAsD1Fufk=.png",
@@ -27232,7 +27235,7 @@
             "Sports & Health"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//de.quantumphysique.trale/de/icon_zo4fSsPEMDKl0Xp96E5xR7bSLtl2BsaITTvkViMmmnc=.png",
+        "icona": "https://f-droid.org/repo//de.quantumphysique.trale/de/icon_PRm7zDLDtSy3gjvyMQJ2xEvnMkr8S6rWkDLPouBjwCo=.png",
         "url_codice_sorgente": "https://github.com/QuantumPhysique/trale",
         "ultimo_aggiornamento": null
     },
