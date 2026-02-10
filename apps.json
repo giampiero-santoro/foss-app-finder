@@ -40374,6 +40374,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Buses",
+        "id_pacchetto": "org.billthefarmer.buses",
+        "riassunto": "Nessuna descrizione disponibile.",
+        "categorie": [
+            "Navigation",
+            "Public Transport"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.billthefarmer.buses/en/icon_7g65VX8ERHIdEKuc1mFBh56en4AkEd92JPYQqT7nkXo=.png",
+        "url_codice_sorgente": "https://github.com/billthefarmer/buses",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Crossword",
         "id_pacchetto": "org.billthefarmer.crossword",
         "riassunto": "Nessuna descrizione disponibile.",
