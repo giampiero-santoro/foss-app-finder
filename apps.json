@@ -2999,16 +2999,16 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "To Do",
+        "nome": "VerveDo",
         "id_pacchetto": "cn.super12138.todo",
-        "riassunto": "A simple to-do app that follows Material Design 3.",
+        "riassunto": "A concise to-do app that follows Material 3 Expressive.",
         "categorie": [
             "Task",
             "Time"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//cn.super12138.todo/en-US/icon_kLSCSdevJyX15PrpsITCmQJ0LCE7m8T1sYXrEpy6gCM=.png",
-        "url_codice_sorgente": "https://github.com/Super12138/ToDo",
+        "url_codice_sorgente": "https://github.com/Super12138/VerveDo",
         "ultimo_aggiornamento": null
     },
     {
@@ -8212,7 +8212,7 @@
     {
         "nome": "My Quran - قرآني",
         "id_pacchetto": "com.dmouayad.my_quran",
-        "riassunto": "A lightweight, offline Quran reading app",
+        "riassunto": "A lightweight, offline Quran with search",
         "categorie": [
             "Religion"
         ],
@@ -23789,7 +23789,7 @@
     {
         "nome": "Prayer mode",
         "id_pacchetto": "com.yahyaoui.prayermode",
-        "riassunto": "Automatic DND for prayer times without being disturbed during your Salah.",
+        "riassunto": "Automatic Do Not Disturb for Islamic prayer times - Your Salah first.",
         "categorie": [
             "Religion",
             "Time"
@@ -39727,7 +39727,7 @@
             "Contact"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//opencontacts.open.com.opencontacts/en-US/icon_MC8pCjbrAtdlMS9zWmsWZmqT6T2mXhj2FpWcUQvU7rg=.png",
         "url_codice_sorgente": "https://gitlab.com/sultanahamer/OpenContacts",
         "ultimo_aggiornamento": null
     },
@@ -44628,7 +44628,7 @@
     {
         "nome": "KashCal",
         "id_pacchetto": "org.onekash.kashcal",
-        "riassunto": "Modern Android calendar. iCloud & CalDAV finally done right. Private. Open.",
+        "riassunto": "All your calendars in one app. iCloud, CalDAV, holidays, birthdays. Private.",
         "categorie": [
             "Calendar & Agenda"
         ],
