@@ -8746,7 +8746,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Einstein Launcher",
+        "nome": "Yagni Launcher",
         "id_pacchetto": "com.eblan.launcher",
         "riassunto": "Only 2 MB Android Launcher, total control, zero bloat, zero tracking",
         "categorie": [
@@ -10295,7 +10295,7 @@
     {
         "nome": "GeoWeather",
         "id_pacchetto": "com.freetime.geoweather",
-        "riassunto": "A Weather App that is so good, WIP (Work In Progress) and has many Features.",
+        "riassunto": "Modern weather app with 7-day forecast for multiple cities",
         "categorie": [
             "Weather"
         ],
@@ -10812,12 +10812,12 @@
     {
         "nome": "Sudaku - Make your rules to solve sudoku",
         "id_pacchetto": "com.gitea.theoden8.sudaku",
-        "riassunto": "A game where sudoku is meant to be solved using rules.",
+        "riassunto": "Constraint-based sudoku assistant for logical puzzle solving",
         "categorie": [
             "Games"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.gitea.theoden8.sudaku.9.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://codeberg.org/theoden8/sudaku",
         "ultimo_aggiornamento": null
     },
@@ -13328,14 +13328,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Infomaniak kSync",
+        "nome": "DAVx⁵",
         "id_pacchetto": "com.infomaniak.sync",
-        "riassunto": "Sincronizza automaticamente i tuoi contatti e calendari",
+        "riassunto": "Client e Sincronizzazione CalDAV/CardDAV",
         "categorie": [
             "Internet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.infomaniak.sync/en-US/icon_0njpHV8PttYVRPgHqAAp_dL_qzV6-wZdOTlWxlwO3sA=.png",
+        "icona": "https://f-droid.org/repo//com.infomaniak.sync/en-US/icon_NexNou7vmaD45rbdc8kjLj0Rv7FW128Mde9OQpHFXPE=.png",
         "url_codice_sorgente": "https://github.com/Infomaniak/android-kSync",
         "ultimo_aggiornamento": null
     },
@@ -14894,12 +14894,12 @@
     {
         "nome": "Traffic Light",
         "id_pacchetto": "com.leekleak.trafficlight",
-        "riassunto": "Track your internet usage in the status bar",
+        "riassunto": "Track your network and data usage with privacy",
         "categorie": [
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.leekleak.trafficlight/en-US/icon_7LTM09jKZJ9pJiDQ1LacbkpiwsUlXzCKvaBxoZ186pQ=.png",
+        "icona": "https://f-droid.org/repo//com.leekleak.trafficlight/en-US/icon_93zmmtS_bIgJ7SUi8XODZ8jSXFJJCYmhAIvn6Bcpruc=.png",
         "url_codice_sorgente": "https://github.com/leekleak/traffic-light",
         "ultimo_aggiornamento": null
     },
@@ -19743,9 +19743,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Calculator",
+        "nome": "Unitto — calculator and unit converter",
         "id_pacchetto": "com.sadellie.unitto",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "Calculate and convert anything",
         "categorie": [
             "Science & Education"
         ],
@@ -35286,19 +35286,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Chord Shift",
-        "id_pacchetto": "it.reyboz.chordshift",
-        "riassunto": "Shift plain text notes",
-        "categorie": [
-            "Multimedia",
-            "Music Practice Tool"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/it.reyboz.chordshift.4.png",
-        "url_codice_sorgente": "https://code.launchpad.net/android-chord-shift",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "PAFCalc",
         "id_pacchetto": "it.rgp.nyagua.pafcalc",
         "riassunto": "DIY fertilizer calculator for planted aquariums",
@@ -37402,7 +37389,7 @@
     {
         "nome": "Carburoid",
         "id_pacchetto": "net.canvoki.carburoid",
-        "riassunto": "Find Spanish gas stations by price and distance.",
+        "riassunto": "Find gas stations by price and distance in Spain and France.",
         "categorie": [
             "Navigation"
         ],
@@ -38841,7 +38828,7 @@
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//net.taler.merchantpos/en-US/icon_eygQcY5NYchr0zQ1GdSer03uWau_Jr09naWC9PQyjtY=.png",
-        "url_codice_sorgente": "https://git.taler.net/taler-android.git/",
+        "url_codice_sorgente": "https://git-www.taler.net/taler-android.git/",
         "ultimo_aggiornamento": null
     },
     {
@@ -38854,7 +38841,7 @@
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//net.taler.wallet.fdroid/en-US/icon_eygQcY5NYchr0zQ1GdSer03uWau_Jr09naWC9PQyjtY=.png",
-        "url_codice_sorgente": "https://git.taler.net/taler-android.git/",
+        "url_codice_sorgente": "https://git-www.taler.net/taler-android.git/",
         "ultimo_aggiornamento": null
     },
     {
@@ -40394,7 +40381,7 @@
             "Games"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.billthefarmer.crossword/en-GB/icon_M-gITr8KzlxNMaPNiSdmmBkKaKweilTexzzcxJKFXx8=.png",
+        "icona": "https://f-droid.org/repo//org.billthefarmer.crossword/en/icon_M-gITr8KzlxNMaPNiSdmmBkKaKweilTexzzcxJKFXx8=.png",
         "url_codice_sorgente": "https://github.com/billthefarmer/crossword",
         "ultimo_aggiornamento": null
     },
@@ -42974,31 +42961,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.irmacard.cardemu/en-US/icon_jwaRT2OYMXS7y5YFI-DgD2sHh8nKQWYoGuex9eFJUuU=.png",
         "url_codice_sorgente": "https://github.com/privacybydesign/irmamobile",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Tibetan Pad",
-        "id_pacchetto": "org.ironrabbit",
-        "riassunto": "Read Tibetan script",
-        "categorie": [
-            "Reading"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/org.ironrabbit.6.png",
-        "url_codice_sorgente": "https://github.com/iamironrabbit/bho",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Tibetan Keyboard",
-        "id_pacchetto": "org.ironrabbit.bhoboard",
-        "riassunto": "Tastiera tibetana",
-        "categorie": [
-            "Keyboard & IME",
-            "Writing"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/org.ironrabbit.bhoboard.12.png",
-        "url_codice_sorgente": "https://github.com/iamironrabbit/bho",
         "ultimo_aggiornamento": null
     },
     {
@@ -46948,19 +46910,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.tof.17.png",
         "url_codice_sorgente": "https://archive.softwareheritage.org/browse/origin/http://tapsoffire.googlecode.com/svn//directory/",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Tomdroid",
-        "id_pacchetto": "org.tomdroid",
-        "riassunto": "Blocco note",
-        "categorie": [
-            "Note",
-            "Writing"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.tomdroid.14.png",
-        "url_codice_sorgente": "https://launchpad.net/tomdroid/stable",
         "ultimo_aggiornamento": null
     },
     {
