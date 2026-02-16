@@ -17864,19 +17864,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "OpenAthena™ for Android",
-        "id_pacchetto": "com.openathena",
-        "riassunto": "OpenAthena™ lets common drones spot precise locations",
-        "categorie": [
-            "Navigation",
-            "Science & Education"
-        ],
-        "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.openathena/en-US/icon_HgVYefPgCSsPvwGvz_CEHStwvp6RZzWhQQXon7QzSZI=.png",
-        "url_codice_sorgente": "https://github.com/Theta-Limited/OpenAthenaAndroid",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "OpenCamera Sensors",
         "id_pacchetto": "com.opencamera_sensors.app",
         "riassunto": "Synchronized recording of video and IMU data with advanced camera options",
