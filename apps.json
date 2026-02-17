@@ -12655,7 +12655,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.guruswarupa.launchh/en-US/icon_E4cLpsQ78YP8ud659XmdhoHOtXFKlL06EBksFZjn2JY=.png",
+        "icona": "https://f-droid.org/repo//com.guruswarupa.launchh/en-US/icon_7YfjqkORHy8dy9VvRmTEeeJmFTQBnyBTXwoylyJtvm4=.png",
         "url_codice_sorgente": "https://github.com/guruswarupa/launch",
         "ultimo_aggiornamento": null
     },
@@ -13379,7 +13379,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "7713 manual pages, 23 basic categories and a bunch of general terminal tips.",
+        "riassunto": "7730 manual pages, 23 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -48726,7 +48726,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Giorni di Ferie",
+        "nome": "Giorni di ferie",
         "id_pacchetto": "rocks.poopjournal.vacationdays",
         "riassunto": "Scopri quando sei libero — ti aiuta a tenere traccia dei tuoi giorni di ferie.",
         "categorie": [
