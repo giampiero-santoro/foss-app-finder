@@ -22806,7 +22806,7 @@
     {
         "nome": "LCTerm",
         "id_pacchetto": "com.vermont.possin",
-        "riassunto": "Crypto point of sale for merchants",
+        "riassunto": "Bitcoin and Crypto point of sale payment system for merchants",
         "categorie": [
             "Money"
         ],
@@ -24453,6 +24453,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/danielmeek32.compass.2.png",
         "url_codice_sorgente": "https://gitlab.com/danielmeek32/compass",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "NeoDB You",
+        "id_pacchetto": "day.vitayuzu.neodb",
+        "riassunto": "A native Android app for NeoDB designed with Material 3/You.",
+        "categorie": [
+            "Internet",
+            "Social Network"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//day.vitayuzu.neodb/en-US/icon_7KVutCOPM6rtci7PD91PN0crYTZgxSAKAmH2-YPawXs=.png",
+        "url_codice_sorgente": "https://github.com/heddxh/NeoDB-You",
         "ultimo_aggiornamento": null
     },
     {
@@ -40556,7 +40569,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.birthdayadapter/en-US/icon_v22IS7QEMLeIODqeow67qYFfjn7wmu7Kj10OLP9F9VY=.png",
-        "url_codice_sorgente": "https://github.com/PrivacyApps/birthday-calendar",
+        "url_codice_sorgente": "https://github.com/SufficientlySecure/birthday-calendar",
         "ultimo_aggiornamento": null
     },
     {
