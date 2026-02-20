@@ -10810,14 +10810,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Sudaku - Make your rules to solve sudoku",
+        "nome": "Sudaku - Pattern-driven sudoku",
         "id_pacchetto": "com.gitea.theoden8.sudaku",
-        "riassunto": "Constraint-based sudoku assistant for logical puzzle solving",
+        "riassunto": "Find patterns to solve sudoku - your sudoku workhorse handles the grunt work",
         "categorie": [
             "Games"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.gitea.theoden8.sudaku/en-US/icon_N8ic57dqn1U_YzY-QP8lVHglbUcYcEHdcpcywQJUS3E=.png",
         "url_codice_sorgente": "https://codeberg.org/theoden8/sudaku",
         "ultimo_aggiornamento": null
     },
