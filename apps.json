@@ -15676,7 +15676,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mardous.booming/en-US/icon_y6bsp8zIoIZKDPLrGx0EGMszSZzKGyVAa0VyQHMLj_E=.png",
-        "url_codice_sorgente": "https://github.com/mardous/BoomingMusic",
+        "url_codice_sorgente": "https://github.com/ProjectOrbital/BoomingMusic",
         "ultimo_aggiornamento": null
     },
     {
@@ -20560,7 +20560,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.simplified.wsstatussaver/en-US/icon_p6Cfi4BAWR02SzVYNZUBhVoM3lEZuYYesKW7sBYpWCY=.png",
-        "url_codice_sorgente": "https://github.com/mardous/WhatSave",
+        "url_codice_sorgente": "https://github.com/ProjectOrbital/WhatSave",
         "ultimo_aggiornamento": null
     },
     {
@@ -42022,7 +42022,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//org.fedorahosted.freeotp/en-US/icon_gFozq8mvwtZ5_YctmlOEJuT23hUtVRIaj3ttjGcJaLo=.png",
         "url_codice_sorgente": "https://github.com/freeotp/freeotp-android",
         "ultimo_aggiornamento": null
     },
