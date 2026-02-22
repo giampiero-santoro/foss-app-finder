@@ -19734,7 +19734,9 @@
         "id_pacchetto": "com.sadellie.unitto",
         "riassunto": "Calculate and convert anything",
         "categorie": [
-            "Science & Education"
+            "Calculator",
+            "Science & Education",
+            "Unit Convertor"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sadellie.unitto/en-US/icon_WLNMzzRfYIAWGdkvW6CYs79VKZ4YJggg6a2V0aCV27I=.png",
