@@ -13328,14 +13328,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "DAVx⁵",
+        "nome": "Infomaniak kSync",
         "id_pacchetto": "com.infomaniak.sync",
-        "riassunto": "Client e Sincronizzazione CalDAV/CardDAV",
+        "riassunto": "Sincronizza automaticamente i tuoi contatti e calendari",
         "categorie": [
             "Internet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.infomaniak.sync/en-US/icon_NexNou7vmaD45rbdc8kjLj0Rv7FW128Mde9OQpHFXPE=.png",
+        "icona": "https://f-droid.org/repo//com.infomaniak.sync/en-US/icon_0njpHV8PttYVRPgHqAAp_dL_qzV6-wZdOTlWxlwO3sA=.png",
         "url_codice_sorgente": "https://github.com/Infomaniak/android-kSync",
         "ultimo_aggiornamento": null
     },
@@ -27690,9 +27690,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Pannello OSM per OpenTracks",
+        "nome": "Cruscotto OSM per OpenTracks",
         "id_pacchetto": "de.storchp.opentracks.osmplugin",
-        "riassunto": "Pannello OpenStreetMap per OpenTracks",
+        "riassunto": "Cruscotto OpenStreetMap per OpenTracks",
         "categorie": [
             "Navigation",
             "Sports & Health"
@@ -29585,7 +29585,7 @@
     {
         "nome": "CleanShare",
         "id_pacchetto": "eu.hxreborn.cleanshare",
-        "riassunto": "Xposed module that removes Direct Share suggestions from Android's Share Sheet",
+        "riassunto": "Xposed module to clean up Android's Share Sheet",
         "categorie": [
             "System"
         ],
@@ -36465,7 +36465,7 @@
     {
         "nome": "MoeMemos",
         "id_pacchetto": "me.mudkip.moememos",
-        "riassunto": "An app to help you capture thoughts & ideas, syncs with self-hosted Memos server",
+        "riassunto": "An app to help you capture thoughts & ideas",
         "categorie": [
             "Task",
             "Writing"
@@ -40544,7 +40544,7 @@
             "Money"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.billthefarmer.specie/en-GB/icon_3eyeKW4sLmT6eqqTuoLdXq-U2Slge2xRTCdMkAdjFmk=.png",
+        "icona": "https://f-droid.org/repo//org.billthefarmer.specie/en/icon_3eyeKW4sLmT6eqqTuoLdXq-U2Slge2xRTCdMkAdjFmk=.png",
         "url_codice_sorgente": "https://github.com/billthefarmer/specie",
         "ultimo_aggiornamento": null
     },
@@ -46178,7 +46178,7 @@
             "Time",
             "Writing"
         ],
-        "licenza": "Apache-2.0",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlytodolist/en-US/icon_muCAiEnC-seBQpNk-apzYHYW9pgIECNn46gYuorR2ZM=.png",
         "url_codice_sorgente": "https://github.com/SecUSo/privacy-friendly-todo-list",
         "ultimo_aggiornamento": null
@@ -51006,7 +51006,7 @@
     {
         "nome": "Materialious",
         "id_pacchetto": "us.materialio.app",
-        "riassunto": "Modern material design for Invidious",
+        "riassunto": "Modern material design for YouTube and Invidious.",
         "categorie": [
             "Multimedia",
             "Online Media Player"
