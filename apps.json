@@ -13504,14 +13504,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "PlainApp: File & Web Access",
+        "nome": "PlainApp: Phone Web Portal",
         "id_pacchetto": "com.ismartcoding.plain",
         "riassunto": "Manage your phone on the web! Access files, contacts, videos, music & more.",
         "categorie": [
             "System"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.ismartcoding.plain/en-US/icon_59gIOj3dAZvgy4Mwmj88RRlWAh1PaZdHLC_Wp2C1x6w=.png",
+        "icona": "https://f-droid.org/repo//com.ismartcoding.plain/en-US/icon_mg0Jp4Y1WFWVDsM3Hn84dZejuiMUunbKxAfx2CzjrZ4=.png",
         "url_codice_sorgente": "https://github.com/ismartcoding/plain-app",
         "ultimo_aggiornamento": null
     },
@@ -27405,7 +27405,7 @@
             "Public Transport"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140000.png",
+        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140001.png",
         "url_codice_sorgente": "https://gitlab.com/oeffi/oeffi",
         "ultimo_aggiornamento": null
     },
@@ -28394,7 +28394,7 @@
     {
         "nome": "Chronal",
         "id_pacchetto": "dev.cognitivity.chronal",
-        "riassunto": "Metronome and tuner app designed for beginner and advanced musicians.",
+        "riassunto": "Clean metronome & tuner with polyrhythms and notation editor.",
         "categorie": [
             "Multimedia",
             "Music Practice Tool"
@@ -32403,7 +32403,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "FOSSGIS 2025 Schedule",
+        "nome": "FOSSGIS 2026 Schedule",
         "id_pacchetto": "info.metadude.android.fossgis.schedule",
         "riassunto": "Conference program app for the FOSSGIS conference",
         "categorie": [
@@ -36126,7 +36126,7 @@
     {
         "nome": "WHPH • Work Hard Play Hard",
         "id_pacchetto": "me.ahmetcetinkaya.whph",
-        "riassunto": "Productivity app for task management, habit tracking and time optimization",
+        "riassunto": "A productivity app to manage tasks, develop new habits, and optimize your time.",
         "categorie": [
             "Habit Tracker",
             "Science & Education",
