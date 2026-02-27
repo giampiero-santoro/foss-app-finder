@@ -264,7 +264,7 @@
     {
         "nome": "AndroDNS",
         "id_pacchetto": "androdns.android.leetdreams.ch.androdns",
-        "riassunto": "DNS client",
+        "riassunto": "Cliente DNS",
         "categorie": [
             "DNS & Hosts",
             "Internet"
@@ -6771,7 +6771,7 @@
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.cbouvat.android.saracroche/en-US/icon_AISIAF4vDEywXBG2JvzLzwfH7PABrXlWB-Mmg96oqlM=.png",
-        "url_codice_sorgente": "https://github.com/cbouvat/saracroche-android",
+        "url_codice_sorgente": "https://codeberg.org/cbouvat/saracroche-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -10704,7 +10704,7 @@
             "Wallpaper"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.ghisguth.sun.2.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/ghisguth/sunlight/tree/HEAD/sun",
         "ultimo_aggiornamento": null
     },
@@ -12364,7 +12364,7 @@
     {
         "nome": "Eyes-Free Shell",
         "id_pacchetto": "com.google.marvin.shell",
-        "riassunto": "Alternative homescreen",
+        "riassunto": "Schermata home alternativa",
         "categorie": [
             "System"
         ],
@@ -12610,7 +12610,7 @@
     {
         "nome": "Hacker Live Wallpaper",
         "id_pacchetto": "com.gulshansingh.hackerlivewallpaper",
-        "riassunto": "Cascading numerals",
+        "riassunto": "Cascata di numeri",
         "categorie": [
             "Theming",
             "Wallpaper"
@@ -15708,6 +15708,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "CajuScan",
+        "id_pacchetto": "com.marotoweb.cajuscan_app",
+        "riassunto": "Record invoices in the Cashew app by scanning the QR code on Portuguese invoices",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.marotoweb.cajuscan_app/pt-PT/icon_xzYsUZaefFO1DXHwQbOiwKf0C7uXeiK-vlUi92m5250=.png",
+        "url_codice_sorgente": "https://github.com/marotoweb/cajuscan_app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Little Music Player",
         "id_pacchetto": "com.martinmimigames.littlemusicplayer",
         "riassunto": "Android 1.0+ mini notification based audio player",
@@ -16267,7 +16279,7 @@
     {
         "nome": "Flame Haze Shana Animated Wallpaper",
         "id_pacchetto": "com.miqote.shanawp",
-        "riassunto": "Anime animated wallpaper",
+        "riassunto": "Sfondo animato anime",
         "categorie": [
             "Theming",
             "Wallpaper"
@@ -18069,7 +18081,7 @@
     {
         "nome": "Packet Sender",
         "id_pacchetto": "com.packetsender.android",
-        "riassunto": "Send/Receive UDP/TCP",
+        "riassunto": "Invia/Ricevi UDP/TCP",
         "categorie": [
             "Development"
         ],
@@ -19556,7 +19568,7 @@
     {
         "nome": "PaddleTennis",
         "id_pacchetto": "com.rogerbassonsrenart.paddletennis",
-        "riassunto": "Pong clone",
+        "riassunto": "Clone di pong",
         "categorie": [
             "Games"
         ],
@@ -21383,6 +21395,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.teamdc.stephendiniz.autoaway.24.png",
         "url_codice_sorgente": "https://github.com/DizzyThermal/Auto-Away",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "EstudiaTAI",
+        "id_pacchetto": "com.tech.estudiatai",
+        "riassunto": "Practice tests for the Spanish AGE IT Assistant exams.",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.tech.estudiatai/en-US/icon_sTihu7o1nRzwfC5nPwAwjdXdomSl9IixNE4QB2XHPnw=.png",
+        "url_codice_sorgente": "https://github.com/Naritsumi/EstudiaTAI-app",
         "ultimo_aggiornamento": null
     },
     {
@@ -24263,7 +24287,7 @@
             "Wallpaper"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/cxa.gridwallpaper.8.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/ghisguth/sunlight/tree/HEAD/limitlessgrid",
         "ultimo_aggiornamento": null
     },
@@ -24276,7 +24300,7 @@
             "Wallpaper"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/cxa.lineswallpaper.12.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/ghisguth/sunlight/tree/HEAD/blurredlines",
         "ultimo_aggiornamento": null
     },
@@ -26581,6 +26605,19 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.metager.metagerapp.fdroid/de-DE/icon_WP4MILrNnOVEt_uWgV_sBGkaeVF6UArMfWSfpcSMg_c=.png",
         "url_codice_sorgente": "https://gitlab.metager.de/open-source/app-en",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Chord Progression Helper",
+        "id_pacchetto": "de.metaviewsoft.chordprogressionhelper",
+        "riassunto": "A music app to write chord progressions, add simple drum beats and some little m",
+        "categorie": [
+            "Multimedia",
+            "Music Practice Tool"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//de.metaviewsoft.chordprogressionhelper/en-US/icon_XmwrzKAa_lmj5-pB_hEZI7zMc7RyvXbwZSQyYmyJuEg=.png",
+        "url_codice_sorgente": "https://gitlab.com/metaview/ChordProgressionHelper",
         "ultimo_aggiornamento": null
     },
     {
@@ -29757,7 +29794,7 @@
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//eu.ottop.yamlauncher/en-US/icon_YAIRPaaRUiW4BJ9yIRHDfggv1AV85n_zL8mTLOpf5f8=.png",
-        "url_codice_sorgente": "https://codeberg.org/ottoptj/yamlauncher",
+        "url_codice_sorgente": "https://github.com/ThomasNowProductions/YAM-Launcher",
         "ultimo_aggiornamento": null
     },
     {
@@ -31777,7 +31814,7 @@
     {
         "nome": "HSTempo",
         "id_pacchetto": "hsware.HSTempo",
-        "riassunto": "Tempo Measurement",
+        "riassunto": "Misurazione del Ritmo",
         "categorie": [
             "Music Practice Tool",
             "Science & Education"
@@ -32030,7 +32067,7 @@
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//im.vector.app/en-US/icon_3Lck8RKnv8uMRsiOs3GqWqo65YjijRzVA8EchS_gDoo=.png",
-        "url_codice_sorgente": "https://github.com/vector-im/element-android",
+        "url_codice_sorgente": "https://github.com/element-hq/element-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -32331,7 +32368,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "CLT 2025 Schedule",
+        "nome": "CLT 2026 Schedule",
         "id_pacchetto": "info.metadude.android.clt.schedule",
         "riassunto": "Programma della conferenza Chemnitzer Linux-Tage (CLT)",
         "categorie": [
@@ -32714,7 +32751,7 @@
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.element.android.x/en-US/icon_YBz4_OnMHd7E2Bd_oEza9ImLSlHTpL_C-ovHcKljeFA=.png",
-        "url_codice_sorgente": "https://github.com/vector-im/element-x-android",
+        "url_codice_sorgente": "https://github.com/element-hq/element-x-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -42518,7 +42555,7 @@
     {
         "nome": "Gmote",
         "id_pacchetto": "org.gmote.client.android",
-        "riassunto": "Remote control",
+        "riassunto": "Telecomando",
         "categorie": [
             "Multimedia"
         ],
@@ -46928,6 +46965,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tor VPN Beta",
+        "id_pacchetto": "org.torproject.vpn",
+        "riassunto": "Tor-powered with per-app routing, access unblocking & network-level privacy.",
+        "categorie": [
+            "VPN & Proxy"
+        ],
+        "licenza": "BSD-3-Clause-Clear",
+        "icona": "https://f-droid.org/repo//org.torproject.vpn/en-US/icon_Apw8n6Kct_kklGY7bSHiix5LH7RFeJJLyw62JtpfNaw=.png",
+        "url_codice_sorgente": "https://gitlab.torproject.org/tpo/applications/vpn/",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "My Expenses",
         "id_pacchetto": "org.totschnig.myexpenses",
         "riassunto": "Easy to use personal finance manager: rich functionality and Open Source",
@@ -49624,7 +49673,7 @@
     {
         "nome": "adbWireless",
         "id_pacchetto": "siir.es.adbWireless",
-        "riassunto": "Wireless adb",
+        "riassunto": "Adb senza fili",
         "categorie": [
             "Connectivity"
         ],
