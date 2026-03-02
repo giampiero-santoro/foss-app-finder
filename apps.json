@@ -19192,7 +19192,7 @@
             "Launcher"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.rama.mako/en-US/icon_MgXusRRm5XTqiHaKqXL7ESKV-hvGo3wzJEWVPbekey0=.png",
+        "icona": "https://f-droid.org/repo//com.rama.mako/en-US/icon_CDnBDGMXQwZ4p-kLrneSTENRbbrr_I6OBc4yoyyHPHY=.png",
         "url_codice_sorgente": "https://github.com/jmiguelrivas/mako",
         "ultimo_aggiornamento": null
     },
@@ -22697,25 +22697,25 @@
     {
         "nome": "Calendar",
         "id_pacchetto": "com.vayunmathur.calendar",
-        "riassunto": "The only fully-functional open-source calendar app with Material You",
+        "riassunto": "The only fully-functional open-source calendar app with Material You.",
         "categorie": [
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.calendar/en-US/icon_YpJ3hlj7TjYQPXff2AfZALoDgvqmFZe-BCRHWcgVAhc=.png",
-        "url_codice_sorgente": "https://github.com/vayun-mathur/Calendar",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
     {
         "nome": "Contacts",
         "id_pacchetto": "com.vayunmathur.contacts",
-        "riassunto": "An open-source, fully-functional contacts app",
+        "riassunto": "An open-source, fully-functional contacts app.",
         "categorie": [
             "Phone & SMS"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.contacts/en-US/icon_UKNFba8g1nE5M6NtEUgesc1pJzoCrtzNLMLqqURH9OQ=.png",
-        "url_codice_sorgente": "https://github.com/vayun-mathur/Contacts",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
     {
@@ -22733,13 +22733,13 @@
     {
         "nome": "Unblock Jam",
         "id_pacchetto": "com.vayunmathur.games.unblockjam",
-        "riassunto": "Classic game \"Rush Hour\" - private & open source",
+        "riassunto": "A private and open source version of the classic board game \"Rush Hour\"",
         "categorie": [
             "Games"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.unblockjam/en-US/icon_Up6zlkty5SSZSbuKdpbeqG1RpUaC3WsKo7q8mEfyiC4=.png",
-        "url_codice_sorgente": "https://github.com/vayun-mathur/unblock-jam",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
     {
@@ -22751,7 +22751,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.wordmaker/en-US/icon_8CgWLbM4TBa2erc37DM8-3RRchcFSR0g8GR8vnyCNTE=.png",
-        "url_codice_sorgente": "https://github.com/vayun-mathur/word-maker",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
     {
@@ -22776,7 +22776,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.pdf/en-US/icon_XAi40QkOPOlBn6t5N0SWvVsfPLm67llo4BC7HbckUMI=.png",
-        "url_codice_sorgente": "https://github.com/vayun-mathur/PDF",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
     {
@@ -28653,7 +28653,7 @@
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.lbeernaert.youhavemail/en-US/icon_wub80fG1shq1wmeo5PtoI96dXYILAXVGXpVxPpskxgA=.png",
-        "url_codice_sorgente": "https://github.com/LeanderBB/you-have-mail",
+        "url_codice_sorgente": "https://codeberg.org/angrypixel/you-have-mail",
         "ultimo_aggiornamento": null
     },
     {
@@ -30799,14 +30799,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Flash Alert - Call and Message",
+        "nome": "Flash Alert (Calls & SMS)",
         "id_pacchetto": "fr.jnda.android.flashalert",
         "riassunto": "Illumina il terminale quando ricevi una chiamata, sms o una notifica",
         "categorie": [
             "Phone & SMS"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//fr.jnda.android.flashalert/fr-FR/icon_SB_GGEBcPCse0hdK5tx_U2ZiT1T9Yiwe7jZzklObT6o=.png",
+        "icona": "https://f-droid.org/repo//fr.jnda.android.flashalert/de-DE/icon_SB_GGEBcPCse0hdK5tx_U2ZiT1T9Yiwe7jZzklObT6o=.png",
         "url_codice_sorgente": "https://gitlab.com/jnda/FlashAlert",
         "ultimo_aggiornamento": null
     },
@@ -33969,7 +33969,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Key Mapper & Floating Buttons",
+        "nome": "Key Mapper",
         "id_pacchetto": "io.github.sds100.keymapper",
         "riassunto": "Make shortcuts for ANYTHING! Remap volume, power, keyboard, or floating buttons!",
         "categorie": [
@@ -47853,7 +47853,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.zephyrsoft.sdbviewer/en-US/icon_TzJ8NMdZCjvEiKZMVa-LcMAYS--01q693CcAHJsiU9M=.png",
-        "url_codice_sorgente": "https://github.com/mathisdt/sdbviewer",
+        "url_codice_sorgente": "https://codeberg.org/mathisdt/sdbviewer",
         "ultimo_aggiornamento": null
     },
     {
@@ -47865,7 +47865,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.zephyrsoft.trackworktime/en-US/icon_RhdooqTkZmgVE7y9XYPJ4J2LdF-J0oEsEZ9IAZ9K8GQ=.png",
-        "url_codice_sorgente": "https://github.com/mathisdt/trackworktime",
+        "url_codice_sorgente": "https://codeberg.org/mathisdt/trackworktime",
         "ultimo_aggiornamento": null
     },
     {
