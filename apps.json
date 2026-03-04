@@ -3065,16 +3065,16 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Zashi: Zcash Wallet",
+        "nome": "Zodl: Zcash Wallet",
         "id_pacchetto": "co.electriccoin.zcash.foss",
-        "riassunto": "Zashi is a Zcash wallet that keeps your transaction and message history private",
+        "riassunto": "The most private crypto wallet. Built for financial sovereignty.",
         "categorie": [
             "Money",
             "Wallet"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//co.electriccoin.zcash.foss/en-US/icon_InFSAmvgc7fdiqJYCV9_GqWE_34gH_ht83phUvn3o_w=.png",
-        "url_codice_sorgente": "https://github.com/Electric-Coin-Company/zashi-android",
+        "icona": "https://f-droid.org/repo//co.electriccoin.zcash.foss/en-US/icon_PfYgDMXXK2RJmQV7ElBA7s-lgyZHv0J3b7HQbkVmYME=.png",
+        "url_codice_sorgente": "https://github.com/zodl-inc/zodl-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -5844,6 +5844,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.bartixxx.distancemeter/en-US/icon_q5eOakcETclAYVweKxxV23oaNF0_W8Tcg_NCfgPlFy0=.png",
         "url_codice_sorgente": "https://github.com/Bartixxx32/OpLaserTool",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "OnePlus ARB Checker",
+        "id_pacchetto": "com.bartixxx.oneplusarbchecker",
+        "riassunto": "Check Anti-Rollback (ARB) index for OnePlus devices to ensure safe updates.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.bartixxx.oneplusarbchecker/en-US/icon_y4R8wz68wISH2UFv1MUrF0tyYYzBjUeSZZ5JSUPuOk8=.png",
+        "url_codice_sorgente": "https://github.com/Bartixxx32/oparbcheckapp",
         "ultimo_aggiornamento": null
     },
     {
@@ -10369,9 +10381,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "MedTimer",
+        "nome": "MedTimer: Med & Pill Reminder",
         "id_pacchetto": "com.futsch1.medtimer",
-        "riassunto": "Med reminders and history with full offline privacy",
+        "riassunto": "Medication and pill reminder with log, fully offline and privacy focused",
         "categorie": [
             "Sports & Health"
         ],
@@ -12496,6 +12508,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Taiga Mobile Nova",
+        "id_pacchetto": "com.grappim.taigamobile.fdroid",
+        "riassunto": "Unofficial Android client for Taiga.io project management",
+        "categorie": [
+            "Development",
+            "Task"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.grappim.taigamobile.fdroid/en-US/icon_ftr9Tcyzt7_2jSedMhtrwVGPbbp1oh9z8lLKL7hT7fs=.png",
+        "url_codice_sorgente": "https://github.com/Grigoriym/TaigaMobileNova",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Gravity Force",
         "id_pacchetto": "com.gravityplay",
         "riassunto": "Demonstrates Gravity in Space. Play with Asteroids Orbits. Physics.",
@@ -13379,7 +13404,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "7730 manual pages, 23 basic categories and a bunch of general terminal tips.",
+        "riassunto": "7770 manual pages, 23 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -18731,6 +18756,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Octo8",
+        "id_pacchetto": "com.powerdino.splatoon3_companion",
+        "riassunto": "An app for checking current Splatoon 3 map schedules",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.powerdino.splatoon3_companion/en-US/icon_UQncuHsrHnNa0bTuBYuVPDO7g5nwRQHQv_3-LY-YPdo=.png",
+        "url_codice_sorgente": "https://github.com/ThePowerdinoDeluxe990/Octo8",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Nyan",
         "id_pacchetto": "com.powerje.nyan",
         "riassunto": "Sfondo 8-bit",
@@ -20381,7 +20418,7 @@
     {
         "nome": "Grit",
         "id_pacchetto": "com.shub39.grit",
-        "riassunto": "A Simple ToDo List and Daily Habit Tracker",
+        "riassunto": "A Simple ToDo List and Habit Tracker",
         "categorie": [
             "Habit Tracker",
             "Task",
@@ -21206,6 +21243,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.svenjacobs.app.leon/en-US/icon_0TpKYOySnqGg3Zf5j2DvaPsQPvwixVKjjeUnG5gMJZ4=.png",
         "url_codice_sorgente": "https://github.com/svenjacobs/leon",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "NexNode for Linode Cloud",
+        "id_pacchetto": "com.swatian.nexnode.free",
+        "riassunto": "Manage Your Linode Cloud with NexNode",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.swatian.nexnode.free/en-US/icon_ewxG4IfTOufPzndGDGRxRuRy2UJuK1kAFfYfLegLXiE=.png",
+        "url_codice_sorgente": "https://codeberg.org/swatian/NexNode",
         "ultimo_aggiornamento": null
     },
     {
@@ -23422,7 +23471,7 @@
     {
         "nome": "Windscribe",
         "id_pacchetto": "com.windscribe.vpn",
-        "riassunto": "Free VPN that unblocks geo-restricted content and eliminates tracking.",
+        "riassunto": "Fast VPN for privacy, encrypted connections, and unlimited access.",
         "categorie": [
             "Connectivity",
             "Internet",
@@ -23835,6 +23884,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.yassirh.digitalocean.32.png",
         "url_codice_sorgente": "https://github.com/yassirh/digital-ocean-swimmer",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "CaptureCap",
+        "id_pacchetto": "com.yepgoryo.CaptureCap",
+        "riassunto": "Record Audio and/or Screen",
+        "categorie": [
+            "Multimedia",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.yepgoryo.CaptureCap/en-US/icon_RNoeN1UIc2LfP3maIkifINMg5F3VawqiaAaMTivlwm8=.png",
+        "url_codice_sorgente": "https://github.com/yepgoryo/CaptureCap",
         "ultimo_aggiornamento": null
     },
     {
@@ -25665,7 +25727,7 @@
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.hbch.traewelling/de/icon_N5yJvh6yRLqYbG-KKWIUJADENAVdCZVfhvx5xdHgiwo=.png",
-        "url_codice_sorgente": "https://github.com/Traewelldroid/traewelldroid",
+        "url_codice_sorgente": "https://codeberg.org/traewelldroid/traewelldroid",
         "ultimo_aggiornamento": null
     },
     {
@@ -29596,14 +29658,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Dispensa",
+        "nome": "Pantry",
         "id_pacchetto": "eu.frigo.dispensa",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "Manage your pantry and avoid food waste",
         "categorie": [
             "Inventory"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//eu.frigo.dispensa/it-IT/icon_ZZAEjgF1GqCFTC9uIr74hmaGeW5710NB0Ez4GwDEuK8=.png",
+        "icona": "https://f-droid.org/repo//eu.frigo.dispensa/en-US/icon_ZZAEjgF1GqCFTC9uIr74hmaGeW5710NB0Ez4GwDEuK8=.png",
         "url_codice_sorgente": "https://github.com/enricofrigo/dispensa",
         "ultimo_aggiornamento": null
     },
@@ -31112,6 +31174,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/fr.s3i.pointeuse.1.png",
         "url_codice_sorgente": "https://github.com/alandais/Pointeuse_S3I",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SimpleHIIT",
+        "id_pacchetto": "fr.shiningcat.simplehiit",
+        "riassunto": "Customisable HIIT timer with animated exercises",
+        "categorie": [
+            "Sports & Health",
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//fr.shiningcat.simplehiit/en-US/icon_ybHaDLKwCelVDgIDLtco6H12aptTvkY8b4q4ZXXeGkk=.png",
+        "url_codice_sorgente": "https://github.com/shining-cat/SimpleHIIT",
         "ultimo_aggiornamento": null
     },
     {
@@ -40508,7 +40583,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.billthefarmer.notes/en-GB/icon_wml33Ew3MOTdbgeyDQ0luvlm_GjvC5sV1S8iTHCWBAw=.png",
+        "icona": "https://f-droid.org/repo//org.billthefarmer.notes/en/icon_wml33Ew3MOTdbgeyDQ0luvlm_GjvC5sV1S8iTHCWBAw=.png",
         "url_codice_sorgente": "https://github.com/billthefarmer/notes",
         "ultimo_aggiornamento": null
     },
@@ -47156,7 +47231,7 @@
     {
         "nome": "Sunup",
         "id_pacchetto": "org.unifiedpush.distributor.sunup",
-        "riassunto": "UnifiedPush provider using Mozilla's push server",
+        "riassunto": "UnifiedPush distributor using Mozilla's push server",
         "categorie": [
             "Connectivity",
             "System"
@@ -49182,7 +49257,7 @@
     {
         "nome": "Image Toolbox",
         "id_pacchetto": "ru.tech.imageresizershrinker",
-        "riassunto": "Powerful image editor: crop, filter, convert, resize, compare, and more!",
+        "riassunto": "Edit, create & convert images with powerful AI — your all-in-one studio",
         "categorie": [
             "Draw",
             "File Encryption & Vault",
