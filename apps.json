@@ -12977,6 +12977,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Trails Hito",
+        "id_pacchetto": "com.hito.trails.app",
+        "riassunto": "A simple and lightweight application for managing and exploring trails.",
+        "categorie": [
+            "Navigation",
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.hito.trails.app/en-US/icon_9JKEaAywWrZYrkp5GGVHaaKuTqf7cX2KbL08xYjSV9o=.png",
+        "url_codice_sorgente": "https://codeberg.org/salonso/trails-hito",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Headwind MDM Agent",
         "id_pacchetto": "com.hmdm.launcher",
         "riassunto": "Mobile Device Management (MDM) System for Android (mobile agent - launcher)",
@@ -13953,6 +13966,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.jkcarino.ankieditor.9.png",
         "url_codice_sorgente": "https://github.com/jkennethcarino/AnkiEditor",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "LibreFind",
+        "id_pacchetto": "com.jksalcedo.librefind",
+        "riassunto": "Nessuna descrizione disponibile.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/jksalcedo/librefind",
         "ultimo_aggiornamento": null
     },
     {
@@ -19905,6 +19930,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "RepoStore",
+        "id_pacchetto": "com.samyak.repostore",
+        "riassunto": "Discover, install, and update Android apps directly from GitHub releases.",
+        "categorie": [
+            "App Store & Updater"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.samyak.repostore/en-US/icon_aRuZj8B9vq4Go2IIEON6-k4cHhmtqXC6rrKyN86HJF4=.png",
+        "url_codice_sorgente": "https://github.com/samyak2403/RepoStore",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Bushido Blocks",
         "id_pacchetto": "com.sandeel.bushidoblocks",
         "riassunto": "Block-matching game",
@@ -23922,6 +23959,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.yogeshpaliyal.keypass/en-US/icon_8fkMVfXDvZO5nJYBk_ZnNVD1488EoE-1pJ6Kuj4TMgQ=.png",
         "url_codice_sorgente": "https://github.com/yogeshpaliyal/KeyPass",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "NClientV3",
+        "id_pacchetto": "com.yosefario.nclientv3",
+        "riassunto": "A configurable manga client for Android. Fork of NClientV2.",
+        "categorie": [
+            "Ebook Reader"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.yosefario.nclientv3/en-US/icon_YeR5uU7ATdUvCkCRBEzg_Sbl14KpyKg7FaM15AUm9iY=.png",
+        "url_codice_sorgente": "https://github.com/yosefario-dev/NClientV3",
         "ultimo_aggiornamento": null
     },
     {
@@ -28644,6 +28693,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Bluetooth QR & Barcode to PC",
+        "id_pacchetto": "dev.fabik.bluetoothhid",
+        "riassunto": "Enables sending QR/Barcodes to a Bluetooth Device (e.g PC) without any Software",
+        "categorie": [
+            "Multimedia",
+            "Task"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.fabik.bluetoothhid/en-US/icon_Hd8trJjiQLyHH-hFFo8_vODv7vCxEk86T1ObVdGFmTY=.png",
+        "url_codice_sorgente": "https://github.com/Fabi019/hid-barcode-scanner",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Obtainium",
         "id_pacchetto": "dev.imranr.obtainium.fdroid",
         "riassunto": "Get Android app updates directly from the source",
@@ -29691,6 +29753,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.hxreborn.cleanshare/en-US/icon_wXByaIgi057E1qRa8n2xxQnvu0mtFPWqO9STiSqpL7s=.png",
         "url_codice_sorgente": "https://github.com/hxreborn/cleanshare",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Punch-hole Download Progress",
+        "id_pacchetto": "eu.hxreborn.phdp",
+        "riassunto": "Xposed module showing download progress around the camera cutout",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//eu.hxreborn.phdp/en-US/icon_2qviv-4cIehSDb0Mm90oD5PBmqremQTkY9x-MyWmE0Q=.png",
+        "url_codice_sorgente": "https://github.com/hxreborn/punch-hole-download-progress",
         "ultimo_aggiornamento": null
     },
     {
@@ -32749,6 +32823,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Image Compressor",
+        "id_pacchetto": "io.ahxxm.ic",
+        "riassunto": "Compress JPEG/PNG images using mozjpeg or jpegli offline",
+        "categorie": [
+            "Graphics",
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.ahxxm.ic/en-US/icon_fi063j2UfIYuXG2kXbK7aNSu9hj1NZTnJuBqQfBHlgs=.png",
+        "url_codice_sorgente": "https://git.sr.ht/~ahxxm/ic",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Mindustry",
         "id_pacchetto": "io.anuke.mindustry",
         "riassunto": "An open-ended factory management game with RTS and tower defense elements",
@@ -35331,6 +35418,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/it.ecosw.dudo.20.png",
         "url_codice_sorgente": "https://github.com/Eco80/dudo",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "RiPlay",
+        "id_pacchetto": "it.fast4x.riplay",
+        "riassunto": "Multiplatform Music Player",
+        "categorie": [
+            "Multimedia",
+            "Online Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//it.fast4x.riplay/en-US/icon_JJ0noTepug7UO_KXEGtK8VKdSSbcg_ZgiZdh5tCRG9A=.png",
+        "url_codice_sorgente": "https://github.com/fast4x/RiPlay",
         "ultimo_aggiornamento": null
     },
     {
@@ -41021,6 +41121,20 @@
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//icons/org.cipherdyne.fwknop2.32.png",
         "url_codice_sorgente": "https://github.com/jp-bennett/fwknop2",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Wikisource Reader",
+        "id_pacchetto": "org.cis_india.wsreader",
+        "riassunto": "Access public domain and freely licensed works from the Wikisource project.",
+        "categorie": [
+            "Ebook Reader",
+            "Reading",
+            "Science & Education"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//org.cis_india.wsreader/en-US/icon_MWUuOqtIRDLVcNMQ9v9eEv_a3C1vzcx-kk-CyArx3HE=.png",
+        "url_codice_sorgente": "https://github.com/cis-india/Wikisource-Reader",
         "ultimo_aggiornamento": null
     },
     {
