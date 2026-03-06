@@ -3024,6 +3024,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FileFlow",
+        "id_pacchetto": "co.adityarajput.fileflow",
+        "riassunto": "Organize files automatically",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//co.adityarajput.fileflow/en-US/icon_kLCFho_muO6l3-rmLxP8wmSk0UbrYauTo5YvmcJT1BQ=.png",
+        "url_codice_sorgente": "https://github.com/BURG3R5/FileFlow",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "NotiFilter",
         "id_pacchetto": "co.adityarajput.notifilter",
         "riassunto": "Silence annoying notifications",
@@ -3642,6 +3654,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.afollestad.nocknock.30.png",
         "url_codice_sorgente": "https://archive.softwareheritage.org/browse/origin/https://github.com/afollestad/nock-nock/directory/",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "QuandoInTV",
+        "id_pacchetto": "com.agatamessina.quandointv",
+        "riassunto": "Non perdere la messa in onda dei tuoi programmi preferiti",
+        "categorie": [
+            "Internet",
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.agatamessina.quandointv/en-US/icon_HJnhYrdb99vN45W44-gmiXsvQj1rgg7LsZ4mhYBf1p8=.png",
+        "url_codice_sorgente": "https://github.com/Messina-Agata/QuandoInTV",
         "ultimo_aggiornamento": null
     },
     {
@@ -14891,6 +14916,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Gendie - Grammatical Gender Trainer",
+        "id_pacchetto": "com.languageapp.gendie",
+        "riassunto": "Never forget the gender of nouns with Gendie - the grammatical gender trainer",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.languageapp.gendie/en-US/icon_KQdS3NwP9_hQERIhQcMmKXjd8Ioel9r9xx4v_wU99k0=.png",
+        "url_codice_sorgente": "https://gitlab.com/SeverusPol/gendie",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "La et Le",
         "id_pacchetto": "com.languageapp.laetle",
         "riassunto": "Train French noun genders using spaced repetition",
@@ -16768,6 +16805,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mubarak.mbcompass/en-US/icon_gSZr9SCGHPhJgEqNtV4aTtEYJTQT14sEn9h1sO5Mhhs=.png",
         "url_codice_sorgente": "https://github.com/MubarakNative/MBCompass",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Africa Quiz",
+        "id_pacchetto": "com.mufradat.africaquiz",
+        "riassunto": "Quiz game testing your knowledge of African capital cities",
+        "categorie": [
+            "Games",
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.mufradat.africaquiz/en-US/icon_ORiV2pcD41FtlhNYeymb3SWyY8Jp25Wa2KI54zmJjuA=.png",
+        "url_codice_sorgente": "https://codeberg.org/Mufradat/africa-quiz",
         "ultimo_aggiornamento": null
     },
     {
@@ -33563,6 +33613,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Überböse",
+        "id_pacchetto": "io.github.juliusd.ueberboese.app",
+        "riassunto": "Control Bose SoundTouch speakers & Spotify auth",
+        "categorie": [
+            "Internet",
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.juliusd.ueberboese.app/en-US/icon_dGtEpYd4fXGGnvoZb2y3tOkv_1euGH8oVceOVTITcaI=.png",
+        "url_codice_sorgente": "https://github.com/julius-d/ueberboese-app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "TextTL",
         "id_pacchetto": "io.github.karino2.texttl",
         "riassunto": "Local plain text file timeline memo tool",
@@ -34457,6 +34520,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/io.github.whirish.tvbuses.10002.png",
         "url_codice_sorgente": "https://github.com/whirish/Tri-Valley-Buses",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "WiFi Password Manager",
+        "id_pacchetto": "io.github.wifi_password_manager",
+        "riassunto": "Simple app using Shizuku or root access to manage WiFi passwords",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.wifi_password_manager/en-US/icon_1rtk15mPUV7e5cty8BBDO_nqOGEfDx89rv0cKfCB3rc=.png",
+        "url_codice_sorgente": "https://github.com/Khh-vu/wifi-password-manager",
         "ultimo_aggiornamento": null
     },
     {
@@ -39663,6 +39739,19 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//nodomain.freeyourgadget.gadgetbridge/de-DE/icon_X8EVBNWmEaTA1EERH5xgBoSpAan8BNTrrDa4Osj-Da8=.png",
         "url_codice_sorgente": "https://codeberg.org/Freeyourgadget/Gadgetbridge",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Internet Helper for Gadgetbridge",
+        "id_pacchetto": "nodomain.freeyourgadget.internethelper",
+        "riassunto": "Companion app for Gadgetbridge, to allow for controlled Internet access",
+        "categorie": [
+            "Connectivity",
+            "System"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//nodomain.freeyourgadget.internethelper/en-US/icon_BmbZ4o37-EU4Tue4Jbmd4AavIZRQU15-7jkzwAHqkLo=.png",
+        "url_codice_sorgente": "https://codeberg.org/Freeyourgadget/Internethelper",
         "ultimo_aggiornamento": null
     },
     {
@@ -47138,6 +47227,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.tof.17.png",
         "url_codice_sorgente": "https://archive.softwareheritage.org/browse/origin/http://tapsoffire.googlecode.com/svn//directory/",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Stutter",
+        "id_pacchetto": "org.tomasino.stutter",
+        "riassunto": "Speed-reading app that shows one word at a time with adjustable timing",
+        "categorie": [
+            "Reading"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.tomasino.stutter/en-US/icon_VrFSKwsWZLNBuIufUgOf19nxxf9yfrLyA34ZKehDcjk=.png",
+        "url_codice_sorgente": "https://github.com/jamestomasino/stutter-android/",
         "ultimo_aggiornamento": null
     },
     {
