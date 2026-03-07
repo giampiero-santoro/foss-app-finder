@@ -7718,19 +7718,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "NClientV2",
-        "id_pacchetto": "com.dar.nclientv2",
-        "riassunto": "An unofficial NHentai Android Client.",
-        "categorie": [
-            "Ebook Reader",
-            "Internet"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.dar.nclientv2/en-US/icon_zDm9v2gV2qU7_aTHuoe6jyhFyS8S46IRy36rIFsFfC0=.png",
-        "url_codice_sorgente": "https://github.com/Dar9586/NClientV2",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "OpenCalc",
         "id_pacchetto": "com.darkempire78.opencalculator",
         "riassunto": "Calcolatrice semplice e bella per Android",
@@ -13430,7 +13417,7 @@
     {
         "nome": "Kai",
         "id_pacchetto": "com.inspiredandroid.kai",
-        "riassunto": "Fast, Simple Open-Source AI Chat",
+        "riassunto": "OpenClaw alternative in your pocket",
         "categorie": [
             "AI Chat"
         ],
@@ -13442,7 +13429,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "7770 manual pages, 23 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8288 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -20375,20 +20362,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "WhatsDown",
-        "id_pacchetto": "com.seyfal.whatsdown",
-        "riassunto": "⚡ Fast encrypted chats for the family 🎉",
-        "categorie": [
-            "Email",
-            "Internet",
-            "Messaging"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.seyfal.whatsdown/en-US/icon_FU_anIRUXNP1E9YNeB28MxF1f6t8PoXppH7-zEdBmSA=.png",
-        "url_codice_sorgente": "https://github.com/seyfal-kernel/WhatsDown",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Community compass",
         "id_pacchetto": "com.sgr_b2.compass",
         "riassunto": "Bussola",
@@ -20764,6 +20737,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.skyd.anivu/en-US/icon_UvpjQOSRfJtNXoXQeJw-VJml93j2oE2D0PLoqVI4_io=.png",
         "url_codice_sorgente": "https://github.com/SkyD666/PodAura",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "warecache",
+        "id_pacchetto": "com.slanttech.warecache",
+        "riassunto": "warecache Smart Inventory Management companion app",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.slanttech.warecache/en-US/icon_kcE6cZRXPDIRN92uZyZHPo1XZAKkA0rwd6dfO5GzxyI=.png",
+        "url_codice_sorgente": "https://gitlab.slant.tech/open-source/warecache/android-app",
         "ultimo_aggiornamento": null
     },
     {
@@ -23067,6 +23052,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "NerdCalci",
+        "id_pacchetto": "com.vishaltelangre.nerdcalci",
+        "riassunto": "Calculator for nerds with variables, syntax highlighting, and file sessions",
+        "categorie": [
+            "Science & Education",
+            "System",
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.vishaltelangre.nerdcalci/en-US/icon_pzKMbzVYoKiPCrssa65LLyn9VFjmx790UPJ1L4_DHt0=.png",
+        "url_codice_sorgente": "https://github.com/vishaltelangre/NerdCalci",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Remind Me!",
         "id_pacchetto": "com.vishnu.remindme",
         "riassunto": "Set alarms for a specific date in the future (alarm, not a reminder!).",
@@ -24947,9 +24946,21 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "UniThen",
+        "id_pacchetto": "de.bixilon.unithen",
+        "riassunto": "Course check-in for ZHS without the bloaty UniNow app",
+        "categorie": [
+            "Pass Wallet"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.bixilon.unithen/en-US/icon_Rl8QJxj0A8Hht4ZB4glpoL9eVg3yAup_eJTmefWNjbY=.png",
+        "url_codice_sorgente": "https://gitlab.bixilon.de/bixilon/unithen",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Vespucci - un editor per OSM",
         "id_pacchetto": "de.blau.android",
-        "riassunto": "Modifica i dati geografici e contribuisci al progetto OpenStreetMap on-the-go",
+        "riassunto": "Vespucci è l'editor per OpenStreetMap più completo su Android.",
         "categorie": [
             "Navigation"
         ],
