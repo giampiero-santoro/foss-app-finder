@@ -4077,7 +4077,7 @@
             "Internet"
         ],
         "licenza": "LGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.amanoteam.kurt/en-US/icon_MIfKdc5giQSr9ULVYvINQ0jUIQObOQvE25d9M_59InI=.png",
+        "icona": "https://f-droid.org/repo//com.amanoteam.kurt/en-US/icon_0mEt-MJgWgUoae4CMae6oNEAb_6MxfYCjbsoF8HOhNI=.png",
         "url_codice_sorgente": "https://github.com/AmanoTeam/JustDeleteMe",
         "ultimo_aggiornamento": null
     },
@@ -9716,7 +9716,7 @@
             "Time"
         ],
         "licenza": "EUPL-1.2",
-        "icona": "https://f-droid.org/repo//com.exner.tools.fototimer/en-US/icon_yZ0K4KDdtKTGoMZMeRBTSs6RZxs-D5eUD9T9SkjTT4M=.png",
+        "icona": "https://f-droid.org/repo//com.exner.tools.fototimer/en-US/icon_WyOCbAfChm5t06sgnNCnFphb-B7EKtArtfZkL7Wx-4w=.png",
         "url_codice_sorgente": "https://codeberg.org/jexner/FotoTimerAndroid",
         "ultimo_aggiornamento": null
     },
@@ -10137,7 +10137,7 @@
             "Time"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.forrestguice.suntimescalendars.19.png",
+        "icona": "https://f-droid.org/repo//com.forrestguice.suntimescalendars/en-US/icon_X2cjb2yh-S0bOQYBMHwLzGBgqv1MjagF5PVseZz8m_U=.png",
         "url_codice_sorgente": "https://github.com/forrestguice/SuntimesCalendars",
         "ultimo_aggiornamento": null
     },
@@ -12557,7 +12557,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Green: Bitcoin Wallet",
+        "nome": "Blockstream App (Green)",
         "id_pacchetto": "com.greenaddress.greenbits_android_wallet",
         "riassunto": "Bitcoin - secure and easy",
         "categorie": [
@@ -12565,7 +12565,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.greenaddress.greenbits_android_wallet/en-US/icon_dSryQRyLBWdhHQ9zc4xQ9lYaWek1iT_3FzeiKYzEaYE=.png",
+        "icona": "https://f-droid.org/repo//com.greenaddress.greenbits_android_wallet/en-US/icon_7GDgi_NOwFcF35ZlTUmc0uJly52Mj6fli06Mg0QR-u4=.png",
         "url_codice_sorgente": "https://github.com/blockstream/green_android",
         "ultimo_aggiornamento": null
     },
@@ -19779,7 +19779,7 @@
     {
         "nome": "Look4Sat: Satellite tracker",
         "id_pacchetto": "com.rtbishop.look4sat",
-        "riassunto": "Radio satellite tracker and pass predictor for Android",
+        "riassunto": "Satellite tracker and pass predictor for Android",
         "categorie": [
             "Science & Education"
         ],
