@@ -464,7 +464,8 @@
         "categorie": [
             "Gallery",
             "Local Media Player",
-            "Online Media Player"
+            "Online Media Player",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.fedilab.castlab/en-US/icon_tD7ds1bZl4aiilQk_yY68x1t7gz3c9-DxHH1MWM4Sik=.png",
@@ -1524,6 +1525,7 @@
         "id_pacchetto": "barilyuk.batterytemperature",
         "riassunto": "Temperature monitor and logging to prevent overheating, damage, and safety risks",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -1725,6 +1727,7 @@
         "id_pacchetto": "biz.binarysolutions.healthybatterycharging",
         "riassunto": "Prolong the life of your battery by keeping it charged between 40% and 80%",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "MIT",
@@ -2065,6 +2068,7 @@
         "id_pacchetto": "ca.cmetcalfe.xposed.disablebatterywarnings",
         "riassunto": "Disattiva il fastidioso popup e il suono di avviso di batteria scarica",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "MPL-2.0",
@@ -3108,6 +3112,7 @@
         "id_pacchetto": "co.garmax.materialflashlight",
         "riassunto": "Torcia con funzioni extra",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -4205,7 +4210,8 @@
         "id_pacchetto": "com.anandnet.harmonymusic",
         "riassunto": "An Android App for streaming Music",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.anandnet.harmonymusic/en-US/icon_CP7iWywg-B_GMclDgoDUUChCj6OTvolo1yaeONbdUEs=.png",
@@ -5531,6 +5537,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Episteme Reader",
+        "id_pacchetto": "com.aryan.reader.oss",
+        "riassunto": "A document reader for PDF, EPUB, and MOBI",
+        "categorie": [
+            "Ebook Reader"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.aryan.reader.oss/en-US/icon_qQihvaXQbPcg5rxXtQWqQoVfT-uan4S21YH92XMOmOU=.png",
+        "url_codice_sorgente": "https://github.com/Aryan-Raj3112/episteme",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AnagramSolver",
         "id_pacchetto": "com.as.anagramsolver",
         "riassunto": "Trova anagrammi",
@@ -5599,6 +5617,7 @@
         "id_pacchetto": "com.asksven.betterbatterystats",
         "riassunto": "Monitor battery behaviour with Better Battery Stats",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -5649,8 +5668,8 @@
         "id_pacchetto": "com.atharok.btremote",
         "riassunto": "Bluetooth remote control for Android TV.",
         "categorie": [
-            "Connectivity",
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.atharok.btremote/en-US/icon_Br1IeCJAeGlqJpb3ehECIw3VOZe6u8A0-OsSnr51D80=.png",
@@ -5888,6 +5907,7 @@
         "id_pacchetto": "com.bartixxx.opflashcontrol",
         "riassunto": "Advanced LED control for OnePlus (root required)",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -5905,6 +5925,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.bbzone.isitprime/de-DE/icon_EYGy6tqmLIg3oQzWUgbbS0s8nhiRXwXy6Oo75N0bfsA=.png",
         "url_codice_sorgente": "https://gitlab.com/bodoba/is-it-prime",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Launcher314",
+        "id_pacchetto": "com.bearinmind.launcher314",
+        "riassunto": "Just a simple one screen android launcher people can use",
+        "categorie": [
+            "Launcher"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.bearinmind.launcher314/en-US/icon_m6ZJlLfXeVjONK5iSyZLY7AzWf8ZkoW8YpnqXbxQFWA=.png",
+        "url_codice_sorgente": "https://github.com/bearinmindcat/Launcher314",
         "ultimo_aggiornamento": null
     },
     {
@@ -6150,6 +6182,7 @@
         "id_pacchetto": "com.bitmavrick.lumolight",
         "riassunto": "Simple, modern & easy-to-use flashlight app that comes with a ton of features.",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -6701,7 +6734,8 @@
         "riassunto": "An open-source and lightweight music client for Subsonic",
         "categorie": [
             "Multimedia",
-            "Podcast"
+            "Podcast",
+            "Radio"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.cappielloantonio.notquitemy.tempo/en-US/icon_F2snhM-QcA6omwxdMOeqWgmVyCm6SxAgQqhXNdPT7yQ=.png",
@@ -7556,6 +7590,7 @@
         "id_pacchetto": "com.cyb3rko.flashdim",
         "riassunto": "Modern flashlight app with dim functionality on Android 13+",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -7785,6 +7820,7 @@
         "id_pacchetto": "com.darshancomputing.BatteryIndicator",
         "riassunto": "Strumento di monitoraggio della batteria, versione \"gratuita",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -7797,6 +7833,7 @@
         "id_pacchetto": "com.darshancomputing.BatteryIndicatorPro",
         "riassunto": "Strumento di monitoraggio della batteria, versione \"pro\"",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -8163,6 +8200,7 @@
         "id_pacchetto": "com.dijia1124.plusplusbattery",
         "riassunto": "Real-time battery stats & health estimator for OnePlus/Oppo/Realme phones",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "MIT",
@@ -8650,7 +8688,7 @@
         "id_pacchetto": "com.dynamite.heaterrc",
         "riassunto": "Riscaldamento con telecomando tramite SMS",
         "categorie": [
-            "Connectivity"
+            "Remote Controller"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -8886,6 +8924,7 @@
         "id_pacchetto": "com.elasticrock.candle",
         "riassunto": "A display flashlight",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -8910,8 +8949,7 @@
         "id_pacchetto": "com.elektropepi.bootboi",
         "riassunto": "Turn on/off your remote machine without leaving your couch!",
         "categorie": [
-            "Connectivity",
-            "Internet"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.elektropepi.bootboi/en-US/icon_My3OTqWcHtUS7oiQ37meED_QaWv3ODV1KcRjynvnkDw=.png",
@@ -9675,6 +9713,7 @@
         "id_pacchetto": "com.example.timenotification",
         "riassunto": "BatteryVoltageDisplay shows battery voltage in the system status bar",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -10524,6 +10563,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.garyodernichts.downgrader.2.png",
         "url_codice_sorgente": "https://github.com/GaryOderNichts/SimpleAppDowngrader",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Smoking Tracker",
+        "id_pacchetto": "com.gasperpintar.smokingtracker",
+        "riassunto": "Track your smoking and see daily, weekly, monthly and yearly statistics",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.gasperpintar.smokingtracker/en-US/icon_6HPAvi522A_gUww-K3HooBiVkUsDJcVhv9dkjDs4NUU=.png",
+        "url_codice_sorgente": "https://github.com/pintargasper/SmokingTracker",
         "ultimo_aggiornamento": null
     },
     {
@@ -11837,6 +11888,7 @@
         "id_pacchetto": "com.github.timnew.smartremotecontrol",
         "riassunto": "Interfaccia con LED IR da dispositivi Samsung",
         "categorie": [
+            "Remote Controller",
             "System"
         ],
         "licenza": "MIT",
@@ -11872,11 +11924,23 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ScoreHub - Game Score Tracker",
+        "id_pacchetto": "com.github.trivialloop.scorehub",
+        "riassunto": "Track your board game scores easily",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.github.trivialloop.scorehub/en-US/icon_v72Z3oRFzJcRdaflA66VZVu-kDWUJsFABm1aYdvCm4Y=.png",
+        "url_codice_sorgente": "https://github.com/trivialloop/scorehub",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Droid Pad",
         "id_pacchetto": "com.github.umer0586.droidpad",
         "riassunto": "Build control interfaces for WebSocket, Bluetooth/LE, MQTT, TCP & UDP protocols.",
         "categorie": [
-            "Connectivity"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.umer0586.droidpad/en-US/icon_qiwoLE1y1Nz5aAE67ux8qKl_e-8GUt4_wJ7MTg_alIs=.png",
@@ -13429,7 +13493,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8288 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8290 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -13563,6 +13627,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.ismartcoding.plain/en-US/icon_mg0Jp4Y1WFWVDsM3Hn84dZejuiMUunbKxAfx2CzjrZ4=.png",
         "url_codice_sorgente": "https://github.com/ismartcoding/plain-app",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Classic Tic Tac Toe",
+        "id_pacchetto": "com.itsfrz.tictactoe",
+        "riassunto": "Fun with emoji naughts and crosses",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Itsfrz/TicTacToe",
         "ultimo_aggiornamento": null
     },
     {
@@ -14071,8 +14147,8 @@
         "id_pacchetto": "com.joshtwigg.cmus.droid",
         "riassunto": "Controlla in remoto le istanze CMUS",
         "categorie": [
-            "Internet",
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//icons/com.joshtwigg.cmus.droid.8.png",
@@ -15922,7 +15998,8 @@
         "id_pacchetto": "com.matt.outfield",
         "riassunto": "Remote control for Open Broadcaster Software (OBS).",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.matt.outfield/en-US/icon_T_CLTk9JfUfDPvBMlSn8ZjzMZB-mNfFKML8nUiLeNqQ=.png",
@@ -16445,8 +16522,8 @@
         "id_pacchetto": "com.mkulesh.onpc",
         "riassunto": "Controllo remoto per dispositivi Onkyo",
         "categorie": [
-            "Connectivity",
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.mkulesh.onpc/en-US/icon_v3Srzx05-SylWQuTXY4hHV9UEWkvRzdPStkIekp3n_E=.png",
@@ -16581,6 +16658,7 @@
         "id_pacchetto": "com.monuk7735.nope.remote",
         "riassunto": "IR remote control with customizable automation macros.",
         "categorie": [
+            "Remote Controller",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -17072,6 +17150,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Network Scanner",
+        "id_pacchetto": "com.networkscanner.app",
+        "riassunto": "Fast, privacy-focused network scanner to discover devices on your local network",
+        "categorie": [
+            "Network Analyzer"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.networkscanner.app/en-US/icon_yp8qa5YzW6pv_F2bfW41My4b7DEscmbsVWRSdSrzHTk=.png",
+        "url_codice_sorgente": "https://github.com/usamaiqb/network-scanner",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Calculator",
         "id_pacchetto": "com.neumorphic.calculator",
         "riassunto": "A Soft UI Calculator",
@@ -17190,7 +17280,8 @@
         "id_pacchetto": "com.nicolasbrailo.vlcfreemote",
         "riassunto": "Controlla da remoto un server VLC",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.nicolasbrailo.vlcfreemote.15.png",
@@ -17906,6 +17997,7 @@
         "id_pacchetto": "com.ominous.batterynotification",
         "riassunto": "Battery stats at a glance!",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -18340,6 +18432,7 @@
         "id_pacchetto": "com.pdb82.flashlighttiramisu",
         "riassunto": "An application that allows you to smoothly adjust the brightness of the flashlig",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -19789,6 +19882,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "KyuubiMask - Privacy First",
+        "id_pacchetto": "com.rtneg.kyuubimask",
+        "riassunto": "Privacy-focused notification masking for screen sharing and presentations",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/soraiyu/KyuubiMask",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Minimal",
         "id_pacchetto": "com.rubenroy.minimaltodo",
         "riassunto": "Liste TODO minimali",
@@ -19838,6 +19943,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.s4nj1th.pocket_dhamma/en-US/icon_d2IbhiJpVhR8eVOBla6F0qvUP5pLa4w5fVhMzcpCnT8=.png",
         "url_codice_sorgente": "https://github.com/s4nj1th/pocket-dhamma",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Atmo Engine",
+        "id_pacchetto": "com.saad_khan_rind.atmosphere_effect",
+        "riassunto": "Replicate the dynamic 'Atmosphere' unlock transition effect from Nothing OS.",
+        "categorie": [
+            "Wallpaper"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.saad_khan_rind.atmosphere_effect/en-US/icon_C8wE-1Z8NYMOkL79ljajfp-wv2VBjG8pe4B6ovu2Pv8=.png",
+        "url_codice_sorgente": "https://github.com/saad-khan-rind/nosatmosphereeffect",
         "ultimo_aggiornamento": null
     },
     {
@@ -20180,6 +20297,7 @@
         "id_pacchetto": "com.secuso.torchlight2",
         "riassunto": "(SECUSO) Torchlight app with minimal permissions (CAMERA) and no advertisement",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -20205,7 +20323,8 @@
         "riassunto": "Listen to WREK Atlanta 91.1 FM",
         "categorie": [
             "Internet",
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.selbie.wrek.9.png",
@@ -20230,6 +20349,7 @@
         "id_pacchetto": "com.series.anlight",
         "riassunto": "A simple open source flashlight app",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -20630,6 +20750,7 @@
         "id_pacchetto": "com.simplemobiletools.flashlight",
         "riassunto": "Led light controller with brightness control and customizable color, stroboscope",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -20909,6 +21030,7 @@
         "id_pacchetto": "com.softcodingforyou.touchtorch",
         "riassunto": "Control your device's flashlight with the tip of your finger",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "BSD-3-Clause",
@@ -20979,18 +21101,6 @@
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//icons/com.soyblue.bluesound.10.png",
         "url_codice_sorgente": "https://github.com/soynerdito/BlueSound",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Smile SS14",
-        "id_pacchetto": "com.spacestation14.Smile",
-        "riassunto": "Smile from Space Stastion 14 as a ANeko skin",
-        "categorie": [
-            "Theming"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.spacestation14.Smile/en-US/icon_RWZfgKKp33naPUQzNzWUhYLVqQaVWfYiUuw_u1jhLWI=.png",
-        "url_codice_sorgente": "https://codeberg.org/clearedd/aneko-ss14-smile",
         "ultimo_aggiornamento": null
     },
     {
@@ -21528,6 +21638,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.tech.estudiatai/en-US/icon_sTihu7o1nRzwfC5nPwAwjdXdomSl9IixNE4QB2XHPnw=.png",
         "url_codice_sorgente": "https://github.com/Naritsumi/EstudiaTAI-app",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Simple Audio Converter",
+        "id_pacchetto": "com.technicjelle.simple_audio_converter",
+        "riassunto": "A simple audio converter app for Android",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MPL-2.0",
+        "icona": "https://f-droid.org/repo//com.technicjelle.simple_audio_converter/en-US/icon_c3f8hOfZ5wDjtmc4Erzf3Qm-fKywPMUC3GJTszbz6so=.png",
+        "url_codice_sorgente": "https://github.com/TechnicJelle/SimpleAudioConverter",
         "ultimo_aggiornamento": null
     },
     {
@@ -22091,6 +22213,7 @@
         "id_pacchetto": "com.tobykurien.batteryfu",
         "riassunto": "Risparmio batteria",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "GPL-2.0-only",
@@ -22157,6 +22280,7 @@
         "id_pacchetto": "com.tomer.dbz.widget",
         "riassunto": "Visualizza lo stato della batteria col tuo personaggio preferito di Dragonball Z",
         "categorie": [
+            "Battery",
             "Theming"
         ],
         "licenza": "GPL-3.0-only",
@@ -22782,9 +22906,7 @@
         "id_pacchetto": "com.vadimfrolov.duorem",
         "riassunto": "Wake up or shutdown remote computer from your phone/tablet.",
         "categorie": [
-            "Internet",
-            "Multimedia",
-            "System"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.vadimfrolov.duorem/en-US/icon_KtVHEwmv0u8kgttPwTdfM5udj-WMEEKT3HsCm7YPya0=.png",
@@ -22842,13 +22964,13 @@
     {
         "nome": "Chess",
         "id_pacchetto": "com.vayunmathur.games.chess",
-        "riassunto": "An open-source chess app",
+        "riassunto": "An open-source chess app.",
         "categorie": [
             "Games"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.chess/en-US/icon_ggFFzY5ePxcC1bCBGmNvSt3ixfy0Xvc_7n0OWI7Fu1A=.png",
-        "url_codice_sorgente": "https://github.com/vayun-mathur/chess",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
     {
@@ -23056,9 +23178,8 @@
         "id_pacchetto": "com.vishaltelangre.nerdcalci",
         "riassunto": "Calculator for nerds with variables, syntax highlighting, and file sessions",
         "categorie": [
-            "Science & Education",
-            "System",
-            "Writing"
+            "Calculator",
+            "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.vishaltelangre.nerdcalci/en-US/icon_pzKMbzVYoKiPCrssa65LLyn9VFjmx790UPJ1L4_DHt0=.png",
@@ -23281,7 +23402,8 @@
         "id_pacchetto": "com.vuze.android.remote",
         "riassunto": "Gestisci clients BitTorrent",
         "categorie": [
-            "Internet"
+            "Internet",
+            "Remote Controller"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.vuze.android.remote.82.png",
@@ -23863,7 +23985,7 @@
         "id_pacchetto": "com.xrcbapp",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Internet"
+            "Radio"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.xrcbapp/en_US/icon_S44tSNMfK567t_HJPVwxfSuBrVRF_qqvkvUzZxlWPGw=.png",
@@ -24045,6 +24167,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.yubico.yubioath/en-US/icon_n1gfcqvpep4h5S24_2j1ixPAH3k3RxE08gglmBTR63c=.png",
         "url_codice_sorgente": "https://github.com/Yubico/yubioath-flutter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ruNNNpe bridge",
+        "id_pacchetto": "com.zappbrannigan34.runnnpebridge",
+        "riassunto": "Automatic bridge from NPE RUNN to Health Connect.",
+        "categorie": [
+            "Connectivity",
+            "Sports & Health"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/zappbrannigan34/ruNNNpe-bridge",
         "ultimo_aggiornamento": null
     },
     {
@@ -24965,7 +25100,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/de.blau.android.3306.png",
+        "icona": "https://f-droid.org/repo//icons/de.blau.android.3307.png",
         "url_codice_sorgente": "https://github.com/MarcusWolschon/osmeditor4android",
         "ultimo_aggiornamento": null
     },
@@ -27342,7 +27477,7 @@
         "id_pacchetto": "de.phoenixstudios.pc_dimmer",
         "riassunto": "Remote light control",
         "categorie": [
-            "Multimedia"
+            "Remote Controller"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//icons/de.phoenixstudios.pc_dimmer.5.png",
@@ -27417,7 +27552,8 @@
         "id_pacchetto": "de.qspool.clementineremote",
         "riassunto": "Music player remote control",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/de.qspool.clementineremote.759.png",
@@ -28099,6 +28235,18 @@
         "licenza": "BSD-2-Clause",
         "icona": "https://f-droid.org/repo//de.theiling.neatlauncher/en-US/icon_Co3c2UtOAmCuyBcYu3KtG4dnDLyicUi34rS_OkvCzoc=.png",
         "url_codice_sorgente": "https://github.com/moehriegitt/NeatLauncher",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Be nice",
+        "id_pacchetto": "de.thomaskuenneth.benice",
+        "riassunto": "Your friendly home app",
+        "categorie": [
+            "Launcher"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//de.thomaskuenneth.benice/en-US/icon_HVLEYGeNeb7p-S08oXOvzeiQtZwD8uRN1dmpJ7dufGs=.png",
+        "url_codice_sorgente": "https://codeberg.org/tkuenneth/benice",
         "ultimo_aggiornamento": null
     },
     {
@@ -28966,7 +29114,8 @@
         "riassunto": "Simple internet radio app",
         "categorie": [
             "Internet",
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.mateusznowak.demodulate/en-US/icon_bRcSWLUvz_f6dB4xuBnUW8GMbVpv6u_nqF-Wqsy0LEM=.png",
@@ -29262,7 +29411,7 @@
         "id_pacchetto": "dk.kjeldsen.carwingsflutter",
         "riassunto": "Controllo remoto e informazioni per la tua Nissan Leaf",
         "categorie": [
-            "Connectivity"
+            "Remote Controller"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -29365,6 +29514,7 @@
         "id_pacchetto": "dubrowgn.wattz",
         "riassunto": "A real time battery power consumption and charging indicator in your status bar",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "MIT",
@@ -29529,6 +29679,7 @@
         "id_pacchetto": "espero.jiofibatterynotifier",
         "riassunto": "Battery Notifier for JioFi Device with battery Icon in Notification and Alerts",
         "categorie": [
+            "Battery",
             "Connectivity"
         ],
         "licenza": "Apache-2.0",
@@ -30140,6 +30291,7 @@
         "id_pacchetto": "eu.roggstar.luigithehunter.batterycalibrate",
         "riassunto": "Removes old battery configurations to fix software related issues",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -31189,7 +31341,7 @@
         "id_pacchetto": "fr.odrevet.bide_et_musique",
         "riassunto": "Listen and consult the \"Bide et Musique\" web radio.",
         "categorie": [
-            "Multimedia"
+            "Radio"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//fr.odrevet.bide_et_musique/en-US/icon_ZaqqnLeDIIZsccwzJQc3AOWKiQhRvOINhnnFMF2GLl0=.png",
@@ -32311,6 +32463,7 @@
         "id_pacchetto": "in.blogspot.anselmbros.torchie",
         "riassunto": "Access LED flashlight from the Volume buttons",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "GPL-2.0-or-later",
@@ -33177,8 +33330,8 @@
         "id_pacchetto": "io.github.deprec8.enigmadroid",
         "riassunto": "Controlla facilmente la tua casella Enigma2 dal tuo dispositivo Android.",
         "categorie": [
-            "Connectivity",
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.deprec8.enigmadroid/en-US/icon_61Y2s2kDmWKyr3NlE_Z-fxzCWZCLzq3mEmEsMSvLhAA=.png",
@@ -33303,8 +33456,7 @@
         "id_pacchetto": "io.github.domi04151309.home",
         "riassunto": "A little smart home app for Philips Hue, Arduino and other devices",
         "categorie": [
-            "Connectivity",
-            "Internet"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.domi04151309.home/en-US/icon_BJqveswW4aBpIv20cMeE450SOCqst94IgvPSqtVBQ_8=.png",
@@ -34197,7 +34349,8 @@
         "id_pacchetto": "io.github.scovillo.playondlna",
         "riassunto": "Play Youtube videos ad-free on DLNA players (e.g. Kodi) in your local network!",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.scovillo.playondlna/de-DE/icon_RCEUzcK3bWaHnP9HJhREc8p24qWhZAWl-IOIUdpR9T8=.png",
@@ -35222,7 +35375,7 @@
         "id_pacchetto": "io.treehouses.remote",
         "riassunto": "Communicate with headless Raspberry Pi mobile server running treehouses image vi",
         "categorie": [
-            "Connectivity"
+            "Remote Controller"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.treehouses.remote/en-US/icon_k2d1vGGI6o__EbJNuXHotOr8iHjngG90E7-YYHaV4DU=.png",
@@ -35318,9 +35471,7 @@
         "id_pacchetto": "ir.remote.edifier.rc10d1",
         "riassunto": "Unofficial remote control for Edifier R2730DB speakers",
         "categorie": [
-            "Connectivity",
-            "Multimedia",
-            "Phone & SMS"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//ir.remote.edifier.rc10d1/en-US/icon_qHcZkKB-g1hhNi6avIFxFhac195o4qpvBj5fJ0k1upI=.png",
@@ -35332,9 +35483,7 @@
         "id_pacchetto": "ir.remote.edifier.rc10e",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Connectivity",
-            "Multimedia",
-            "Phone & SMS"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//ir.remote.edifier.rc10e/en-US /icon_qHcZkKB-g1hhNi6avIFxFhac195o4qpvBj5fJ0k1upI=.png",
@@ -35346,9 +35495,7 @@
         "id_pacchetto": "ir.remote.edifier.rc18a",
         "riassunto": "Unofficial remote control for Edifier R1855DB speakers",
         "categorie": [
-            "Connectivity",
-            "Multimedia",
-            "Phone & SMS"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//ir.remote.edifier.rc18a/en-US/icon_qHcZkKB-g1hhNi6avIFxFhac195o4qpvBj5fJ0k1upI=.png",
@@ -36391,6 +36538,7 @@
         "id_pacchetto": "mattecarra.accapp",
         "riassunto": "AccA empowers users to have full control over the device charge cycle.",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -36556,7 +36704,8 @@
         "id_pacchetto": "me.echeung.moemoekyun.fdroid",
         "riassunto": "Listen to j-pop and anime music radio 24/7 ad-free",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//me.echeung.moemoekyun.fdroid/en-US/icon_ogfCVMXWZkVqVSqa6dorG0b2k8Hh_7u5HuNx93RNsz0=.png",
@@ -37102,8 +37251,8 @@
         "id_pacchetto": "miccah.mpvremote",
         "riassunto": "Android application to control mpv running on another computer.",
         "categorie": [
-            "Connectivity",
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -37152,7 +37301,8 @@
         "id_pacchetto": "mkg20001.net.samremote",
         "riassunto": "Semplice telecomando Wi-Fi per TV Samsung",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -38711,7 +38861,8 @@
         "riassunto": "Scopri e ascolta in streaming le radio su Internet",
         "categorie": [
             "Internet",
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -38749,9 +38900,9 @@
         "id_pacchetto": "net.reichholf.dreamdroid",
         "riassunto": "Control and streaming client for enigma2 based dreamboxes",
         "categorie": [
-            "Connectivity",
             "Local Media Player",
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.reichholf.dreamdroid/en-US/icon_a0VhuJOQ_SS9V-1fOL2MAJzrUUDvxQXmmHqW_QtKOKg=.png",
@@ -38891,6 +39042,7 @@
         "id_pacchetto": "net.sf.andbatdog.batterydog",
         "riassunto": "Registratore del livello della batteria",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "GPL-2.0-or-later",
@@ -39002,7 +39154,8 @@
         "id_pacchetto": "net.sourceforge.wifiremoteplay",
         "riassunto": "Media remote control",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/net.sourceforge.wifiremoteplay.9.png",
@@ -40579,7 +40732,7 @@
         "id_pacchetto": "org.basic.lg",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Connectivity"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -40591,6 +40744,7 @@
         "id_pacchetto": "org.bc_bd.mrwhite",
         "riassunto": "Bright-screen torch",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "GPL-2.0-only",
@@ -40817,7 +40971,8 @@
         "id_pacchetto": "org.billthefarmer.shorty",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.shorty/en-GB/icon_993kgmAR_Z135n1GqS3mKX2COgUfqrZZncA8JDMiQB8=.png",
@@ -42007,7 +42162,7 @@
         "id_pacchetto": "org.equeim.tremotesf",
         "riassunto": "Client BitTorrent di trasmissione a controllo remoto",
         "categorie": [
-            "Internet"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.equeim.tremotesf/en-US/icon_vMlOCw2hTrM2qE7knTmEB_rO11iIZ2DOonzNjY2N6io=.png",
@@ -42846,7 +43001,8 @@
         "id_pacchetto": "org.gmote.client.android",
         "riassunto": "Telecomando",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.gmote.client.android.5.png",
@@ -43423,6 +43579,7 @@
         "id_pacchetto": "org.jfedor.nxtremotecontrol",
         "riassunto": "Control Lego robots",
         "categorie": [
+            "Remote Controller",
             "Science & Education"
         ],
         "licenza": "Apache-2.0",
@@ -43655,6 +43812,7 @@
         "riassunto": "KDE Connect integrates your smartphone and computer",
         "categorie": [
             "File Transfer",
+            "Remote Controller",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -43919,7 +44077,7 @@
         "id_pacchetto": "org.libreoffice.impressremote",
         "riassunto": "Controllo remoto per presentazioni",
         "categorie": [
-            "Connectivity"
+            "Remote Controller"
         ],
         "licenza": "MPL-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -44600,7 +44758,7 @@
         "id_pacchetto": "org.mythdroid",
         "riassunto": "MythTV remote control system",
         "categorie": [
-            "Multimedia"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.mythdroid.63.png",
@@ -44772,6 +44930,7 @@
         "riassunto": "Another Universal IR remote: Hex/Raw, Flipper Zero, LIRC, IRPlus + Signal Tester",
         "categorie": [
             "Multimedia",
+            "Remote Controller",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -44908,7 +45067,8 @@
         "riassunto": "RadioWave gives you access to 50,000+ internet radio stations worldwide.",
         "categorie": [
             "Internet",
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.onedroid.radiowave/en-US/icon_RCoOjX_7-vLfSM3XTiWKXPINQCwNfP7YeLLKYQxnAj4=.png",
@@ -44918,7 +45078,7 @@
     {
         "nome": "KashCal",
         "id_pacchetto": "org.onekash.kashcal",
-        "riassunto": "All your calendars in one app. iCloud, CalDAV, holidays, birthdays. Private.",
+        "riassunto": "All your calendars in one app. iCloud, CalDAV, device, ICS. Private.",
         "categorie": [
             "Calendar & Agenda"
         ],
@@ -46709,7 +46869,7 @@
         "id_pacchetto": "org.smblott.intentradio",
         "riassunto": "Lettore radio internet intent-driven",
         "categorie": [
-            "Internet"
+            "Radio"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/org.smblott.intentradio.21.png",
@@ -46813,7 +46973,7 @@
         "id_pacchetto": "org.staacks.alpharemote",
         "riassunto": "Bluetooth remote for Sony Alpha Cameras",
         "categorie": [
-            "Connectivity"
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.staacks.alpharemote/de/icon_3AelCktcwAsTW-Cqng9dxgXX2C6JUamMH6TIcibbqp4=.png",
@@ -47057,7 +47217,7 @@
         "id_pacchetto": "org.talkingpanda.osram_remote",
         "riassunto": "An app to turn your phone into a remote for lights",
         "categorie": [
-            "Connectivity"
+            "Remote Controller"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//org.talkingpanda.osram_remote/en-US/icon_0humjzaEE0brFeRs89e3N3bm_YmYFOP5chl_pkReQ4k=.png",
@@ -47381,7 +47541,8 @@
         "id_pacchetto": "org.tunesremote",
         "riassunto": "DACP remote control",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.tunesremote.253.png",
@@ -47612,6 +47773,7 @@
         "id_pacchetto": "org.wbftw.weil.sos_flashlight",
         "riassunto": "Turn your phone into a Morse code device, to transmit emergency messages.",
         "categorie": [
+            "Flashlight",
             "Messaging"
         ],
         "licenza": "GPL-3.0-only",
@@ -47988,7 +48150,7 @@
         "id_pacchetto": "org.xbmc.kore",
         "riassunto": "Kore, Official Remote for Kodi",
         "categorie": [
-            "Multimedia"
+            "Remote Controller"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.xbmc.kore/en-US/icon_yHTeBW4jt4FZGjqI-4yUMsn7sdJniQRXICkoM3qGFXA=.png",
@@ -48100,7 +48262,8 @@
         "id_pacchetto": "org.y20k.transistor",
         "riassunto": "Transistor è un'applicazione per ascoltare le stazioni radio su Internet.",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.y20k.transistor/en-US/icon_XnM_HqswaEhC6q8FE0MZj_v9uWdubb9cv_3kbE4T25M=.png",
@@ -48920,6 +49083,7 @@
         "id_pacchetto": "rino.org.tethercompanion",
         "riassunto": "Visualizza il livello della batteria e la modalità di rete su un server web",
         "categorie": [
+            "Battery",
             "Connectivity"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -48981,9 +49145,8 @@
         "id_pacchetto": "ro.radioromaniaactualitati.podcasts",
         "riassunto": "Play the latest podcasts from Radio România.",
         "categorie": [
-            "Internet",
-            "Multimedia",
-            "Podcast"
+            "Podcast",
+            "Radio"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//ro.radioromaniaactualitati.podcasts/en-US/icon_B3bfursDI8_7dCn-Ns00WNO7PSCJkyF9MpIgE21tXMw=.png",
@@ -49032,6 +49195,7 @@
         "id_pacchetto": "rocks.poopjournal.flashy",
         "riassunto": "Simple and Privacy-Friendly Flashlight App",
         "categorie": [
+            "Flashlight",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -49395,7 +49559,8 @@
         "id_pacchetto": "ru.natsuru.websdr",
         "riassunto": "OnlineSDR receiver",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//ru.natsuru.websdr/en-US/icon_m9jGEc6rsXzPQst0a5Rx8uf_dL-0I54VMOHCYJ2DZg8=.png",
@@ -49609,6 +49774,7 @@
         "id_pacchetto": "s1m.savertuner",
         "riassunto": "Extension to the built-in Android Battery Saver",
         "categorie": [
+            "Battery",
             "System"
         ],
         "licenza": "BSD-2-Clause",
@@ -50275,7 +50441,8 @@
         "id_pacchetto": "starcom.snd",
         "riassunto": "Riproduci canali radio dal web e aggiungi canali personalizzati",
         "categorie": [
-            "Connectivity"
+            "Connectivity",
+            "Radio"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//starcom.snd/en-US/icon_rEQq5teFqHNbcL7PM9PB6yB4jTRLUX58bOxWzHlN4Ds=.png",
@@ -50700,7 +50867,7 @@
         "id_pacchetto": "tkj.android.homecontrol.mythmote",
         "riassunto": "MythTV interfaccia di controllo di frontend.",
         "categorie": [
-            "Multimedia"
+            "Remote Controller"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//icons/tkj.android.homecontrol.mythmote.3014.png",
@@ -51247,7 +51414,8 @@
         "id_pacchetto": "uk.org.ngo.squeezer",
         "riassunto": "Remote control for Lyrion Music Server and players.",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Radio"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//uk.org.ngo.squeezer/en-US/icon_aV_5RzYdJ8B3aNOFEkDGCgT2rySswXrmsjrCl-Bc_ek=.png",
@@ -51395,7 +51563,8 @@
         "id_pacchetto": "us.spotco.ir_remote",
         "riassunto": "Telecomando a infrarossi per la TV",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//us.spotco.ir_remote/en-US/icon_YTFyFmRDXZA-QmXW5Ztuau27oW_k1gX4VDI1Ayjsf1o=.png",
@@ -51657,7 +51826,7 @@
         "id_pacchetto": "wseemann.media.romote",
         "riassunto": "Telecomando di Roku",
         "categorie": [
-            "Multimedia"
+            "Remote Controller"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
