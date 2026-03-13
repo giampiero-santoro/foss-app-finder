@@ -460,7 +460,7 @@
     {
         "nome": "CastLab",
         "id_pacchetto": "app.fedilab.castlab",
-        "riassunto": "CastLab: Cast gallery media to DLNA/UPnP devices with playlist support",
+        "riassunto": "Cast your media to DLNA/UPnP and FCast devices",
         "categorie": [
             "Gallery",
             "Local Media Player",
@@ -12850,9 +12850,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Hisn Elmoslem",
+        "nome": "Hisn Elmoslem - Azkar & Dua",
         "id_pacchetto": "com.hassaneltantawy.hisnelmoslem",
-        "riassunto": "You favourite app to azkar.",
+        "riassunto": "Comprehensive Azkar & Dua app from Hisn Elmoslem.",
         "categorie": [
             "Reading"
         ],
@@ -14007,7 +14007,7 @@
     {
         "nome": "Hacki for Hacker News",
         "id_pacchetto": "com.jiaqifeng.hacki",
-        "riassunto": "Hacki is a simple noiseless Hacker News client that is just enough.",
+        "riassunto": "An open-source Hacker News client.",
         "categorie": [
             "Forum",
             "Internet",
@@ -17249,6 +17249,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.nfcalarmclock/en-US/icon_6daA89N1TIb1DI5jcVke-47OBb-xVEdET_eS4LLtLAs=.png",
         "url_codice_sorgente": "https://github.com/gabeg805/NFC-Alarm-Clock",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "NFC Archiver",
+        "id_pacchetto": "com.nfcarchiver.nfc_archiver",
+        "riassunto": "Store and restore files across multiple NFC tags",
+        "categorie": [
+            "Connectivity",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.nfcarchiver.nfc_archiver/android/icon_Re_Z-tkMvLNCItDMjG-ljPb8h6_UDDl2QEfSlYSTWsU=.png",
+        "url_codice_sorgente": "https://github.com/mezinster/nfcarchiver",
         "ultimo_aggiornamento": null
     },
     {
@@ -20642,7 +20655,7 @@
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.sigmarelax.doitoscihub.3.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://gitlab.com/sigmarelax/doi_to_scihub",
         "ultimo_aggiornamento": null
     },
@@ -27290,7 +27303,7 @@
             "Password & 2FA",
             "Security"
         ],
-        "licenza": "GPL-3.0-only",
+        "licenza": "EUPL-1.2",
         "icona": "https://f-droid.org/repo//de.noisruker.openPasskeyAuth/de-DE/icon_hTh_8n4c2yTARmQngid6arG3FUvuWATlzlPMLQKATMQ=.png",
         "url_codice_sorgente": "https://git.noisruker.de/Juhu1705/open-passkey-authenticator",
         "ultimo_aggiornamento": null
@@ -29220,7 +29233,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.octoshrimpy.quik.fdroid/en-US/icon_kCgyQXnGa9pHI__viPizeSnseNk7WMXDxmm9UTU27fo=.png",
-        "url_codice_sorgente": "https://github.com/octoshrimpy/quik",
+        "url_codice_sorgente": "https://github.com/quik-sms/quik",
         "ultimo_aggiornamento": null
     },
     {
