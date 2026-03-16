@@ -419,7 +419,7 @@
     {
         "nome": "DumDum",
         "id_pacchetto": "app.dumdum",
-        "riassunto": "Simple client for SOCKS/HTTP/HTTPS proxies",
+        "riassunto": "Simple VPN over SOCKS/HTTP/HTTPS proxy",
         "categorie": [
             "Connectivity",
             "Internet",
@@ -685,6 +685,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.myzel394.alibi/en-US/icon_g-3seR8BJesN3Bdli3Qk1XgYFAzuf_e4NlFNGBz_3Lc=.png",
         "url_codice_sorgente": "https://github.com/Myzel394/Alibi",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "NoteSR - Encrypted Notes",
+        "id_pacchetto": "app.notesr",
+        "riassunto": "Secure offline notes with AES-256 encryption and encrypted file attachments.",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//app.notesr/en-US/icon_BJHtemZiJvpgz4SnR9SHum0it0CtvOQHcJR7U_JfVXM=.png",
+        "url_codice_sorgente": "https://github.com/zHd4/NoteSR",
         "ultimo_aggiornamento": null
     },
     {
@@ -13493,7 +13505,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8290 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8294 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -13637,7 +13649,7 @@
             "Games"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.itsfrz.tictactoe/en-US/icon_sxEoCR-4r0pz-2PjBc8weyAVhdF3xTT_9n63OQxE63Y=.png",
         "url_codice_sorgente": "https://github.com/Itsfrz/TicTacToe",
         "ultimo_aggiornamento": null
     },
@@ -14382,7 +14394,7 @@
     {
         "nome": "Todo",
         "id_pacchetto": "com.k.todo",
-        "riassunto": "Offline, secure, To-Do and Notes app with encrypted storage, fingerprint lock",
+        "riassunto": "Secure offline To-Do & Notes with biometric lock.",
         "categorie": [
             "Note",
             "Task",
@@ -14540,7 +14552,7 @@
             "Games"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.karin.idTech4Amm/en-US/icon_BvKh_WeF9ci4e_eaabgXjtyYdx6cnoDuHXXg_A5aUFE=.png",
+        "icona": "https://f-droid.org/repo//com.karin.idTech4Amm/en-US/icon_Fn4yyH86SSWeSRD9RBXqRuYTi6bWIFwuZp1MQYUpdes=.png",
         "url_codice_sorgente": "https://github.com/glKarin/com.n0n3m4.diii4a",
         "ultimo_aggiornamento": null
     },
@@ -19289,7 +19301,7 @@
     {
         "nome": "Quitter",
         "id_pacchetto": "com.quitter.app",
-        "riassunto": "Give up on addictions and become a Quitter",
+        "riassunto": "Science-backed milestones to help you quit for good",
         "categorie": [
             "Habit Tracker",
             "Sports & Health"
@@ -24118,6 +24130,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.yepgoryo.CaptureCap/en-US/icon_RNoeN1UIc2LfP3maIkifINMg5F3VawqiaAaMTivlwm8=.png",
         "url_codice_sorgente": "https://github.com/yepgoryo/CaptureCap",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Water Quality",
+        "id_pacchetto": "com.yinmik.waterquality",
+        "riassunto": "Monitor pool and hot tub water quality with a BLE-YC01 Bluetooth sensor",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-2.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://gitlab.com/hc51t/WaterQualityApp",
         "ultimo_aggiornamento": null
     },
     {
@@ -29005,7 +29029,7 @@
     {
         "nome": "Photok",
         "id_pacchetto": "dev.leonlatsch.photok",
-        "riassunto": "Encrypt images and videos on your device.",
+        "riassunto": "Private Photo Vault, Hide Photos & Videos.",
         "categorie": [
             "Gallery",
             "Security"
@@ -30113,7 +30137,7 @@
             "VPN & Proxy"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//eu.neilalexander.yggdrasil/en-US/icon_vc0gd3Hl16KqXoUT0GTVKWB-h8seRo8T3-oHbKje1Y8=.png",
         "url_codice_sorgente": "https://github.com/yggdrasil-network/yggdrasil-android",
         "ultimo_aggiornamento": null
     },
@@ -32604,7 +32628,7 @@
             "Ebook Reader",
             "Reading"
         ],
-        "licenza": "GPL-3.0-only",
+        "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//indi.dmzz_yyhyy.lightnovelreader/en-US/icon_tyxxRhTyQ5wz7aulHntDBv06GUWklOU_n0t9PmcNkQo=.png",
         "url_codice_sorgente": "https://github.com/dmzz-yyhyy/LightNovelReader",
         "ultimo_aggiornamento": null
@@ -33472,7 +33496,7 @@
             "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.github.domi04151309.home/en-US/icon_BJqveswW4aBpIv20cMeE450SOCqst94IgvPSqtVBQ_8=.png",
+        "icona": "https://f-droid.org/repo//io.github.domi04151309.home/en-US/icon_b0rub6oFbSGBb78_JJnGMHpP87dbFH53My5SK2W7iPI=.png",
         "url_codice_sorgente": "https://github.com/Domi04151309/HomeApp",
         "ultimo_aggiornamento": null
     },
@@ -41454,6 +41478,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FinalRozGameNew",
+        "id_pacchetto": "org.codeberg.rozworld.finalrozgamenew",
+        "riassunto": "A pixel art 2D speedrun platformer featuring 17 levels and isometric mechanics.",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//org.codeberg.rozworld.finalrozgamenew/en-US/icon_421INBdnLCmG60M5pWFomPibWtFN_N3188ao4GOrzaI=.png",
+        "url_codice_sorgente": "https://codeberg.org/rozworld/final-roz-game-new",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Donate your voice: CV Project",
         "id_pacchetto": "org.commonvoice.saverio",
         "riassunto": "This app permits you to contribute to Common Voice from your smartphone.",
@@ -47337,6 +47373,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.thayyil.ringdroid/en-US/icon_7B61Hzck2pQi9qh3anKRws9cRwivZ2Cy1kw-VqwPUjc=.png",
         "url_codice_sorgente": "https://github.com/althafvly/ringdroid",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Fairphone Moments",
+        "id_pacchetto": "org.thayyil.spring.launcher",
+        "riassunto": "Fairphone Moments a minimalist way to use your phone with less distraction.",
+        "categorie": [
+            "Launcher",
+            "System"
+        ],
+        "licenza": "EUPL-1.2",
+        "icona": "https://f-droid.org/repo//org.thayyil.spring.launcher/en-US/icon_-FhWC3BiciLKn5fCb_H0NaVGp8QrPD88wqvnqK68-P8=.png",
+        "url_codice_sorgente": "https://github.com/althafvly/fairphone-moments",
         "ultimo_aggiornamento": null
     },
     {
