@@ -915,6 +915,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SmartTube f-droid",
+        "id_pacchetto": "app.smarttube.fdroid",
+        "riassunto": "Browse media content with your own rules on Android TV",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//app.smarttube.fdroid/en-US/icon_KnwIO7D77ElCWoxdIRGY0Z7FNkWDZWDXc_gIIgIBVGA=.png",
+        "url_codice_sorgente": "https://github.com/yuliskov/SmartTube",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "FOSS4G 2024 Schedule",
         "id_pacchetto": "app.smarzaro.foss4g2024.schedule",
         "riassunto": "Conference program app for the FOSS4G 2024 conference in Belém, Brazil",
@@ -7148,7 +7160,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.cliambrown.pilltime/en-US/icon_oMcpNaepFneyFRKhLHVgqM86tXUvZnUr7UTho2Kr32c=.png",
+        "icona": "https://f-droid.org/repo//com.cliambrown.pilltime/en-US/icon_IszWnkURJO16saLIByuD4UuE-wL0ZSoA-9w8un4aRp4=.png",
         "url_codice_sorgente": "https://github.com/cliambrown/PillTime",
         "ultimo_aggiornamento": null
     },
@@ -13505,7 +13517,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8294 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8298 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -14629,7 +14641,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.kgurgul.cpuinfo/en-US/icon_Ua_e7Jopk5-yU1EtDy3ja_2KHixbjWyxYV3ozAcW68c=.png",
         "url_codice_sorgente": "https://github.com/kamgurgul/cpu-info",
         "ultimo_aggiornamento": null
     },
@@ -17272,7 +17284,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.nfcarchiver.nfc_archiver/android/icon_Re_Z-tkMvLNCItDMjG-ljPb8h6_UDDl2QEfSlYSTWsU=.png",
+        "icona": "https://f-droid.org/repo//com.nfcarchiver.nfc_archiver/en-US/icon_Re_Z-tkMvLNCItDMjG-ljPb8h6_UDDl2QEfSlYSTWsU=.png",
         "url_codice_sorgente": "https://github.com/mezinster/nfcarchiver",
         "ultimo_aggiornamento": null
     },
@@ -38656,6 +38668,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Blue Line Solar Info",
+        "id_pacchetto": "net.nhiroki.bluelinesolarinfo",
+        "riassunto": "Sun & moon information",
+        "categorie": [
+            "Time"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//net.nhiroki.bluelinesolarinfo/en-US/icon_w1QCQB52JR34-tk6jI5tLUkcgQyAhP-x3CUR2xXdJVo=.png",
+        "url_codice_sorgente": "https://github.com/nhirokinet/bluelinesolarinfo",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Blue Square Speedometer",
         "id_pacchetto": "net.nhiroki.bluesquarespeedometer",
         "riassunto": "Simple speedometer & GPS viewer",
@@ -40898,7 +40922,7 @@
             "Money"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.billthefarmer.currency/en-GB/icon_2qO5mwzXCxm7YM7XZsJZ1VOG-wQThqXjRxgRYnisIyM=.png",
+        "icona": "https://f-droid.org/repo//org.billthefarmer.currency/en/icon_2qO5mwzXCxm7YM7XZsJZ1VOG-wQThqXjRxgRYnisIyM=.png",
         "url_codice_sorgente": "https://github.com/billthefarmer/currency",
         "ultimo_aggiornamento": null
     },
@@ -45076,13 +45100,13 @@
     {
         "nome": "PAIesque",
         "id_pacchetto": "org.ojrandom.paiesque",
-        "riassunto": "A transparent, device-agnostic cardiovascular fitness and RHR tracker.",
+        "riassunto": "A transparent, device-agnostic cardiovascular fitness tracker and analyzer",
         "categorie": [
             "Connectivity",
             "Sports & Health"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//org.ojrandom.paiesque/de/icon_QvTkbj4fb8k84vQxrHC6neycGn77r5NiSOMZR_rY00U=.png",
+        "icona": "https://f-droid.org/repo//org.ojrandom.paiesque/en-US/icon_QvTkbj4fb8k84vQxrHC6neycGn77r5NiSOMZR_rY00U=.png",
         "url_codice_sorgente": "https://codeberg.org/ojrandom/paiesque",
         "ultimo_aggiornamento": null
     },
@@ -50135,6 +50159,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//sh.ftp.rocketninelabs.meditationassistant.opensource/en-US/icon_Q4W1bwqqvfns4pz1lvtszKuYqBC4BewcHdu5SqfaobE=.png",
         "url_codice_sorgente": "https://codeberg.org/tslocum/meditationassistant",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Haven SSH Client",
+        "id_pacchetto": "sh.haven.app",
+        "riassunto": "Secure SSH terminal, VNC desktop, and SFTP client for Android",
+        "categorie": [
+            "Internet",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//sh.haven.app/en-US/icon_LN6q1UmY12e43FRREfbludKIktao3C0SORIraZwh03k=.png",
+        "url_codice_sorgente": "https://github.com/GlassOnTin/Haven",
         "ultimo_aggiornamento": null
     },
     {
