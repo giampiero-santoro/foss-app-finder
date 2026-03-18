@@ -14081,14 +14081,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "LibreFind",
+        "nome": "LibreFind - Find FOSS Alternatives",
         "id_pacchetto": "com.jksalcedo.librefind",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "Discover and replace proprietary apps with FOSS alternatives",
         "categorie": [
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.jksalcedo.librefind/en-US/icon_ZZHMoM14ZHD8RiNcDRKLxQ7B_Z6RS7aGW8gn6zoTYZc=.png",
         "url_codice_sorgente": "https://github.com/jksalcedo/librefind",
         "ultimo_aggiornamento": null
     },
@@ -21349,6 +21349,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Homer Audio Player for Seniors",
+        "id_pacchetto": "com.studio4plus.homerplayer2",
+        "riassunto": "Caregiver-managed audiobook and podcast player for seniors",
+        "categorie": [
+            "Local Media Player",
+            "Multimedia",
+            "Podcast"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.studio4plus.homerplayer2/en-US/icon_UMuRRR2sxoox6k_QSMPe-CoXa6s9QaGsI3rnMPInulI=.png",
+        "url_codice_sorgente": "https://github.com/msimonides/homerplayer2",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Quadermas",
         "id_pacchetto": "com.stypox.mastercom_workbook",
         "riassunto": "View school marks, topics, timetable",
@@ -22556,7 +22570,7 @@
     {
         "nome": "Cfait",
         "id_pacchetto": "com.trougnouf.cfait",
-        "riassunto": "Powerful, fast and elegant TODO / task manager. (CalDAV and local)",
+        "riassunto": "Gestore di attività / TODO potente, veloce ed elegante. (CalDAV e locale)",
         "categorie": [
             "Task"
         ],
