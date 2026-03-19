@@ -915,7 +915,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "SmartTube f-droid",
+        "nome": "SmartTube F-Droid",
         "id_pacchetto": "app.smarttube.fdroid",
         "riassunto": "Browse media content with your own rules on Android TV",
         "categorie": [
@@ -5563,7 +5563,7 @@
     {
         "nome": "Episteme Reader",
         "id_pacchetto": "com.aryan.reader.oss",
-        "riassunto": "A document reader for PDF, EPUB, and MOBI",
+        "riassunto": "A document reader for PDF and E-Books",
         "categorie": [
             "Ebook Reader"
         ],
@@ -10997,6 +10997,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ELM327 Emulator",
+        "id_pacchetto": "com.github.autodiag2.elm327emu",
+        "riassunto": "OBD-II ELM327 adapter emulator for testing diagnostic apps",
+        "categorie": [
+            "Development"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.github.autodiag2.elm327emu/en-US/icon_4NYRObw_0y9doTjEx7a17DIVNmBN7qEFhI6oRqPs6B4=.png",
+        "url_codice_sorgente": "https://github.com/autodiag2/ELM327SimAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Cache Cleaner",
         "id_pacchetto": "com.github.bmx666.appcachecleaner",
         "riassunto": "Clean cache of installed user and system apps using Accessibility",
@@ -13517,7 +13529,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8298 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8302 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -15805,12 +15817,12 @@
     {
         "nome": "RF Analyzer (FOSS)",
         "id_pacchetto": "com.mantz_it.rfanalyzer",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "Analyze RF signals on Android with HackRF, RTL-SDR, Airspy and HydraSDR.",
         "categorie": [
             "Science & Education"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.mantz_it.rfanalyzer/en-US/icon_fcJiDSQbIauZY6uGQHVbeuPkGuW_IQp31fSOyBGnMqM=.png",
         "url_codice_sorgente": "https://github.com/demantz/RFAnalyzer",
         "ultimo_aggiornamento": null
     },
@@ -27986,6 +27998,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "CountryCount",
+        "id_pacchetto": "de.sipa.countrycount",
+        "riassunto": "Track countries, visualize your progress, and explore where you’re going next.",
+        "categorie": [
+            "Navigation"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.sipa.countrycount/en-US/icon_v4J9K789xkXy1STsW8OgwjMZ8jwm-dmvIWvUql2GRak=.png",
+        "url_codice_sorgente": "https://codeberg.org/si-pa/countrycount/",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "FingerList",
         "id_pacchetto": "de.sirjofri.fingerlist",
         "riassunto": "Finger client in a list format, suitable for microblogging and status messages.",
@@ -28702,7 +28726,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//dev.alexjyong.babbypaint/en-US/icon_ro2NuGDUjasjb8UZ1WgSZBpn0y3j-BUr46x_bTzlC_4=.png",
+        "icona": "https://f-droid.org/repo//dev.alexjyong.babbypaint/en-US/icon_h8CJkP36uO_3HK3ZoTeN3rWD6qPWpFsJOOxatmCmHzA=.png",
         "url_codice_sorgente": "https://github.com/alexjyong/BabbyPaint/",
         "ultimo_aggiornamento": null
     },
@@ -33928,6 +33952,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Fokus Launcher",
+        "id_pacchetto": "io.github.luantak.fokuslauncher",
+        "riassunto": "Minimal launcher with clock, weather, fast app search, and gesture navigation.",
+        "categorie": [
+            "Launcher",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.luantak.fokuslauncher/en-US/icon_VtIrhx3eXBtWwCkMC-8FgdwJZJ65KpdGrLtcySoDomg=.png",
+        "url_codice_sorgente": "https://github.com/luantak/FokusLauncher",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Lona",
         "id_pacchetto": "io.github.lufte.lona",
         "riassunto": "Un gioco simile a snake in HTML5",
@@ -35268,6 +35305,20 @@
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/Nightdavisao/MultiLocale",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Olvid",
+        "id_pacchetto": "io.olvid.messenger.nogoogle",
+        "riassunto": "Private messaging for everyone",
+        "categorie": [
+            "Messaging",
+            "Security",
+            "Voice & Video Chat"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.olvid.messenger.nogoogle/en-US/icon_oHqnpeuAFaZhojetHjGEL_mEPzdkxLrCnesXfYiQYsk=.png",
+        "url_codice_sorgente": "https://github.com/olvid-io/olvid-android",
         "ultimo_aggiornamento": null
     },
     {
