@@ -13741,6 +13741,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "iyox Wormhole",
+        "id_pacchetto": "com.iyox.wormhole",
+        "riassunto": "Secure, open-source file sharing",
+        "categorie": [
+            "File Transfer",
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.iyox.wormhole/de-DE/icon_D9oWdfHmjsf0b7O52v-dPlWrzpTLCHFS6o0aSzU0mSM=.png",
+        "url_codice_sorgente": "https://github.com/iyox-studios/iyox-Wormhole",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "IYPS",
         "id_pacchetto": "com.iyps",
         "riassunto": "Evaluate passwords, predict crack times, and get tips for stronger passwords.",
@@ -18513,6 +18526,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.pennywiseai.tracker/en-US/icon_bfpqJGHLJvoAMJWexCvzG4dbdtHObNS7an0Y38ZLaN0=.png",
         "url_codice_sorgente": "https://github.com/sarim2000/pennywiseai-tracker",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Baker's Percentage Calculator",
+        "id_pacchetto": "com.pep1lo.bakerspercentagecalculator",
+        "riassunto": "Calculate baker's percentages and scale recipes with ease.",
+        "categorie": [
+            "Recipe Manager"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.pep1lo.bakerspercentagecalculator/en-US/icon_NeZ454seQa26B7OjZ4SVLi5RnXE_IuSOnI_HZE2Tcys=.png",
+        "url_codice_sorgente": "https://github.com/alvaromrod/Bakers-percentage-calculator",
         "ultimo_aggiornamento": null
     },
     {
