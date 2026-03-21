@@ -27475,14 +27475,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "ShiftCal",
+        "nome": "ShiftSwift",
         "id_pacchetto": "de.nulide.shiftcal",
-        "riassunto": "Shift Calendar",
+        "riassunto": "A smart shift calendar",
         "categorie": [
             "Time"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//de.nulide.shiftcal/en-US/icon_EZNqtCGRrh3KC_4VOmglcIgzDG86Gx2k1utWPx1UWXg=.png",
         "url_codice_sorgente": "https://gitlab.com/Nulide/ShiftCal",
         "ultimo_aggiornamento": null
     },
@@ -35700,7 +35700,7 @@
             "Messaging"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//it.belloworld.mercurygram/en-US/icon_7k9sjjv5Y4OobC50g3c7kw7sHzkZ9LgnYqsjBH0ZNWs=.png",
         "url_codice_sorgente": "https://github.com/Mercurygram/Mercurygram",
         "ultimo_aggiornamento": null
     },
