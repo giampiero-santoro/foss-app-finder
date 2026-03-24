@@ -105,8 +105,7 @@
         "id_pacchetto": "ademar.textlauncher",
         "riassunto": "A lightweight Android Launcher.",
         "categorie": [
-            "Launcher",
-            "Theming"
+            "Launcher"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//ademar.textlauncher/en-US/icon_DPmc5b9QDumIkpnwiWKZO1BlAdeqG65-uZwvsfzyCQI=.png",
@@ -253,8 +252,7 @@
         "riassunto": "Launcher3 con le caratteristiche di Pixel Launcher",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/amirz.rootless.nexuslauncher.30911.png",
@@ -359,8 +357,7 @@
         "categorie": [
             "Launcher",
             "Navigation",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.clauncher/en-US/icon_lKoCE6zNT9WAhHmysXDGOqkWQyL1mAW-rlQ70T7-WBk=.png",
@@ -436,8 +433,7 @@
         "riassunto": "EasyLauncher - Minimal and Clutter Free Android launcher",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.easy.launcher/en-US/icon_ji6B5KIbP2H1hr4njp36Hq5w4x371oQ4iJtRCx98PoE=.png",
@@ -653,8 +649,7 @@
         "riassunto": "Multi Launcher ‧ Home Screen",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.mlauncher/en-US/icon_NODpJCpHaoNnvtvk0kYpHNtjGAC5JcTTv-xirNe8wGU=.png",
@@ -704,8 +699,7 @@
         "id_pacchetto": "app.olauncher",
         "riassunto": "Minimal launcher app with daily new wallpaper",
         "categorie": [
-            "Launcher",
-            "Theming"
+            "Launcher"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.olauncher/en-US/icon_dC7NX4YV3a8I-l_I9f4YUmeWYIdKAcVcU_0G4LaZnHw=.png",
@@ -717,8 +711,7 @@
         "id_pacchetto": "app.olaunchercf",
         "riassunto": "Forked from Olauncher, -clutter, +features",
         "categorie": [
-            "Launcher",
-            "Theming"
+            "Launcher"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.olaunchercf/en-US/icon_0VMQFS1jYk5ZiG8YaqssjlWs_An483jyDGagEyTzS50=.png",
@@ -894,7 +887,6 @@
         "id_pacchetto": "app.simple.peri",
         "riassunto": "Simple wallpaper manager app with Auto Wallpaper and Multi Folder support.",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -1689,7 +1681,7 @@
         "id_pacchetto": "be.ppareit.shutdown",
         "riassunto": "Finestra di spegnimento",
         "categorie": [
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/be.ppareit.shutdown.10201.png",
@@ -2220,7 +2212,6 @@
         "riassunto": "French Revolutionary calendar widget",
         "categorie": [
             "Calendar & Agenda",
-            "Theming",
             "Time"
         ],
         "licenza": "GPL-3.0-only",
@@ -2336,7 +2327,6 @@
         "riassunto": "Minimal Calendar Widget",
         "categorie": [
             "Calendar & Agenda",
-            "Theming",
             "Time"
         ],
         "licenza": "BSD-3-Clause",
@@ -4015,7 +4005,6 @@
         "id_pacchetto": "com.alexcruz.papuhwalls",
         "riassunto": "Mostra sfondi animati",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "CC-BY-SA-4.0",
@@ -4169,7 +4158,6 @@
         "id_pacchetto": "com.ammar.wallflow",
         "riassunto": "Beautiful wallpapers from wallhaven.cc and Reddit",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -4182,7 +4170,6 @@
         "id_pacchetto": "com.ammar.wallflow.plus",
         "riassunto": "Beautiful wallpapers from wallhaven.cc and Reddit with object detection feature",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -4247,7 +4234,6 @@
         "id_pacchetto": "com.ancantus.HYPNOTOAD",
         "riassunto": "Sfondo dal vivo",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -4460,7 +4446,6 @@
         "id_pacchetto": "com.anthonyla.paperize",
         "riassunto": "Paperize is an efficient wallpaper changer application with a clean design",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -4487,7 +4472,6 @@
         "id_pacchetto": "com.antony.muzei.pixiv",
         "riassunto": "Best Pixiv plugin for Muzei 3",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -5388,7 +5372,7 @@
         "id_pacchetto": "com.appengine.paranoid_android.lost",
         "riassunto": "Informazioni di contatto nella schermata di blocco",
         "categorie": [
-            "Contact"
+            "System"
         ],
         "licenza": "LGPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.appengine.paranoid_android.lost.12.png",
@@ -5488,7 +5472,6 @@
         "id_pacchetto": "com.ariwilson.seismowallpaper",
         "riassunto": "Sfondo dal vivo",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -7768,8 +7751,7 @@
         "riassunto": "App that helps you spend money wisely",
         "categorie": [
             "Finance Manager",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.danilkinkin.buckwheat/en-US/icon_u6dctGK8oc8lOsNhj5xLeiIXBaUl7W3PZICfLspb__E=.png",
@@ -8338,8 +8320,7 @@
         "id_pacchetto": "com.donnnno.arcticons",
         "riassunto": "A monotone line-based icon pack for dark themed setups.",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.donnnno.arcticons/en-US/icon_JihEdjaYKIdDjLJ8bn2d_NecBrI7KmFuhrhCdF1gEgw=.png",
@@ -8351,8 +8332,7 @@
         "id_pacchetto": "com.donnnno.arcticons.daynight",
         "riassunto": "A monotone line-based icon pack for dark & light themed setups.",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.donnnno.arcticons.daynight/en-US/icon_JnrpLN0uWozsTKGKxrGL_nJbTdbdG6_jMCKA6JRk7eI=.png",
@@ -8364,8 +8344,7 @@
         "id_pacchetto": "com.donnnno.arcticons.light",
         "riassunto": "A monotone line-based icon pack for light themed setups.",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.donnnno.arcticons.light/en-US/icon_Bz8J_TnTPwBYoEt7Eu6zAO9x1FtOp1Dj_3D3UAdZfUI=.png",
@@ -8377,8 +8356,7 @@
         "id_pacchetto": "com.donnnno.arcticons.you",
         "riassunto": "A line-based icon pack with a Material You color palette.",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.donnnno.arcticons.you/en-US/icon_v70iuNoce0ngwUroSPfpb9aVA8os66YWFK9JbnKF1qM=.png",
@@ -8406,7 +8384,6 @@
         "categorie": [
             "Calendar & Agenda",
             "Clock",
-            "Theming",
             "Time"
         ],
         "licenza": "GPL-3.0-only",
@@ -8686,7 +8663,7 @@
         "id_pacchetto": "com.dwalkes.android.toggleheadset2",
         "riassunto": "Widget for re-routing audio",
         "categorie": [
-            "Theming"
+            "System"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.dwalkes.android.toggleheadset2.11.png",
@@ -8761,8 +8738,7 @@
         "id_pacchetto": "com.easwareapps.g2l",
         "riassunto": "Launcher Gesture",
         "categorie": [
-            "Launcher",
-            "Theming"
+            "Launcher"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.easwareapps.g2l.23.png",
@@ -8985,8 +8961,7 @@
         "id_pacchetto": "com.elementarytoday.theia",
         "riassunto": "Tema delle icone",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.elementarytoday.theia.6.png",
@@ -9149,7 +9124,6 @@
         "id_pacchetto": "com.eneko.hexcolortimewallpaper",
         "riassunto": "Imposta il colore dello sfondo in base al valore esadecimale del tempo",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -9345,7 +9319,6 @@
         "id_pacchetto": "com.example.android.maxpapers",
         "riassunto": "Sfondo in stile Star Trek",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "EPL-1.0",
@@ -9359,7 +9332,6 @@
         "riassunto": "Calendario widget",
         "categorie": [
             "Calendar & Agenda",
-            "Theming",
             "Time"
         ],
         "licenza": "Apache-2.0",
@@ -9473,7 +9445,6 @@
         "id_pacchetto": "com.example.forgottenumbrella.cardboardmuseum",
         "riassunto": "Cambia periodicamente lo sfondo utilizzando Danbooru",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -9586,7 +9557,6 @@
         "riassunto": "Immagine astronomica giornaliera della NASA per Muzei",
         "categorie": [
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -9600,7 +9570,6 @@
         "riassunto": "Highlighted Artworks by Artvee",
         "categorie": [
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -10408,8 +10377,7 @@
         "id_pacchetto": "com.froxot.cuscon.foss",
         "riassunto": "This icon pack adds variety and dynamism to your Home screen",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.froxot.cuscon.foss/en-US/icon_z_3TFjp61mPLG2xmrNnQzX54aQDtcQrM5crwFuOp4dc=.png",
@@ -10799,7 +10767,6 @@
         "id_pacchetto": "com.ghisguth.sun",
         "riassunto": "Sfondo animato",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -10988,7 +10955,6 @@
         "riassunto": "A beautiful BCD clock for your home screen",
         "categorie": [
             "Clock",
-            "Theming",
             "Time"
         ],
         "licenza": "GPL-3.0-only",
@@ -11075,7 +11041,6 @@
         "id_pacchetto": "com.github.cvzi.darkmodewallpaper",
         "riassunto": "Live wallpaper that respects dark theme mode",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -11102,7 +11067,6 @@
         "riassunto": "Export the current and the default wallpaper",
         "categorie": [
             "System",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -12749,7 +12713,6 @@
         "id_pacchetto": "com.gulshansingh.hackerlivewallpaper",
         "riassunto": "Cascata di numeri",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -13142,8 +13105,7 @@
         "id_pacchetto": "com.hos_dvk.easyphone.full",
         "riassunto": "Accessibility helper for the elderly or visually impaired.",
         "categorie": [
-            "System",
-            "Theming"
+            "Phone & SMS"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.hos_dvk.easyphone.full/en-US/icon_DcGgSoLGgtQbyn9zmX2Xpo1ZURDv5o-Kexi1j1rzltM=.png",
@@ -13529,7 +13491,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8302 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8313 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -13719,7 +13681,6 @@
         "id_pacchetto": "com.iven.iconify",
         "riassunto": "App minimale per applicare wallpapers da grafiche vettoriali! :)",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -14135,8 +14096,7 @@
         "riassunto": "Freedom from your phone - a clean and simple Android launcher experience!",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.jkuester.unlauncher/en-US/icon_QMufXlxQz-elOWr5RfXIji16xFppzbBc1eaG30b3RFE=.png",
@@ -14459,8 +14419,7 @@
         "id_pacchetto": "com.kaanelloed.iconeration",
         "riassunto": "Icon pack creator and Arcticons companion",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kaanelloed.iconeration/en-US/icon_QdTn_cwfWwT4PQWIuTMMIxPigLHQ0GQJ5_Hav46uYAw=.png",
@@ -14766,8 +14725,7 @@
         "id_pacchetto": "com.kn.paper_foss_theme",
         "riassunto": "Tema di icone",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "CC-BY-SA-4.0",
         "icona": "https://f-droid.org/repo//icons/com.kn.paper_foss_theme.34.png",
@@ -16481,7 +16439,6 @@
         "id_pacchetto": "com.miqote.shanawp",
         "riassunto": "Sfondo animato anime",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -16494,8 +16451,7 @@
         "id_pacchetto": "com.mirasmithy.epochlauncher",
         "riassunto": "Homescreen and launcher",
         "categorie": [
-            "Launcher",
-            "Theming"
+            "Launcher"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.mirasmithy.epochlauncher.2.png",
@@ -16720,8 +16676,7 @@
         "id_pacchetto": "com.mookie.circo",
         "riassunto": "Pacchetto di icone semplice e colorato",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.mookie.circo.23.png",
@@ -16810,8 +16765,7 @@
         "riassunto": "A minimalist launcher that puts your apps under your thumb",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.mrmannwood.hexlauncher/en-US/icon_qB2fXmyCdxk3bGNmZ6G3X_QkclEdk1QV_lFLL4mrbAQ=.png",
@@ -18663,7 +18617,6 @@
         "id_pacchetto": "com.phstudio.darktheme",
         "riassunto": "Activate dark theme on your device.",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -18718,18 +18671,6 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.pikselbit.wrongpinshutdown.2.png",
         "url_codice_sorgente": "https://github.com/squarrel/WrongPinShutdown",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Pi Locker",
-        "id_pacchetto": "com.pilockerstable",
-        "riassunto": "Schermata di blocco",
-        "categorie": [
-            "Theming"
-        ],
-        "licenza": "GPL-2.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.pilockerstable.3.png",
-        "url_codice_sorgente": "https://github.com/Pi-Developers/Pi-Locker",
         "ultimo_aggiornamento": null
     },
     {
@@ -19001,7 +18942,6 @@
         "id_pacchetto": "com.powerje.nyan",
         "riassunto": "Sfondo 8-bit",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -19405,7 +19345,6 @@
         "id_pacchetto": "com.rafapps.earthviewformuzei",
         "riassunto": "Google Earth View plugin for Muzei",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -19651,7 +19590,6 @@
         "id_pacchetto": "com.reminimalism.materialslivewallpaper",
         "riassunto": "A live wallpaper that renders materials",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -19985,7 +19923,6 @@
         "id_pacchetto": "com.ruesga.android.wallpapers.photophase",
         "riassunto": "Tiled images wallpaper",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -20331,7 +20268,6 @@
         "id_pacchetto": "com.seb.SLWPmaps",
         "riassunto": "Map Pack for the live wallpaper",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -20432,25 +20368,12 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "DesktopLabel",
-        "id_pacchetto": "com.serone.desktoplabel",
-        "riassunto": "Custom desktop label widgets",
-        "categorie": [
-            "Theming"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.serone.desktoplabel.7.png",
-        "url_codice_sorgente": "https://code.google.com/p/desktoplabel/source",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Disabler",
         "id_pacchetto": "com.servoz.appsdisabler",
         "riassunto": "Disable any applications, and easily enable it\nwith a pretty customisable launch",
         "categorie": [
             "Security",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.servoz.appsdisabler/en-US/icon_twWdm50PkIKnn2qHC4jUZ0oilkHUfUsc8dg02zAykio=.png",
@@ -21209,7 +21132,6 @@
         "categorie": [
             "Clock",
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -22288,8 +22210,7 @@
         "id_pacchetto": "com.tobiaskuban.android.monthcalendarwidgetfoss",
         "riassunto": "Calendar widget of the current month",
         "categorie": [
-            "Calendar & Agenda",
-            "Theming"
+            "Calendar & Agenda"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.tobiaskuban.android.monthcalendarwidgetfoss.5.png",
@@ -22368,8 +22289,7 @@
         "id_pacchetto": "com.tomer.dbz.widget",
         "riassunto": "Visualizza lo stato della batteria col tuo personaggio preferito di Dragonball Z",
         "categorie": [
-            "Battery",
-            "Theming"
+            "Battery"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.tomer.dbz.widget.5.png",
@@ -22906,7 +22826,6 @@
         "riassunto": "LiveWallpapers ported from ReallySlickScreensavers",
         "categorie": [
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -23204,7 +23123,6 @@
         "categorie": [
             "Launcher",
             "System",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -23873,7 +23791,6 @@
         "id_pacchetto": "com.wolas.awesomewallpaper",
         "riassunto": "Sfondo animato con un lama felice",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -24024,7 +23941,7 @@
         "id_pacchetto": "com.xlythe.minecraftclock",
         "riassunto": "Minecraft clock widget",
         "categorie": [
-            "Theming"
+            "Clock"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.xlythe.minecraftclock.5.png",
@@ -24678,7 +24595,6 @@
         "id_pacchetto": "cxa.gridwallpaper",
         "riassunto": "Sfondo animato",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -24691,7 +24607,6 @@
         "id_pacchetto": "cxa.lineswallpaper",
         "riassunto": "Sfondo animato",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -24856,7 +24771,6 @@
         "id_pacchetto": "daniel_32.flexiblewallpaper",
         "riassunto": "Usa immagini con qualsiasi rapporto come sfondo",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -25635,7 +25549,6 @@
         "riassunto": "Una fonte d'arte Muzei che recupera l'immagine Bing del giorno",
         "categorie": [
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -25648,8 +25561,7 @@
         "id_pacchetto": "de.devmil.paperlaunch",
         "riassunto": "Launcher laterale in material design. Lancia le applicazioni con un solo gesto",
         "categorie": [
-            "Launcher",
-            "Theming"
+            "Launcher"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//de.devmil.paperlaunch/en-US/icon_RbP6gRP1YkldERBbIN26pKxoOf3aUeevjSndJ3e7jMU=.png",
@@ -25747,7 +25659,6 @@
         "riassunto": "Wallpaler live Xearth",
         "categorie": [
             "Science & Education",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -26905,8 +26816,7 @@
         "id_pacchetto": "de.markusfisch.android.pielauncher",
         "riassunto": "Control your phone with a dynamic pie menu instead of fixed positioned icons.",
         "categorie": [
-            "Launcher",
-            "Theming"
+            "Launcher"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.markusfisch.android.pielauncher/en-US/icon_DTOFNvyoCAhR0egJYqpmWeGsmgurm8jDqcwy86-SkAY=.png",
@@ -26944,7 +26854,6 @@
         "id_pacchetto": "de.markusfisch.android.wavelines",
         "riassunto": "Sfondo ondulato",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -27085,8 +26994,7 @@
         "riassunto": "A search-focused, free and open source launcher for Android",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.mm20.launcher2.release/en-US/icon_YELzmYUINjLFAhKT1OfPTfkmH4JNukikh1sUdecBBUw=.png",
@@ -27218,8 +27126,7 @@
         "id_pacchetto": "de.moooon.acrylicons",
         "riassunto": "Mondstern's acrylic art as an Android icon pack",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "CC0-1.0",
         "icona": "https://f-droid.org/repo//de.moooon.acrylicons/en-US/icon_tQbq0hw4x9qY5IPNCbKJxwNEcnlolT7LVeylJMr02gc=.png",
@@ -27244,7 +27151,6 @@
         "riassunto": "Immagini di National Geographic per Muzei",
         "categorie": [
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -27821,7 +27727,6 @@
         "riassunto": "All the awesome wallpapers of The Verge for Muzei.",
         "categorie": [
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -28341,7 +28246,6 @@
         "categorie": [
             "Launcher",
             "System",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "BSD-2-Clause",
@@ -30222,7 +30126,6 @@
         "riassunto": "Simple analog clock widget",
         "categorie": [
             "Clock",
-            "Theming",
             "Time"
         ],
         "licenza": "MIT",
@@ -30249,8 +30152,7 @@
         "riassunto": "YAM Launcher is a minimalist text-based launcher for Android with weather!",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//eu.ottop.yamlauncher/en-US/icon_YAIRPaaRUiW4BJ9yIRHDfggv1AV85n_zL8mTLOpf5f8=.png",
@@ -30872,7 +30774,6 @@
         "id_pacchetto": "fi.harism.wallpaper.flier",
         "riassunto": "Sfondo animato",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -30885,7 +30786,6 @@
         "id_pacchetto": "fi.harism.wallpaper.flowers",
         "riassunto": "Sfondo animato",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -31115,7 +31015,7 @@
             "Public Transport"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//fr.corenting.traficparis/en-US/icon_FjpNs6KXnL3VFdIRHDMEZ2QtASsa4ktkS_tTct2rufQ=.png",
+        "icona": "https://f-droid.org/repo//fr.corenting.traficparis/en-US/icon_UF4cVO_FgOlRwJuxlNnhsmjyGkl20MlMqA3Df7XeUbg=.png",
         "url_codice_sorgente": "https://github.com/corenting/ParisTransportTraffic",
         "ultimo_aggiornamento": null
     },
@@ -31327,7 +31227,7 @@
         "id_pacchetto": "fr.miximum.napply",
         "riassunto": "Widget for taking quick naps",
         "categorie": [
-            "Theming"
+            "Time"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/fr.miximum.napply.2.png",
@@ -31389,8 +31289,7 @@
         "id_pacchetto": "fr.neamar.kiss",
         "riassunto": "Blazingly fast launcher focused on search",
         "categorie": [
-            "Launcher",
-            "Theming"
+            "Launcher"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//fr.neamar.kiss/en-US/icon_Ze7tWLUQpZSDkV7t5FEdDArBFwuOdWmXK5A33ZwESS4=.png",
@@ -33077,8 +32976,7 @@
         "id_pacchetto": "info.staticfree.android.twentyfourhour",
         "riassunto": "Orologio widget",
         "categorie": [
-            "Clock",
-            "Theming"
+            "Clock"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/info.staticfree.android.twentyfourhour.8.png",
@@ -33636,7 +33534,6 @@
         "categorie": [
             "Graphics",
             "System",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -36551,8 +36448,7 @@
         "riassunto": "A category based launcher",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//luke.launcher/en-US/icon_b5seysQRr5B09KYwfCoawva1eQfkkfuYmIWqZzaj5UE=.png",
@@ -36906,7 +36802,6 @@
         "id_pacchetto": "me.haroldmartin.golwallpaper",
         "riassunto": "Conway's Game of Life screensaver for Onyx Boox devices",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -36919,8 +36814,7 @@
         "id_pacchetto": "me.iacn.mbestyle",
         "riassunto": "Un divertente pacchetto di icone",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/me.iacn.mbestyle.27.png",
@@ -37145,8 +37039,7 @@
         "riassunto": "A file structure inspired launcher",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//me.robbyblue.mylauncher/en-US/icon_13t5hjhhZbWGILgUB4eOrECp6G3kD-tumVF3JARx-FA=.png",
@@ -37300,8 +37193,7 @@
         "id_pacchetto": "me.x2gd4.dollphone",
         "riassunto": "Cute icon pack that isn’t overly hyperactive",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//me.x2gd4.dollphone/en-US/icon_QVIUZtAfzMLqWRDI8zy7I8FJTQBsp-k0s-OBHnkIb_M=.png",
@@ -37722,8 +37614,7 @@
         "id_pacchetto": "net.aangle.rvclock",
         "riassunto": "Clock widget",
         "categorie": [
-            "Clock",
-            "Theming"
+            "Clock"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/net.aangle.rvclock.7.png",
@@ -38259,7 +38150,6 @@
         "riassunto": "Show pictures from Studio Ghibli (Muzei)",
         "categorie": [
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -38347,7 +38237,6 @@
         "id_pacchetto": "net.georgewhiteside.android.abstractart",
         "riassunto": "Sfondo animato",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -38373,7 +38262,6 @@
         "id_pacchetto": "net.glsk.wpgen",
         "riassunto": "Generatore di sfondi",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -38505,7 +38393,6 @@
         "id_pacchetto": "net.justdave.nwsweatheralertswidget",
         "riassunto": "Widget meteo",
         "categorie": [
-            "Theming",
             "Weather"
         ],
         "licenza": "Apache-2.0",
@@ -38749,8 +38636,7 @@
         "id_pacchetto": "net.nhiroki.bluelineconsole",
         "riassunto": "Keyboard based launcher",
         "categorie": [
-            "Launcher",
-            "Theming"
+            "Launcher"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//net.nhiroki.bluelineconsole/en-US/icon_0CppeTmzMwDk3lKOJ5rwgfCwhJogLLnJ1K2OGLRH4SY=.png",
@@ -38836,7 +38722,6 @@
         "riassunto": "Sfondi animati di opere d'arte",
         "categorie": [
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -39038,7 +38923,6 @@
         "id_pacchetto": "net.redwarp.gifwallpaper",
         "riassunto": "A Live Wallpaper that will display animated GIFs as your phone background.",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -39115,7 +38999,6 @@
         "riassunto": "Sfondo animato che non fa nulla",
         "categorie": [
             "Multimedia",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -39626,7 +39509,6 @@
         "id_pacchetto": "net.viggers.zade.wallpaper",
         "riassunto": "Draw on your home screen with coloured shapes",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -40238,7 +40120,6 @@
         "id_pacchetto": "one.oktw.muzeipixivsource",
         "riassunto": "Fetch illustration from Pixiv and provides them as a wallpaper source for muzei",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "MIT",
@@ -40263,7 +40144,6 @@
         "id_pacchetto": "one.zagura.CodeRainWall",
         "riassunto": "A live wallpaper inspired by the matrix falling code effect",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -40277,8 +40157,7 @@
         "riassunto": "A beautiful, functional and customizable launcher",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//one.zagura.IonLauncher/en-US/icon_cxHbO8agGmDXRxjPqcy1aHMqvnmsokzFTMkL9WJTVe0=.png",
@@ -40365,7 +40244,6 @@
         "id_pacchetto": "orbitlivewallpaperfree.puzzleduck.com",
         "riassunto": "Sfondo animato",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-2.0-only",
@@ -40846,8 +40724,7 @@
         "id_pacchetto": "org.baitmooth.snow",
         "riassunto": "A monotone icon pack.",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.baitmooth.snow/en-US/icon_iuWwCFSE1qyaUQa9CacrxzcbO_O-Rn8hAu95XJNRjnQ=.png",
@@ -41485,8 +41362,7 @@
         "riassunto": "Notes in the homescreen",
         "categorie": [
             "Note",
-            "Task",
-            "Theming"
+            "Task"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.chrisbailey.todo.10.png",
@@ -41657,7 +41533,6 @@
         "id_pacchetto": "org.covolunablu.marswallpaper",
         "riassunto": "Pianeta rosso rotante",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -43717,7 +43592,6 @@
         "id_pacchetto": "org.jf.Penroser",
         "riassunto": "Scrolling Wallpaper",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "BSD-3-Clause",
@@ -43896,7 +43770,6 @@
         "id_pacchetto": "org.jwz.xscreensaver",
         "riassunto": "Collezione standard di salvaschermo distribuiti con i sistemi Linux e Unix",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "X11",
@@ -44573,7 +44446,6 @@
         "riassunto": "Material Design icons for your homescreen",
         "categorie": [
             "Icon Pack",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "CC-BY-4.0",
@@ -44821,7 +44693,6 @@
         "id_pacchetto": "org.mosspaper",
         "riassunto": "Statistiche sulla schermata principale",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
@@ -46286,7 +46157,6 @@
         "id_pacchetto": "org.sasehash.burgerwp",
         "riassunto": "Liberati del tuo vecchio sfondo e sostituiscilo con hamburger e pizza",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -47404,7 +47274,6 @@
         "id_pacchetto": "org.tamanegi.wallpaper.multipicture.dnt",
         "riassunto": "Slideshow wallpaper",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "PublicDomain",
@@ -48362,8 +48231,7 @@
         "id_pacchetto": "org.xphnx.ameixa",
         "riassunto": "Porting di TwelF CMTheme per molti launcher",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.xphnx.ameixa/en-US/icon_CQLCGleZNBzDPRNp1ADs121TecVHFmUbe-Au-4qXF08=.png",
@@ -48375,8 +48243,7 @@
         "id_pacchetto": "org.xphnx.ameixamonochrome",
         "riassunto": "Icon pack",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -48388,8 +48255,7 @@
         "id_pacchetto": "org.xphnx.iconsubmit",
         "riassunto": "Richiedi le icone mancanti nel tuo icon pack",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.xphnx.iconsubmit.9.png",
@@ -49195,7 +49061,6 @@
         "id_pacchetto": "rak.pixellwp",
         "riassunto": "Live Wallpaper with art from Mark Ferrari and Joseph Huckaby's Canvas Cycle Demo",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -49209,8 +49074,7 @@
         "riassunto": "Feature rich android home with minimal look.",
         "categorie": [
             "Launcher",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//rasel.lunar.launcher/en-US/icon_Cl7GhsnEgPHJBS9Sb8g8CHC9u6K8LL5uJ8PLWXCtGFk=.png",
@@ -49448,7 +49312,6 @@
         "riassunto": "Plugin for Muzei, live wallpaper from Reddit",
         "categorie": [
             "System",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -49463,7 +49326,6 @@
         "categorie": [
             "Launcher",
             "System",
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -50121,8 +49983,7 @@
         "riassunto": "The Predictable Keyboard",
         "categorie": [
             "Keyboard & IME",
-            "System",
-            "Theming"
+            "System"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//se.nullable.flickboard/en-US/icon_MZoXDSsmrsMFbwz8fvu24rPEjNiaKQVhFkHgZgY3glM=.png",
@@ -50773,8 +50634,7 @@
         "riassunto": "Fullscreen Analog- and Digital Clock with Event View",
         "categorie": [
             "Clock",
-            "Graphics",
-            "Theming"
+            "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//systems.sieber.fsclock/en-US/icon_Kv7VY4CM1jrXAKhsqF80pXZ2zTrshs_qWFer6dZFNPs=.png",
@@ -51247,7 +51107,7 @@
         "id_pacchetto": "tritop.android.SLWTrafficMeterWidget",
         "riassunto": "SLW Traffic Meter WidgetFree, open source widget.",
         "categorie": [
-            "Theming"
+            "Battery"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/tritop.android.SLWTrafficMeterWidget.2.png",
@@ -51537,8 +51397,7 @@
         "id_pacchetto": "uk.co.yahoo.p1rpp.secondsclock",
         "riassunto": "Clock with seconds as widget or fullscreen",
         "categorie": [
-            "Clock",
-            "Theming"
+            "Clock"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//uk.co.yahoo.p1rpp.secondsclock/en-US/icon_P6l-ExK2htLLffu0bW4H36jDxdOwBsBqQMhHmfAGArk=.png",
@@ -51964,8 +51823,7 @@
         "id_pacchetto": "website.leifs.delta.foss",
         "riassunto": "Minimalistic pastel icon pack for Android",
         "categorie": [
-            "Icon Pack",
-            "Theming"
+            "Icon Pack"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//website.leifs.delta.foss/en-US/icon_TIvE5SwAV7-DtiN6GSUekYW2AKQS6K7lvtqwNqvsdsE=.png",
@@ -52271,6 +52129,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Numerus",
+        "id_pacchetto": "xyz.numerus",
+        "riassunto": "Train oral comprehension of numbers in foreign languages with real speech clips.",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/konverner/numerus-app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "OG Network Tools",
         "id_pacchetto": "xyz.pisoj.og.nettools",
         "riassunto": "A modern network toolbox built to feel like original android apps.",
@@ -52316,7 +52186,6 @@
         "id_pacchetto": "xyz.zedler.patrick.doodle",
         "riassunto": "Colorful live wallpapers with auto dark mode and power-efficient animations",
         "categorie": [
-            "Theming",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-or-later",
