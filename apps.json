@@ -796,6 +796,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "podium (Podcasts)",
+        "id_pacchetto": "app.podiumpodcasts.podium",
+        "riassunto": "A modern, open-source Podcast app for Android.",
+        "categorie": [
+            "Internet",
+            "Podcast"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//app.podiumpodcasts.podium/en-US/icon_Y7iJrG-1NQdpj6QN58Mp8my6NhkV3kQhqm8aeaLDy4o=.png",
+        "url_codice_sorgente": "https://github.com/aimok04/podium",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Pomodorot",
         "id_pacchetto": "app.pomodorot",
         "riassunto": "A simple timer which pauses when not in view",
@@ -9769,7 +9782,7 @@
     {
         "nome": "J-K Bike - Mechanical Disaster Prevention",
         "id_pacchetto": "com.exner.tools.jkbikemechanicaldisasterprevention",
-        "riassunto": "App that helps build positive bike maintenance behaviours, for rides quick, big ",
+        "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Sports & Health"
         ],
@@ -13138,6 +13151,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "iTrack workout tracker",
+        "id_pacchetto": "com.iTrack.app",
+        "riassunto": "Open-source workout tracker for managing your fitness routines",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.iTrack.app/en-US/icon_Dzn1NUQyrVQHeq4AMjxep3waQJbq2zGqCHpJdjJYLhI=.png",
+        "url_codice_sorgente": "https://github.com/xaxoman/iTrack-open-source-workout-app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Libre Camera",
         "id_pacchetto": "com.iakmds.librecamera",
         "riassunto": "Modern camera app to take pictures and record videos",
@@ -13491,7 +13516,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8313 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8348 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -16291,6 +16316,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://git.sr.ht/~thestr4ng3r/chiaki",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "MetaPurge",
+        "id_pacchetto": "com.metapurge.app",
+        "riassunto": "Locally strip sensitive EXIF/metadata from your photos.",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.metapurge.app/en-US/icon_DXJkqJw6F679Q8aY2BWC7vHF2gUO1FyE1yukM8NYm5M=.png",
+        "url_codice_sorgente": "https://github.com/potatameister/MetaPurge",
         "ultimo_aggiornamento": null
     },
     {
@@ -19708,6 +19745,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Cashiro",
+        "id_pacchetto": "com.ritesh.cashiro",
+        "riassunto": "Offline expense tracker for bank SMS and PDF statements with optional AI chat",
+        "categorie": [
+            "AI Chat",
+            "Finance Manager",
+            "Money"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.ritesh.cashiro/en-US/icon_ljuzzLYLmsH3grilu927PtUMOW7FS5BgyUCepnxB4qQ=.png",
+        "url_codice_sorgente": "https://github.com/ritesh-kanwar/Cashiro",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ReTerminal",
         "id_pacchetto": "com.rk.terminal",
         "riassunto": "Terminal Emulator",
@@ -21463,6 +21514,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "OceanNex for DigitalOcean",
+        "id_pacchetto": "com.swatian.oceannex.free",
+        "riassunto": "Manage Your DigitalOcean Infrastructure with OceanNex",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.swatian.oceannex.free/en-US/icon_ihqwWDaltGxbioUSdtD2f95RTY0Ep-gXKHnrbA0dlgs=.png",
+        "url_codice_sorgente": "https://codeberg.org/swatian/OceanNex",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "QRAlarm",
         "id_pacchetto": "com.sweak.qralarm",
         "riassunto": "Disable alarms with a QR scanner",
@@ -22429,6 +22492,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.trapplab.nfc_radio/de-DE/icon_LDshAqoyHmSX0m4Gm6E40PzVe5msvlVNcbyYdY0xll8=.png",
         "url_codice_sorgente": "https://github.com/trapplab/NFC-Radio",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "End of Updates Checker",
+        "id_pacchetto": "com.trapplab.update_checker",
+        "riassunto": "Check until when your phone gets updates.",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.trapplab.update_checker/de-DE/icon_ZQA3t9JgyU-IJ5eYWdZ9nMklL6Ej08r2ZiQlTdqKvr8=.jpeg",
+        "url_codice_sorgente": "https://github.com/trapplab/update-checker",
         "ultimo_aggiornamento": null
     },
     {
@@ -28857,7 +28933,7 @@
         "categorie": [
             "Note"
         ],
-        "licenza": "MIT",
+        "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.dettmer.simplenotes/de-DE/icon_PupcRr_ROR0RHB-SWaQTP5PkkTa_UKW4qfjzGUzd0Sg=.png",
         "url_codice_sorgente": "https://github.com/inventory69/simple-notes-sync",
         "ultimo_aggiornamento": null
@@ -30677,6 +30753,19 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/eu.woju.android.packages.hud.12.png",
         "url_codice_sorgente": "https://github.com/woju/hud",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Iremi Breathing App",
+        "id_pacchetto": "eu.ziclaud.iremibreathingapp",
+        "riassunto": "App that gives breathing exercises to reduce anxiety",
+        "categorie": [
+            "Science & Education",
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//eu.ziclaud.iremibreathingapp/en-US/icon_DO3xyZa79r39MIdmMF5oqZFIxW7Pb_dCItim35anOEw=.png",
+        "url_codice_sorgente": "https://github.com/ZiClaud/Iremi-Breathing-App",
         "ultimo_aggiornamento": null
     },
     {
@@ -33754,6 +33843,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.jd1378.otphelper/en-US/icon_P77zVQteXEl7-WKpHtSqMa0QvSxG1-ymcUd0HxJsFN4=.png",
         "url_codice_sorgente": "https://github.com/jd1378/otphelper",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "DropCount",
+        "id_pacchetto": "io.github.jdanders.dropcount",
+        "riassunto": "A recreation of the classic Drop7 puzzle game for Android",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.jdanders.dropcount/en-US/icon_uvglqgFKQjB4BYaaJ7p_8fgQcciNMM56_liuIrHFQck=.png",
+        "url_codice_sorgente": "https://github.com/jdanders/dropcount",
         "ultimo_aggiornamento": null
     },
     {
@@ -39400,6 +39501,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SoulCalc",
+        "id_pacchetto": "net.tigr.soulcalc",
+        "riassunto": "Notepad-style calculator with variables, line references, multi-line support",
+        "categorie": [
+            "Calculator"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/tigrino/soulcalc",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Chaka Book Reader",
         "id_pacchetto": "net.timelegend.chaka.viewer.app",
         "riassunto": "Committed to improving reading experience",
@@ -41420,6 +41533,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BlueGate",
+        "id_pacchetto": "org.cleverfox.bluegate",
+        "riassunto": "Android client to control bluegate BLE gate controller",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//org.cleverfox.bluegate/en-US/icon_GQgUXLNEHhzsJp34i0-Qnbmg9T8v_dq85OOGt66F9R8=.png",
+        "url_codice_sorgente": "https://github.com/cleverfox/bluegate_android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Rotation Lock + Landscape",
         "id_pacchetto": "org.cmotc.tools.rotationlockpp",
         "riassunto": "Ferma la rotazione automatica",
@@ -43124,6 +43249,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Golden Ticket",
+        "id_pacchetto": "org.golden_ticket.golden_ticket",
+        "riassunto": "Lottery simulation game - explore strategies without spending money",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//org.golden_ticket.golden_ticket/en-US/icon_fBg2sguDSQp7EH4mu_HaMVKAt6l_JJlc49Vd7BTzKyk=.png",
+        "url_codice_sorgente": "https://gitlab.com/number-smithy/golden-ticket",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "PocketCheck",
         "id_pacchetto": "org.gonbei774.pocketcheck",
         "riassunto": "A working memory app - \"Anything to put in your pocket?\"",
@@ -43775,6 +43912,19 @@
         "licenza": "X11",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/Zygo/xscreensaver",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "TapDucky",
+        "id_pacchetto": "org.kaijinlab.tap_ducky",
+        "riassunto": "Run DuckyScript over USB HID. Import, schedule, and manage payloads (root)",
+        "categorie": [
+            "Development",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.kaijinlab.tap_ducky/en-US/icon_QNfz1Y1X77jTIuqCQRWTV8sZAGCT9R4LEJvb9dqxxP8=.png",
+        "url_codice_sorgente": "https://github.com/iodn/tap-ducky",
         "ultimo_aggiornamento": null
     },
     {
@@ -52064,6 +52214,20 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//xyz.lepisma.harp/en-US/icon_N54xD3hrsvQLHhcItDbBOGyX_Af8QoImaoye3jRbmR8=.png",
         "url_codice_sorgente": "https://git.sr.ht/~lepisma/harp-kmp",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Nontrinsic",
+        "id_pacchetto": "xyz.linerly.nontrinsic",
+        "riassunto": "Where nonsense lives on.",
+        "categorie": [
+            "Internet",
+            "Reading",
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//xyz.linerly.nontrinsic/en-US/icon_0jXNUhn2XYSUdq8-D-S07I7n5amvSkM0VQQUeSGCu6M=.png",
+        "url_codice_sorgente": "https://codeberg.org/nontrinsic/android",
         "ultimo_aggiornamento": null
     },
     {
