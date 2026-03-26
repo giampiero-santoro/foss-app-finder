@@ -5950,7 +5950,7 @@
     {
         "nome": "Launcher314",
         "id_pacchetto": "com.bearinmind.launcher314",
-        "riassunto": "Just a simple one screen android launcher people can use",
+        "riassunto": "Launcher with deep customization on a single screen",
         "categorie": [
             "Launcher"
         ],
@@ -12458,7 +12458,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.google.android.stardroid/en-US/icon_6M8Rlz9mEmguY8lvzCLvgHeOWbMi8oLtKVfu99uqHhQ=.png",
+        "icona": "https://f-droid.org/repo//com.google.android.stardroid/en-US/icon_sjDgvxgimqjLph9kXRyxjeSAy18B30TXnwSp1OPwYl8=.png",
         "url_codice_sorgente": "https://github.com/sky-map-team/stardroid",
         "ultimo_aggiornamento": null
     },
@@ -27928,7 +27928,7 @@
     {
         "nome": "AirGuard - AirTag protection",
         "id_pacchetto": "de.seemoo.at_tracking_detection",
-        "riassunto": "AirGuard dectects trackers that are used for stalking and warns you.",
+        "riassunto": "AirGuard detects trackers that are used for stalking and warns you.",
         "categorie": [
             "Connectivity",
             "Security"
@@ -44223,13 +44223,13 @@
     {
         "nome": "FreeOTP+",
         "id_pacchetto": "org.liberty.android.freeotpplus",
-        "riassunto": "Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator",
+        "riassunto": "Two-factor authenticator (2FA) with one-time password protocols (OTP)",
         "categorie": [
             "Password & 2FA",
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//org.liberty.android.freeotpplus/en-US/icon_20vi2-4um4uXHEFDkmd4OMyE6wlmh6EGnVwWdjJhkvI=.png",
         "url_codice_sorgente": "https://github.com/helloworld1/FreeOTPPlus",
         "ultimo_aggiornamento": null
     },
