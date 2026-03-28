@@ -631,6 +631,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Prism",
+        "id_pacchetto": "app.lonecloud.prism",
+        "riassunto": "Privacy-first UnifiedPush distributor with an optional self-hosted server",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.lonecloud.prism/en-US/icon_ma1CBwjT9ox_pDMFdea2NBnwMKdPfqYxv3AsaCFpmj0=.png",
+        "url_codice_sorgente": "https://github.com/lone-cloud/prism-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "BitBanana",
         "id_pacchetto": "app.michaelwuensch.bitbanana",
         "riassunto": "Unleash your Bitcoin Lightning node!",
@@ -6736,6 +6748,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SpaceBeam",
+        "id_pacchetto": "com.calmyjane.spacebeam",
+        "riassunto": "Kaleidoscope Camera Fun!",
+        "categorie": [
+            "Graphics",
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.calmyjane.spacebeam/en-US/icon_x5AlwvjQ_TRA18HPIvoARQCTT_TtTyKkQI7MylBM6WM=.png",
+        "url_codice_sorgente": "https://github.com/calmyjane/spacebeam",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CanIWebView",
         "id_pacchetto": "com.caniwebview.android",
         "riassunto": "Test your web content with different WebView configurations",
@@ -10864,6 +10889,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "GifBoard",
+        "id_pacchetto": "com.gifboard",
+        "riassunto": "Search and share GIFs directly from your keyboard.",
+        "categorie": [
+            "Keyboard & IME"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.gifboard/en-US/icon_acq9mhywh3jtzA-vDzbJD_GU_QvHyohD97fYjPx0yao=.png",
+        "url_codice_sorgente": "https://github.com/gifboard/gifboard",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Zandy",
         "id_pacchetto": "com.gimranov.zandy.app",
         "riassunto": "Library assistance",
@@ -13362,6 +13399,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Smart Edge: Sidebar & Gestures",
+        "id_pacchetto": "com.imi.smartedge.sidebar.panel",
+        "riassunto": "A highly customizable Android side panel inspired by OriginOS.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.imi.smartedge.sidebar.panel/en-US/icon_HdV6u0GtXit799CYxDrm2CoSl0gSqMRyXVhDFP9ytVA=.png",
+        "url_codice_sorgente": "https://github.com/Imtiaz-Official/Smart-Edge",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Improvement Roll",
         "id_pacchetto": "com.improvement_roll",
         "riassunto": "Create a list of productive things to do and improve yourself one task at a time",
@@ -14136,7 +14185,7 @@
             "Time"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.jmstudios.chibe.4.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/raatmarien/chibe",
         "ultimo_aggiornamento": null
     },
@@ -20327,6 +20376,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "GlyphPort",
+        "id_pacchetto": "com.sebiai.glyphport",
+        "riassunto": "Port Nothing® Glyph Compositions between phones",
+        "categorie": [
+            "Multimedia",
+            "Theming"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sebiai.glyphport/en-US/icon_DDulMxpBc9s1vjFmVAdu9Ri3MjI7r-taZyc4Oup2aGg=.png",
+        "url_codice_sorgente": "https://github.com/SebiAi/GlyphPort",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Secure File Manager Beta",
         "id_pacchetto": "com.securefilemanager.app",
         "riassunto": "File manager for keeping your files in safe",
@@ -22997,6 +23059,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Calculator M3",
+        "id_pacchetto": "com.vagujhelyigergely.calculatorm3",
+        "riassunto": "Clean, private calculator with zero data collection. Offline. No ads.",
+        "categorie": [
+            "Calculator"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vagujhelyigergely.calculatorm3/en-US/icon_22d7Y7qauVIPYvRM_xLn8Yyzh_qGjG-Sr_NslXcN6Uc=.png",
+        "url_codice_sorgente": "https://github.com/gergelyvagujhelyi/CalculatorM3",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Can I Drive",
         "id_pacchetto": "com.vaudibert.canidrive",
         "riassunto": "Alcohol blood rate computer for driving",
@@ -23209,7 +23283,7 @@
     {
         "nome": "VES - Image and Photo Compare",
         "id_pacchetto": "com.vincentengelsoftware.vesandroidimagecompare",
-        "riassunto": "Before and after image compare, photo compare and picture compare. Side by side",
+        "riassunto": "Compare photos by side-by-side, overlay, slider, transparent, differences, zoom",
         "categorie": [
             "Graphics",
             "Multimedia"
@@ -23872,6 +23946,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.wolas.awesomewallpaper.2.png",
         "url_codice_sorgente": "https://github.com/vvolas/Awesome-Live-Wallpaper",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Word Tracer",
+        "id_pacchetto": "com.wordtracer.app",
+        "riassunto": "A crossword-like puzzle game",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.wordtracer.app/en-US/icon_LZfkMuVC3_KuH9k74kfEUjjzozlNDtqaHvnB9et0-us=.png",
+        "url_codice_sorgente": "https://github.com/plhosk/wordtracer",
         "ultimo_aggiornamento": null
     },
     {
@@ -27831,7 +27917,7 @@
             "Public Transport"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140001.png",
+        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140002.png",
         "url_codice_sorgente": "https://gitlab.com/oeffi/oeffi",
         "ultimo_aggiornamento": null
     },
@@ -29364,7 +29450,7 @@
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//dev.pranav.applock/en-US/icon__MGAvBoF0Y6BypM8K8KEjwTFY7tCwOB7U7R0YUKs0SQ=.png",
-        "url_codice_sorgente": "https://github.com/PranavPurwar/AppLock",
+        "url_codice_sorgente": "https://github.com/aload0/AppLock",
         "ultimo_aggiornamento": null
     },
     {
@@ -41103,7 +41189,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.billthefarmer.scope/en-GB/icon_27L1bVo7VRnf-CcuuVbwygO7hFCV39z6hkFiUvQdx7M=.png",
+        "icona": "https://f-droid.org/repo//org.billthefarmer.scope/en/icon_27L1bVo7VRnf-CcuuVbwygO7hFCV39z6hkFiUvQdx7M=.png",
         "url_codice_sorgente": "https://github.com/billthefarmer/scope",
         "ultimo_aggiornamento": null
     },
@@ -41128,7 +41214,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.billthefarmer.siggen/en-GB/icon_ASSsC02YnFptyZidxrW7N5taHkmC8Ae3lANDH6okpl4=.png",
+        "icona": "https://f-droid.org/repo//org.billthefarmer.siggen/en/icon_ASSsC02YnFptyZidxrW7N5taHkmC8Ae3lANDH6okpl4=.png",
         "url_codice_sorgente": "https://github.com/billthefarmer/sig-gen",
         "ultimo_aggiornamento": null
     },
@@ -42130,6 +42216,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.eagsoftware.photospheregallery/en-US/icon_qK2GLdCVl6rbgGtWUhKXesGiphsHB4UCjWMWK53c3AA=.png",
         "url_codice_sorgente": "https://codeberg.org/minardil/PhotoSphereGallery",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "RowMate",
+        "id_pacchetto": "org.eagsoftware.rowmate",
+        "riassunto": "Track your workouts on your FTMS rowing machine with real-time data.",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.eagsoftware.rowmate/en-US/icon_7bL6p6_bI5mRLe9X8gTws2qXzdK8XRFCWNEyHSszVWc=.png",
+        "url_codice_sorgente": "https://codeberg.org/minardil/RowMate",
         "ultimo_aggiornamento": null
     },
     {
@@ -43915,6 +44013,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Jyutping - Cantonese Keyboard",
+        "id_pacchetto": "org.jyutping.jyutping",
+        "riassunto": "Easy-to-use Cantonese input method with pronunciation lookup and dictionary.",
+        "categorie": [
+            "Keyboard & IME",
+            "Translation & Dictionary"
+        ],
+        "licenza": "CC0-1.0",
+        "icona": "https://f-droid.org/repo//org.jyutping.jyutping/en-US/icon_dQ4z-2ivPhKi-KRpnhhdTTyh2cFL3qVv8Ix0bCyvovk=.png",
+        "url_codice_sorgente": "https://github.com/yuetyam/jyutping-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "TapDucky",
         "id_pacchetto": "org.kaijinlab.tap_ducky",
         "riassunto": "Run DuckyScript over USB HID. Import, schedule, and manage payloads (root)",
@@ -43925,6 +44036,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.kaijinlab.tap_ducky/en-US/icon_QNfz1Y1X77jTIuqCQRWTV8sZAGCT9R4LEJvb9dqxxP8=.png",
         "url_codice_sorgente": "https://github.com/iodn/tap-ducky",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "USB Descriptor Explorer",
+        "id_pacchetto": "org.kaijinlab.usbdevinfo",
+        "riassunto": "Inspect USB devices with full descriptor and HID details",
+        "categorie": [
+            "Development",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.kaijinlab.usbdevinfo/en-US/icon_z8eaV7wLAJOrwMUf-fGI0pdyC2bZTs0VACZVbMGk5jY=.png",
+        "url_codice_sorgente": "https://github.com/iodn/android-usb-device-info",
         "ultimo_aggiornamento": null
     },
     {
@@ -44247,6 +44371,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "LibreFit",
+        "id_pacchetto": "org.librefit.app",
+        "riassunto": "Free, open source and private workout tracker with a rich dataset and images.",
+        "categorie": [
+            "Sports & Health",
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.librefit.app/en-US/icon_brx2PXi5G8ZLVjbmSi__vQMiSbup4Sf2QxfSb4eghqQ=.png",
+        "url_codice_sorgente": "https://github.com/LibreFitOrg/LibreFit",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Libreflix",
         "id_pacchetto": "org.libreflix.app",
         "riassunto": "Trasmetti e guarda film indipendenti",
@@ -44268,6 +44405,18 @@
         "licenza": "MPL-2.0",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://gerrit.libreoffice.org/gitweb?p=impress_remote.git;a=summary",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Lichess",
+        "id_pacchetto": "org.lichess.mobileV2",
+        "riassunto": "The one open-source chess game",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/lichess-org/mobile",
         "ultimo_aggiornamento": null
     },
     {
@@ -48360,7 +48509,7 @@
             "Navigation"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://f-droid.org/repo//icons/org.xcsoar.164.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/XCSoar/XCSoar",
         "ultimo_aggiornamento": null
     },
@@ -50265,7 +50414,7 @@
     {
         "nome": "Haven SSH Client",
         "id_pacchetto": "sh.haven.app",
-        "riassunto": "Secure SSH terminal, VNC desktop, and SFTP client for Android",
+        "riassunto": "Secure SSH terminal, VNC/RDP desktop, and SFTP client for Android",
         "categorie": [
             "Internet",
             "System"
