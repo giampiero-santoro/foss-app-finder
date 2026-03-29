@@ -10107,6 +10107,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "<p>FloFla Cards</p>",
+        "id_pacchetto": "com.floflacards.app",
+        "riassunto": "<p>FloFla Cards – Passive learning with your phone! 🎓📱</p>",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.floflacards.app/en-US/icon_AbOrsVgjmSCyu2RhjW1C29LYpJvFD6dbl53xXwVZ6aU=.png",
+        "url_codice_sorgente": "https://github.com/flofladev/floflacards",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Githo",
         "id_pacchetto": "com.florianthaler.githo",
         "riassunto": "Gradually build long-lasting habits.",
@@ -12705,7 +12717,7 @@
             "Security"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.greenart7c3.nostrsigner/en-US/icon_CNbuxre6RfA8YiT-touPHizvxTYDUA5pvf9EsXZrjAE=.png",
+        "icona": "https://f-droid.org/repo//com.greenart7c3.nostrsigner/en-US/icon_GZCnTG4XMU5dhZlyqLj_Jqq0XZAtLTxd-65FCcmhGTI=.png",
         "url_codice_sorgente": "https://github.com/greenart7c3/Amber",
         "ultimo_aggiornamento": null
     },
@@ -18410,6 +18422,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "PaperKnife+",
+        "id_pacchetto": "com.paperknifeplus.app",
+        "riassunto": "Privacy-first PDF utility: merge, split, rotate, and protect",
+        "categorie": [
+            "Reading"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.paperknifeplus.app/en-US/icon_ChmuvaTNjJY39Ti2J93oKaRo6fkbumLJl3tJQeXEcDM=.png",
+        "url_codice_sorgente": "https://github.com/potatameister/PaperKnifePlus",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Secret Space Encryptor (SSE)",
         "id_pacchetto": "com.paranoiaworks.unicus.android.sse",
         "riassunto": "File Encryption, Text Encryption (Messages, Notes, …), Secure Password Manager",
@@ -19031,7 +19055,7 @@
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.powerje.nyan.15.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/powerje/NyanDroid",
         "ultimo_aggiornamento": null
     },
@@ -19484,7 +19508,7 @@
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.rama.mako/en-US/icon_CDnBDGMXQwZ4p-kLrneSTENRbbrr_I6OBc4yoyyHPHY=.png",
-        "url_codice_sorgente": "https://github.com/jmiguelrivas/mako",
+        "url_codice_sorgente": "https://github.com/pomboverso/mako",
         "ultimo_aggiornamento": null
     },
     {
@@ -20001,7 +20025,7 @@
             "Security"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.rtneg.kyuubimask/en-US/icon_awf4Ppi9a7VblKjcOzH8NiiRoe-wHvGn6n6GPxTpyb8=.png",
         "url_codice_sorgente": "https://github.com/soraiyu/KyuubiMask",
         "ultimo_aggiornamento": null
     },
@@ -22278,6 +22302,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.tkton.wallet/en-US/icon_Zc9VKBcuzIvcEk39YeuBvhl62Z-k3EaoVHD0Bz5S0Pc=.png",
         "url_codice_sorgente": "https://github.com/kazei92/TkTonWallet",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FastTimes",
+        "id_pacchetto": "com.tmdev.fasttimes",
+        "riassunto": "Simple, private, open-source intermittent fasting tracker.",
+        "categorie": [
+            "Habit Tracker",
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.tmdev.fasttimes/en-US/icon_J8tboqHIh9YeCutuR_mRxvQ37ktAZ2FG4sGWRWtDhus=.png",
+        "url_codice_sorgente": "https://github.com/tom-murphy-development/FastTimes",
         "ultimo_aggiornamento": null
     },
     {
@@ -29039,7 +29076,7 @@
     {
         "nome": "Flare",
         "id_pacchetto": "dev.dimension.flare",
-        "riassunto": " All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP. ",
+        "riassunto": "Browse Mastodon, Bluesky, X, Misskey, Nostr and RSS all in one app.",
         "categorie": [
             "Internet",
             "News",
