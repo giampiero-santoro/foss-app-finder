@@ -6236,6 +6236,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Sidestep",
+        "id_pacchetto": "com.blankdev.sidestep",
+        "riassunto": "Intercept URLs, remove tracking, and redirect to privacy-friendly frontends.",
+        "categorie": [
+            "Internet",
+            "Security"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.blankdev.sidestep/en-US/icon_XXCOnx3B9A35QIeHPPQeak1cD90i4yxy7NnAcBEky-0=.png",
+        "url_codice_sorgente": "https://github.com/blankdotdev/sidestep",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Remindly",
         "id_pacchetto": "com.blanyal.remindly",
         "riassunto": "Imposta promemoria",
@@ -7083,6 +7096,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.chessclock.android.31.png",
         "url_codice_sorgente": "https://github.com/simenheg/simple-chess-clock",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "BasicSync",
+        "id_pacchetto": "com.chiller3.basicsync",
+        "riassunto": "A simple app for running Syncthing on Android",
+        "categorie": [
+            "Cloud Storage & File Sync",
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.chiller3.basicsync/en-US/icon_GyEtqbADRySeI1-XBq2tVaJl-oyCUvyeUB66uTQy9Kg=.png",
+        "url_codice_sorgente": "https://github.com/chenxiaolong/BasicSync",
         "ultimo_aggiornamento": null
     },
     {
@@ -8884,6 +8910,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Study Tracker",
+        "id_pacchetto": "com.edward.studytracker",
+        "riassunto": "A simple and clean study progress tracker built with Jetpack Compose.",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.edward.studytracker/en-US/icon_vV-lkmB3IGbmtt757QxnpLizyq700f-6zGAml4bsdTE=.png",
+        "url_codice_sorgente": "https://github.com/FunMax-Edward/study-tracker",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Diccionario Chileno",
         "id_pacchetto": "com.edwardoyarzun.diccionario",
         "riassunto": "Dizionario cileno",
@@ -10027,6 +10065,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.fgrim.msnake.12.png",
         "url_codice_sorgente": "https://gitlab.com/f-droid-mirrors/msnake",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "NightDream",
+        "id_pacchetto": "com.firebirdberlin.nightdream.noGms",
+        "riassunto": "Clock, screensaver & radio with dynamic brightness & custom layouts.",
+        "categorie": [
+            "Clock",
+            "Weather"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.firebirdberlin.nightdream.noGms/en-US/icon_aEkmoO8DiriJ46ybWqUQ3Ri-BWn06L1Gr5Ey-_A1XGA=.png",
+        "url_codice_sorgente": "https://github.com/firebirdberlin/nightdream",
         "ultimo_aggiornamento": null
     },
     {
@@ -11886,6 +11937,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SoundPod",
+        "id_pacchetto": "com.github.soundpod",
+        "riassunto": "A minimalist music streaming app",
+        "categorie": [
+            "Multimedia",
+            "Online Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.github.soundpod/en-US/icon_d9yeBAJDyuI1yhHG4JJywgyDQNTMKLajoKwTF5Dsy_I=.png",
+        "url_codice_sorgente": "https://github.com/arunnechully/SoundPod",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "a-rithist",
         "id_pacchetto": "com.github.sourzo.a_rithist",
         "riassunto": "Learn Scottish Gaelic through repetition!",
@@ -13577,7 +13641,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8348 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8351 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -16807,6 +16871,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Pokébase",
+        "id_pacchetto": "com.mouzinho.pokebase",
+        "riassunto": "Browse Pokémon and TCG cards with search, filtering, and offline caching.",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.mouzinho.pokebase/en-US/icon_P98bB8VdUOuxhLGr-hZ44QuRJleLDoRiF_bjLyZskl8=.png",
+        "url_codice_sorgente": "https://github.com/luizfilho00/pokedex",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "FilmFacts",
         "id_pacchetto": "com.movietrivia.filmfacts",
         "riassunto": "Fun trivia game for cinema enthusiasts",
@@ -19500,6 +19576,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Chip Defense Copper",
+        "id_pacchetto": "com.rama.chipdefense_copper",
+        "riassunto": "A tower defense game with a microprocessor theme",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.rama.chipdefense_copper/en-US/icon_LQnh2laJAYUklGZoZUIjPSKm9SlarTdZhqvzj8mdZFk=.png",
+        "url_codice_sorgente": "https://github.com/pomboverso/chip-defense-copper",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Mako Launcher",
         "id_pacchetto": "com.rama.mako",
         "riassunto": "Privacy-first Android launcher designed for focus, speed, and simplicity.",
@@ -21173,29 +21261,29 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "CuteCalc",
+        "nome": "Vanilla",
         "id_pacchetto": "com.sosauce.cutecalc",
-        "riassunto": "A cute an elegant calculator app for Android",
+        "riassunto": "A cute and elegant calculator app for Android",
         "categorie": [
             "Calculator",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.sosauce.cutecalc/en-US/icon_vMKXamPJwOZNq5GIuUkaR1E0Ot4eCiWqAJdwHwMXWdU=.png",
-        "url_codice_sorgente": "https://github.com/sosauce/CuteCalc",
+        "icona": "https://f-droid.org/repo//com.sosauce.cutecalc/en-US/icon_h5SF_pBY3OdypAAi0ZSEpR4basMTtIaCP0sRdDxpauo=.png",
+        "url_codice_sorgente": "https://github.com/sosauce/Vanilla",
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "CuteMusic",
+        "nome": "Chocola",
         "id_pacchetto": "com.sosauce.cutemusic",
-        "riassunto": "CuteMusic is a simple, lightweight and offline music player app for Android.",
+        "riassunto": "Chocola is a cute and powerful offline music player app for Android!",
         "categorie": [
             "Local Media Player",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.sosauce.cutemusic/en-US/icon_78bZoul_bvGOLxp7DpUhCfnQf9aUWz5jPyg4wun2dHs=.png",
-        "url_codice_sorgente": "https://github.com/sosauce/CuteMusic",
+        "icona": "https://f-droid.org/repo//com.sosauce.cutemusic/en-US/icon_ZQAWoX_Qglc6u8fQXCAunEe8oOqKY8QTQPbXl_vw96U=.png",
+        "url_codice_sorgente": "https://github.com/sosauce/Chocola",
         "ultimo_aggiornamento": null
     },
     {
@@ -22686,6 +22774,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "De Fide",
+        "id_pacchetto": "com.tristinbaker.defide",
+        "riassunto": "Offline Catholic app for prayer, Scripture, novenas, and the Rosary.",
+        "categorie": [
+            "Religion"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.tristinbaker.defide/en-US/icon_t6b3owsZVd6kpI86uFN3m9CDe2L_qUfd3QujdFRZ87U=.png",
+        "url_codice_sorgente": "https://github.com/tristinbaker/DeFide",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Safe Notes - Encrypted Notepad",
         "id_pacchetto": "com.trisven.safenotes",
         "riassunto": "Encrypted, Private note manager",
@@ -23188,6 +23288,18 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.wordmaker/en-US/icon_8CgWLbM4TBa2erc37DM8-3RRchcFSR0g8GR8vnyCNTE=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Music",
+        "id_pacchetto": "com.vayunmathur.music",
+        "riassunto": "A basic M3Y music player app",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -24296,6 +24408,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.yassirh.digitalocean.32.png",
         "url_codice_sorgente": "https://github.com/yassirh/digital-ocean-swimmer",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "VolumeScroll",
+        "id_pacchetto": "com.yeapguy.volumescroll",
+        "riassunto": "Scroll anywhere using your volume buttons",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.yeapguy.volumescroll/en-US/icon_Al8Ph9tefJ_lNV-ZCc0AleF7BQ4_J78yKa3KwgGnnYM=.png",
+        "url_codice_sorgente": "https://github.com/YeapGuy/VolumeScroll",
         "ultimo_aggiornamento": null
     },
     {
@@ -32304,7 +32428,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//helium314.keyboard/en-US/icon_-nkf9NO4Zp7Y0YX1AOcQdZMf32R_bPt8AZC2Ycn2v1I=.png",
-        "url_codice_sorgente": "https://github.com/Helium314/HeliBoard",
+        "url_codice_sorgente": "https://github.com/HeliBorg/HeliBoard",
         "ultimo_aggiornamento": null
     },
     {
@@ -33792,6 +33916,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.exclude0122.xivpn/en-US/icon_Zf1M4Nnpbs0Jf-YaBx1beqQoOLqNIUisekKwqeDLUVY=.png",
         "url_codice_sorgente": "https://github.com/Exclude0122/xivpn",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "KeinPlan",
+        "id_pacchetto": "io.github.ezberlin.keinplan",
+        "riassunto": "An alternative client for static DSB resources",
+        "categorie": [
+            "Calendar & Agenda",
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.ezberlin.keinplan/de-DE/icon_WpGB5JCK2918PEtcyJjVxBbLwBgqnwW_yAuC5eJ4swo=.png",
+        "url_codice_sorgente": "https://codeberg.org/ezberlin/KeinPlan",
         "ultimo_aggiornamento": null
     },
     {
@@ -39676,6 +39813,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "DroidStress",
+        "id_pacchetto": "net.tlfoxhuman.droidstress",
+        "riassunto": "Simpre CPU Stress test tool for Android ",
+        "categorie": [
+            "Battery",
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//net.tlfoxhuman.droidstress/en-US/icon_JUVPSuONwbqBfKRUU9WJ4v9BxFyxKa39qn-g8WcblS8=.png",
+        "url_codice_sorgente": "https://github.com/TranslucentFoxHuman/DroidStress",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "萊姆輸入法",
         "id_pacchetto": "net.toload.main.hd",
         "riassunto": "A smaller better Lime (Lightweight Input Method Editor)",
@@ -40158,6 +40308,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//nodomain.aditya1875more.stashly/en-US/icon_8pgeBN7Nk0RuxDia3cwGl246Is5-9FMRJQ_IEUinZuI=.png",
         "url_codice_sorgente": "https://github.com/Dev-Aditya-More/Stashly",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Collect the Cookies!",
+        "id_pacchetto": "nodomain.collectthecookies",
+        "riassunto": "Collect cookies in this fun idle-ish game",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "CC0-1.0",
+        "icona": "https://f-droid.org/repo//nodomain.collectthecookies/en-US/icon_u1K7i9MefrQkLQOVrKrg9Du81SfTxTEvsxA6gy8DE9U=.png",
+        "url_codice_sorgente": "https://codeberg.org/MysticJungle/collect-the-cookies",
         "ultimo_aggiornamento": null
     },
     {
@@ -44973,6 +45135,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.mlm.mages/en-US/icon_JU2ZYWVBRsUNv7AE4x176v6RjmY_qRreLiEWOipiB9g=.png",
         "url_codice_sorgente": "https://github.com/mlm-games/mages",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Miniter",
+        "id_pacchetto": "org.mlm.miniter",
+        "riassunto": "Video editor built for simple tasks",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.mlm.miniter/en-US/icon_J0gcWJ-dg5hrkRLltm0j_9BfZRk7VKF2LF7PXBe-IOo=.png",
+        "url_codice_sorgente": "https://github.com/mlm-games/miniter",
         "ultimo_aggiornamento": null
     },
     {
