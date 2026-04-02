@@ -18319,6 +18319,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "deutsia radio",
+        "id_pacchetto": "com.opensource.i2pradio",
+        "riassunto": "Privacy-focused radio player supporting clearnet, Tor, and I2P networks",
+        "categorie": [
+            "Internet",
+            "Multimedia"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.opensource.i2pradio/en-US/icon_tw3s4R3xt_sErHRZ19A228Sg02ey0dgk7CPn0-nVNI4=.png",
+        "url_codice_sorgente": "https://github.com/deutsia/deutsia-radio",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Open Stable Diffusion",
         "id_pacchetto": "com.openstablediffusion",
         "riassunto": "An app for generating images using AI",
@@ -19057,6 +19070,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.politedroid.6.png",
         "url_codice_sorgente": "https://github.com/miguelvps/PoliteDroid",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "GAMA",
+        "id_pacchetto": "com.popovicialinc.gama",
+        "riassunto": "A specialized utility to manage and switch GPU rendering APIs via Shizuku",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/palincat/gama",
         "ultimo_aggiornamento": null
     },
     {
@@ -23297,6 +23322,18 @@
         "riassunto": "A basic M3Y music player app",
         "categorie": [
             "Local Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Notes",
+        "id_pacchetto": "com.vayunmathur.notes",
+        "riassunto": "A basic note-taking app",
+        "categorie": [
+            "Note"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -30612,6 +30649,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Kefir Control",
+        "id_pacchetto": "eu.raulmorales.kefircontrol",
+        "riassunto": "Minimalist app to track milk kefir fermentation times.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/raulmoralesruiz/kefir-control",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GetMiTokens",
         "id_pacchetto": "eu.roggstar.getmitokens",
         "riassunto": "Nessuna descrizione disponibile.",
@@ -33487,6 +33536,20 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.ente.auth/en-US/icon_TXbr3gCFKllVLyt0uKSB6IP1AY2koUqdytPO1PLg_pw=.png",
         "url_codice_sorgente": "https://github.com/ente-io/ente/",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Ente Locker",
+        "id_pacchetto": "io.ente.locker.fdroid",
+        "riassunto": "Ente Locker is an end-to-end encrypted document storage app",
+        "categorie": [
+            "Cloud Storage & File Sync",
+            "File Encryption & Vault",
+            "Security"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/ente-io/ente",
         "ultimo_aggiornamento": null
     },
     {
