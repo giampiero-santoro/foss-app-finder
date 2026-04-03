@@ -1114,7 +1114,7 @@
     {
         "nome": "My Price Log",
         "id_pacchetto": "app.zornslemma.mypricelog",
-        "riassunto": "Track and compare prices at local shops, offline",
+        "riassunto": "Traccia e confronta i prezzi nei negozi locali, offline",
         "categorie": [
             "Money"
         ],
@@ -10158,9 +10158,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "<p>FloFla Cards</p>",
+        "nome": "FloFla Cards",
         "id_pacchetto": "com.floflacards.app",
-        "riassunto": "<p>FloFla Cards – Passive learning with your phone! 🎓📱</p>",
+        "riassunto": "FloFla Cards – Passive learning with your phone! 🎓📱",
         "categorie": [
             "Science & Education"
         ],
@@ -11764,6 +11764,18 @@
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/niqdev/ipcam-view",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SilentShare",
+        "id_pacchetto": "com.github.normplum.silentshare",
+        "riassunto": "Share personal information with others visually in-person.",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.github.normplum.silentshare/en-US/icon_ODlGd_sWwwppAlYziL4Tgpnviracx9zQBNW857bDzCs=.png",
+        "url_codice_sorgente": "https://github.com/NormPlum/SilentShare",
         "ultimo_aggiornamento": null
     },
     {
@@ -13487,6 +13499,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Impostor MX",
+        "id_pacchetto": "com.impostormx.org",
+        "riassunto": "Classic multiplayer party game, now digital and open source",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.impostormx.org/en-US/icon_klgIejtD0bsiS8PahtXEhzBHBVzJWPfoiGuuPjMkvG0=.png",
+        "url_codice_sorgente": "https://github.com/retired64/ImpostorMX",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Improvement Roll",
         "id_pacchetto": "com.improvement_roll",
         "riassunto": "Create a list of productive things to do and improve yourself one task at a time",
@@ -13641,7 +13665,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8351 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8357 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -16871,18 +16895,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Pokébase",
-        "id_pacchetto": "com.mouzinho.pokebase",
-        "riassunto": "Browse Pokémon and TCG cards with search, filtering, and offline caching.",
-        "categorie": [
-            "Games"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.mouzinho.pokebase/en-US/icon_P98bB8VdUOuxhLGr-hZ44QuRJleLDoRiF_bjLyZskl8=.png",
-        "url_codice_sorgente": "https://github.com/luizfilho00/pokedex",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "FilmFacts",
         "id_pacchetto": "com.movietrivia.filmfacts",
         "riassunto": "Fun trivia game for cinema enthusiasts",
@@ -19620,7 +19632,7 @@
             "Launcher"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.rama.mako/en-US/icon_CDnBDGMXQwZ4p-kLrneSTENRbbrr_I6OBc4yoyyHPHY=.png",
+        "icona": "https://f-droid.org/repo//com.rama.mako/en-US/icon_Bj9HdZXSbsWpqM22LhtmRWj-iaAhfrRAb7I8L260JVo=.png",
         "url_codice_sorgente": "https://github.com/pomboverso/mako",
         "ultimo_aggiornamento": null
     },
@@ -27953,9 +27965,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Fire Brigade Competition Radio Trainer (HFLÜ Hesse",
+        "nome": "Competition Radio Trainer (HFLÜ Hessen)",
         "id_pacchetto": "de.questmaster.wettkampf_funk_trainer",
-        "riassunto": "**Training app for radio messages and commands used in the Hessian Fire Brigade ",
+        "riassunto": "Practice HFLÜ radio calls, situation reports and commands.",
         "categorie": [
             "Science & Education",
             "Sports & Health"
@@ -29982,6 +29994,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/Kaljurand/K6nele",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "EphemeralWorkProfile",
+        "id_pacchetto": "ephemeralwp.safespace",
+        "riassunto": "Profile owner Android privacy app.",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "Unlicense",
+        "icona": "https://f-droid.org/repo//ephemeralwp.safespace/en-US/icon_4llewbrxhfILV78wyo07bSzf-rCp382WmcsYlQWwmIw=.png",
+        "url_codice_sorgente": "https://github.com/confidenseuide/EphemeralWorkProfile/",
         "ultimo_aggiornamento": null
     },
     {
@@ -41377,7 +41402,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.billthefarmer.editor/en-GB/icon_KYMMWzbk7s3TFBrVa8pnvR822QiKxvUdChddfZwyUeE=.png",
+        "icona": "https://f-droid.org/repo//org.billthefarmer.editor/en/icon_KYMMWzbk7s3TFBrVa8pnvR822QiKxvUdChddfZwyUeE=.png",
         "url_codice_sorgente": "https://github.com/billthefarmer/editor",
         "ultimo_aggiornamento": null
     },
@@ -41700,6 +41725,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.broeuschmeul.android.gps.usb.provider/en-US/icon_yU9Qf88JoMZkrIB8NW5g-R_i-1CmUvYak5d64dCa6DA=.png",
         "url_codice_sorgente": "https://github.com/freshollie/UsbGps4Droid",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Brogue CE Android",
+        "id_pacchetto": "org.broguece.game",
+        "riassunto": "Brogue CE Android - a classic dungeon crawling roguelike",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.broguece.game/en-US/icon_1TTaPXm-24OLUxCqeL_yHzKYP38o4lim3KEoPfvjvP8=.png",
+        "url_codice_sorgente": "https://github.com/tyrannotorus/c-brogue-ce-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -51262,6 +51299,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//tech.bogomolov.incomingsmsgateway/en-US/icon_4zKtRhP3AJT6NI6eqA_iK6jYPLKtAix4znG9hLnGrJs=.png",
         "url_codice_sorgente": "https://github.com/bogkonstantin/android_income_sms_gateway_webhook",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "CSV Editor",
+        "id_pacchetto": "tech.brianrayburn.csv_editor",
+        "riassunto": "View and edit CSV files on your Android device",
+        "categorie": [
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://codeberg.org/bgrayburn/csv-editor",
         "ultimo_aggiornamento": null
     },
     {
