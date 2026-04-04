@@ -885,7 +885,7 @@
     {
         "nome": "Sift",
         "id_pacchetto": "app.siftrecipes",
-        "riassunto": "A minimalist, open-source recipe keeper.",
+        "riassunto": "A minimalist recipe keeper.",
         "categorie": [
             "Recipe Manager"
         ],
@@ -6819,6 +6819,7 @@
         "id_pacchetto": "com.carriez.flutter_hbb",
         "riassunto": "An open-source remote desktop application, the TeamViewer alternative",
         "categorie": [
+            "Remote Access",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -7242,7 +7243,8 @@
         "riassunto": "Visualizzatore VNC che punta a essere semplice da usare e veloce",
         "categorie": [
             "Connectivity",
-            "Internet"
+            "Internet",
+            "Remote Access"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.coboltforge.dontmind.multivnc/en-US/icon_u266wT9vkox55sKdAIh_fR6B4JMtGj1tnLVrQ0NWieo=.png",
@@ -7700,6 +7702,7 @@
         "id_pacchetto": "com.daemon.ssh",
         "riassunto": "Simple ssh/sftp server without root.",
         "categorie": [
+            "Remote Access",
             "Security"
         ],
         "licenza": "GPL-2.0-or-later",
@@ -10442,7 +10445,8 @@
         "riassunto": "FreeRDP è un client gratuito per il protocollo di desktop remoto",
         "categorie": [
             "Connectivity",
-            "Internet"
+            "Internet",
+            "Remote Access"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -10689,6 +10693,7 @@
         "categorie": [
             "Connectivity",
             "Internet",
+            "Remote Access",
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -11415,7 +11420,7 @@
     {
         "nome": "Quote Unquote",
         "id_pacchetto": "com.github.jameshnsears.quoteunquote",
-        "riassunto": "A Quote / Quotations / Affirmations App Widget\na",
+        "riassunto": "A Quotations / Affirmations App Widget",
         "categorie": [
             "Reading"
         ],
@@ -11779,7 +11784,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "RHVoice - a free and open source speech synthesize",
+        "nome": "RHVoice - a speech synthesizer",
         "id_pacchetto": "com.github.olga_yakovleva.rhvoice.android",
         "riassunto": "TTS engine with extended languages support (incl. Russian)",
         "categorie": [
@@ -16895,6 +16900,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Pokébase",
+        "id_pacchetto": "com.mouzinho.pokebase",
+        "riassunto": "Browse Pokémon and TCG cards with search, filtering, and offline caching.",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.mouzinho.pokebase/en-US/icon_P98bB8VdUOuxhLGr-hZ44QuRJleLDoRiF_bjLyZskl8=.png",
+        "url_codice_sorgente": "https://github.com/luizfilho00/pokedex",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "FilmFacts",
         "id_pacchetto": "com.movietrivia.filmfacts",
         "riassunto": "Fun trivia game for cinema enthusiasts",
@@ -19605,6 +19622,7 @@
         "id_pacchetto": "com.raiiware.forcestophelper",
         "riassunto": "Helps you manually force-stop background apps.",
         "categorie": [
+            "App Manager",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -21550,6 +21568,7 @@
         "id_pacchetto": "com.stripe1.xmouse",
         "riassunto": "Controlla da remoto X11 tramite comandi SSH generati dal tuo cellulare o tablet",
         "categorie": [
+            "Remote Access",
             "System"
         ],
         "licenza": "MIT",
@@ -23276,7 +23295,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.calendar/en-US/icon_YpJ3hlj7TjYQPXff2AfZALoDgvqmFZe-BCRHWcgVAhc=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.calendar/en-US/icon_zZZUEcmbqdmmhih5AHrRioGHiGWEcq8pGppJHq5yXQ8=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23324,7 +23343,7 @@
             "Games"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.games.wordmaker/en-US/icon_8CgWLbM4TBa2erc37DM8-3RRchcFSR0g8GR8vnyCNTE=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.wordmaker/en-US/icon_sftPsIAh1bCWYdBivks8Z2yAu_ae01UNhbzHoNtmvjs=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23336,7 +23355,7 @@
             "Local Media Player"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.music/en-US/icon_HBsxfLO6ONWRn3ztOJDixqTk9eLX4XBFEirRoQfrLKQ=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23348,21 +23367,20 @@
             "Note"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.notes/en-US/icon_sSoaKhMbtU7GNAC8YyC4NY4XDcNwIVtS4Ix8eug62SQ=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
     {
         "nome": "OpenAssistant",
         "id_pacchetto": "com.vayunmathur.openassistant",
-        "riassunto": "A simple, open-source AI app that uses Grok",
+        "riassunto": "A simple, open-source local AI app.",
         "categorie": [
-            "AI Chat",
-            "Internet"
+            "AI Chat"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.openassistant/en-US/icon__gHORJj0klBPoQeJxev0WPvUJ7JWmrHvd9MPcY22RTk=.png",
-        "url_codice_sorgente": "https://github.com/vayun-mathur/OpenAssistant",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
     {
@@ -28679,7 +28697,8 @@
         "id_pacchetto": "de.toshsoft.tsvnc",
         "riassunto": "Small and simple VNC client.",
         "categorie": [
-            "Connectivity"
+            "Connectivity",
+            "Remote Access"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//de.toshsoft.tsvnc/en-US/icon__B8NREFG47miGoNYIE8Iyp1rJv7bhzLGvGiNH-ZtqyM=.png",
@@ -31241,6 +31260,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//finance.valet/en-US/icon_UlQNpXg7oV3WFuadd-U_Dvjj9wmNSsEVvwjgdIZLrMA=.png",
         "url_codice_sorgente": "https://github.com/standardsats/valet",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FirTube",
+        "id_pacchetto": "fir.tube",
+        "riassunto": "FirTube — browser based on Android webView for watching YouTube.",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "Unlicense",
+        "icona": "https://f-droid.org/repo//fir.tube/en-US/icon_jzWhKlBmUdWhaIiNFrnmviLV1F5BKDgy9nlnRTY1H-A=.png",
+        "url_codice_sorgente": "https://github.com/sirdeepsleep/FirTube/",
         "ultimo_aggiornamento": null
     },
     {
@@ -35860,6 +35891,7 @@
         "id_pacchetto": "io.treehouses.remote",
         "riassunto": "Communicate with headless Raspberry Pi mobile server running treehouses image vi",
         "categorie": [
+            "Remote Access",
             "Remote Controller"
         ],
         "licenza": "AGPL-3.0-only",
@@ -36359,7 +36391,7 @@
     {
         "nome": "Nora",
         "id_pacchetto": "jp.nonbili.nora",
-        "riassunto": "Facebook, Instagram, Reddit, Threads and X in a single app. No ads.",
+        "riassunto": "Browser per social network. Facebook, Instagram, Reddit, Threads, X e altri in u",
         "categorie": [
             "Forum",
             "Internet",
@@ -38319,7 +38351,7 @@
     {
         "nome": "Carburoid",
         "id_pacchetto": "net.canvoki.carburoid",
-        "riassunto": "Find gas stations by price and distance in Spain and France.",
+        "riassunto": "Find gas stations by price and distance in Spain, France and Portugal.",
         "categorie": [
             "Navigation"
         ],
@@ -38371,7 +38403,8 @@
         "id_pacchetto": "net.christianbeier.droidvnc_ng",
         "riassunto": "VNC server app that does not require root privileges.",
         "categorie": [
-            "Connectivity"
+            "Connectivity",
+            "Remote Access"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//net.christianbeier.droidvnc_ng/en-US/icon_Prwg4UqmygRxCKG2LdJEv7ZWgEAI-zsPLGS1jur_aeM=.png",
@@ -42006,7 +42039,8 @@
         "id_pacchetto": "org.connectbot",
         "riassunto": "SSH and local shell client",
         "categorie": [
-            "Internet"
+            "Internet",
+            "Remote Access"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -44320,7 +44354,7 @@
             "Translation & Dictionary"
         ],
         "licenza": "CC0-1.0",
-        "icona": "https://f-droid.org/repo//org.jyutping.jyutping/en-US/icon_dQ4z-2ivPhKi-KRpnhhdTTyh2cFL3qVv8Ix0bCyvovk=.png",
+        "icona": "https://f-droid.org/repo//org.jyutping.jyutping/en-US/icon_bhS3p7d_K6uU3AMeATkOeqis5iVt8lrZ6bdkQi1ixH0=.png",
         "url_codice_sorgente": "https://github.com/yuetyam/jyutping-android",
         "ultimo_aggiornamento": null
     },
@@ -47786,7 +47820,8 @@
         "id_pacchetto": "org.sufficientlysecure.termbot",
         "riassunto": "Client SSH da usare con smart card",
         "categorie": [
-            "Internet"
+            "Internet",
+            "Remote Access"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/org.sufficientlysecure.termbot.10905217.png",
@@ -49541,6 +49576,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ProtectedWorkProfile",
+        "id_pacchetto": "protectedwp.safespace",
+        "riassunto": "Profile owner Android security app.",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "Unlicense",
+        "icona": "https://f-droid.org/repo//protectedwp.safespace/en-US/icon_4llewbrxhfILV78wyo07bSzf-rCp382WmcsYlQWwmIw=.png",
+        "url_codice_sorgente": "https://github.com/confidenseuide/ProtectedWorkProfile/",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Proton Authenticator",
         "id_pacchetto": "proton.android.authenticator.fdroid",
         "riassunto": "Private, secure, offline 2FA across devices by Proton team",
@@ -49783,6 +49831,7 @@
         "id_pacchetto": "ro.ioanm.fissh",
         "riassunto": "Autenticazione SSH tramite Fingerprint scanning via rete (TLS Sockets).",
         "categorie": [
+            "Remote Access",
             "Security"
         ],
         "licenza": "MIT",
@@ -50727,8 +50776,7 @@
         "id_pacchetto": "sh.haven.app",
         "riassunto": "Secure SSH terminal, VNC/RDP desktop, and SFTP client for Android",
         "categorie": [
-            "Internet",
-            "System"
+            "Remote Access"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//sh.haven.app/en-US/icon_LN6q1UmY12e43FRREfbludKIktao3C0SORIraZwh03k=.png",
@@ -50906,7 +50954,8 @@
         "id_pacchetto": "sk.vx.connectbot",
         "riassunto": "SSH (remote access) client",
         "categorie": [
-            "Internet"
+            "Internet",
+            "Remote Access"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/sk.vx.connectbot.30.png",
@@ -51320,6 +51369,7 @@
         "categorie": [
             "Cloud Storage & File Sync",
             "Internet",
+            "Remote Access",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -52584,9 +52634,9 @@
             "Internet",
             "Social Network"
         ],
-        "licenza": "GPL-3.0-only",
+        "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//xyz.blorpblorp.app/en-US/icon_IulhGpEOc3vi5bgqnEP0hW-_k9TddEpawNVtymrT3lg=.png",
-        "url_codice_sorgente": "https://github.com/christianjuth/blorp",
+        "url_codice_sorgente": "https://github.com/Blorp-Labs/blorp",
         "ultimo_aggiornamento": null
     },
     {
