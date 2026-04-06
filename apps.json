@@ -15011,6 +15011,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Kompact",
+        "id_pacchetto": "com.kompact",
+        "riassunto": "Compress and convert images offline. Batch select, set quality, and export",
+        "categorie": [
+            "Graphics",
+            "Multimedia"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.kompact/en-US/icon_PCQR0JcJzh0irq4redFqFMsiMwMtpO-xio9u24Idawc=.png",
+        "url_codice_sorgente": "https://git.naxod.com/luca/Kompact",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Klock",
         "id_pacchetto": "com.koshai_limited.klock",
         "riassunto": "A simple chess based clock application",
@@ -44750,18 +44763,6 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/lichess-org/mobile",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "lichess",
-        "id_pacchetto": "org.lichess.mobileapp.free",
-        "riassunto": "free online chess",
-        "categorie": [
-            "Games"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//org.lichess.mobileapp.free/en-US/icon_dbLrhgejDTUHT6OQbIHLEi0EG0QBBvmxOFojVn_rAjs=.png",
-        "url_codice_sorgente": "https://github.com/lichess-org/lichobile/",
         "ultimo_aggiornamento": null
     },
     {
