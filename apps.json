@@ -6761,6 +6761,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Call Blocker",
+        "id_pacchetto": "com.callblocker",
+        "riassunto": "Block unwanted calls, spam and telemarketing",
+        "categorie": [
+            "Phone & SMS"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://gitlab.com/abelardodiaz/web26-050-call-blocker",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SpaceBeam",
         "id_pacchetto": "com.calmyjane.spacebeam",
         "riassunto": "Kaleidoscope Camera Fun with Shaders for live visual performances!",
@@ -21313,6 +21325,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.soberdigital.screentimetracker/en-US/icon_-CDR2uPAumNdg_z_44C1XApwDIVgpqsvRtsmXIta9IE=.png",
         "url_codice_sorgente": "https://gitlab.com/sober-digital/screen-time-tracker",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Sobuu",
+        "id_pacchetto": "com.sobuumedia.sobuu",
+        "riassunto": "Track books reading and organise your readings",
+        "categorie": [
+            "Internet",
+            "Reading"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.sobuumedia.sobuu/de/icon_rulmC3oJDmI4sg7GjW9K6LMQSu13399bokh5V8cqQvc=.png",
+        "url_codice_sorgente": "https://gitlab.com/sobuu/sobuu",
         "ultimo_aggiornamento": null
     },
     {
@@ -49585,7 +49610,7 @@
             "System"
         ],
         "licenza": "Unlicense",
-        "icona": "https://f-droid.org/repo//protectedwp.safespace/en-US/icon_4llewbrxhfILV78wyo07bSzf-rCp382WmcsYlQWwmIw=.png",
+        "icona": "https://f-droid.org/repo//protectedwp.safespace/en-US/icon_4gV8xM2q9_VTx3JuHQ1g48XBcLqpn3mgdKrKCelOigo=.png",
         "url_codice_sorgente": "https://github.com/confidenseuide/ProtectedWorkProfile/",
         "ultimo_aggiornamento": null
     },
@@ -49866,6 +49891,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SubSonicSter",
+        "id_pacchetto": "rocks.langhaarschneider.subsonicster",
+        "riassunto": "Play Hitster card game with your own SubSonic music server",
+        "categorie": [
+            "Games",
+            "Multimedia",
+            "Online Media Player"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//rocks.langhaarschneider.subsonicster/en-US/icon_OI-o8hpN8CqLzAbFcp5JBX8eYOYUXH-HGSpgICjRoO8=.png",
+        "url_codice_sorgente": "https://codeberg.org/langhaarschneider/SubSonicSter",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "BendyStraw",
         "id_pacchetto": "rocks.mm_dev.BendyStraw",
         "riassunto": "An app for managing NewPipe databases",
@@ -49875,6 +49914,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//rocks.mm_dev.BendyStraw/en-US/icon_bT7aA98uz_5LmgcdUvcXW8136dc57ZMUV2J8-lOr2Jw=.png",
         "url_codice_sorgente": "https://codeberg.org/mm-dev/bendy-straw",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "audav",
+        "id_pacchetto": "rocks.mm_dev.audav",
+        "riassunto": "A cross-platform player for audiobooks stored on NextCloud/WebDAV.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//rocks.mm_dev.audav/en-US/icon_Wj1u7GuMHUJW5BQtaz9Y1VJodJ7D8Rlr1oHMv-My6o0=.png",
+        "url_codice_sorgente": "https://codeberg.org/mm-dev/audav",
         "ultimo_aggiornamento": null
     },
     {
