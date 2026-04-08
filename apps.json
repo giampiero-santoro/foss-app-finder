@@ -13682,7 +13682,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8357 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8372 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -15225,6 +15225,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.lavabit.pahoehoe/de/icon_3i0Pw5_e-w47eYndEq9IhI3_qEibB-rG0z0o4miG9Q4=.png",
         "url_codice_sorgente": "https://github.com/lavabit/pahoehoe",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "LearnTube",
+        "id_pacchetto": "com.learntube.app",
+        "riassunto": "A learning-focused YouTube client with progress tracking and notes.",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.learntube.app/en-US/icon_OHy4y1W-fJCNhHHOBCM9V_cxZNJJgbcNkB-x7UDTY9Q=.png",
+        "url_codice_sorgente": "https://github.com/akshvaishnav21/LearnTube",
         "ultimo_aggiornamento": null
     },
     {
@@ -18724,7 +18736,7 @@
     {
         "nome": "PennyWise AI",
         "id_pacchetto": "com.pennywiseai.tracker",
-        "riassunto": "Offline expense tracker from bank SMS with optional AI chat",
+        "riassunto": "Private, SMS-powered expense tracker with on-device AI",
         "categorie": [
             "AI Chat",
             "Finance Manager",
@@ -30598,7 +30610,7 @@
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//eu.ottop.yamlauncher/en-US/icon_YAIRPaaRUiW4BJ9yIRHDfggv1AV85n_zL8mTLOpf5f8=.png",
-        "url_codice_sorgente": "https://github.com/ThomasNowProductions/YAM-Launcher",
+        "url_codice_sorgente": "https://codeberg.org/thomasboom/YAM-Launcher",
         "ultimo_aggiornamento": null
     },
     {
@@ -33761,6 +33773,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.bommbomm34.latindefense/en-US/icon_0NO3CBzHNxAePptkf-e2fX_56xEZMoHDEncRLwxluTQ=.png",
         "url_codice_sorgente": "https://github.com/bommbomm34/latindefense",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Quick Ball",
+        "id_pacchetto": "io.github.chayanforyou.quickball",
+        "riassunto": "A Quick Action Ball that gives fast access to controls —volume, brightness, lock",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.chayanforyou.quickball/en-US/icon_sNqtdaZnDJDOkXmdRFK4VIAi0LxKqTfvdkyVlaryTRA=.png",
+        "url_codice_sorgente": "https://github.com/chayanforyou/QuickBall",
         "ultimo_aggiornamento": null
     },
     {
