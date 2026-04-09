@@ -338,6 +338,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Bag",
+        "id_pacchetto": "app.bitbag",
+        "riassunto": "Bitcoin price tracker & net worth dashboard. No ads, no accounts, privacy-first.",
+        "categorie": [
+            "Money"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.bitbag/en-US/icon_5RIEOmbKcH0KLYJOOB-7BNoBdO8L_R6eJedWGXNTh4g=.png",
+        "url_codice_sorgente": "https://github.com/UXAVIA/bag",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CClauncher",
         "id_pacchetto": "app.cclauncher",
         "riassunto": "Minimal home launcher that hides apps by default to reduce distractions",
@@ -7988,6 +8000,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.dd3boh.outertune/en-US/icon_xmBCZ14vkWqwszDSjRRTL2uEfQ65ZvfNHYG_47m2Yr0=.png",
         "url_codice_sorgente": "https://github.com/OuterTune/OuterTune",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "WallApp",
+        "id_pacchetto": "com.debojit.wallapp",
+        "riassunto": "WebView wrapper for the TheWallApp wallpaper website",
+        "categorie": [
+            "Internet",
+            "Wallpaper"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.debojit.wallapp/en-US/icon_XtR-I9Ao3EY8JDENoPDTsCUyiGZHWo1nq-ikEM1kGes=.png",
+        "url_codice_sorgente": "https://github.com/debojitsantra/Wallapp-Android",
         "ultimo_aggiornamento": null
     },
     {
@@ -17495,6 +17520,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Banana Split",
+        "id_pacchetto": "com.nfcarchiver.banana_split",
+        "riassunto": "Split secrets into QR-code shards using Shamir's Secret Sharing",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/mezinster/banana_split",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "NFC Archiver",
         "id_pacchetto": "com.nfcarchiver.nfc_archiver",
         "riassunto": "Store and restore files across multiple NFC tags",
@@ -24215,6 +24253,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Nian",
+        "id_pacchetto": "com.wordgame.nian",
+        "riassunto": "Collection of word games in Swedish",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://gitlab.com/astrosmurf/nian",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Word Tracer",
         "id_pacchetto": "com.wordtracer.app",
         "riassunto": "A crossword-like puzzle game",
@@ -25841,7 +25891,7 @@
             "Internet"
         ],
         "licenza": "LGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.csicar.ning.201.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/csicar/Ning",
         "ultimo_aggiornamento": null
     },
@@ -27755,7 +27805,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Medical Calendarlog",
+        "nome": "Medical Calendar Log",
         "id_pacchetto": "de.ntdote.medicalcalendarlog",
         "riassunto": "Privacy-focused medical event tracking using your device's calendar system",
         "categorie": [
@@ -29288,7 +29338,7 @@
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.davidv.translator/en-US/icon_GEAckWVv4ZVJ9tzqlXEm1CJ2LgDy-mhWQipIBE5m4P8=.png",
-        "url_codice_sorgente": "https://github.com/davidventura/firefox-translator",
+        "url_codice_sorgente": "https://github.com/DavidVentura/offline-translator",
         "ultimo_aggiornamento": null
     },
     {
@@ -32613,6 +32663,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "HiddenProtectedWorkProfile",
+        "id_pacchetto": "hidden.protectedwp.safespace",
+        "riassunto": "Hidden Profile owner Android security app.",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "Unlicense",
+        "icona": "https://f-droid.org/repo//hidden.protectedwp.safespace/en-US/icon_4gV8xM2q9_VTx3JuHQ1g48XBcLqpn3mgdKrKCelOigo=.png",
+        "url_codice_sorgente": "https://github.com/confidenseuide/HiddenProtectedWorkProfile/",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "words.hk 粵典",
         "id_pacchetto": "hk.words.wordshk",
         "riassunto": "A Cantonese Dictionary for Everyone",
@@ -34084,6 +34147,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/io.github.engsergiu.react.4.png",
         "url_codice_sorgente": "https://github.com/engSERGIU/React",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Tapjacking Bypass",
+        "id_pacchetto": "io.github.ephemera42.tapjackingbypass",
+        "riassunto": "Allow obscured touches for specific apps",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/ephemera42/TapjackingBypass",
         "ultimo_aggiornamento": null
     },
     {
@@ -48919,6 +48994,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.xolatgames.catashoot/en-US/icon_WpDULjQYxzh_6f68kzKVswwLeMRbNqp-p0JT5O8hNBU=.png",
         "url_codice_sorgente": "https://codeberg.org/xolatgames/cat-a-shooter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Dima Defense",
+        "id_pacchetto": "org.xolatgames.dima.defense",
+        "riassunto": "A simple Tower Defense game that was made in LibGDX",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//org.xolatgames.dima.defense/en-US/icon_bkT5aE7aJxj-frLhgh1KsMmfoIoWx7JEUdb2UpgqdRE=.png",
+        "url_codice_sorgente": "https://codeberg.org/xolatgames/Dima-Defense",
         "ultimo_aggiornamento": null
     },
     {
