@@ -858,6 +858,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BlockAds: Clean Internet",
+        "id_pacchetto": "app.pwhs.blockads",
+        "riassunto": "Block ads & trackers system-wide. Firewall, SafeSearch, profiles",
+        "categorie": [
+            "Firewall"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.pwhs.blockads/en-US/icon_YaxLYPK8zy9QQSNc5Sj1cNgM9_qjDYhL0W5up-3G_7I=.png",
+        "url_codice_sorgente": "https://github.com/pass-with-high-score/blockads-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Stoic Reading",
         "id_pacchetto": "app.reading.stoic.stoicreading2",
         "riassunto": "Consolidation of Stoic texts",
@@ -11026,7 +11038,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.git.amarradi.leafpad/de-DE/icon_qrHcSQzbFT70uZr3lta1ejr5fLTvG4Uu5-0awVs2b-8=.png",
+        "icona": "https://f-droid.org/repo//com.git.amarradi.leafpad/aeb/icon_qrHcSQzbFT70uZr3lta1ejr5fLTvG4Uu5-0awVs2b-8=.png",
         "url_codice_sorgente": "https://github.com/amarradi/leafpad",
         "ultimo_aggiornamento": null
     },
@@ -13840,7 +13852,7 @@
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.ismartcoding.plain/en-US/icon_mg0Jp4Y1WFWVDsM3Hn84dZejuiMUunbKxAfx2CzjrZ4=.png",
-        "url_codice_sorgente": "https://github.com/ismartcoding/plain-app",
+        "url_codice_sorgente": "https://github.com/plainhub/plain-app",
         "ultimo_aggiornamento": null
     },
     {
@@ -34386,6 +34398,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Minesweeper",
+        "id_pacchetto": "io.github.johnathan.minesweeper",
+        "riassunto": "Beautiful Minesweeper. No ads, no trackers, no permissions.",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/john-athan/minesweeper",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GPS Setter",
         "id_pacchetto": "io.github.jqssun.gpssetter",
         "riassunto": "A GPS setter based on the Xposed framework.",
@@ -42652,7 +42676,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "BasicCashFlow",
+        "nome": "Basic Cash Flow",
         "id_pacchetto": "org.eagsoftware.basiccashflow",
         "riassunto": "The easiest way to track your cash: no fuss, just money tracking.",
         "categorie": [
@@ -45830,7 +45854,7 @@
     {
         "nome": "PAIesque",
         "id_pacchetto": "org.ojrandom.paiesque",
-        "riassunto": "A transparent, device-agnostic cardiovascular fitness tracker and analyzer",
+        "riassunto": "Fitness tracker and analyzer based on published scientific papers",
         "categorie": [
             "Connectivity",
             "Sports & Health"
