@@ -1056,6 +1056,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Websocket CAM",
+        "id_pacchetto": "app.umerfarooq.websocketcam",
+        "riassunto": "Access Android camera via Websocket client API",
+        "categorie": [
+            "Connectivity"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.umerfarooq.websocketcam/en-US/icon_xDTKLaqqSVMt6kyJF2OygjVPCQSu-N4VMaBGG0sJvA4=.png",
+        "url_codice_sorgente": "https://github.com/UmerCodez/WebsocketCAM",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "﻿USP - ZX Spectrum Emulator",
         "id_pacchetto": "app.usp",
         "riassunto": "﻿Unreal Speccy Portable - ZX Spectrum Emulator",
@@ -2317,6 +2329,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/snoe/deedum",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "RoadTripRadar",
+        "id_pacchetto": "ca.voiditswarranty.roadtripradar",
+        "riassunto": "Live weather radar imagery ahead of you on an interactive map",
+        "categorie": [
+            "Navigation",
+            "Weather"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//ca.voiditswarranty.roadtripradar/en-US/icon_Nrw8KECNxqqJ-Z-AG8uUI9uPsonzgM2_IdgKxrB4r2A=.png",
+        "url_codice_sorgente": "https://github.com/digiexchris/RoadTripRadar",
         "ultimo_aggiornamento": null
     },
     {
@@ -3612,6 +3637,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "NoMoreBackground",
+        "id_pacchetto": "com.adilhanney.no_more_background",
+        "riassunto": "Control your Android™ apps",
+        "categorie": [
+            "App Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/adil192/no_more_background",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Ricochlime",
         "id_pacchetto": "com.adilhanney.ricochlime",
         "riassunto": "Satisfying monster shooter",
@@ -4379,6 +4416,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "androidcrypt",
+        "id_pacchetto": "com.androidcrypt",
+        "riassunto": "Mount and access VeraCrypt encrypted volumes on Android",
+        "categorie": [
+            "File Encryption & Vault"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.androidcrypt/en-US/icon_USbum7TcuiU-uw6CwRQ4odr5zD_ugeJe3wyQDPiYHyg=.png",
+        "url_codice_sorgente": "https://github.com/jmccoy600/androidCrypt",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Working Time Alert",
         "id_pacchetto": "com.androidfromfrankfurt.workingtimealert",
         "riassunto": "Non scordarti mai l'ora di andare a casa",
@@ -4500,6 +4549,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.anthonyla.paperize/en-US/icon_3rPxpSan5IXdJQsMi8n6Ax1-XKI2_q7cwFGHFrzOX8w=.png",
         "url_codice_sorgente": "https://github.com/Anthonyy232/Paperize",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "BoxingClock",
+        "id_pacchetto": "com.antoinelabpixel.boxingclock",
+        "riassunto": "Interval timer for boxing training with audio cues and configurable rounds.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.antoinelabpixel.boxingclock/en-US/icon_m0W2WFbODl04_29l7zCXSl5D5KRFeg4CvUy3WzE2ENs=.png",
+        "url_codice_sorgente": "https://github.com/Antoine-lab-pixel/BoxingClock",
         "ultimo_aggiornamento": null
     },
     {
@@ -6357,6 +6418,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.bmco.cratesiounofficial.12.png",
         "url_codice_sorgente": "https://github.com/TheUberCatman/crates-io-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Clock You",
+        "id_pacchetto": "com.bnyro.clock",
+        "riassunto": "Privacy focused clock app build with MD3",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.bnyro.clock/en-US/icon_6PxGKZDqfhBe7uuX9dlmizPE7bZVwScK9-Jr5Bdv-mM=.png",
+        "url_codice_sorgente": "https://github.com/you-apps/ClockYou",
         "ultimo_aggiornamento": null
     },
     {
@@ -9903,6 +9976,18 @@
         ],
         "licenza": "EUPL-1.2",
         "icona": "https://f-droid.org/repo//com.exner.tools.jkbikemechanicaldisasterprevention/en-US/icon_yHXaOG_z7cHPNenLIE6RL86pln3IRMQpR0qxT3_Ysa0=.png",
+        "url_codice_sorgente": "https://codeberg.org/jexner/JKBikeMechanicalDisasterPrevention",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "J-K Bike - Mechanical Disaster Prevention",
+        "id_pacchetto": "com.exner.tools.jkbikemechanicaldisasterprevention.light",
+        "riassunto": "Nessuna descrizione disponibile.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "EUPL-1.2",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://codeberg.org/jexner/JKBikeMechanicalDisasterPrevention",
         "ultimo_aggiornamento": null
     },
@@ -13719,7 +13804,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8372 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8375 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -13943,7 +14028,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "IYPS",
+        "nome": "IYPS - Is Your Password Secure?",
         "id_pacchetto": "com.iyps",
         "riassunto": "Evaluate passwords, predict crack times, and get tips for stronger passwords.",
         "categorie": [
@@ -14791,6 +14876,31 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.katiearose.sobriety/en-US/icon_YJom_9me0hYcshRmiKW5UqN_mbzHW2e3nnjGWpPWxtM=.png",
         "url_codice_sorgente": "https://github.com/KiARC/Sobriety",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "DroidOS Trackpad",
+        "id_pacchetto": "com.katsuyamaki.DroidOSFOSSKeyboardTrackpad",
+        "riassunto": "Phone-as-trackpad and keyboard overlay for DroidOS.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Katsuyamaki/DroidOS",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "DroidOS Launcher",
+        "id_pacchetto": "com.katsuyamaki.DroidOSFOSSLauncher",
+        "riassunto": "Cover-screen launcher and window manager for DroidOS.",
+        "categorie": [
+            "Launcher",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Katsuyamaki/DroidOS",
         "ultimo_aggiornamento": null
     },
     {
@@ -17540,7 +17650,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.nfcarchiver.banana_split/en-US/icon_u5aAB9xsZBGtbfFf2NWlTepKWr5VJ7cHSkpQX7xzZbw=.png",
         "url_codice_sorgente": "https://github.com/mezinster/banana_split",
         "ultimo_aggiornamento": null
     },
@@ -20376,7 +20486,7 @@
     {
         "nome": "Linkora",
         "id_pacchetto": "com.sakethh.linkora",
-        "riassunto": "Link organizer for Android and desktop with self-hosted sync.",
+        "riassunto": "Local-first multiplatform link organizer with optional self-hosted sync.",
         "categorie": [
             "Bookmark",
             "Internet"
@@ -21646,6 +21756,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.streamatico.polymarketviewer/en-US/icon_pjO1T4hHKKsQPWRT1NF7wkRPeMdUfHd1RkHPkLGPb8Y=.png",
         "url_codice_sorgente": "https://github.com/streamatico/PolymarketViewer",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "StreamPlayer",
+        "id_pacchetto": "com.streamplayer.app",
+        "riassunto": "Live internet radio and audio streaming",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/codejq/live-player",
         "ultimo_aggiornamento": null
     },
     {
@@ -25616,7 +25738,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/de.blau.android.3307.png",
+        "icona": "https://f-droid.org/repo//icons/de.blau.android.3401.png",
         "url_codice_sorgente": "https://github.com/MarcusWolschon/osmeditor4android",
         "ultimo_aggiornamento": null
     },
@@ -27135,6 +27257,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "RSS Reader",
+        "id_pacchetto": "de.lolo.rssreader",
+        "riassunto": "Simple RSS reader without ads or tracking.",
+        "categorie": [
+            "News",
+            "Reading"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//de.lolo.rssreader/de-DE/icon_wtYk23G8NlzRHHJBIiCl4hidOpyl-BFmvnhERhng0MU=.png",
+        "url_codice_sorgente": "https://github.com/immerzu/lolo-rssreader-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Ask me anything meaningful",
         "id_pacchetto": "de.lsubel.amam",
         "riassunto": "Domande per una bella conversazione",
@@ -27956,9 +28091,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Voice Audiobook Player",
+        "nome": "Voice Offline Audiobook Player",
         "id_pacchetto": "de.ph1b.audiobook",
-        "riassunto": "minimalistic - intuitive - fast",
+        "riassunto": "Minimalist offline audiobook player. Free, no ads, volume boost & sleep timer.",
         "categorie": [
             "Multimedia"
         ],
@@ -30812,7 +30947,7 @@
             "Sports & Health"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//eu.raulmorales.kefircontrol/en-US/icon___Z-24KVgdmVVg-x3-Ya771OQCq5yjDknU3SqGejkEg=.png",
+        "icona": "https://f-droid.org/repo//eu.raulmorales.kefircontrol/en-US/icon_Wz2LVarexLGdsgXR02AHnKnzl_DJpAIkAlcVC2m3bzw=.png",
         "url_codice_sorgente": "https://github.com/raulmoralesruiz/kefir-control",
         "ultimo_aggiornamento": null
     },
@@ -39185,6 +39320,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Roaming Guard",
+        "id_pacchetto": "net.markuspetermann.roamingguard",
+        "riassunto": "Protects you from accidental roaming on your mobile data connection",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//net.markuspetermann.roamingguard/en-US/icon_KczoMOaOBc7yzbUj1Wy-Mrh3WcvJ1xVGO6550R9KUiQ=.png",
+        "url_codice_sorgente": "https://codeberg.org/markuspetermann/roamingguard",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "When Ze Bus",
         "id_pacchetto": "net.mcarolan.whenzebus",
         "riassunto": "Show London bus arrival time predictions",
@@ -40097,7 +40244,7 @@
     {
         "nome": "DroidStress",
         "id_pacchetto": "net.tlfoxhuman.droidstress",
-        "riassunto": "Simpre CPU Stress test tool for Android ",
+        "riassunto": "Simple CPU Stress test tool for Android ",
         "categorie": [
             "Battery",
             "System"
@@ -42181,6 +42328,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.codeberg.rozworld.finalrozgamenew/en-US/icon_421INBdnLCmG60M5pWFomPibWtFN_N3188ao4GOrzaI=.png",
         "url_codice_sorgente": "https://codeberg.org/rozworld/final-roz-game-new",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "WebSpace",
+        "id_pacchetto": "org.codeberg.theoden8.webspace",
+        "riassunto": "Bring your favorite web apps to your phone",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//org.codeberg.theoden8.webspace/en-US/icon__x7xj9QOthVe5UdCUMl5bBHwkxKTfyDIYZuHkFzPjhg=.png",
+        "url_codice_sorgente": "https://github.com/theoden8/webspace_app",
         "ultimo_aggiornamento": null
     },
     {
@@ -50961,7 +51120,7 @@
     {
         "nome": "Haven SSH Client",
         "id_pacchetto": "sh.haven.app",
-        "riassunto": "Secure SSH terminal, VNC/RDP desktop, and SFTP client for Android",
+        "riassunto": "SSH terminal, Wayland desktop, VNC/RDP, cloud storage & SFTP for Android",
         "categorie": [
             "Remote Access"
         ],
@@ -52935,7 +53094,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//xyz.linerly.nontrinsic/en-US/icon_0jXNUhn2XYSUdq8-D-S07I7n5amvSkM0VQQUeSGCu6M=.png",
+        "icona": "https://f-droid.org/repo//xyz.linerly.nontrinsic/en-US/icon_91IEhzVpcAJR97x_rn9NcvNe5f0ojp5vZz7RGwGIo44=.png",
         "url_codice_sorgente": "https://codeberg.org/nontrinsic/android",
         "ultimo_aggiornamento": null
     },
