@@ -24737,6 +24737,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Egg Returns Home",
+        "id_pacchetto": "com.yepgoryo.EggReturnsHome",
+        "riassunto": "A simple platformer about an egg",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "CC0-1.0",
+        "icona": "https://f-droid.org/repo//com.yepgoryo.EggReturnsHome/en-US/icon_GtMsNDbENGcCeP9v2QLWqeG3XUsXEgfGvzcR6Yqyqtk=.png",
+        "url_codice_sorgente": "https://github.com/yepgoryo/EggReturnsHome",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Water Quality",
         "id_pacchetto": "com.yinmik.waterquality",
         "riassunto": "Monitor pool and hot tub water quality with a BLE-YC01 Bluetooth sensor",
@@ -30211,6 +30223,19 @@
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//duress.keyboard/en-US/icon_5i5gWHSJE_aBhzYGneHzKysVUDk7-3k8b0MoqDFwd3s=.png",
         "url_codice_sorgente": "https://github.com/pofesk0/lastcodeduresskeyboard",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "DuressKeyboardLite",
+        "id_pacchetto": "duress.keyboard.lite",
+        "riassunto": "Keyboard with DuressPassword feature.",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "Unlicense",
+        "icona": "https://f-droid.org/repo//duress.keyboard.lite/en-US/icon_5i5gWHSJE_aBhzYGneHzKysVUDk7-3k8b0MoqDFwd3s=.png",
+        "url_codice_sorgente": "https://github.com/pofesk0/DuressKeyboardLite/",
         "ultimo_aggiornamento": null
     },
     {
