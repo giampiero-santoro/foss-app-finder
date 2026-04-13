@@ -3644,7 +3644,7 @@
             "App Manager"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.adilhanney.no_more_background/en-US/icon_SPtkezatdQHrqSf_3LFAIYy-QR17_nIzKuryY4qJ0PI=.png",
         "url_codice_sorgente": "https://github.com/adil192/no_more_background",
         "ultimo_aggiornamento": null
     },
@@ -6135,7 +6135,7 @@
     {
         "nome": "Let Me Downgrade",
         "id_pacchetto": "com.berdik.letmedowngrade",
-        "riassunto": "Add support for downgrading apps on Android 12 through 15 QPR1.",
+        "riassunto": "Add support for downgrading apps on Android 12 through 16 QPR2.",
         "categorie": [
             "System"
         ],
@@ -8127,6 +8127,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "LocalShare",
+        "id_pacchetto": "com.defname.localshare",
+        "riassunto": "Simple local file sharing via a built-in HTTP server.",
+        "categorie": [
+            "File Transfer"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/defname/LocalShare",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "YAM",
         "id_pacchetto": "com.degeder.yam",
         "riassunto": "Simplistic metronome app by an amateur musician",
@@ -9968,26 +9980,26 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "J-K Bike - Mechanical Disaster Prevention",
+        "nome": "J-K Bike - Mechanical Disaster Prevention Pro",
         "id_pacchetto": "com.exner.tools.jkbikemechanicaldisasterprevention",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "App that helps build positive bike maintenance behaviours, for rides quick, big ",
         "categorie": [
             "Sports & Health"
         ],
         "licenza": "EUPL-1.2",
-        "icona": "https://f-droid.org/repo//com.exner.tools.jkbikemechanicaldisasterprevention/en-US/icon_yHXaOG_z7cHPNenLIE6RL86pln3IRMQpR0qxT3_Ysa0=.png",
+        "icona": "https://f-droid.org/repo//com.exner.tools.jkbikemechanicaldisasterprevention/en-US/icon_5FBwGpOOPGrNbgd_4N17i9IKF8k8jxYmE098Z-FJKaM=.png",
         "url_codice_sorgente": "https://codeberg.org/jexner/JKBikeMechanicalDisasterPrevention",
         "ultimo_aggiornamento": null
     },
     {
         "nome": "J-K Bike - Mechanical Disaster Prevention",
         "id_pacchetto": "com.exner.tools.jkbikemechanicaldisasterprevention.light",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "App that helps build positive bike maintenance behaviours, for rides quick, big ",
         "categorie": [
             "Sports & Health"
         ],
         "licenza": "EUPL-1.2",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.exner.tools.jkbikemechanicaldisasterprevention.light/en-US/icon_yHXaOG_z7cHPNenLIE6RL86pln3IRMQpR0qxT3_Ysa0=.png",
         "url_codice_sorgente": "https://codeberg.org/jexner/JKBikeMechanicalDisasterPrevention",
         "ultimo_aggiornamento": null
     },
@@ -14928,6 +14940,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.kazufukurou.nanji/en-US/icon_BXFLirN46u1Pw5Ovlqom2jqe0fesDKjO0Iu2b-krMoE=.png",
         "url_codice_sorgente": "https://github.com/artyommironov/nanji",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Sumire Japanese Keyboard Lite F-Droid",
+        "id_pacchetto": "com.kazumaproject.markdownhelperkeyboard.lite.fdroid",
+        "riassunto": "Private offline Japanese keyboard with user dictionary and snippets",
+        "categorie": [
+            "Keyboard & IME"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.kazumaproject.markdownhelperkeyboard.lite.fdroid/en-US/icon_CcE_UThTlFVGwoGUESyTz2PYFOtWdL_kgLqDQjo_qdo=.png",
+        "url_codice_sorgente": "https://github.com/KazumaProject/JapaneseKeyboard",
         "ultimo_aggiornamento": null
     },
     {
@@ -21813,7 +21837,7 @@
     {
         "nome": "Homer Audio Player for Seniors",
         "id_pacchetto": "com.studio4plus.homerplayer2",
-        "riassunto": "Caregiver-managed audiobook and podcast player for seniors",
+        "riassunto": "Audiobooks and podcasts: simple player managed by a caregiver",
         "categorie": [
             "Local Media Player",
             "Multimedia",
@@ -27271,13 +27295,13 @@
     {
         "nome": "RSS Reader",
         "id_pacchetto": "de.lolo.rssreader",
-        "riassunto": "Simple RSS reader without ads or tracking.",
+        "riassunto": "Compact RSS reader with offline storage and background updates.",
         "categorie": [
             "News",
             "Reading"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//de.lolo.rssreader/de-DE/icon_wtYk23G8NlzRHHJBIiCl4hidOpyl-BFmvnhERhng0MU=.png",
+        "icona": "https://f-droid.org/repo//de.lolo.rssreader/de-DE/icon_B86lo_B7oKEcvA44h_LzXx43j45tOe5F8xRvGysi8yw=.png",
         "url_codice_sorgente": "https://github.com/immerzu/lolo-rssreader-android",
         "ultimo_aggiornamento": null
     },
@@ -30645,6 +30669,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/eu.halaser.beamctrl.103.png",
         "url_codice_sorgente": "https://sourceforge.net/p/oapc/code/ci/master/tree/AndroidBeamControl",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Wormhole File Transfer",
+        "id_pacchetto": "eu.heili.wormhole",
+        "riassunto": "A simple end-to-end file transfer app.",
+        "categorie": [
+            "File Transfer",
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/wormhole-app/wormhole",
         "ultimo_aggiornamento": null
     },
     {
@@ -50219,7 +50256,7 @@
             "Online Media Player"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//rocks.langhaarschneider.subsonicster/en-US/icon_OI-o8hpN8CqLzAbFcp5JBX8eYOYUXH-HGSpgICjRoO8=.png",
+        "icona": "https://f-droid.org/repo//rocks.langhaarschneider.subsonicster/en-US/icon_SdA7buUOqS8Y7lpoa4oSFOfNgjrCztYUXjgIzXS098g=.png",
         "url_codice_sorgente": "https://codeberg.org/langhaarschneider/SubSonicSter",
         "ultimo_aggiornamento": null
     },
