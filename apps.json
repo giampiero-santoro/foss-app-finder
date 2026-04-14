@@ -5427,7 +5427,7 @@
     {
         "nome": "eQuran",
         "id_pacchetto": "com.app.equran",
-        "riassunto": "eQuran offers an enriching way to connect with the Holy Quran.",
+        "riassunto": "Read, listen, choose from 5 reciters, and track your Quran journey.",
         "categorie": [
             "Internet",
             "Reading",
@@ -10426,7 +10426,7 @@
     {
         "nome": "Suntimes",
         "id_pacchetto": "com.forrestguice.suntimeswidget",
-        "riassunto": "Sunlight and moonlight times (and alarms)",
+        "riassunto": "Sunlight and moonlight information (clock, alarms, tiles, and widgets).",
         "categorie": [
             "Clock",
             "Time"
@@ -13802,9 +13802,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Kai",
+        "nome": "Kai 9000",
         "id_pacchetto": "com.inspiredandroid.kai",
-        "riassunto": "OpenClaw alternative in your pocket",
+        "riassunto": "Free, open-source AI chat with a soul, memory & interactive screens",
         "categorie": [
             "AI Chat"
         ],
@@ -20184,7 +20184,7 @@
     {
         "nome": "Cashiro",
         "id_pacchetto": "com.ritesh.cashiro",
-        "riassunto": "Offline expense tracker for bank SMS and PDF statements with optional AI chat",
+        "riassunto": "All-In-One Expense-Budget tracker for bank SMS and PDF statements with optional ",
         "categorie": [
             "AI Chat",
             "Finance Manager",
@@ -23554,6 +23554,18 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.contacts/en-US/icon_UKNFba8g1nE5M6NtEUgesc1pJzoCrtzNLMLqqURH9OQ=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Find Family",
+        "id_pacchetto": "com.vayunmathur.findfamily",
+        "riassunto": "An end-to-end encrypted location sharing app for family and friends.",
+        "categorie": [
+            "Location Tracker & Sharer"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.findfamily/en-US/icon_kM9GWWX6fDP-kntoj3ImRh91eBwq_mvnPmX3nuksyq8=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -48305,7 +48317,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.tasks/en-US/icon_YftLJ2dGZxgevP1f0n9c9X9HZKYmyz06c370Udel8Tk=.png",
+        "icona": "https://f-droid.org/repo//org.tasks/en-US/icon_hj4Uw7qW4b2sruhcSPVU6kuNoHV4QGWgIXjyUqJ36KA=.png",
         "url_codice_sorgente": "https://github.com/tasks/tasks",
         "ultimo_aggiornamento": null
     },
