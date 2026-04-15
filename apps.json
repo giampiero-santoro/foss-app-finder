@@ -23654,6 +23654,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Photos",
+        "id_pacchetto": "com.vayunmathur.photos",
+        "riassunto": "A basic photos app built with Material You",
+        "categorie": [
+            "Gallery"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.photos/en-US/icon_D-SFkm1N4JxGogYFulOV_fcg8SjP46rQ0beCJfdoDts=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Password Generator",
         "id_pacchetto": "com.vecturagames.android.app.passwordgenerator",
         "riassunto": "Password Generator is an app for generating secure passwords",
@@ -29527,7 +29539,7 @@
     {
         "nome": "Offline Translator",
         "id_pacchetto": "dev.davidv.translator",
-        "riassunto": "On-device translation of text and images",
+        "riassunto": "On-device translation of text and images, with TTS",
         "categorie": [
             "Translation & Dictionary"
         ],
@@ -34380,6 +34392,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/ephemera42/TapjackingBypass",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "EUC State Of Health Analyzer",
+        "id_pacchetto": "io.github.eucsoh.android",
+        "riassunto": "Analyze electric unicycle battery health from ride logs",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.eucsoh.android/en-US/icon_97xtCeNGGSFMcgJgVxSEqhbQGgJsBsOUN5JieRAs1uA=.png",
+        "url_codice_sorgente": "https://github.com/Tritbool/euc_soh_kotlin",
         "ultimo_aggiornamento": null
     },
     {
