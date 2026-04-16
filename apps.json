@@ -1983,7 +1983,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//br.com.wasystems.audiooutputswitcher/en-US/icon_kqcHt7a6vMuC2aeSYxBJgQCIk7efHrQE08_JkFwuNPc=.png",
         "url_codice_sorgente": "https://github.com/weslley75/AudioOutputSwitcher",
         "ultimo_aggiornamento": null
     },
@@ -3656,7 +3656,7 @@
             "Games"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.adilhanney.ricochlime/en-US/icon_2lb8eEg82lWZm6Pw9YFGpIIZi2rKjOB-D85U1nW7m0Y=.png",
+        "icona": "https://f-droid.org/repo//com.adilhanney.ricochlime/en-US/icon_N_SN3FVgYWq05VFzgw99BWIWcXWFckra-MqsjLwg77Q=.png",
         "url_codice_sorgente": "https://github.com/adil192/ricochlime",
         "ultimo_aggiornamento": null
     },
@@ -15194,9 +15194,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Kompact",
+        "nome": "Kompact Image Compressor",
         "id_pacchetto": "com.kompact",
-        "riassunto": "Compress and convert images offline. Batch select, set quality, and export",
+        "riassunto": "Offline image compressor, resizer and converter.",
         "categorie": [
             "Graphics",
             "Multimedia"
@@ -17272,6 +17272,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.mshdabiola.playnotepad.foss/en-US/icon_eBEBicSe41XcInf86AqoO-6uNokctXg-sR0-r1NtxqA=.png",
         "url_codice_sorgente": "https://github.com/mshdabiola/NotePad",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Flux - Movies, Shows & Anime local player",
+        "id_pacchetto": "com.mskd.flux",
+        "riassunto": "Modern local video player and library for your movies, shows, and anime.",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.mskd.flux/en-US/icon_hP0E0k1RkD44aEy_cJDVSuOKSHeyV6hqb4akR177ML8=.png",
+        "url_codice_sorgente": "https://github.com/the-mskd-dev/Flux",
         "ultimo_aggiornamento": null
     },
     {
