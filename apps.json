@@ -20227,7 +20227,7 @@
             "Text Editor",
             "Writing"
         ],
-        "licenza": "MIT",
+        "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.rk.xededitor/en-US/icon_VCbcxgkUFdEKWn2GsOHSxB1_MOrPiws8w-AfUW_2vTo=.png",
         "url_codice_sorgente": "https://github.com/Xed-Editor/Xed-Editor",
         "ultimo_aggiornamento": null
@@ -48540,7 +48540,7 @@
         "categorie": [
             "VPN & Proxy"
         ],
-        "licenza": "BSD-3-Clause-Clear",
+        "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//org.torproject.vpn/en-US/icon_Apw8n6Kct_kklGY7bSHiix5LH7RFeJJLyw62JtpfNaw=.png",
         "url_codice_sorgente": "https://gitlab.torproject.org/tpo/applications/vpn/",
         "ultimo_aggiornamento": null
