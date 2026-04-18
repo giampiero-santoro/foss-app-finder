@@ -13816,7 +13816,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8375 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8387 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -34440,7 +34440,7 @@
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.github.ezberlin.keinplan/de-DE/icon_WpGB5JCK2918PEtcyJjVxBbLwBgqnwW_yAuC5eJ4swo=.png",
+        "icona": "https://f-droid.org/repo//io.github.ezberlin.keinplan/de-DE/icon_PGJbtCGnJQVk-OedI-vLrOlTLtVXDLzwCfatya9jPQs=.png",
         "url_codice_sorgente": "https://codeberg.org/ezberlin/KeinPlan",
         "ultimo_aggiornamento": null
     },
