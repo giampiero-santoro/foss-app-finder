@@ -6425,7 +6425,7 @@
         "id_pacchetto": "com.bnyro.clock",
         "riassunto": "Privacy focused clock app build with MD3",
         "categorie": [
-            "System"
+            "Clock"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.bnyro.clock/en-US/icon_6PxGKZDqfhBe7uuX9dlmizPE7bZVwScK9-Jr5Bdv-mM=.png",
@@ -23632,7 +23632,7 @@
     {
         "nome": "Notes",
         "id_pacchetto": "com.vayunmathur.notes",
-        "riassunto": "A basic note-taking app",
+        "riassunto": "A markdown note-taking app",
         "categorie": [
             "Note"
         ],
