@@ -75,6 +75,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "sub rosa by naiveHA",
+        "id_pacchetto": "acab.naiveha.subrosa",
+        "riassunto": "Program (over USB or NFC) the static password of your YubiKey",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//acab.naiveha.subrosa/en-US/icon_oM4UnrkcqN_eNQOmDmHQgoIN_LQBoz6ffNK0G1XyDQE=.png",
+        "url_codice_sorgente": "https://github.com/naive-HA/subrosa",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Lightning",
         "id_pacchetto": "acr.browser.lightning",
         "riassunto": "Browser web leggero",
@@ -2314,7 +2326,7 @@
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/ca.rmen.nounours.350.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/caarmen/nounours-android",
         "ultimo_aggiornamento": null
     },
@@ -2332,9 +2344,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "RoadTripRadar",
+        "nome": "Road Trip Radar",
         "id_pacchetto": "ca.voiditswarranty.roadtripradar",
-        "riassunto": "Live weather radar imagery ahead of you on an interactive map",
+        "riassunto": "A map app prioritizing situational awareness and weather.",
         "categorie": [
             "Navigation",
             "Weather"
@@ -6406,6 +6418,18 @@
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/xorum-io/open_money_tracker",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "MemeBoard",
+        "id_pacchetto": "com.bluefirestudios.memeboard",
+        "riassunto": "A goofy ahh meme soundboard app for Android.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.bluefirestudios.memeboard/en-US/icon_k9hJIad61BcaYicWfNFnEV9cTNNh9lbRsq_jBtjNKTI=.png",
+        "url_codice_sorgente": "https://github.com/THEbluefirestudios/memeboard-fdroid",
         "ultimo_aggiornamento": null
     },
     {
@@ -12729,7 +12753,7 @@
     {
         "nome": "Sky Map",
         "id_pacchetto": "com.google.android.stardroid",
-        "riassunto": "Sky Map turns your phone into a window on the night sky.",
+        "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Navigation"
         ],
@@ -19548,16 +19572,16 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "FeedFlow - RSS Reader",
+        "nome": "FeedFlow - RSS Feed Reader",
         "id_pacchetto": "com.prof18.feedflow",
-        "riassunto": "Minimal, fast, uncluttered",
+        "riassunto": "Minimal RSS reader with offline reading, reader mode & flexible sync options.",
         "categorie": [
             "Internet",
             "News",
             "Reading"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.prof18.feedflow/en-US/icon_b1YJZhQyD0ddI0MSSyOCO-vKO99WxLdYGH80DTQSsH8=.png",
+        "icona": "https://f-droid.org/repo//com.prof18.feedflow/en-US/icon_59v5ycIuhdqDDpfG1B218-gN-JtFllkdg4Xn0kvEEW8=.png",
         "url_codice_sorgente": "https://github.com/prof18/feed-flow",
         "ultimo_aggiornamento": null
     },
@@ -19884,7 +19908,7 @@
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.rama.mako/en-US/icon_Bj9HdZXSbsWpqM22LhtmRWj-iaAhfrRAb7I8L260JVo=.png",
-        "url_codice_sorgente": "https://github.com/pomboverso/mako",
+        "url_codice_sorgente": "https://github.com/rama-io/mako",
         "ultimo_aggiornamento": null
     },
     {
@@ -26857,6 +26881,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "HyleX",
+        "id_pacchetto": "de.jepfa.hyle_x",
+        "riassunto": "An Entropy clone",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.jepfa.hyle_x/en-US/icon_RakXtXJBqcojBIQGt889adMV8kX690k8eqlxbMc0gbI=.png",
+        "url_codice_sorgente": "https://github.com/jenspfahl/hylex",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Everyday Tasks",
         "id_pacchetto": "de.jepfa.personaltasklogger",
         "riassunto": "Manage your tasks, everyday",
@@ -28478,7 +28514,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.schildbach.wallet/en-US/icon_VRi1mrwpOPXjGRgNu19uz1sFng_tQvxT7_KBOEMFF8w=.png",
-        "url_codice_sorgente": "https://github.com/bitcoin-wallet/bitcoin-wallet",
+        "url_codice_sorgente": "https://gitlab.com/bitcoin-wallet/bitcoin-wallet",
         "ultimo_aggiornamento": null
     },
     {
@@ -28491,7 +28527,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.schildbach.wallet_test/en-US/icon_VRi1mrwpOPXjGRgNu19uz1sFng_tQvxT7_KBOEMFF8w=.png",
-        "url_codice_sorgente": "https://github.com/bitcoin-wallet/bitcoin-wallet",
+        "url_codice_sorgente": "https://gitlab.com/bitcoin-wallet/bitcoin-wallet",
         "ultimo_aggiornamento": null
     },
     {
