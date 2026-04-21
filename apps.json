@@ -882,6 +882,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Universal Installer",
+        "id_pacchetto": "app.pwhs.universalinstaller",
+        "riassunto": "APK/APKS/XAPK/APKM installer with OBB, URL downloads, Shizuku & VirusTotal scans",
+        "categorie": [
+            "App Manager",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.pwhs.universalinstaller/en-US/icon_p-rH0BQeCPDezlzb9mJ4WVIsPTFcXL3KqUZN64ulZbs=.png",
+        "url_codice_sorgente": "https://github.com/pass-with-high-score/universal-installer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Stoic Reading",
         "id_pacchetto": "app.reading.stoic.stoicreading2",
         "riassunto": "Consolidation of Stoic texts",
@@ -4428,6 +4441,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "xrayFA",
+        "id_pacchetto": "com.android.xrayfa",
+        "riassunto": "XrayFA is a fast, secure, and user-friendly Android client for Xray-core.",
+        "categorie": [
+            "VPN & Proxy"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.android.xrayfa/en-US/icon_rxyjfZbFxmndEvrZrof1x0d0PBThKj_V1TkJynZ2zaI=.png",
+        "url_codice_sorgente": "https://github.com/Q7DF1/XrayFA",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "androidcrypt",
         "id_pacchetto": "com.androidcrypt",
         "riassunto": "Mount and access VeraCrypt encrypted volumes on Android",
@@ -6054,6 +6079,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.bbzone.isitprime/de-DE/icon_EYGy6tqmLIg3oQzWUgbbS0s8nhiRXwXy6Oo75N0bfsA=.png",
         "url_codice_sorgente": "https://gitlab.com/bodoba/is-it-prime",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Equalizer314",
+        "id_pacchetto": "com.bearinmind.equalizer314",
+        "riassunto": "System-wide EQ with multiband compression, limiter, and audio-visual feedback.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.bearinmind.equalizer314/en-US/icon_FgN2GOO4Gldo1FDSHO47tIE2nUKzdt8ukLvZm_FpQzw=.png",
+        "url_codice_sorgente": "https://github.com/bearinmindcat/Equalizer314",
         "ultimo_aggiornamento": null
     },
     {
@@ -13840,7 +13877,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8387 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8397 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -19912,6 +19949,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Txori",
+        "id_pacchetto": "com.rama.txori",
+        "riassunto": "Privacy-first focus session app.",
+        "categorie": [
+            "Habit Tracker"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.rama.txori/en-US/icon_xNDDDAPpuw8Mfne6iOk_skqS7FCyZgiujtaxSgewQ34=.png",
+        "url_codice_sorgente": "https://github.com/rama-io/txori",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "BlastOff",
         "id_pacchetto": "com.ranger.blastoff",
         "riassunto": "Casual endless runner featuring vector graphics",
@@ -22094,7 +22143,7 @@
         "categorie": [
             "Internet"
         ],
-        "licenza": "GPL-3.0-only",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.tachibana.downloader/en-US/icon_Hyw-WJaW3eM4qTBAiCpeIfImHRPTpvxEUaPSHvDUuIY=.png",
         "url_codice_sorgente": "https://github.com/TachibanaGeneralLaboratories/download-navi",
         "ultimo_aggiornamento": null
@@ -35007,6 +35056,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "3D Geometry Animation",
+        "id_pacchetto": "io.github.nvlad1.function3danimator",
+        "riassunto": "Build and animate 3D mathematical surfaces offline",
+        "categorie": [
+            "Graphics",
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.nvlad1.function3danimator/en-US/icon_KLb1TpvkepIzAC8v-EpKkhSFKOJ2-sVN4XL_n8eAIGo=.png",
+        "url_codice_sorgente": "https://github.com/NVlad1/3D-Geometry-Animation",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "DNS man",
         "id_pacchetto": "io.github.otakuchiyan.dnsman",
         "riassunto": "Set DNS lookup server",
@@ -38607,7 +38669,7 @@
     {
         "nome": "AlexCalc",
         "id_pacchetto": "net.alexbarry.calc_android",
-        "riassunto": "Scientific calculator with LaTeX equation display",
+        "riassunto": "Scientific calculator with LaTeX equation display, buttons and plaintext input",
         "categorie": [
             "Calculator",
             "Science & Education"
@@ -41550,6 +41612,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.asafonov.monly/en-US/icon_c1hkk0eBGObqKBTRNT_VshQ8JkxAdeD7qXZcHGGc3rg=.png",
         "url_codice_sorgente": "https://github.com/asafonov/monly.apk",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Spass",
+        "id_pacchetto": "org.asafonov.spass",
+        "riassunto": "Small but effective password manager for android.",
+        "categorie": [
+            "Password & 2FA"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//org.asafonov.spass/en-US/icon_YuaGQcn3drJhkg6PVwYjMqiHT_V3guWF7B-OraQC3cw=.png",
+        "url_codice_sorgente": "https://github.com/asafonov/spass.apk",
         "ultimo_aggiornamento": null
     },
     {
