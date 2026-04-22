@@ -9455,20 +9455,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Kinoko[Manga Reader]",
-        "id_pacchetto": "com.ero.kinoko",
-        "riassunto": "Fantastico lettore di manga",
-        "categorie": [
-            "Ebook Reader",
-            "Graphics",
-            "Reading"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.ero.kinoko/en-US/icon_NXwKbeZ9v5KxkEtm-5IEtCe2Jv9v8rhiGNCmh7BdCuA=.png",
-        "url_codice_sorgente": "https://github.com/gsioteam/kinoko",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Praktika Vortaro",
         "id_pacchetto": "com.esperantajvortaroj.app",
         "riassunto": "Offline Esperanto dictionary",
@@ -9561,18 +9547,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.everysoft.autoanswer.6.png",
         "url_codice_sorgente": "https://archive.softwareheritage.org/browse/origin/http://auto-answer.googlecode.com/svn//directory/",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Evil Insult Generator",
-        "id_pacchetto": "com.evilinsult",
-        "riassunto": "This is the greatest insults app you can get!",
-        "categorie": [
-            "Games"
-        ],
-        "licenza": "Unlicense",
-        "icona": "https://f-droid.org/repo//com.evilinsult/en-US/icon_BDCUYDX8rANkizGRtMSmJoZQTnKI_AhHyGSRLiLnya8=.png",
-        "url_codice_sorgente": "https://github.com/EvilInsultGenerator/android-app",
         "ultimo_aggiornamento": null
     },
     {
@@ -12370,20 +12344,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.webierta.call_counter/en-US/icon_2xJZTg2gSN8yv_7CPYFOnFQIbBLtTWoyD-kB01da54U=.png",
         "url_codice_sorgente": "https://github.com/Webierta/call-counter",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "venera",
-        "id_pacchetto": "com.github.wgh136.venera",
-        "riassunto": "A comic reader that support reading local and network comics.",
-        "categorie": [
-            "Ebook Reader",
-            "Multimedia",
-            "Reading"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.github.wgh136.venera/en-US/icon_azzmqNfdJLP0OcuCJ_bm6f6miLqPtPujgA254WHpY7M=.png",
-        "url_codice_sorgente": "https://github.com/venera-app/venera",
         "ultimo_aggiornamento": null
     },
     {
@@ -18094,6 +18054,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Noor Connect",
+        "id_pacchetto": "com.noorconnect.app",
+        "riassunto": "Premium privacy-first Islamic companion: Quran, Qibla, Adhan, & Habit tracking.",
+        "categorie": [
+            "Religion"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/darkmaster0345/Noor-connect",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "The Kana Quiz",
         "id_pacchetto": "com.noprestige.kanaquiz",
         "riassunto": "Semplice quiz app per far identificare all'utente i caratteri giapponesi",
@@ -18220,6 +18192,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.nunti/cs/icon__7HwdgBHAu0xg2VZfZi2iPfQ_lt_zIWio0FlBk-8Dhk=.png",
         "url_codice_sorgente": "https://gitlab.com/ondrejfoltyn/nunti",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Piggsy",
+        "id_pacchetto": "com.nvllz.piggsy",
+        "riassunto": "Piggy banks for saving and tracking your goals",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.nvllz.piggsy/en-US/icon_jMsb88wJqioPL_bWeifJfXxvABojq63mM2CkApUm76o=.png",
+        "url_codice_sorgente": "https://github.com/nvllz/piggsy",
         "ultimo_aggiornamento": null
     },
     {
@@ -29634,6 +29618,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Vehicle Motion Cues",
+        "id_pacchetto": "dev.davidv.motionsickness",
+        "riassunto": "Motion cues overlay, to prevent motion sickness",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.davidv.motionsickness/en-US/icon_OI-o8hpN8CqLzAbFcp5JBX8eYOYUXH-HGSpgICjRoO8=.png",
+        "url_codice_sorgente": "https://github.com/DavidVentura/motion-sickness-app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Offline Translator",
         "id_pacchetto": "dev.davidv.translator",
         "riassunto": "On-device translation of text and images, with TTS",
@@ -39118,19 +39114,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "e1547 - e621 browser",
-        "id_pacchetto": "net.e1547",
-        "riassunto": "browser for the e621 and e926 imageboards",
-        "categorie": [
-            "Forum",
-            "Multimedia"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//net.e1547/en-US/icon_hHS0xW90me5di0utuFgIqao0VX17gQbnNsMsTgF9yNI=.png",
-        "url_codice_sorgente": "https://github.com/clragon/e1547",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Muzei Ghibli",
         "id_pacchetto": "net.ebt.muzei.miyazaki",
         "riassunto": "Show pictures from Studio Ghibli (Muzei)",
@@ -39940,18 +39923,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.reichholf.dreamdroid/en-US/icon_a0VhuJOQ_SS9V-1fOL2MAJzrUUDvxQXmmHqW_QtKOKg=.png",
         "url_codice_sorgente": "https://github.com/sreichholf/dreamDroid",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Cigaló",
-        "id_pacchetto": "net.retiolus.cigalo",
-        "riassunto": "Introducing Cigaló: The Open Source Android Drinking Game App!",
-        "categorie": [
-            "Games"
-        ],
-        "licenza": "AGPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://codeberg.org/retiolus/Cigalo",
         "ultimo_aggiornamento": null
     },
     {
@@ -45052,20 +45023,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.kknickkk.spider/en-US/icon_mGnSTToKboNKCQMjY05EFit4fBxKcX2CE30Irq13FF0=.png",
         "url_codice_sorgente": "https://github.com/nickdurante/Spider",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Kotatsu",
-        "id_pacchetto": "org.koitharu.kotatsu",
-        "riassunto": "Manga reader with online catalogues",
-        "categorie": [
-            "Ebook Reader",
-            "Multimedia",
-            "Reading"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//org.koitharu.kotatsu/en-US/icon_7Hu29GlIVNiZarIdStGlHhc9APnWHtRJMPc1J-H1f30=.png",
-        "url_codice_sorgente": "https://github.com/KotatsuApp/Kotatsu",
         "ultimo_aggiornamento": null
     },
     {
