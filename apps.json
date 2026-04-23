@@ -8195,7 +8195,7 @@
             "File Transfer"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.defname.localshare/en-US/icon_GvoraN0xcnlvgBHsBSBsYHfBQv8IOQQDISIvuyI0BlI=.png",
         "url_codice_sorgente": "https://github.com/defname/LocalShare",
         "ultimo_aggiornamento": null
     },
@@ -13911,6 +13911,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "IronLog",
+        "id_pacchetto": "com.ironlog",
+        "riassunto": "Simple, native, and private workout logger for strength training.",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/IronLog/IronLog-Android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Journal",
         "id_pacchetto": "com.isaakhanimann.journal",
         "riassunto": "Keep track of substance usage to gain insights on consumption patterns",
@@ -15464,7 +15476,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.leekleak.trafficlight/en-US/icon_93zmmtS_bIgJ7SUi8XODZ8jSXFJJCYmhAIvn6Bcpruc=.png",
+        "icona": "https://f-droid.org/repo//com.leekleak.trafficlight/en-US/icon_13o9Eouy245-mljiSHG3CoYmKgr0Ktc-SBZ2ohAUuuM=.png",
         "url_codice_sorgente": "https://github.com/leekleak/traffic-light",
         "ultimo_aggiornamento": null
     },
@@ -34239,6 +34251,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.datastopwatch/en-US/icon_Q7P8sJWPWulRDrZa0Wc5gkQItuN4mX2N770VYyPfb78=.png",
         "url_codice_sorgente": "https://github.com/seoulcodingcafe/DataStopwatch",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "werewolves_game",
+        "id_pacchetto": "io.github.davidchilin.werewolves_game",
+        "riassunto": "Multiplayer server for classic Mafia game Werewolves. Plays in browser on WiFi",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.davidchilin.werewolves_game/en-US/icon_OFnKpcTmMBpoB7p1jsdwjeNkGof4BQNcS4aEeikINEQ=.png",
+        "url_codice_sorgente": "https://github.com/davidchilin/werewolves_game",
         "ultimo_aggiornamento": null
     },
     {
