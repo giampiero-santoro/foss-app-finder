@@ -2557,6 +2557,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Stochastic Reminder",
+        "id_pacchetto": "cc.polysfaer.stochapop",
+        "riassunto": "Customized random and fixed reminder scheduler",
+        "categorie": [
+            "Calendar & Agenda",
+            "Task",
+            "Time"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//cc.polysfaer.stochapop/en-US/icon_S2Z5W-JsjZdvLCgdokqpZX0pTyhdeojklEwO56aFCjg=.png",
+        "url_codice_sorgente": "https://github.com/tcoppex/stochastic-reminder",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "VRChat Android Assistant",
         "id_pacchetto": "cc.sovellus.vrcaa",
         "riassunto": "VRChat Friend Management Application for Android devices.",
@@ -10115,6 +10129,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FairSpeed",
+        "id_pacchetto": "com.fairspeed.test",
+        "riassunto": "A lightweight, privacy-focused network performance monitor.",
+        "categorie": [
+            "Network Analyzer"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://git.naxod.com/luca/fairspeed",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Prestissimo",
         "id_pacchetto": "com.falconware.prestissimo",
         "riassunto": "Change the speed of playback",
@@ -10507,6 +10533,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.fpf.sentinellens/en-US/icon_RxTRLkxaYDnzDn5TKREFMg_SPrdrXgxcXALJyYTTILo=.png",
         "url_codice_sorgente": "https://github.com/dev-diaries41/sentinel-lens",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SmartScan",
+        "id_pacchetto": "com.fpf.smartscan",
+        "riassunto": "Search images and videos offline using text or by reverse image search and organ",
+        "categorie": [
+            "Gallery",
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.fpf.smartscan/en-US/icon_XNSbTnLwhFajiY9pyEU_g3-WyDLdd0dCsoG-TlWJ9i4=.png",
+        "url_codice_sorgente": "https://github.com/smartscanapp/smartscan-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -13837,7 +13876,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8397 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8407 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -29637,7 +29676,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//dev.davidv.motionsickness/en-US/icon_OI-o8hpN8CqLzAbFcp5JBX8eYOYUXH-HGSpgICjRoO8=.png",
+        "icona": "https://f-droid.org/repo//dev.davidv.motionsickness/en-US/icon_VBJAWva7rGzikes-BF_Q5xD4BaqAci1KRQtRBQqXxSs=.png",
         "url_codice_sorgente": "https://github.com/DavidVentura/motion-sickness-app",
         "ultimo_aggiornamento": null
     },
@@ -35100,6 +35139,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/io.github.otakuchiyan.dnsman.101.png",
         "url_codice_sorgente": "https://archive.softwareheritage.org/browse/origin/https://github.com/otakuchiyan/DNSman/directory/",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "PadConnect",
+        "id_pacchetto": "io.github.padconnect",
+        "riassunto": "Turn your phone into a PC game controller (Windows only)",
+        "categorie": [
+            "Connectivity"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Ishan09811/PadConnect",
         "ultimo_aggiornamento": null
     },
     {
@@ -44507,7 +44558,7 @@
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.hzontal.tellaFOSS/en-US/icon_K7HUA09AhEL6tjPdA41JE_DxAsSo_1hB-7pNi_ceb-c=.png",
-        "url_codice_sorgente": "https://github.com/Horizontal-org/Tella-Android-FOSS",
+        "url_codice_sorgente": "https://github.com/Horizontal-org/Tella-Android",
         "ultimo_aggiornamento": null
     },
     {
@@ -45264,12 +45315,12 @@
     {
         "nome": "Lichess",
         "id_pacchetto": "org.lichess.mobileV2",
-        "riassunto": "The one open-source chess game",
+        "riassunto": "The one open-source chess platform",
         "categorie": [
             "Games"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//org.lichess.mobileV2/en-US/icon_qi-nY8o1dCz5j6LrbGb_Ikh70SLOGbbOXyL7VakuXws=.png",
         "url_codice_sorgente": "https://github.com/lichess-org/mobile",
         "ultimo_aggiornamento": null
     },
