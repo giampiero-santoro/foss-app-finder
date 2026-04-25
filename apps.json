@@ -13950,18 +13950,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "IronLog",
-        "id_pacchetto": "com.ironlog",
-        "riassunto": "Simple, native, and private workout logger for strength training.",
-        "categorie": [
-            "Workout"
-        ],
-        "licenza": "AGPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://github.com/IronLog/IronLog-Android",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Journal",
         "id_pacchetto": "com.isaakhanimann.journal",
         "riassunto": "Keep track of substance usage to gain insights on consumption patterns",
@@ -16588,6 +16576,18 @@
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.maze_squirrel/en-US/icon_m9FnX9k74vWZOqhuYLnsAggibP9N9yMq6ba_KIuSwDM=.png",
         "url_codice_sorgente": "https://github.com/MetatransApps/Android_APK_2DMaze/",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "GymLoga",
+        "id_pacchetto": "com.mbosse.gymloga",
+        "riassunto": "Simple, native, and private workout logger for strength training.",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/GymLoga/GymLoga-Android",
         "ultimo_aggiornamento": null
     },
     {
@@ -25918,7 +25918,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/de.blau.android.3401.png",
+        "icona": "https://f-droid.org/repo//icons/de.blau.android.3402.png",
         "url_codice_sorgente": "https://github.com/MarcusWolschon/osmeditor4android",
         "ultimo_aggiornamento": null
     },
@@ -29085,7 +29085,7 @@
     {
         "nome": "Be nice",
         "id_pacchetto": "de.thomaskuenneth.benice",
-        "riassunto": "Your friendly home app",
+        "riassunto": "Modern aesthetics. Open-source soul. Your Android launcher.",
         "categorie": [
             "Launcher"
         ],
