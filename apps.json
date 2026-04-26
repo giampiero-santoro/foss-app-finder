@@ -2559,14 +2559,14 @@
     {
         "nome": "Stochastic Reminder",
         "id_pacchetto": "cc.polysfaer.stochapop",
-        "riassunto": "Customized random and fixed reminder scheduler",
+        "riassunto": "Custom fixed and random reminder scheduler",
         "categorie": [
             "Calendar & Agenda",
             "Task",
             "Time"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//cc.polysfaer.stochapop/en-US/icon_S2Z5W-JsjZdvLCgdokqpZX0pTyhdeojklEwO56aFCjg=.png",
+        "icona": "https://f-droid.org/repo//cc.polysfaer.stochapop/en-US/icon_XhNqWjYzHVacER0Hz4hIaXjYfEuc8uOsv7cIXdCzdeQ=.png",
         "url_codice_sorgente": "https://github.com/tcoppex/stochastic-reminder",
         "ultimo_aggiornamento": null
     },
@@ -9041,7 +9041,7 @@
             "Reading"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.easwareapps.quoter.3.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://gitlab.com/easwareapps/Quoter/tree/HEAD",
         "ultimo_aggiornamento": null
     },
@@ -9053,7 +9053,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.easwareapps.transparentwidget.2.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://gitlab.com/easwareapps/TransparentWidget/tree/HEAD",
         "ultimo_aggiornamento": null
     },
@@ -30227,6 +30227,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Su Fei",
+        "id_pacchetto": "dev.wceng.sufei",
+        "riassunto": "Minimalist and immersive Chinese traditional poetry reader",
+        "categorie": [
+            "Reading"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//dev.wceng.sufei/en-US/icon_jhUDRXwh48D9o-tUvWTk8Yx9Wz8fkvvGcALbjuVmtBw=.png",
+        "url_codice_sorgente": "https://github.com/wceng/SuFei",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "qBittorrent Manager",
         "id_pacchetto": "dev.yashgarg.qbit",
         "riassunto": "Modern qBittorrent WebUI Client",
@@ -34094,7 +34106,7 @@
             "Security"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//io.ente.locker.fdroid/en-US/icon_ZNzPNku8n5D9ooPkBneWLgAMDrtz8f3YguifwJsqQlQ=.png",
         "url_codice_sorgente": "https://github.com/ente-io/ente",
         "ultimo_aggiornamento": null
     },
@@ -35149,7 +35161,7 @@
             "Connectivity"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//io.github.padconnect/en-US/icon_zQ_pYVQ0SPOpS4AQeT1QLWA9aQM-Sg6vEYArfyGu-_o=.png",
         "url_codice_sorgente": "https://github.com/Ishan09811/PadConnect",
         "ultimo_aggiornamento": null
     },
