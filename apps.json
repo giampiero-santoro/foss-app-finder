@@ -4455,7 +4455,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "xrayFA",
+        "nome": "XrayFA",
         "id_pacchetto": "com.android.xrayfa",
         "riassunto": "XrayFA is a fast, secure, and user-friendly Android client for Xray-core.",
         "categorie": [
@@ -6617,6 +6617,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.borneq.heregpslocation.1.png",
         "url_codice_sorgente": "https://github.com/borneq/HereGPSLocation",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Supertonic TTS",
+        "id_pacchetto": "com.brahmadeo.supertonic.tts",
+        "riassunto": "Local AI Text-to-Speech using Supertonic ONNX",
+        "categorie": [
+            "Development",
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.brahmadeo.supertonic.tts/en-US/icon_Ftei5HU4qqFXtTKd-Zpz1SzK8mt2kfI94EvOP8uPWgo=.png",
+        "url_codice_sorgente": "https://github.com/DevGitPit/supertonic-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -13876,7 +13889,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8407 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8416 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -14010,6 +14023,19 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.ismartcoding.plain/en-US/icon_mg0Jp4Y1WFWVDsM3Hn84dZejuiMUunbKxAfx2CzjrZ4=.png",
         "url_codice_sorgente": "https://github.com/plainhub/plain-app",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Todosian - Obsidian Markdown Todos",
+        "id_pacchetto": "com.isotjs.todosian",
+        "riassunto": "Manage Obsidian todo lists. Edit Markdown files directly; no account or sync",
+        "categorie": [
+            "Task",
+            "Writing"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.isotjs.todosian/en-US/icon_YkUwdgWge2b5wgnXe7iGZq36a55legAbaCa3Y52DtUw=.png",
+        "url_codice_sorgente": "https://github.com/isotjs/todosian-app",
         "ultimo_aggiornamento": null
     },
     {
@@ -16586,7 +16612,7 @@
             "Workout"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.mbosse.gymloga/en-US/icon_4o6xaSzPBI31Xqw2akQBhLdKIJA4hkzIQAxp1Yks36s=.png",
         "url_codice_sorgente": "https://github.com/GymLoga/GymLoga-Android",
         "ultimo_aggiornamento": null
     },
@@ -17690,7 +17716,10 @@
         "id_pacchetto": "com.nextcloud.android.beta",
         "riassunto": "Client di sincronizzazione",
         "categorie": [
-            "Internet"
+            "Calendar & Agenda",
+            "Cloud Storage & File Sync",
+            "Contact",
+            "Email"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.nextcloud.android.beta/de-DE/icon_ZM2g5JpQBV9L9hTU11N700ZfPwM8Bw8Hf5uxKMJMyPw=.png",
@@ -17702,7 +17731,10 @@
         "id_pacchetto": "com.nextcloud.client",
         "riassunto": "Client di sincronizzazione",
         "categorie": [
-            "Internet"
+            "Calendar & Agenda",
+            "Cloud Storage & File Sync",
+            "Contact",
+            "Email"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.nextcloud.client/en-US/icon_uMFXKXpFQnnVroYp_Oxtrb4w_rVoRJ4Zi85v0NPY1ZY=.png",
@@ -21253,6 +21285,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Wallet",
+        "id_pacchetto": "com.sidhant.wallet",
+        "riassunto": "Secure & Minimal Design Wallet for Your Credit/Debit/Loyalty/Identity Cards",
+        "categorie": [
+            "Money",
+            "Pass Wallet"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.wallet/en-US/icon_uWpcJvlJRkPIzbvcDk3q55ZbNTgjUdU5mzkee33Nhes=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/wallet",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "DOI to SciHub",
         "id_pacchetto": "com.sigmarelax.doitoscihub",
         "riassunto": "Scarica ricerche rapidamente",
@@ -23666,6 +23711,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Clock",
+        "id_pacchetto": "com.vayunmathur.clock",
+        "riassunto": "A simple open-source clock app",
+        "categorie": [
+            "Clock"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.clock/en-US/icon_Y7QPSr4p6G4rjWGyajPh21tI4OvWeBC0mcrtoQHvqBM=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Contacts",
         "id_pacchetto": "com.vayunmathur.contacts",
         "riassunto": "An open-source, fully-functional contacts app.",
@@ -25245,7 +25302,7 @@
     {
         "nome": "Zulip",
         "id_pacchetto": "com.zulipmobile",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "Open-source team chat that helps teams stay productive and focused",
         "categorie": [
             "Internet",
             "Messaging"
@@ -27492,10 +27549,7 @@
         "id_pacchetto": "de.lukasneugebauer.nextcloudcookbook",
         "riassunto": "View all your recipes stored in your Nextcloud instance.",
         "categorie": [
-            "Connectivity",
-            "Internet",
-            "Recipe Manager",
-            "Sports & Health"
+            "Recipe Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.lukasneugebauer.nextcloudcookbook/en-US/icon_hibiU6Sl-FFWpmxlqGXzDoW35dG0q7nZ6BBfvCzv8a0=.png",
@@ -27782,10 +27836,7 @@
         "id_pacchetto": "de.micmun.android.nextcloudcookbook",
         "riassunto": "View the recipes from your Nextcloud Cookbook",
         "categorie": [
-            "Connectivity",
-            "Reading",
-            "Recipe Manager",
-            "Sports & Health"
+            "Recipe Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.micmun.android.nextcloudcookbook/de/icon_EBvB5Y4WU9wNGJqFTKg4Okpd1DeAE7sVW3EPhSVe0FY=.png",
@@ -28219,6 +28270,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.nulide.shiftcal/en-US/icon_EZNqtCGRrh3KC_4VOmglcIgzDG86Gx2k1utWPx1UWXg=.png",
         "url_codice_sorgente": "https://gitlab.com/Nulide/ShiftCal",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Öffi Sounds",
+        "id_pacchetto": "de.oeffisounds.app",
+        "riassunto": "Podcast app with ARD Sounds, BBC Sounds & public radio integration",
+        "categorie": [
+            "Podcast"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//de.oeffisounds.app/en-US/icon_ricbuYudaiTCqtlNmrZi-bU7bSaXv8SR49NYDOq3dhI=.png",
+        "url_codice_sorgente": "https://github.com/thrillfall/OeffiSounds",
         "ultimo_aggiornamento": null
     },
     {
@@ -34092,7 +34155,7 @@
             "Security"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.ente.auth/en-US/icon_TXbr3gCFKllVLyt0uKSB6IP1AY2koUqdytPO1PLg_pw=.png",
+        "icona": "https://f-droid.org/repo//io.ente.auth/en-US/icon_BzfyZR0eC3T8JT1En09UJp3m2ey-BBP-x7QBbh2e8ao=.png",
         "url_codice_sorgente": "https://github.com/ente-io/ente/",
         "ultimo_aggiornamento": null
     },
@@ -49444,7 +49507,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Dima Defense",
+        "nome": "Dima Defense ⚔️",
         "id_pacchetto": "org.xolatgames.dima.defense",
         "riassunto": "A simple Tower Defense game that was made in LibGDX",
         "categorie": [
@@ -52071,7 +52134,7 @@
     {
         "nome": "Thor",
         "id_pacchetto": "threads.thor",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "The Thor app is a web browser with the focus on speed and usability.",
         "categorie": [
             "Connectivity"
         ],
