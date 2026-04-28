@@ -2822,6 +2822,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Suspension Setup",
+        "id_pacchetto": "ch.pec0ra.suspension_setup",
+        "riassunto": "Track and manage your mountain bike suspension settings and their change history",
+        "categorie": [
+            "Note",
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//ch.pec0ra.suspension_setup/en-US/icon_VsrHPzNx0Ry3Gn_szQFQ3Y45Ou1dSkIAht7GnxWtpcE=.png",
+        "url_codice_sorgente": "https://github.com/pec0ra/suspension_setup",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ProtonVPN - Secure and Free VPN",
         "id_pacchetto": "ch.protonvpn.android",
         "riassunto": "Free Swiss VPN with advanced security and privacy features.",
@@ -4540,6 +4553,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "AniSync",
+        "id_pacchetto": "com.anisync.android",
+        "riassunto": "Offline-first AniList client for anime and manga tracking with widgets",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.anisync.android/en-US/icon_DJDFkeDB9_jA0-G-gIEVRFqi69Kr0W1Br6bEMxLAJ8o=.png",
+        "url_codice_sorgente": "https://github.com/Marco-9456/AniSync",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "QDict",
         "id_pacchetto": "com.annie.dictionary.fork",
         "riassunto": "A dictionary application for dictionaries in StarDict format.",
@@ -6120,6 +6145,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BeatBridge",
+        "id_pacchetto": "com.beatbridge",
+        "riassunto": "Auto-play music when your Bluetooth device connects.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.beatbridge/en-US/icon_xkxSOe14huX18OAsEfJxwfkIYEPYSbWbixzhtMd3XgU=.png",
+        "url_codice_sorgente": "https://github.com/brandonp2412/BeatBridge",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "DioLite",
         "id_pacchetto": "com.bec3.mobilite",
         "riassunto": "Client per BeC3",
@@ -6580,6 +6617,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.bobek.metronome/en-US/icon_QESB1NA_njOWv7b48EyoxC-rnkV1jmySf1HLj3_TAu8=.png",
         "url_codice_sorgente": "https://github.com/Kr0oked/Metronome",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "BodyCheck",
+        "id_pacchetto": "com.bodycheck",
+        "riassunto": "Scan and visualize body composition QR codes from your gym",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.bodycheck/en-US/icon_Wie3WMYUfF1_9Q6wm1HK_9IojM9JECiRlcrlZvv53Ac=.png",
+        "url_codice_sorgente": "https://github.com/7FM/bodycheck",
         "ultimo_aggiornamento": null
     },
     {
@@ -8567,6 +8616,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "croc-app",
+        "id_pacchetto": "com.dking.crocapp",
+        "riassunto": "Modern client for croc, easily and securely send files and text",
+        "categorie": [
+            "File Transfer",
+            "Internet"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.dking.crocapp/en-US/icon_cxpVuBB3k9s98E3aAO1Ad-UbErcKAK0EkJubA3V_GIM=.png",
+        "url_codice_sorgente": "https://github.com/Dking08/croc-app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "My Quran - قرآني",
         "id_pacchetto": "com.dmouayad.my_quran",
         "riassunto": "A lightweight, offline Quran with search",
@@ -10306,7 +10368,7 @@
     {
         "nome": "FixupXer - URL Enhancer",
         "id_pacchetto": "com.fixupxer",
-        "riassunto": "Clean tracking parameters from URLs & fix embeds (Instagram, Twitter/X, Facebook",
+        "riassunto": "Clean tracking from URLs and fix embeds (Instagram, Twitter/X, Facebook)",
         "categorie": [
             "Internet"
         ],
@@ -16306,7 +16368,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mardous.booming/en-US/icon_y6bsp8zIoIZKDPLrGx0EGMszSZzKGyVAa0VyQHMLj_E=.png",
-        "url_codice_sorgente": "https://github.com/ProjectOrbital/BoomingMusic",
+        "url_codice_sorgente": "https://github.com/mardous/BoomingMusic",
         "ultimo_aggiornamento": null
     },
     {
@@ -19992,18 +20054,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Chip Defense Copper",
-        "id_pacchetto": "com.rama.chipdefense_copper",
-        "riassunto": "A tower defense game with a microprocessor theme",
-        "categorie": [
-            "Games"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.rama.chipdefense_copper/en-US/icon_LQnh2laJAYUklGZoZUIjPSKm9SlarTdZhqvzj8mdZFk=.png",
-        "url_codice_sorgente": "https://github.com/pomboverso/chip-defense-copper",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Mako Launcher",
         "id_pacchetto": "com.rama.mako",
         "riassunto": "Privacy-first Android launcher designed for focus, speed, and simplicity.",
@@ -22692,7 +22742,7 @@
             "Time"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.thomaskuenneth.mintime/en-US/icon_SulPlOtHgYX3SSqi31zJaKag1jBpSPjFJNjp9x7tdRo=.png",
+        "icona": "https://f-droid.org/repo//com.thomaskuenneth.mintime/en-US/icon_SbTudGhTa41u2D7pK5n1AJtCDxoh_oR_OKT2FM_mOjg=.png",
         "url_codice_sorgente": "https://codeberg.org/tkuenneth/mintime",
         "ultimo_aggiornamento": null
     },
@@ -37739,7 +37789,7 @@
     {
         "nome": "WHPH • Work Hard Play Hard",
         "id_pacchetto": "me.ahmetcetinkaya.whph",
-        "riassunto": "A productivity app to manage tasks, develop new habits, and optimize your time.",
+        "riassunto": "Unified productivity: tasks, habits, time & app tracking, notes, analytics.",
         "categorie": [
             "Habit Tracker",
             "Science & Education",
