@@ -7804,6 +7804,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Chora",
+        "id_pacchetto": "com.craftworks.music",
+        "riassunto": "Listen to music from Subsonic or Navidrome servers.",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/CraftWorksMC/Chora",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "YubiClip XOR",
         "id_pacchetto": "com.craftxbox.yubiclip.xor",
         "riassunto": "Present static passwords over NFC securely from your NFC enabled Yubikey.",
@@ -10065,6 +10077,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Open 100x",
+        "id_pacchetto": "com.example.zoomhundred",
+        "riassunto": "Extreme 100x hybrid zoom camera with local image processing.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Kenneth-Cho-InfoSec/Open100x",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Exif Thumbnail Adder",
         "id_pacchetto": "com.exifthumbnailadder.app",
         "riassunto": "Add thumbnail in the EXIF tag of JPEG picture not having one (batch processing)",
@@ -11880,6 +11904,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.github.mikulash.shareasqr/en-US/icon_keFk2xi4RELV64gpsM3vnPKmFXlw_lJn5x02yZDTa-M=.png",
         "url_codice_sorgente": "https://github.com/mikulash/ShareAsQR",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "VoicePlus – Audiobook Player",
+        "id_pacchetto": "com.github.mistermo_vibecode.voiceplus",
+        "riassunto": "Audiobook player with listening logs, statistics, and no tracking.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.github.mistermo_vibecode.voiceplus/en-US/icon_y635El1ibhm0_u4NZUcQv2190FLh6YJ14JtWg3AmV8E=.png",
+        "url_codice_sorgente": "https://github.com/mistermo-vibecode/VoicePlus",
         "ultimo_aggiornamento": null
     },
     {
@@ -13939,7 +13975,7 @@
     {
         "nome": "Kai 9000",
         "id_pacchetto": "com.inspiredandroid.kai",
-        "riassunto": "Free, open-source AI chat with a soul, memory & interactive screens",
+        "riassunto": "OpenClaw alternative in your pocket",
         "categorie": [
             "AI Chat"
         ],
@@ -15140,6 +15176,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Pioneer",
+        "id_pacchetto": "com.ki_bun.pioneer",
+        "riassunto": "Open source universal progress tracker",
+        "categorie": [
+            "Task"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.ki_bun.pioneer/en-US/icon_F1eH8qrNDErkI_OhdYDsHs7WiVQvCRxFS0kW4rLrlDw=.png",
+        "url_codice_sorgente": "https://github.com/ki-bun/Pioneer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Discuz Hub",
         "id_pacchetto": "com.kidozh.discuzhub.fdroid",
         "riassunto": "Lightweight Discuz! Android app",
@@ -16136,6 +16184,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.maazm7d.termuxhub/en-US/icon_Lp1RYNMhrCOBiI2aMvasCE6-P2zsn9tM29hC4O1CLKo=.png",
         "url_codice_sorgente": "https://github.com/maazm7d/TermuxHub",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "PriceGrab",
+        "id_pacchetto": "com.mablanco.pricegrab",
+        "riassunto": "Compare two supermarket prices and find the cheaper one per unit.",
+        "categorie": [
+            "Money"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.mablanco.pricegrab/en-US/icon_nARGdmi8pnYRWylqGcFDvE2Gy-Rpt0SVMCHuxBgpOAk=.png",
+        "url_codice_sorgente": "https://github.com/mablanco/pricegrab",
         "ultimo_aggiornamento": null
     },
     {
@@ -17942,6 +18002,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.nikhiljha.lobstersapp.3.png",
         "url_codice_sorgente": "https://gitlab.com/nikhiljha/lobsters-app/tree/HEAD",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "GitaVani - Bhagavad Gita",
+        "id_pacchetto": "com.nikhilsi.gitavani",
+        "riassunto": "Ad-free Bhagavad Gita reader with Sanskrit audio, translations & commentaries",
+        "categorie": [
+            "Reading",
+            "Religion"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.nikhilsi.gitavani/en-US/icon_3NebpgBhOOiYkX8MJKnkBhZ9u-BqktHbQk54bJaED1I=.png",
+        "url_codice_sorgente": "https://github.com/nikhilsi/gitavani",
         "ultimo_aggiornamento": null
     },
     {
@@ -20262,6 +20335,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Reloado Auth",
+        "id_pacchetto": "com.reloado.auth",
+        "riassunto": "Secure 2FA TOTP authenticator with biometric lock and encrypted storage.",
+        "categorie": [
+            "Password & 2FA"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/refda/reloado_auth",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Materials Live Wallpaper",
         "id_pacchetto": "com.reminimalism.materialslivewallpaper",
         "riassunto": "A live wallpaper that renders materials",
@@ -21852,6 +21937,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.spisoft.quicknote/en-US/icon_L_5SYcYDqGZNquF7y3IDl39jaYSZPPrsVjXKq1B28Nk=.png",
         "url_codice_sorgente": "https://github.com/CarnetApp/CarnetFdroid",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Spix - Privacy Fitness Tracker",
+        "id_pacchetto": "com.spix.app.foss",
+        "riassunto": "Privacy-first offline fitness tracker with AI rep counter and gamification",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.spix.app.foss/en-US/icon_4MZRT3AWsCSZgd9WTs2B5G5lMEGdQbUKSERM-kjvLJE=.png",
+        "url_codice_sorgente": "https://github.com/LuckyTheCookie/FitTrack",
         "ultimo_aggiornamento": null
     },
     {
@@ -23530,6 +23627,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.ubergeek42.WeechatAndroid/en-US/icon_k7J4_CL5PiXm4uKIwpvmTEHip2sA9maS8dBRQe7mZe0=.png",
         "url_codice_sorgente": "https://github.com/ubergeek42/weechat-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Caffeine Health",
+        "id_pacchetto": "com.uc.caffeine",
+        "riassunto": "Track your caffeine. Protect your sleep. Real-time pharmacokinetic curves.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.uc.caffeine/en-US/icon_7Lp02pscvc2V72uQZIdwg1Uw16jmBRyYozv3OOX4YlE=.png",
+        "url_codice_sorgente": "https://github.com/ohuc/CaffeineHealth",
         "ultimo_aggiornamento": null
     },
     {
@@ -34650,6 +34759,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Bouncy",
+        "id_pacchetto": "io.github.ebraminio.bouncy",
+        "riassunto": "A tiny bouncing ball that plays musical notes when it hits the walls.",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//io.github.ebraminio.bouncy/en-US/icon_9EUd8B8EmAk3_iA5Gt-bJEr-FKa2ABDSjCb1sJU1E5o=.png",
+        "url_codice_sorgente": "https://github.com/ebraminio/bouncy",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "React",
         "id_pacchetto": "io.github.engsergiu.react",
         "riassunto": "Metti alla prova i tuoi tempi di reazione",
@@ -34682,7 +34803,7 @@
         "categorie": [
             "Science & Education"
         ],
-        "licenza": "AGPL-3.0-only",
+        "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.eucsoh.android/en-US/icon_97xtCeNGGSFMcgJgVxSEqhbQGgJsBsOUN5JieRAs1uA=.png",
         "url_codice_sorgente": "https://github.com/Tritbool/euc_soh_kotlin",
         "ultimo_aggiornamento": null
@@ -34937,6 +35058,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/jqssun/android-gps-setter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "MAC Editor",
+        "id_pacchetto": "io.github.jqssun.maceditor",
+        "riassunto": "Securely edit Wi-Fi MAC address on Android.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/jqssun/android-mac-editor",
         "ultimo_aggiornamento": null
     },
     {
@@ -42277,7 +42410,7 @@
     {
         "nome": "Birthday Adapter",
         "id_pacchetto": "org.birthdayadapter",
-        "riassunto": "Birthday Calendar Adapter",
+        "riassunto": "Display birthdays, anniversaries, and other events from your contacts automatica",
         "categorie": [
             "Calendar & Agenda",
             "Time"
@@ -49780,7 +49913,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Geo Share",
+        "nome": "GeoShare: Jump Between Maps",
         "id_pacchetto": "page.ooooo.geoshare",
         "riassunto": "Open map links in other map apps and copy coordinates",
         "categorie": [
@@ -51956,7 +52089,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/superfreeze.tool.android.1000.png",
+        "icona": "https://f-droid.org/repo//icons/superfreeze.tool.android.1001.png",
         "url_codice_sorgente": "https://gitlab.com/SuperFreezZ/SuperFreezZ",
         "ultimo_aggiornamento": null
     },
