@@ -2648,6 +2648,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "OpenVine",
+        "id_pacchetto": "ch.betzengineering.openvine",
+        "riassunto": "Record and stitch 6-second video clips. Offline and private.",
+        "categorie": [
+            "Graphics",
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//ch.betzengineering.openvine/en-US/icon_EkD9OzO1PLAa4Zb27YtJmCGhSr1SdfgYcFuZZd7TPAo=.png",
+        "url_codice_sorgente": "https://github.com/michael-betz/OpenVine",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Vanilla Music",
         "id_pacchetto": "ch.blinkenlights.android.vanilla",
         "riassunto": "Ascolta e gestisci canzoni",
@@ -3334,6 +3347,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.Arturo254.opentune/en-US/icon_boJWsrcLyCHsETB5Ti9wC90B4PZ-seBQ-7I7s7PGFqg=.png",
         "url_codice_sorgente": "https://github.com/Arturo254/OpenTune",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Colota - GPS Location Tracker",
+        "id_pacchetto": "com.Colota",
+        "riassunto": "Self-hosted GPS tracking with offline support, geofencing and native maps",
+        "categorie": [
+            "Navigation"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.Colota/en-US/icon_IXf2756m6q4wbivTHydM7qOBkrCqPwnRELoFDoZQNFs=.png",
+        "url_codice_sorgente": "https://github.com/dietrichmax/colota",
         "ultimo_aggiornamento": null
     },
     {
@@ -7903,6 +7928,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Local Player",
+        "id_pacchetto": "com.cvc953.localplayer",
+        "riassunto": "Modern local music player with word-by-word synchronized lyrics support.",
+        "categorie": [
+            "Local Media Player",
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/cvc953/localplayer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "StoneAge",
         "id_pacchetto": "com.cweb.messenger",
         "riassunto": "A self-hosted P2P messenger - you will need an S3 bucket to use it",
@@ -8373,6 +8411,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.desarrollodroide.pagekeeper/en-US/icon_XU2hzvr2gRFBxLzuIxyPtOhGLizxu4P4hJJHmbuYQpQ=.png",
         "url_codice_sorgente": "https://github.com/DesarrolloAntonio/Shiori-Android-Client",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Setwork",
+        "id_pacchetto": "com.designlife.justdo",
+        "riassunto": "AI-powered notes, smart task scheduling, and learning cards in one place",
+        "categorie": [
+            "Task"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.designlife.justdo/en-US/icon_uT9yBjGIfyIvZ9TiZIQ_FlH-0LKIMYIDhfwp3sGM_dU=.png",
+        "url_codice_sorgente": "https://github.com/itsfaraz/Setwork/",
         "ultimo_aggiornamento": null
     },
     {
@@ -10945,6 +10995,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Cavern Cravers",
+        "id_pacchetto": "com.game.caverncravers",
+        "riassunto": "A roguelike turn-based virtual board game",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.game.caverncravers/en-US/icon_zLJ8JbhG83aetqIVzfgg5nq1tF8w8xNj5gMc_s_lZaU=.png",
+        "url_codice_sorgente": "https://github.com/mlm-games/cavern-cravers",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Free the bugs",
         "id_pacchetto": "com.game.freethebugs",
         "riassunto": "A small puzzle game where you fix simple code bugs",
@@ -10954,6 +11016,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.game.freethebugs/en-US/icon_Rw71f3foYbIRDxsdl-07TirRANxejd87rTBJrUroGkE=.png",
         "url_codice_sorgente": "https://github.com/mlm-games/free-the-bugs",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Plutonic",
+        "id_pacchetto": "com.game.plutonic",
+        "riassunto": "Suika physics-based planet shooter",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.game.plutonic/en-US/icon_GB9w_Q6GPtbExoM_kQHksAMPasp9BDrny8ZfSmtrRlU=.png",
+        "url_codice_sorgente": "https://github.com/mlm-games/plutonic",
         "ultimo_aggiornamento": null
     },
     {
@@ -13987,7 +14061,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8416 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8436 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -14183,6 +14257,32 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.ivarna.finalbenchmark2/en-US/icon_-p5WL4kuZkL03ZVhji5DzoU9sRJ_Jehfmyrish0JBuA=.png",
         "url_codice_sorgente": "https://github.com/abhay-byte/finalbenchmark-platform",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FluxLinux - Mobile Linux",
+        "id_pacchetto": "com.ivarna.fluxlinux",
+        "riassunto": "Run full Linux desktop environments on Android with GPU acceleration",
+        "categorie": [
+            "Development",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.ivarna.fluxlinux/en-US/icon_piGxZQetOGh0M1gtlEJdMfTqFDuPz7cLB49JKdSG6x8=.png",
+        "url_codice_sorgente": "https://github.com/abhay-byte/fluxlinux",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Minimal Kernel Manager",
+        "id_pacchetto": "com.ivarna.mkm",
+        "riassunto": "Android kernel management and system monitoring application",
+        "categorie": [
+            "Development",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.ivarna.mkm/en-US/icon_3GBw7XP3jB2muGoi0NzBTsmZkhZas8IntFUr0WuDBZ4=.png",
+        "url_codice_sorgente": "https://github.com/abhay-byte/mkm",
         "ultimo_aggiornamento": null
     },
     {
@@ -15595,6 +15695,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "LeanType",
+        "id_pacchetto": "com.leanbitlab.leantype",
+        "riassunto": "Privacy-focused keyboard with AI enhancements",
+        "categorie": [
+            "Keyboard & IME"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.leanbitlab.leantype/en-US/icon_NwRUOnV-3ttKUPje0fc1CZR7Tru_DjWhfl6cAB6zGe4=.png",
+        "url_codice_sorgente": "https://github.com/LeanBitLab/LeanType",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "LearnTube",
         "id_pacchetto": "com.learntube.app",
         "riassunto": "A learning-focused YouTube client with progress tracking and notes.",
@@ -16581,6 +16693,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.mathi_amorim.emmanuel.metrictime.4.png",
         "url_codice_sorgente": "https://github.com/mannyamorim/metrictime",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Matrix Synapse Manager",
+        "id_pacchetto": "com.matrix.synapse.manager",
+        "riassunto": "Admin panel for Synapse homeservers manage users rooms and media",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/sureserverman/matrix-synapse-manager-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -22046,6 +22170,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Steam Server Browser",
+        "id_pacchetto": "com.steamserverbrowser.app",
+        "riassunto": "Browse A2S-compatible Steam game servers on Android",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.steamserverbrowser.app/en-US/icon_HK1XCYWBcKKqKshjQ4SAp2RrMafiqSiVdJjWldXmsxM=.png",
+        "url_codice_sorgente": "https://github.com/surf5726/SteamServerBrowserAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Non Stop Balloons Shooter",
         "id_pacchetto": "com.stoptheballs",
         "riassunto": "Flying balloons shooting. Action. Shooter for kids and adults.",
@@ -23998,6 +24134,18 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.photos/en-US/icon_D-SFkm1N4JxGogYFulOV_fcg8SjP46rQ0beCJfdoDts=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "YouPipe",
+        "id_pacchetto": "com.vayunmathur.youpipe",
+        "riassunto": "A Material-3 based alternative to NewPipe using the same extractor",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.youpipe/en-US/icon_TobGNvhMk1sayjAkbIy32jWlVmMoQcAEv3h-LZUPd-Y=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -31099,6 +31247,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Discover Ads Filter",
+        "id_pacchetto": "eu.hxreborn.discoveradsfilter",
+        "riassunto": "LSPosed module that hides sponsored cards in Google Discover feed",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/hxreborn/discover-ads-filter",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Punch-hole Download Progress",
         "id_pacchetto": "eu.hxreborn.phdp",
         "riassunto": "Xposed module showing download progress around the camera cutout",
@@ -34957,6 +35117,31 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.hathibelagal.mykanji/en-US/icon_2iPQf4mHOLLYHRRtHUMEwPyBo4su92yCvqy8g_akNFU=.png",
         "url_codice_sorgente": "https://github.com/hathibelagal-dev/MyKanji",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Restoid",
+        "id_pacchetto": "io.github.hddq.restoid",
+        "riassunto": "A modern, root-based Android app backup tool powered by restic",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.hddq.restoid/en-US/icon_yVJRms5RED-ZaFglb4VbCjpMhkeZPz8Ynug3RPzFb9E=.png",
+        "url_codice_sorgente": "https://github.com/hddq/restoid",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Timer Bundle",
+        "id_pacchetto": "io.github.hitchclimber.universaltimers",
+        "riassunto": "Flexible interval timers for sports training with dynamic duration control",
+        "categorie": [
+            "Sports & Health",
+            "Time"
+        ],
+        "licenza": "GPL-2.0-only",
+        "icona": "https://f-droid.org/repo//io.github.hitchclimber.universaltimers/en-US/icon_jevNlf9kuNZQL87exAInp89H6iJ8BWOA8QCQcpj2FJs=.png",
+        "url_codice_sorgente": "https://github.com/hitchclimber/universaltimers",
         "ultimo_aggiornamento": null
     },
     {
@@ -50262,6 +50447,18 @@
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//player.efis.pfd/en-US/icon_e0F0p5ehhoYamO8DBo_YgFby-CaPv2z3pvjbVaXJ92w=.png",
+        "url_codice_sorgente": "https://gitlab.com/ninelima/kwikEFIS",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Kwik EFIS",
+        "id_pacchetto": "player.efis.pfd.ink",
+        "riassunto": "Cabina di pilotaggio di vetro / Sistema elettronico di informazione di volo",
+        "categorie": [
+            "Navigation"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//player.efis.pfd.ink/en-US/icon_e0F0p5ehhoYamO8DBo_YgFby-CaPv2z3pvjbVaXJ92w=.png",
         "url_codice_sorgente": "https://gitlab.com/ninelima/kwikEFIS",
         "ultimo_aggiornamento": null
     },
