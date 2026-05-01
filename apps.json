@@ -2710,6 +2710,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Winterkongress 2026 Schedule",
+        "id_pacchetto": "ch.digitale_gesellschaft.winterkongress.schedule",
+        "riassunto": "Conference program for the Winterkongress 2026 of digital society",
+        "categorie": [
+            "Time"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//ch.digitale_gesellschaft.winterkongress.schedule/de/icon_-YJ2dIsmD2s8GyjiAy-HYZjqDDGNioVV0AhRULYrHN8=.png",
+        "url_codice_sorgente": "https://github.com/DigitaleGesellschaft/EventFahrplan",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ETH & UZH mensa Zürich",
         "id_pacchetto": "ch.famoser.mensa",
         "riassunto": "Menus of the mensas at ETH and UZH",
@@ -5535,7 +5547,7 @@
             "Religion"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.app.equran/en-US/icon_qMOnmrt1nUZO-81YcT0zNfn43PTBFbpIe6GPb3CmAdI=.png",
+        "icona": "https://f-droid.org/repo//com.app.equran/phoneScreenshots/icon_qMOnmrt1nUZO-81YcT0zNfn43PTBFbpIe6GPb3CmAdI=.png",
         "url_codice_sorgente": "https://github.com/ya27hw/equran_app",
         "ultimo_aggiornamento": null
     },
@@ -5576,6 +5588,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.app2go.sudokufree.3.png",
         "url_codice_sorgente": "https://code.google.com/p/sudoku-pro-android/source",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Manholer",
+        "id_pacchetto": "com.appaparilla.manholer",
+        "riassunto": "Field logging for manholes, pipes, and field measurements.",
+        "categorie": [
+            "Navigation",
+            "System"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.appaparilla.manholer/en-US/icon_OItZ_qbw3tt0RYsP-KVYE1xMjAN9Q4WNuWskPWni4vQ=.jpg",
+        "url_codice_sorgente": "https://git.evulid.cc/cyberes/manholer",
         "ultimo_aggiornamento": null
     },
     {
@@ -10364,6 +10389,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Fauxx - Privacy Through Noise",
+        "id_pacchetto": "com.fauxx.full",
+        "riassunto": "Poison data collection profiles by generating decoy signals.",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.fauxx.full/en-US/icon_ichhWGSAAuj7Dn21d9ga0w82qxWvkLWPkUHYRiszlbI=.png",
+        "url_codice_sorgente": "https://github.com/digital-grease/fauxx",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "FediPhoto-Lineage",
         "id_pacchetto": "com.fediphoto.lineage",
         "riassunto": "FediPhoto-Lineage - pubblica velocemente foto nel Fediverso.",
@@ -10781,6 +10819,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.fr3ts0n.stagefever.10200.png",
         "url_codice_sorgente": "https://github.com/fr3ts0n/StageFever",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Date-a-base",
+        "id_pacchetto": "com.frabon.rememberthedate",
+        "riassunto": "Your Personal Assistant for Every Special Occasion.",
+        "categorie": [
+            "Calendar & Agenda"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.frabon.rememberthedate/en-US/icon_lyZPcild6CfDnTA7Ip30nLSJ7GqY1t4S_55rb768DC4=.png",
+        "url_codice_sorgente": "https://github.com/francescobonesi/Date-a-base",
         "ultimo_aggiornamento": null
     },
     {
@@ -11801,7 +11851,7 @@
     {
         "nome": "Chance",
         "id_pacchetto": "com.github.jameshnsears.chance",
-        "riassunto": "Assign outcomes to randomness",
+        "riassunto": "Create custom dice with text and SVG faces. Use chance in new and unusual ways.",
         "categorie": [
             "Games"
         ],
@@ -13456,6 +13506,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Hebrew Calendar",
+        "id_pacchetto": "com.heeboe.hebrewcalendar",
+        "riassunto": "Biblical feast days, sabbaths, and moon phases on a lunar calendar",
+        "categorie": [
+            "Calendar & Agenda"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/gregnwosu/hebrew_calendar",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Nextcloud Passwords",
         "id_pacchetto": "com.hegocre.nextcloudpasswords",
         "riassunto": "Secure app for viewing passwords for the Nextcloud Passwords app",
@@ -14061,7 +14123,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8436 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8439 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -19261,7 +19323,7 @@
             "Writing"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.paultirk.yatoo/en-US/icon_mayD9jpOdq3vzAGCQXdrhcwn0r8Tg8gPI2QVm7xG2eg=.png",
         "url_codice_sorgente": "https://github.com/powerpaul17/yatoo",
         "ultimo_aggiornamento": null
     },
@@ -22371,6 +22433,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.sunilpaulmathew.translator/en-US/icon_Y5OgROMS3ukg9sy-a80NsDF6-gYI2mDSHDQ2WVGbM7M=.png",
         "url_codice_sorgente": "https://github.com/sunilpaulmathew/Translator",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Dawarich (Community)",
+        "id_pacchetto": "com.sunstep.travel.foss",
+        "riassunto": "Open Source Community Mobile Client for Dawarich By Sunstep",
+        "categorie": [
+            "Location Tracker & Sharer"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.sunstep.travel.foss/en-US/icon_EOBoYtZEo8jCXhQYHnHq5qfYBQIG9ZPJSCeu2i6tscg=.png",
+        "url_codice_sorgente": "https://github.com/sunstep/dawarich-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -26897,6 +26971,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Offenbach App",
+        "id_pacchetto": "de.ergosign.offenbach.foss",
+        "riassunto": "The official citizen app of the city of Offenbach am Main",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "EUPL-1.2",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://gitlab.opencode.de/offenbach/offenbach-app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Fahrraddiebstahlwarnung",
         "id_pacchetto": "de.example.fahrraddiebstahl_berlin",
         "riassunto": "Bicycle thefts and accidents in Berlin",
@@ -30566,6 +30652,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/spieglt/FlyingCarpet/tree/HEAD/Android/FlyingCarpet",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Scrib",
+        "id_pacchetto": "dev.thaulow.scrib",
+        "riassunto": "A simple text workspace to edit text before pasting somewhere else.",
+        "categorie": [
+            "Text Editor"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//dev.thaulow.scrib/en-US/icon_yZaLjoiZbRmg6IZdQsTxVrori9jMGErwo7mEPciTCEg=.png",
+        "url_codice_sorgente": "https://github.com/stianthaulow/scrib",
         "ultimo_aggiornamento": null
     },
     {
@@ -42792,7 +42890,7 @@
     {
         "nome": "BTC Map",
         "id_pacchetto": "org.btcmap",
-        "riassunto": "See where you can spend your sats",
+        "riassunto": "Find places to spend sats wherever you are",
         "categorie": [
             "Internet",
             "Money",
