@@ -1061,7 +1061,7 @@
         "id_pacchetto": "app.udderance",
         "riassunto": "TTS based AAC",
         "categorie": [
-            "Sports & Health"
+            "Text to Speech"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//app.udderance/en-US/icon_0UoMHza2saQNWmxkjVMck4-Y9ZjWurZdayaHBb6ik-o=.png",
@@ -6249,7 +6249,7 @@
         "id_pacchetto": "com.benjaminwan.chinesettstflite",
         "riassunto": "Chinese TTS Engine Based On Tensorflow TTS",
         "categorie": [
-            "System"
+            "Text to Speech"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -6723,8 +6723,7 @@
         "id_pacchetto": "com.brahmadeo.supertonic.tts",
         "riassunto": "Local AI Text-to-Speech using Supertonic ONNX",
         "categorie": [
-            "Development",
-            "Multimedia"
+            "Text to Speech"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.brahmadeo.supertonic.tts/en-US/icon_Ftei5HU4qqFXtTKd-Zpz1SzK8mt2kfI94EvOP8uPWgo=.png",
@@ -8074,7 +8073,7 @@
         "id_pacchetto": "com.danefinlay.ttsutil",
         "riassunto": "Text-to-Speech Utility Application",
         "categorie": [
-            "Multimedia"
+            "Text to Speech"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.danefinlay.ttsutil/en-US/icon_Z3XkzMcARmrbgaHYVkZyAoIHi4j3Aj-GxTWxKQQnAYk=.png",
@@ -12243,7 +12242,7 @@
         "id_pacchetto": "com.github.olga_yakovleva.rhvoice.android",
         "riassunto": "TTS engine with extended languages support (incl. Russian)",
         "categorie": [
-            "System"
+            "Text to Speech"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.github.olga_yakovleva.rhvoice.android/en-US/icon_EszUoKQv2nn4kyLCF6-Xgguq1Wjxsy-QTLyg3h_cQuU=.png",
@@ -13002,7 +13001,7 @@
         "id_pacchetto": "com.googamaphone.typeandspeak",
         "riassunto": "Text to speech",
         "categorie": [
-            "Science & Education"
+            "Text to Speech"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.googamaphone.typeandspeak.36.png",
@@ -20513,7 +20512,7 @@
         "id_pacchetto": "com.reecedunn.espeak",
         "riassunto": "Text-to-speech engine for Android. Based on the eSpeak engine.",
         "categorie": [
-            "Multimedia"
+            "Text to Speech"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.reecedunn.espeak/en-US/icon_nh6d-032qM1ZM5iAJ4kxuxM-iidbMhvfxI_BLXEGdDY=.png",
@@ -25332,7 +25331,7 @@
     {
         "nome": "CaptureCap",
         "id_pacchetto": "com.yepgoryo.CaptureCap",
-        "riassunto": "Record Audio and/or Screen",
+        "riassunto": "Record and Stream Audio and/or Screen",
         "categorie": [
             "Multimedia",
             "System"
@@ -33562,8 +33561,7 @@
         "id_pacchetto": "home.wyoming_android_tts.indigane",
         "riassunto": "Use your Android's TTS engines in Home Assistant via the Wyoming protocol.",
         "categorie": [
-            "Connectivity",
-            "System"
+            "Text to Speech"
         ],
         "licenza": "MIT-0",
         "icona": "https://f-droid.org/repo//home.wyoming_android_tts.indigane/en-US/icon_Zqa5j2epiyLzNrdv33jtomPqc57_oEse5oQtH5Lo-3A=.jpg",
@@ -34495,6 +34493,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Snowflake Volunteer",
+        "id_pacchetto": "io.bloco.snowflake",
+        "riassunto": "Help people in censored countries access the Internet without restrictions",
+        "categorie": [
+            "Connectivity",
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.bloco.snowflake/en-US/icon_lPs3PMIfjSCQyYbOokCAB2Q59PGyHq918CqJ3-4IVeA=.png",
+        "url_codice_sorgente": "https://github.com/blocoio/snowflake",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Pitch pipe",
         "id_pacchetto": "io.bmaupin.pitchpipe",
         "riassunto": "Simple instrument pitch pipe",
@@ -35398,8 +35409,7 @@
         "id_pacchetto": "io.github.kkoshin.muse",
         "riassunto": "Convert text to natural-speaking audio with custom voices and pauses",
         "categorie": [
-            "Internet",
-            "Multimedia"
+            "Text to Speech"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.kkoshin.muse/en-US/icon_doZLOh0QohLzk4QGLIkDdqBmAq6jszfLPTXuldYhf5s=.png",
@@ -35416,6 +35426,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/KOBUGE-Games/minilens",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Ermis",
+        "id_pacchetto": "io.github.koukobin.ermis.ermismobile",
+        "riassunto": "Ermis M is an open-source, privacy focused mobile chat application.",
+        "categorie": [
+            "Messaging",
+            "Voice & Video Chat"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Koukobin/Ermis",
         "ultimo_aggiornamento": null
     },
     {
@@ -46561,7 +46584,7 @@
         "id_pacchetto": "org.ncrmnt.nettts",
         "riassunto": "Text-to-Speech over network",
         "categorie": [
-            "Multimedia"
+            "Text to Speech"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.ncrmnt.nettts.3.png",
@@ -49852,7 +49875,7 @@
         "id_pacchetto": "org.woheller69.ttsengine",
         "riassunto": "Text-to-Speech engine based on Next-gen Kaldi",
         "categorie": [
-            "System"
+            "Text to Speech"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.woheller69.ttsengine/en-US/icon_ji2Av2e3APyHZFOFdkWPStN2NZF1NTj21ElU3Xwx7Lg=.png",
@@ -51748,9 +51771,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "RiseupVPN",
+        "nome": "Bitmask",
         "id_pacchetto": "se.leap.riseupvpn",
-        "riassunto": "RiseupVPN, una VPN anonima. Offerto da Bitmask.",
+        "riassunto": "Comunicazione criptata per i comuni mortali\n(anche i supereroi sono benvenuti).",
         "categorie": [
             "Connectivity",
             "Internet",
@@ -51758,7 +51781,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//se.leap.riseupvpn/en-US/icon_DTim5EG3WPjEmlbtHpPlQ6pg0ANHn9kqkgl5crlXr1U=.png",
+        "icona": "https://f-droid.org/repo//se.leap.riseupvpn/en-US/icon_1OYHC_WnEcvGcLidAuyj4TC1wNSZnYw8nJGr1Puadoo=.png",
         "url_codice_sorgente": "https://0xacab.org/leap/bitmask_android",
         "ultimo_aggiornamento": null
     },
