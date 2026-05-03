@@ -3366,6 +3366,7 @@
         "id_pacchetto": "com.Colota",
         "riassunto": "Self-hosted GPS tracking with offline support, geofencing and native maps",
         "categorie": [
+            "Location Tracker & Sharer",
             "Navigation"
         ],
         "licenza": "AGPL-3.0-only",
@@ -17717,6 +17718,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Murem",
+        "id_pacchetto": "com.musicremover.app",
+        "riassunto": "Strip background music from YouTube videos using AI vocal separation.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.musicremover.app/en-US/icon_ISMzO_8DRN_8vAkh-xr6QNFI0XrX4xqiDcxuzOkKhi0=.png",
+        "url_codice_sorgente": "https://github.com/Ignema/youtube-music-remover",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Lane's Lexicon",
         "id_pacchetto": "com.muslimtechnet.lanelexicon",
         "riassunto": "An Arabic English Dictionary",
@@ -20520,14 +20533,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Reloado Auth",
+        "nome": "Reloado Auth - 2FA Authenticator",
         "id_pacchetto": "com.reloado.auth",
-        "riassunto": "Secure 2FA TOTP authenticator with biometric lock and encrypted storage.",
+        "riassunto": "Secure, Free and Open Source 2FA TOTP Authenticator App with Sync and Web Access",
         "categorie": [
             "Password & 2FA"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.reloado.auth/en-US/icon_0tr-NvhHeUvtg3klm2Qx2_KWIgn6Sco54u2u0-Gl1Kc=.png",
         "url_codice_sorgente": "https://github.com/refda/reloado_auth",
         "ultimo_aggiornamento": null
     },
@@ -31346,12 +31359,12 @@
     {
         "nome": "Discover Ads Filter",
         "id_pacchetto": "eu.hxreborn.discoveradsfilter",
-        "riassunto": "LSPosed module that hides sponsored cards in Google Discover feed",
+        "riassunto": "Xposed module that hides sponsored cards in Google Discover feed",
         "categorie": [
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//eu.hxreborn.discoveradsfilter/en-US/icon_NQEcSBPkROGIQb5e0L8a1qjnIncx_Dr16n4vGIsa-NU=.png",
         "url_codice_sorgente": "https://github.com/hxreborn/discover-ads-filter",
         "ultimo_aggiornamento": null
     },
@@ -34810,13 +34823,13 @@
     {
         "nome": "EnigmaDroid",
         "id_pacchetto": "io.github.deprec8.enigmadroid",
-        "riassunto": "Controlla facilmente la tua casella Enigma2 dal tuo dispositivo Android.",
+        "riassunto": "The smartest Enigma2 companion for Android.",
         "categorie": [
             "Multimedia",
             "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//io.github.deprec8.enigmadroid/en-US/icon_61Y2s2kDmWKyr3NlE_Z-fxzCWZCLzq3mEmEsMSvLhAA=.png",
+        "icona": "https://f-droid.org/repo//io.github.deprec8.enigmadroid/en-US/icon_e16tL5LNGMCpUrwCHnCalOH7tsqbYrwUEaLOlKL0jh0=.png",
         "url_codice_sorgente": "https://github.com/deprec8/enigmadroid",
         "ultimo_aggiornamento": null
     },
@@ -41912,6 +41925,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Jamfish",
+        "id_pacchetto": "org.adrianvictor.geleia",
+        "riassunto": "Delicious native music player for Jellyfin, based on Gelli.",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.adrianvictor.geleia/en/icon_HawSxd9qW8CGUmVvPfViZt1hsYs56G_cZCvjDtej4ik=.png",
+        "url_codice_sorgente": "https://github.com/adrianvic/jamfish",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AFH Downloader",
         "id_pacchetto": "org.afhdownloader",
         "riassunto": "Scaricare da androidfilehost.com",
@@ -44180,7 +44205,7 @@
     {
         "nome": "F-Droid Basic",
         "id_pacchetto": "org.fdroid.basic",
-        "riassunto": "The minimal client app for the app store that respects freedom and privacy",
+        "riassunto": "Il client minimale per l'app store che rispetta la libertà e la privacy",
         "categorie": [
             "App Store & Updater",
             "System"
@@ -45496,7 +45521,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Jyutping - Cantonese Keyboard",
+        "nome": "Cantonese Keyboard - Jyutping",
         "id_pacchetto": "org.jyutping.jyutping",
         "riassunto": "Easy-to-use Cantonese input method with pronunciation lookup and dictionary.",
         "categorie": [
@@ -45504,7 +45529,7 @@
             "Translation & Dictionary"
         ],
         "licenza": "CC0-1.0",
-        "icona": "https://f-droid.org/repo//org.jyutping.jyutping/en-US/icon_bhS3p7d_K6uU3AMeATkOeqis5iVt8lrZ6bdkQi1ixH0=.png",
+        "icona": "https://f-droid.org/repo//org.jyutping.jyutping/en-US/icon__r7Iyj0DQOlIFvMqh1lUPAzjzxepHb3K6fDvk0GQxVI=.png",
         "url_codice_sorgente": "https://github.com/yuetyam/jyutping-android",
         "ultimo_aggiornamento": null
     },
