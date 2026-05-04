@@ -10725,7 +10725,7 @@
     {
         "nome": "SmartScan",
         "id_pacchetto": "com.fpf.smartscan",
-        "riassunto": "Search images and videos offline using text or by reverse image search and organ",
+        "riassunto": "Private offline AI search for your media.",
         "categorie": [
             "Gallery",
             "Multimedia"
@@ -10875,7 +10875,7 @@
     {
         "nome": "GeoWeather",
         "id_pacchetto": "com.freetime.geoweather",
-        "riassunto": "Modern weather app with 7-day forecast for multiple cities",
+        "riassunto": "Modern weather app with 3 to 7-day forecast for multiple cities",
         "categorie": [
             "Weather"
         ],
@@ -14123,7 +14123,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8439 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8450 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -15131,6 +15131,20 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kaeruct.raumballer/en-US/icon_8hfoRfuJLN7_5cj_1d4Z61QCujaMW9iA9dBMS7oD16g=.png",
         "url_codice_sorgente": "https://github.com/KaeruCT/RaumBaller",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Khushu",
+        "id_pacchetto": "com.kaizen.khushu",
+        "riassunto": "Private Muslim app for prayer, tasbih, study, and gentle reminders",
+        "categorie": [
+            "Reading",
+            "Religion",
+            "Time"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.kaizen.khushu/en-US/icon_rbZf6NtBimICbQhJ_Z3zK4m1s1W7fWkt373dC7hPXSk=.png",
+        "url_codice_sorgente": "https://github.com/greykaizen/khushu",
         "ultimo_aggiornamento": null
     },
     {
@@ -16765,7 +16779,7 @@
             "Internet"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.matrix.synapse.manager/en-US/icon_0dExqL1stRTHceXpWkro7_HqmceQWg7vR1HZaozJ2-g=.png",
         "url_codice_sorgente": "https://github.com/sureserverman/matrix-synapse-manager-android",
         "ultimo_aggiornamento": null
     },
@@ -20325,7 +20339,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Mako Launcher",
+        "nome": "Mako",
         "id_pacchetto": "com.rama.mako",
         "riassunto": "Privacy-first Android launcher designed for focus, speed, and simplicity.",
         "categorie": [
@@ -20334,6 +20348,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.rama.mako/en-US/icon_Bj9HdZXSbsWpqM22LhtmRWj-iaAhfrRAb7I8L260JVo=.png",
         "url_codice_sorgente": "https://github.com/rama-io/mako",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Tui",
+        "id_pacchetto": "com.rama.tui",
+        "riassunto": "Privacy-first local media player.",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.rama.tui/en-US/icon_Kv3U--rti7nAaleSMzmht7Q4XNO4AcdMYDJKzQHGa5k=.png",
+        "url_codice_sorgente": "https://github.com/rama-io/tui",
         "ultimo_aggiornamento": null
     },
     {
@@ -21615,6 +21641,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.shurik.droidzebra.17.png",
         "url_codice_sorgente": "https://github.com/alkom/droidzebra",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SyncUp",
+        "id_pacchetto": "com.siddarthkay.syncup",
+        "riassunto": "An open-source Syncthing client for iPhone and Android.",
+        "categorie": [
+            "Cloud Storage & File Sync",
+            "Internet"
+        ],
+        "licenza": "MPL-2.0",
+        "icona": "https://f-droid.org/repo//com.siddarthkay.syncup/en-US/icon_PrPGUWLzXlSAmD52HwhAl6ReScrrTb9NPToV7yuZ4Ss=.png",
+        "url_codice_sorgente": "https://github.com/siddarthkay/syncup",
         "ultimo_aggiornamento": null
     },
     {
@@ -30254,7 +30293,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Parcel",
+        "nome": "Deliveries: Track your parcels",
         "id_pacchetto": "dev.itsvic.parceltracker",
         "riassunto": "Track all your parcels with ease.",
         "categorie": [
@@ -31860,14 +31899,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Fish Rings for Android",
+        "nome": "Fish Rings Puzzle",
         "id_pacchetto": "eu.veldsoft.fish.rings",
-        "riassunto": "Gioco di puzzle",
+        "riassunto": "Fish Rings Puzzle game developed by Velbazhd Software LLC (c) 2005-2026",
         "categorie": [
             "Games"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//eu.veldsoft.fish.rings/en-US/icon_KdZdUfBhhiLjMfiiozPHByIjCLC917ke2wnzkYm703w=.png",
         "url_codice_sorgente": "https://github.com/VelbazhdSoftwareLLC/FishRingsForAndroid",
         "ultimo_aggiornamento": null
     },
@@ -34665,6 +34704,18 @@
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/alketii/mighty-knight",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Baseline",
+        "id_pacchetto": "io.github.anrinion.baseline",
+        "riassunto": "Gentle self-care for depression, disability, chronic illness, or burnout",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.anrinion.baseline/en-US/icon_05GuAyIPNYbN-Q-UsnKZno2DI9jwBIAh7-5E-SDrrtA=.png",
+        "url_codice_sorgente": "https://github.com/anrinion/baseline",
         "ultimo_aggiornamento": null
     },
     {
@@ -39888,6 +39939,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/net.glsk.wpgen.134.png",
         "url_codice_sorgente": "https://gitlab.com/glsk/wpgen",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Paperless NGX Uploader",
+        "id_pacchetto": "net.gmartin.paperlessngx_uploader",
+        "riassunto": "upload documents to a Paperless-NGX server using the native share intent",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//net.gmartin.paperlessngx_uploader/en-US/icon_2fG9ZoR3VaA4oAcHewnPCq4XYnaOdWWV9jy_2t2d8Co=.png",
+        "url_codice_sorgente": "https://github.com/gmag11/Paperless_ngx_uploader",
         "ultimo_aggiornamento": null
     },
     {
@@ -46766,6 +46829,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "TigerDuck",
+        "id_pacchetto": "org.ntust.app.tigerduck.fdroid",
+        "riassunto": "NTUST campus assistant for courses, assignments, and more",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/tigerduck-app/tigerduck-app-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Apollo",
         "id_pacchetto": "org.nuclearfog.apollo",
         "riassunto": "Apollo Music Player",
@@ -51796,9 +51871,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Bitmask",
+        "nome": "RiseupVPN",
         "id_pacchetto": "se.leap.riseupvpn",
-        "riassunto": "Comunicazione criptata per i comuni mortali\n(anche i supereroi sono benvenuti).",
+        "riassunto": "RiseupVPN, una VPN anonima. Offerto da Bitmask.",
         "categorie": [
             "Connectivity",
             "Internet",
