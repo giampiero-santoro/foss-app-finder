@@ -24425,6 +24425,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "GitSync",
+        "id_pacchetto": "com.viscouspot.gitsync",
+        "riassunto": "Git client for syncing a repository between remote and a local directory",
+        "categorie": [
+            "Development"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.viscouspot.gitsync/ar/icon__wk3agB0m9lzLe6D2PzFJVRzSWNxJlLRDi2Gmm2JLek=.png",
+        "url_codice_sorgente": "https://github.com/ViscousPot/GitSync",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "NerdCalci",
         "id_pacchetto": "com.vishaltelangre.nerdcalci",
         "riassunto": "Calculator for nerds with variables, syntax highlighting, and file sessions",
@@ -32921,6 +32933,18 @@
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//icons/fr.s13d.photobackup.33.png",
         "url_codice_sorgente": "https://github.com/PhotoBackup/client-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ShutApp",
+        "id_pacchetto": "fr.s2009.shutapp",
+        "riassunto": "Manage multiple computers on your local network remotely with this Android app.",
+        "categorie": [
+            "Remote Controller"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//fr.s2009.shutapp/en-US/icon_WNMYam_LC9y0a7mUIc4CLRnE4L5_2McLBrn-Acyg4XI=.png",
+        "url_codice_sorgente": "https://github.com/S2009-dev/ShutApp",
         "ultimo_aggiornamento": null
     },
     {
@@ -41772,6 +41796,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/nz.gen.geek_central.ObjViewer.1.png",
         "url_codice_sorgente": "https://github.com/ldo/ObjViewer_Android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Backtalk",
+        "id_pacchetto": "off.kys.backtalk",
+        "riassunto": "Backtalk: message yourself to stay organized.",
+        "categorie": [
+            "Note",
+            "Writing"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//off.kys.backtalk/en-US/icon_0Ag2iwakV2Xe3Khfej26o_HKJ2buxzzJtCoTRjnpI1Y=.png",
+        "url_codice_sorgente": "https://github.com/kys0ff/Backtalk",
         "ultimo_aggiornamento": null
     },
     {
