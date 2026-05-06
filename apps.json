@@ -7961,7 +7961,7 @@
             "Multimedia"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.cvc953.localplayer/en-US/icon_H9GF219Q9MsjxLzCzNib79_byibRsb6r2QoGyJ5fxbo=.png",
         "url_codice_sorgente": "https://github.com/cvc953/localplayer",
         "ultimo_aggiornamento": null
     },
@@ -15143,7 +15143,7 @@
             "Time"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.kaizen.khushu/en-US/icon_rbZf6NtBimICbQhJ_Z3zK4m1s1W7fWkt373dC7hPXSk=.png",
+        "icona": "https://f-droid.org/repo//com.kaizen.khushu/en-US/icon_ZlpzJ0t4VABUWNhhhRAFVlz4PA_VcTLJFp_cOD7YuFE=.png",
         "url_codice_sorgente": "https://github.com/greykaizen/khushu",
         "ultimo_aggiornamento": null
     },
@@ -16609,7 +16609,7 @@
     {
         "nome": "Booming Music",
         "id_pacchetto": "com.mardous.booming",
-        "riassunto": "A modern, Material 3 local music player built for smooth offline listening",
+        "riassunto": "Clean, fast, and Material-driven music player with powerful features",
         "categorie": [
             "Local Media Player",
             "Multimedia"
@@ -21325,6 +21325,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.secuso.torchlight2/de-DE/icon_Yoenz5hJYq0ov-xZFfTj9BkvfsXz8El1RSwd7IfzZGw=.png",
         "url_codice_sorgente": "https://github.com/SecUSo/privacy-friendly-torchlight",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SeekPrivacy",
+        "id_pacchetto": "com.seeker.seekprivacy",
+        "riassunto": "Hardware-hardened file isolation to defeat \"All Files Access\" surveillance.",
+        "categorie": [
+            "File Encryption & Vault",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.seeker.seekprivacy/en-US/icon_nKyFyUZBsdVu47JAxRwP0Ov8EqmdyXs5tBle_RJQmhY=.png",
+        "url_codice_sorgente": "https://github.com/duckniii/SeekPrivacy",
         "ultimo_aggiornamento": null
     },
     {
@@ -30202,7 +30215,7 @@
     {
         "nome": "Offline Translator",
         "id_pacchetto": "dev.davidv.translator",
-        "riassunto": "On-device translation of text and images, with TTS",
+        "riassunto": "On-device translation of text, images and pdf/odt files, with TTS",
         "categorie": [
             "Translation & Dictionary"
         ],
