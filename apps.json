@@ -87,6 +87,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Stims",
+        "id_pacchetto": "acidburn.stims",
+        "riassunto": "Keep your screen awake while specific apps are in the foreground.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//acidburn.stims/en-US/icon_SKaMhNw0uk0Te21LKG_oJJZa9qDmRQ_ZYXC3YuxsOYA=.png",
+        "url_codice_sorgente": "https://github.com/acidburnmonkey/stims",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Lightning",
         "id_pacchetto": "acr.browser.lightning",
         "riassunto": "Browser web leggero",
@@ -510,7 +522,8 @@
         "id_pacchetto": "app.fedilab.mobilizon",
         "riassunto": "Mobilizon è uno strumento che aiuta a gestire i tuoi eventi, profili e gruppi.",
         "categorie": [
-            "Internet"
+            "Internet",
+            "Schedule"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/app.fedilab.mobilizon.3.png",
@@ -997,7 +1010,7 @@
         "id_pacchetto": "app.smarzaro.foss4g2024.schedule",
         "riassunto": "Conference program app for the FOSS4G 2024 conference in Belém, Brazil",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//app.smarzaro.foss4g2024.schedule/en-US/icon_f3AUXm5bYeUT0VrItReA2US-8um2jicv-wdJzHHPyJw=.png",
@@ -1414,7 +1427,7 @@
         "id_pacchetto": "at.linuxtage.Eventfahrplan",
         "riassunto": "Browse the \"Grazer Linuxtage\" schedule",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//at.linuxtage.Eventfahrplan/en-US/icon_Avcan6rmB5EjKq5vSp2YjcHuDh-8JW-B_oC9pxtTpPc=.png",
@@ -1706,6 +1719,7 @@
         "id_pacchetto": "be.digitalia.fosdem",
         "riassunto": "Programma del browser per la conferenza FOSDEM",
         "categorie": [
+            "Schedule",
             "Time"
         ],
         "licenza": "Apache-2.0",
@@ -2145,7 +2159,8 @@
         "id_pacchetto": "ca.chancehorizon.paseo",
         "riassunto": " A free and open source step counting app.",
         "categorie": [
-            "Sports & Health"
+            "Sports & Health",
+            "Workout"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//ca.chancehorizon.paseo/en-US/icon_Hw-e9eR5XFCGlleJdqA9XOVha6cG-yb8Ai4-jWmwgiw=.png",
@@ -2208,7 +2223,8 @@
         "id_pacchetto": "ca.hamaluik.timecop",
         "riassunto": "A time tracking app that respects your privacy without being fancy.",
         "categorie": [
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//ca.hamaluik.timecop/en-US/icon_V5f15Qn4qPEKTlBFGESdjdoSzwVp1ByxvabboYUfgZM=.png",
@@ -2714,7 +2730,7 @@
         "id_pacchetto": "ch.digitale_gesellschaft.winterkongress.schedule",
         "riassunto": "Conference program for the Winterkongress 2026 of digital society",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//ch.digitale_gesellschaft.winterkongress.schedule/de/icon_-YJ2dIsmD2s8GyjiAy-HYZjqDDGNioVV0AhRULYrHN8=.png",
@@ -2940,6 +2956,7 @@
         "id_pacchetto": "ch.thgoebel.spartathlonapp",
         "riassunto": "Visualizza informazioni riguardo la gara podistica Spartathlon",
         "categorie": [
+            "Schedule",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -3624,12 +3641,25 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Acutis Firewall",
+        "id_pacchetto": "com.acutis.firewall",
+        "riassunto": "Parental control app that blocks adult content and dangerous sites on-device.",
+        "categorie": [
+            "Firewall"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/phasnox/acutis_firewall_android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AddictoLogs",
         "id_pacchetto": "com.addictologs",
         "riassunto": "Activity tracker for your bad habits",
         "categorie": [
             "Habit Tracker",
-            "Sports & Health"
+            "Sports & Health",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.addictologs/en-US/icon_qNqbXhoffs_pxZuqc5WDfYis46CPV4y3vXyofVFHKes=.png",
@@ -5809,6 +5839,7 @@
         "id_pacchetto": "com.asdoi.gymwen",
         "riassunto": "Official App for the Gymnasium Wendelstein",
         "categorie": [
+            "Diet",
             "Internet",
             "Science & Education"
         ],
@@ -5925,7 +5956,8 @@
         "id_pacchetto": "com.atharok.screentime",
         "riassunto": "Easily track the time you spend on your device and apps.",
         "categorie": [
-            "System"
+            "System",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.atharok.screentime/en-US/icon_QRdou_AAaTkUvQ77LFRdUFm4Q-Q6B9HfFZDBoHmxyl0=.png",
@@ -7641,7 +7673,7 @@
         "id_pacchetto": "com.codesail.market_monk",
         "riassunto": "Track stocks in style!",
         "categorie": [
-            "Sports & Health"
+            "Money"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.codesail.market_monk/en-US/icon_Qu3fnN5fH1Now8Jow43psqTT3EkD9i4MKMizBRo2m6A=.png",
@@ -10331,6 +10363,7 @@
         "id_pacchetto": "com.faltenreich.diaguard",
         "riassunto": "Diario del diabete e banca dati alimentare",
         "categorie": [
+            "Diet",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -10508,6 +10541,7 @@
         "id_pacchetto": "com.flasskamp.energize",
         "riassunto": "Traccia la tua alimentazione in modo semplice e veloce.",
         "categorie": [
+            "Diet",
             "Internet",
             "Science & Education",
             "Sports & Health"
@@ -10882,6 +10916,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.freetime.geoweather/en-US/icon_Z3wmMqDxGO20EQLv4Kkt0Voqv7xZ8ixF4EJZvm9J3uw=.png",
         "url_codice_sorgente": "https://github.com/FreetimeMaker/GeoWeather",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SuperSMP Companion",
+        "id_pacchetto": "com.freetime.ssmpc",
+        "riassunto": "Vote, shop & explore SuperSMP anywhere! Companion app for server features",
+        "categorie": [
+            "Games",
+            "Internet"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.freetime.ssmpc/en-US/icon_Yk8oq2uz3IgZalkcaz_3KBNWRL8Fcu76aEr1HgcDi6g=.png",
+        "url_codice_sorgente": "https://github.com/FreetimeMaker/SuperSMP-Companion-App",
         "ultimo_aggiornamento": null
     },
     {
@@ -15533,7 +15580,8 @@
         "riassunto": "Offline-compatible browser for cultural events in Leipzig",
         "categorie": [
             "Calendar & Agenda",
-            "Internet"
+            "Internet",
+            "Schedule"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.kolloware.hypezigapp/de-DE/icon_mtMG40cjHhIrh-XvRLsCQ-lgJTNcIbmsz5SZvoXHXXo=.png",
@@ -16496,6 +16544,7 @@
         "id_pacchetto": "com.maksimowiczm.foodyou",
         "riassunto": "Track your calories with Material You aesthetic",
         "categorie": [
+            "Diet",
             "Habit Tracker",
             "Sports & Health"
         ],
@@ -16779,7 +16828,7 @@
             "Internet"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.matrix.synapse.manager/en-US/icon_0dExqL1stRTHceXpWkro7_HqmceQWg7vR1HZaozJ2-g=.png",
+        "icona": "https://f-droid.org/repo//com.matrix.synapse.manager/en-US/icon_VLCFTcss9fDcMTcqzGZivQhhHz3_rWWgaEHmBYMK6Aw=.png",
         "url_codice_sorgente": "https://github.com/sureserverman/matrix-synapse-manager-android",
         "ultimo_aggiornamento": null
     },
@@ -16943,7 +16992,8 @@
         "id_pacchetto": "com.mcsnowflake.worktimer",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mcsnowflake.worktimer/android/icon_2ulxYoOyPvurF6rw-fHZdyx3Ys-_1ohNUVVvyih_wEM=.png",
@@ -18146,7 +18196,8 @@
         "id_pacchetto": "com.nickspatties.timeclock",
         "riassunto": "Keep track of the time you spend doing the things you want with this app",
         "categorie": [
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.nickspatties.timeclock/en-US/icon_1FfkF6koYJ_JQK5Urr-MWZXlP0dsfanW66R1S9J9QTo=.png",
@@ -18641,7 +18692,8 @@
         "id_pacchetto": "com.nvllz.stepsy",
         "riassunto": "Your lightweight step counting buddy",
         "categorie": [
-            "Sports & Health"
+            "Sports & Health",
+            "Workout"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.nvllz.stepsy/en-US/icon_MijJl4JfXzFnnbeAgL10BnNFbAhDxH9u91D1cRYhsl0=.png",
@@ -18835,7 +18887,7 @@
         "id_pacchetto": "com.odysee.floss",
         "riassunto": "Explore a whole universe of videos on Odysee from regular people just like you!",
         "categorie": [
-            "Internet"
+            "Online Media Player"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.odysee.floss/en-US/icon_NBIXp1Rt-KrSIcHpLBqaaQP1vWam8MvZGRBd86skLAI=.png",
@@ -19964,6 +20016,7 @@
         "id_pacchetto": "com.presley.fit_book",
         "riassunto": "Track your calorie intake - Completely offline!",
         "categorie": [
+            "Diet",
             "Habit Tracker",
             "Sports & Health"
         ],
@@ -20452,7 +20505,8 @@
         "id_pacchetto": "com.razeeman.util.simpletimetracker",
         "riassunto": "Timer per lavoro, studio e migliori abitudini quotidiane.",
         "categorie": [
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.razeeman.util.simpletimetracker/en-US/icon_7oB4g6VsjvCtBikg1TQr_JEJnpzZwEBG-LZJSACAUgM=.png",
@@ -21074,7 +21128,8 @@
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Habit Tracker",
-            "Sports & Health"
+            "Sports & Health",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.samco.trackandgraph/en-GB/icon_urVUFNWADj-yqcLtIjTFfWqaTNkEzIDmtSlhsKScDVg=.png",
@@ -22066,7 +22121,8 @@
         "riassunto": "Track your daily screen time and regain control of your attention.",
         "categorie": [
             "System",
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.soberdigital.screentimetracker/en-US/icon_-CDR2uPAumNdg_z_44C1XApwDIVgpqsvRtsmXIta9IE=.png",
@@ -22519,7 +22575,7 @@
             "Bookmark",
             "Note",
             "Task",
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.superproductivity.superproductivity/en-US/icon_FcxgdDj9JZBXzVknfabEpswSa3IOdU-Nte678RgVEso=.png",
@@ -23036,7 +23092,8 @@
         "id_pacchetto": "com.theskillapp.skillapp",
         "riassunto": "Simple, fully offline time-tracking app",
         "categorie": [
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.theskillapp.skillapp/en-US/icon_TU17_L76jw_lxiSUIq8oIL1eoVmwAUeWr0EzD_88klQ=.png",
@@ -23103,6 +23160,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.thirumalai.calllimiter/en-US/icon_FAhzybwkqUbkE2tWHkAXK5dguhbfMoS9g3wwTtWKFOU=.png",
         "url_codice_sorgente": "https://github.com/Thiru-Malai/CallLimiter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Gitlalchemy",
+        "id_pacchetto": "com.thomas.pedot.gitlalchemy",
+        "riassunto": "Open-source native GitLab client for Android and desktop",
+        "categorie": [
+            "Development"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.thomas.pedot.gitlalchemy/en-US/icon_QN8jfXkta3skq7fWPGSNKiuDYSMzLjYURuwRRU5r6xY=.png",
+        "url_codice_sorgente": "https://gitlab.com/thomas.pedot1/gitlalchemy",
         "ultimo_aggiornamento": null
     },
     {
@@ -23234,6 +23303,7 @@
         "id_pacchetto": "com.tjk104.openfndds",
         "riassunto": "Displays information from the USDA's Food and Nutrient Database for Dietary Stud",
         "categorie": [
+            "Diet",
             "Science & Education",
             "Sports & Health"
         ],
@@ -23671,6 +23741,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.tristinbaker.defide/en-US/icon_t6b3owsZVd6kpI86uFN3m9CDe2L_qUfd3QujdFRZ87U=.png",
         "url_codice_sorgente": "https://github.com/tristinbaker/DeFide",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Idle Fantasy",
+        "id_pacchetto": "com.tristinbaker.idlefantasy",
+        "riassunto": "Idle RPG: train skills, fight dungeons, craft gear. No ads, no accounts.",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.tristinbaker.idlefantasy/en-US/icon_9h1hkNc21_zKDjvAQz13qne2EbIN25vw98yOSUsY0dE=.png",
+        "url_codice_sorgente": "https://github.com/tristinbaker/IdleFantasy",
         "ultimo_aggiornamento": null
     },
     {
@@ -24757,6 +24839,7 @@
         "id_pacchetto": "com.waist.line",
         "riassunto": "Libre calorie counter and weight tracker",
         "categorie": [
+            "Diet",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -25510,7 +25593,7 @@
         "riassunto": "Automatic bridge from NPE RUNN to Health Connect.",
         "categorie": [
             "Connectivity",
-            "Sports & Health"
+            "Workout"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -26189,6 +26272,7 @@
         "id_pacchetto": "de.arnefeil.bewegungsmelder",
         "riassunto": "Ottieni informazioni sugli eventi ad Amburgo, Germania",
         "categorie": [
+            "Schedule",
             "Time"
         ],
         "licenza": "GPL-3.0-only",
@@ -26671,7 +26755,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.computerelite.shockalarm/en-US/icon_zmr7FGopff05l5zU969w5UyFlkZqxKAjOPSt4jQRl6U=.png",
-        "url_codice_sorgente": "https://github.com/ComputerElite/ShockAlarmApp",
+        "url_codice_sorgente": "https://codeberg.org/Kaiya/ShockAlarmApp",
         "ultimo_aggiornamento": null
     },
     {
@@ -26766,6 +26850,7 @@
         "id_pacchetto": "de.cyberit.wasgeht",
         "riassunto": "Discover concerts, partys, theatre, cinema and much more in germany",
         "categorie": [
+            "Schedule",
             "Sports & Health",
             "Time"
         ],
@@ -27051,7 +27136,8 @@
         "id_pacchetto": "de.ergosign.offenbach.foss",
         "riassunto": "The official citizen app of the city of Offenbach am Main",
         "categorie": [
-            "Internet"
+            "Internet",
+            "Schedule"
         ],
         "licenza": "EUPL-1.2",
         "icona": "https://via.placeholder.com/64",
@@ -27966,8 +28052,7 @@
         "id_pacchetto": "de.live.gdev.timetracker",
         "riassunto": "Wrapper for Kimai - Time-Tracking",
         "categorie": [
-            "Internet",
-            "Time"
+            "Sports & Health"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.live.gdev.timetracker/en-US/icon_01CMsAU9Ls5jioNkNyB20phO3E88evK5SR_lMw7HWcs=.png",
@@ -28180,8 +28265,7 @@
         "id_pacchetto": "de.markusfisch.android.screentime",
         "riassunto": "Display your screen time in a permanent notification",
         "categorie": [
-            "System",
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//de.markusfisch.android.screentime/en-US/icon_UaZfJx2ZIITADezrs1yjhN2FW3H5ztPm_wP8SLjYtjk=.png",
@@ -28544,6 +28628,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.mwvb.blockpuzzle/de/icon_FBsl1goJhT_C09MURcrfsXkpu1gK8ik7MnS8rjhW1Hk=.png",
         "url_codice_sorgente": "https://github.com/SoltauFintel/blockpuzzle",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Office Break",
+        "id_pacchetto": "de.mysportsmate.officebreak",
+        "riassunto": "Active break timer with exercises - reminds you to move at the office.",
+        "categorie": [
+            "Sports & Health",
+            "Time"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//de.mysportsmate.officebreak/de-DE/icon_UGfEShtTgCtIH8rgb44JsISSG5PR1TyJLYMasUuWIUs=.png",
+        "url_codice_sorgente": "https://github.com/Drumm3r/office-break",
         "ultimo_aggiornamento": null
     },
     {
@@ -29455,6 +29552,7 @@
         "id_pacchetto": "de.swgross.calorimeter",
         "riassunto": "Track your calories!",
         "categorie": [
+            "Diet",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -29869,6 +29967,7 @@
         "id_pacchetto": "de.wger.flutter",
         "riassunto": "Fitness/workout, nutrition and weight tracker",
         "categorie": [
+            "Diet",
             "Sports & Health",
             "Workout"
         ],
@@ -30429,7 +30528,8 @@
             "Draw",
             "Note",
             "Task",
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.linwood.flow.nightly/en-US/icon_283r9R4H_ToYjb4VGl4suXv0gxDSrsQXrcQfM9oeZhE=.png",
@@ -31214,6 +31314,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Permission Pilot",
+        "id_pacchetto": "eu.darken.myperm",
+        "riassunto": "Android app permission overview",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//eu.darken.myperm/en-US/icon_S3jHTt0ipi1sPdRX3eSc4OxbD63eQpqIKyP1B2ulfoI=.png",
+        "url_codice_sorgente": "https://github.com/d4rken-org/permission-pilot",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SD Maid 2/SE - System Cleaner",
         "id_pacchetto": "eu.darken.sdmse",
         "riassunto": "A trusted assistant for your Android, to keep it clean and tidy.",
@@ -31376,6 +31488,7 @@
         "id_pacchetto": "eu.frigo.dispensa",
         "riassunto": "Manage your pantry and avoid food waste",
         "categorie": [
+            "Diet",
             "Inventory"
         ],
         "licenza": "MIT",
@@ -32336,6 +32449,7 @@
         "id_pacchetto": "flunzmas.seasoncalendar",
         "riassunto": "Your practical helpling for seasonal/regional foods!",
         "categorie": [
+            "Diet",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
@@ -32749,8 +32863,7 @@
         "id_pacchetto": "fr.mobdev.peertubelive",
         "riassunto": "Stream your device camera to your PeerTube channel!",
         "categorie": [
-            "Internet",
-            "Multimedia"
+            "Online Media Player"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//fr.mobdev.peertubelive/en-US/icon_RTZc2lB-zi_zwOTHm-zrWlZW7JeggWhtb0ASmHKg1rg=.png",
@@ -33447,7 +33560,8 @@
         "id_pacchetto": "godau.fynn.usagedirect",
         "riassunto": "Display screen time statistics",
         "categorie": [
-            "System"
+            "System",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//godau.fynn.usagedirect/en-US/icon_Ssw-bOnYaaX7aiKeWWWbJpwUpN-gdJaf8gWieKARFEY=.png",
@@ -33510,7 +33624,8 @@
         "id_pacchetto": "grmpl.mk.stepandheightcounter",
         "riassunto": "Counting steps and elevation gain",
         "categorie": [
-            "Sports & Health"
+            "Sports & Health",
+            "Workout"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/grmpl.mk.stepandheightcounter.8.png",
@@ -33763,7 +33878,7 @@
         "riassunto": "Plees Tracker is a simple sleep tracker for your Android phone.",
         "categorie": [
             "Sports & Health",
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//hu.vmiklos.plees_tracker/en-US/icon_SA7tTVK5WBi0CdWpoCWvu3xXn3aDgPL-ZCymHTFsG7M=.png",
@@ -33863,7 +33978,7 @@
         "id_pacchetto": "im.fdx.v2ex",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Internet"
+            "Forum"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//im.fdx.v2ex/zh-CN/icon_mO68PahPv1N_0gdj-bZimWGSr7bu8nlqmLlLMpH42Z8=.png",
@@ -34232,7 +34347,7 @@
         "id_pacchetto": "info.metadude.android.bitsundbaeume.schedule",
         "riassunto": "La conferenza per la digitalizzazione e la sostenibilità",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34244,7 +34359,7 @@
         "id_pacchetto": "info.metadude.android.cccamp.schedule",
         "riassunto": "Schedule app for the Chaos Communication Camp 2023",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34256,7 +34371,7 @@
         "id_pacchetto": "info.metadude.android.clt.schedule",
         "riassunto": "Programma della conferenza Chemnitzer Linux-Tage (CLT)",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34268,7 +34383,7 @@
         "id_pacchetto": "info.metadude.android.congress.schedule",
         "riassunto": "Programma (noto anche come Fahrplan) del Chaos Communication Congress",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34280,7 +34395,7 @@
         "id_pacchetto": "info.metadude.android.datenspuren.schedule",
         "riassunto": "Programma della conferenza Datenspuren al Zentralwerk Dresden",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34292,7 +34407,7 @@
         "id_pacchetto": "info.metadude.android.divoc.schedule",
         "riassunto": "DiVOC Schedule",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34304,7 +34419,7 @@
         "id_pacchetto": "info.metadude.android.fosdem.schedule",
         "riassunto": "Conference program app for the FOSDEM conference",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34316,7 +34431,7 @@
         "id_pacchetto": "info.metadude.android.foss4g.schedule",
         "riassunto": "Program app for the FOSS4G conference",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34328,7 +34443,7 @@
         "id_pacchetto": "info.metadude.android.fossgis.schedule",
         "riassunto": "Conference program app for the FOSSGIS conference",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34340,7 +34455,7 @@
         "id_pacchetto": "info.metadude.android.gpn.schedule",
         "riassunto": "GPN Schedule",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34352,7 +34467,7 @@
         "id_pacchetto": "info.metadude.android.hope.schedule",
         "riassunto": "Program app for the HOPE conference",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34364,7 +34479,7 @@
         "id_pacchetto": "info.metadude.android.libreoffice.schedule",
         "riassunto": "Program app for the LibreOffice Conference",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34376,7 +34491,7 @@
         "id_pacchetto": "info.metadude.android.mrmcd.schedule",
         "riassunto": "Programma della conferenza MRMCD",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34388,7 +34503,7 @@
         "id_pacchetto": "info.metadude.android.protocolberg.schedule",
         "riassunto": "Program app for the Protocol Berg conference",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34400,7 +34515,7 @@
         "id_pacchetto": "info.metadude.android.rc3.schedule",
         "riassunto": "Conference program app for the JahresEndVeranstaltungen (JEV)",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -34718,6 +34833,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "geminiAssist",
+        "id_pacchetto": "io.github.acidefluorhydrique.geminiassist",
+        "riassunto": "WebView wrapper for Google Gemini",
+        "categorie": [
+            "AI Chat"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.acidefluorhydrique.geminiassist/en-US/icon_Lsf1iF3ueZe8ulQmHFBfViRbRGZBZuObdE7c1Du5OAI=.png",
+        "url_codice_sorgente": "https://github.com/AcideFluorhydrique/geminiAssist",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Repertoire",
         "id_pacchetto": "io.github.adithya_jayan.myrepertoirapp.fdroid",
         "riassunto": "An app for musicians to track their repertoire and media.",
@@ -34748,6 +34875,7 @@
         "id_pacchetto": "io.github.anrinion.baseline",
         "riassunto": "Gentle self-care for depression, disability, chronic illness, or burnout",
         "categorie": [
+            "Diet",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -36357,7 +36485,7 @@
         "id_pacchetto": "io.github.v2compose",
         "riassunto": "A Material You style V2ex client!",
         "categorie": [
-            "Reading"
+            "Forum"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.v2compose/en-US/icon_s9YRrd-l_XjbsNHTZ-bDaloaCDx4UoPkCdm3llWbqww=.png",
@@ -37003,6 +37131,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Perfice",
+        "id_pacchetto": "io.perfice.app",
+        "riassunto": "Track anything, find the patterns that shape your life",
+        "categorie": [
+            "Connectivity",
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.perfice.app/en-US/icon_kntLjoUb_3Yzg1gc-4kr3WgLFk-ayoFs_aku0LwXBTA=.png",
+        "url_codice_sorgente": "https://github.com/p0lloc/perfice",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "PSLab",
         "id_pacchetto": "io.pslab",
         "riassunto": "Interfaccia Android Pocket Science Lab per l'hardware PSLab",
@@ -37340,8 +37481,7 @@
         "id_pacchetto": "it.danieleverducci.lunatracker",
         "riassunto": "LunaTracker is a newborn baby tracking app.",
         "categorie": [
-            "Sports & Health",
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//it.danieleverducci.lunatracker/en-US/icon_lSNeUnSj-wblW4HOMUbn7ei_d2VqfeIErp-cx3HtmEQ=.png",
@@ -38849,7 +38989,7 @@
         "categorie": [
             "Calendar & Agenda",
             "Habit Tracker",
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//me.timeto.app/en-US/icon_0ucTHMrHBG9WlfuTd20-8I9zNjbJdUO4oxYtIKv6nhU=.png",
@@ -39921,6 +40061,7 @@
         "riassunto": "Schedule viewer for conferences and other events",
         "categorie": [
             "Calendar & Agenda",
+            "Schedule",
             "Time"
         ],
         "licenza": "GPL-2.0-only",
@@ -40750,18 +40891,6 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.schueller.instarepost/en-US/icon_YYlHAw4Z6cjMZS_f_arpuOJB_btJ0boBjbo-iS4QNZc=.png",
         "url_codice_sorgente": "https://github.com/sschueller/easyrepost",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Thorium a PeerTube client",
-        "id_pacchetto": "net.schueller.peertube",
-        "riassunto": "Un riproduttore PeerTube",
-        "categorie": [
-            "Multimedia"
-        ],
-        "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//net.schueller.peertube/en-US/icon_FZ8ZGOgbxAcSeUNNTN-e6RfA9yABDQK4hUkhagNIUEU=.png",
-        "url_codice_sorgente": "https://github.com/sschueller/peertube-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -42003,6 +42132,7 @@
         "id_pacchetto": "openfoodfacts.github.scrachx.openfood",
         "riassunto": "Cerca ingredienti alimentari, allergeni, fatti di nutrizione",
         "categorie": [
+            "Diet",
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
@@ -44816,6 +44946,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "RakuRaku IME",
+        "id_pacchetto": "org.ghostsinthelab.app.rakurakuime",
+        "riassunto": "Traditional Chinese keyboard for the EZ Input Method, with English predictions.",
+        "categorie": [
+            "Keyboard & IME",
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.ghostsinthelab.app.rakurakuime/en-US/icon_tul9dXArKqYG3u-sfVvzr89HOy4ZzSQjuOCaBNYtTBE=.png",
+        "url_codice_sorgente": "https://github.com/hiroshiyui/RakuRakuIME",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Guileless Bopomofo Keyboard",
         "id_pacchetto": "org.ghostsinthelab.apps.guilelessbopomofo",
         "riassunto": "A simple Bopomofo software keyboard (input method editor) for typing Hanyu",
@@ -45883,6 +46026,7 @@
         "id_pacchetto": "org.ledjlale.Nutrixious",
         "riassunto": "Calories management from foods and physical trainings.",
         "categorie": [
+            "Diet",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -46886,7 +47030,7 @@
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//org.ntust.app.tigerduck.fdroid/en-US/icon_QvM-s4jf536w1jQqonyN-sCDE84ZiV6h8bSBcCzc3sI=.png",
         "url_codice_sorgente": "https://github.com/tigerduck-app/tigerduck-app-android",
         "ultimo_aggiornamento": null
     },
@@ -46933,6 +47077,7 @@
         "id_pacchetto": "org.nutritionfacts.dailydozen",
         "riassunto": "Traccia degli alimenti che il dr Greger raccomanda nel suo libro Come non morire",
         "categorie": [
+            "Diet",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -47133,6 +47278,7 @@
         "id_pacchetto": "org.openpetfoodfacts.scanner",
         "riassunto": "Cerca ingredienti alimentari per animali, allergeni, informazioni su nutrizione",
         "categorie": [
+            "Diet",
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
@@ -48313,7 +48459,8 @@
         "id_pacchetto": "org.secuso.privacyfriendlyactivitytracker",
         "riassunto": "(SECUSO) Counts your steps in the background. Customize daily goals.",
         "categorie": [
-            "Sports & Health"
+            "Sports & Health",
+            "Workout"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlyactivitytracker/en-US/icon_ZNYfUCGDhxZXrvJKw1gCPAtSr9OBTiyYpuzJz3Z6otI=.png",
@@ -48412,6 +48559,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlyfoodtracker",
         "riassunto": "Permette di tracciare il suo consumo giornaliero di calorie",
         "categorie": [
+            "Diet",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -49532,6 +49680,7 @@
         "id_pacchetto": "org.uaraven.e",
         "riassunto": "Riferimento per gli additivi alimentari",
         "categorie": [
+            "Diet",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
@@ -49750,7 +49899,8 @@
         "id_pacchetto": "org.wentura.getflow",
         "riassunto": "Productivity timer",
         "categorie": [
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.wentura.getflow/en-US/icon_3fBq70zaUDwNhW6kMUp7xWKPjRl2Kg6WTa_O-WYB3DQ=.png",
@@ -50298,7 +50448,8 @@
         "id_pacchetto": "org.zephyrsoft.trackworktime",
         "riassunto": "Record your work time. Categorize it with different tasks. Generate reports.",
         "categorie": [
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.zephyrsoft.trackworktime/en-US/icon_RhdooqTkZmgVE7y9XYPJ4J2LdF-J0oEsEZ9IAZ9K8GQ=.png",
@@ -52655,7 +52806,8 @@
         "id_pacchetto": "team.swing.pendulums",
         "riassunto": "Gestisci il tempo più efficientemente con un moderno strumento di tracciamento",
         "categorie": [
-            "Time"
+            "Time",
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/team.swing.pendulums.4.png",
@@ -54208,6 +54360,7 @@
         "id_pacchetto": "xyz.zedler.patrick.grocy",
         "riassunto": "ERP beyond your fridge, now on your phone – An awesome companion app for grocy",
         "categorie": [
+            "Diet",
             "Shopping List",
             "Sports & Health"
         ],
