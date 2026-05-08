@@ -634,7 +634,7 @@
         "id_pacchetto": "app.hypostats",
         "riassunto": "Simple hypoglycemia logging and statistics, not only for diabetics.",
         "categorie": [
-            "Sports & Health"
+            "Health Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//app.hypostats/en-US/icon_kn-DFXsd4eMefHccjkALdW5E20AVUr8hwUn0xccfWh4=.png",
@@ -716,6 +716,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.motionui.android/en-US/icon_jrEL0coWkUsDL9ga-867QRfCqOunG4PKABJwCRcLxwY=.png",
         "url_codice_sorgente": "https://github.com/lbr38/motion-UI",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Murine Launcher",
+        "id_pacchetto": "app.murinelauncher",
+        "riassunto": "A modern, lightweight Launcher3 fork for an enhanced stock++ Android experience.",
+        "categorie": [
+            "Launcher"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//app.murinelauncher/en-US/icon_QAQe4ZwQCBqYFcT1_qRWdtNO-ZcitL02DMYZxwAQVRs=.png",
+        "url_codice_sorgente": "https://github.com/alesimula/Murine-launcher",
         "ultimo_aggiornamento": null
     },
     {
@@ -1880,6 +1892,7 @@
         "id_pacchetto": "biz.binarysolutions.stress",
         "riassunto": "Are you stressed? Take the test to find out how stressed you are.",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -2855,6 +2868,7 @@
         "id_pacchetto": "ch.nilsgrob.android.bluemoon",
         "riassunto": "Open source, privacy friendly menstruation tracking app. Your period, your data!",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -6707,6 +6721,7 @@
         "id_pacchetto": "com.bodycheck",
         "riassunto": "Scan and visualize body composition QR codes from your gym",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -8438,6 +8453,7 @@
         "id_pacchetto": "com.derdilla.bloodPressureApp",
         "riassunto": "Save, analyze and export your blood pressure!",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -9055,6 +9071,7 @@
         "id_pacchetto": "com.drip",
         "riassunto": "Open-source, non-commercial and leaves your data on your phone.",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -9358,6 +9375,7 @@
         "id_pacchetto": "com.ei.bmicalc",
         "riassunto": "BmiCalc è un software per calcolare l'indice di massa corporea (IMC).",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -9986,7 +10004,7 @@
     {
         "nome": "Kotlin Quiz",
         "id_pacchetto": "com.example.kotlinquiz",
-        "riassunto": "Quiz taking application about kotilin",
+        "riassunto": "Quiz taking application about Kotlin",
         "categorie": [
             "Science & Education"
         ],
@@ -10364,6 +10382,7 @@
         "riassunto": "Diario del diabete e banca dati alimentare",
         "categorie": [
             "Diet",
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -11637,6 +11656,7 @@
         "id_pacchetto": "com.github.characterdog.bmicalculator",
         "riassunto": "Simple BMI calculator",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -13521,6 +13541,7 @@
         "id_pacchetto": "com.health.openscale",
         "riassunto": "Weight and body metrics tracker, with support for Bluetooth scales",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -13533,6 +13554,7 @@
         "id_pacchetto": "com.health.openscale.sync",
         "riassunto": "Synchronize your openScale measurements with external services",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -15099,6 +15121,7 @@
         "id_pacchetto": "com.jwetherell.heart_rate_monitor",
         "riassunto": "Heart Rate Monitor",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
@@ -16136,6 +16159,7 @@
         "id_pacchetto": "com.log28",
         "riassunto": "A simple no-frills period tracker",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "LGPL-3.0-only",
@@ -17118,6 +17142,7 @@
         "id_pacchetto": "com.mensinator.app",
         "riassunto": "Tailored Period Tracking, Total Privacy—Your Period, Your Control.",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -18417,6 +18442,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.nitish.privacyindicator/en-US/icon_JGdvJx4ovZRzl1Q2NysEA3x89v5n6egWC2BVqNik7x8=.png",
         "url_codice_sorgente": "https://github.com/NitishGadangi/Privacy-Indicator-App",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "NekoVideo",
+        "id_pacchetto": "com.nkls.nekovideo",
+        "riassunto": "Modern video player with folder management, gesture controls and video cutting",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/FellipitoPV/NekoVideo",
         "ultimo_aggiornamento": null
     },
     {
@@ -20018,6 +20055,7 @@
         "categorie": [
             "Diet",
             "Habit Tracker",
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -21357,6 +21395,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SecureScreen",
+        "id_pacchetto": "com.securescreen.app",
+        "riassunto": "Protect selected apps from screenshots and screen recording",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/adikul1023/SecureScreen",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "QR Scanner (PFA)",
         "id_pacchetto": "com.secuso.privacyFriendlyCodeScanner",
         "riassunto": "(SECUSO) Privacy Friendly QR-Scanner with minimal permissions",
@@ -22496,6 +22546,7 @@
         "id_pacchetto": "com.styrkurapp.app",
         "riassunto": "Tieni traccia dei tuoi allenamenti",
         "categorie": [
+            "Health Manager",
             "Sports & Health",
             "Workout"
         ],
@@ -24840,6 +24891,7 @@
         "riassunto": "Libre calorie counter and weight tracker",
         "categorie": [
             "Diet",
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -25593,6 +25645,7 @@
         "riassunto": "Automatic bridge from NPE RUNN to Health Connect.",
         "categorie": [
             "Connectivity",
+            "Health Manager",
             "Workout"
         ],
         "licenza": "Apache-2.0",
@@ -25643,6 +25696,7 @@
         "id_pacchetto": "com.zell_mbc.medilog",
         "riassunto": "Log health metrics such as blood pressure, weight and quite a few others",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -25655,6 +25709,7 @@
         "id_pacchetto": "com.zell_mbc.medilog.fdroid",
         "riassunto": "Log health metrics such as blood pressure, weight and quite a few others",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -25806,6 +25861,7 @@
         "id_pacchetto": "com.zola.bmi",
         "riassunto": "Calcolatore dell'indice di massa corporea",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -26221,6 +26277,7 @@
         "id_pacchetto": "de.anderdonau.hackersdiet",
         "riassunto": "This is an offline version of the Hackers Diet Online.",
         "categorie": [
+            "Health Manager",
             "Internet",
             "Sports & Health"
         ],
@@ -26286,6 +26343,7 @@
         "riassunto": "Un calendario mestruale con calcolo dei giorni fertili secondo Ogino-Knaus.",
         "categorie": [
             "Calendar & Agenda",
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -28765,6 +28823,7 @@
         "id_pacchetto": "de.ntdote.medicalcalendarlog",
         "riassunto": "Privacy-focused medical event tracking using your device's calendar system",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -29043,6 +29102,7 @@
         "riassunto": "privacy-respecting body weight-diary",
         "categorie": [
             "Habit Tracker",
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -29968,6 +30028,7 @@
         "riassunto": "Fitness/workout, nutrition and weight tracker",
         "categorie": [
             "Diet",
+            "Health Manager",
             "Sports & Health",
             "Workout"
         ],
@@ -31004,6 +31065,7 @@
         "id_pacchetto": "ds.pulsar",
         "riassunto": "A simple BLE pulse meter (HRM - heart rate monitor) app.",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -31281,6 +31343,7 @@
         "id_pacchetto": "eu.berdosi.app.heartbeat",
         "riassunto": "Calculate heart rate from camera image",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "ISC",
@@ -31516,7 +31579,7 @@
             "File Transfer",
             "Internet"
         ],
-        "licenza": "GPL-3.0-only",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/wormhole-app/wormhole",
         "ultimo_aggiornamento": null
@@ -32839,6 +32902,7 @@
         "id_pacchetto": "fr.mobdev.blooddonation",
         "riassunto": "Localizza centri di donazione di sangue di Etablissement Français du Sang (EFS)",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -34876,6 +34940,7 @@
         "riassunto": "Gentle self-care for depression, disability, chronic illness, or burnout",
         "categorie": [
             "Diet",
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -36939,6 +37004,7 @@
         "id_pacchetto": "io.librehealth.mhbs.essential_care_for_every_baby",
         "riassunto": "A Newborn Baby Care Support App ",
         "categorie": [
+            "Health Manager",
             "Science & Education",
             "Sports & Health"
         ],
@@ -37532,6 +37598,7 @@
         "id_pacchetto": "it.diab",
         "riassunto": "Registra le dosi di zucchero nel sangue e di insulina, esportazione opzionale",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -41101,6 +41168,7 @@
         "id_pacchetto": "net.stargw.fat",
         "riassunto": "A free simple app to record your weight",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
@@ -43258,6 +43326,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Cheese BTC Widget",
+        "id_pacchetto": "org.cheeserobot.btcwidget",
+        "riassunto": "Tiny home-screen widget showing the latest Bitcoin price in USD or EUR.",
+        "categorie": [
+            "Money"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/AbelLykens/org.cheeserobot.btcwidget",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "BinderFuzzy - Pentest Android Services",
         "id_pacchetto": "org.chickenhook.binderfuzzy",
         "riassunto": "An App intended for fuzzing the Binder interface and System Services of Android.",
@@ -45014,6 +45094,7 @@
         "id_pacchetto": "org.glucosio.android",
         "riassunto": "Controlla il tuo diabete",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -46571,6 +46652,7 @@
         "id_pacchetto": "org.mcxa.zephyrlogger",
         "riassunto": "Log Zephyr heart rate monitor data",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
@@ -47127,6 +47209,7 @@
         "riassunto": "Fitness tracker and analyzer based on published scientific papers",
         "categorie": [
             "Connectivity",
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -47406,6 +47489,7 @@
         "id_pacchetto": "org.paladyn.mediclog",
         "riassunto": "Registrare le informazioni mediche di base",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -48634,6 +48718,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlypaindiary",
         "riassunto": "(SECUSO) Record condition, intensity, location, nature and time of your pain.",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -50461,6 +50546,7 @@
         "id_pacchetto": "org.zerodogg.migraineLog",
         "riassunto": "A simple headache diary that respects your privacy",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -52613,6 +52699,7 @@
         "id_pacchetto": "st.wow.git.hrm",
         "riassunto": "Simple bluetooth low-energy heart rate monitor",
         "categorie": [
+            "Health Manager",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -53179,6 +53266,7 @@
         "id_pacchetto": "tr.com.basarsubasi.simplefitnessapp",
         "riassunto": "An easy to use fitness app that lets you create, schedule and track your workout",
         "categorie": [
+            "Health Manager",
             "Sports & Health",
             "Workout"
         ],
@@ -54206,6 +54294,7 @@
         "id_pacchetto": "xyz.lepisma.harp",
         "riassunto": "Private on-device Personal Health Record Application",
         "categorie": [
+            "Health Manager",
             "Note",
             "Sports & Health"
         ],
