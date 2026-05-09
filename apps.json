@@ -158,7 +158,7 @@
             "Music Practice Tool"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/agrigolo.chubbyclick.25.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://codeberg.org/agrigolo/chubby-click",
         "ultimo_aggiornamento": null
     },
@@ -17516,6 +17516,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Lumine",
+        "id_pacchetto": "com.moi.lumine",
+        "riassunto": "A lightweight local HTTP/SOCKS5 proxy server protects TLS connections over TCP.",
+        "categorie": [
+            "DNS & Hosts",
+            "VPN & Proxy"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.moi.lumine/en-US/icon_m21nDr63CKiRfLqcInxAOZLlKq2olxp7rlRPUDCBq1w=.png",
+        "url_codice_sorgente": "https://github.com/SniShaper/lumine-for-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Drinkable",
         "id_pacchetto": "com.moimob.drinkable",
         "riassunto": "Explore and create cocktails with ingredients from home.",
@@ -20845,6 +20858,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.robertmengual.toberquizz/en-US/icon_R83roLxhfiVHEvmsZZDJtt2YAahtddfqwUuMnm9CtvY=.png",
         "url_codice_sorgente": "https://github.com/Tobertet/ToberQuizz",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Martial Body",
+        "id_pacchetto": "com.robinroy.martial_body",
+        "riassunto": "Offline 24-week MMA preparation trainer. No ads, no tracking, no cloud.",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.robinroy.martial_body/en-US/icon_dO3_RKLwGqSuGmOqRnX0KZdjkcR4KykZ1PFhCYdPtxo=.png",
+        "url_codice_sorgente": "https://github.com/BloodBlinker/martial-body",
         "ultimo_aggiornamento": null
     },
     {
@@ -43052,7 +43077,7 @@
     {
         "nome": "Birthday Adapter",
         "id_pacchetto": "org.birthdayadapter",
-        "riassunto": "Display birthdays, anniversaries, and other events from your contacts automatica",
+        "riassunto": "See birthdays and other events from your contacts in your calendar.",
         "categorie": [
             "Calendar & Agenda",
             "Time"
