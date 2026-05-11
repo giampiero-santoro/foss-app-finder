@@ -362,6 +362,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Areada",
+        "id_pacchetto": "app.areada",
+        "riassunto": "A lightweight offline EPUB, TXT, and PDF reader.",
+        "categorie": [
+            "Ebook Reader"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/iTsMe-Zen/Areada",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Bag",
         "id_pacchetto": "app.bitbag",
         "riassunto": "Bitcoin price tracker & net worth dashboard. No ads, no accounts, privacy-first.",
@@ -1345,6 +1357,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//at.bitfire.icsdroid/en-US/icon_MD-5aCORQ45UHOhdYf0-OntTncNYmEHhmTo6ggfbh8E=.png",
         "url_codice_sorgente": "https://github.com/bitfireAT/icsx5",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Do-It",
+        "id_pacchetto": "at.co.schwaerzler.maximilian.doit",
+        "riassunto": "A modern to-do app built with Jetpack Compose and Material Design 3.",
+        "categorie": [
+            "Task"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/maximilian-schwaerzler/Do-It",
         "ultimo_aggiornamento": null
     },
     {
@@ -15575,7 +15599,7 @@
     {
         "nome": "Pimi Weather Widget",
         "id_pacchetto": "com.kolakek.pimiwidget",
-        "riassunto": "Pixel-style Android widget that shows the date and weather.",
+        "riassunto": "Pixel-style Android widget that shows the date and weather",
         "categorie": [
             "Weather"
         ],
@@ -21800,15 +21824,27 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Puzzle Suite",
+        "id_pacchetto": "com.sidhant.puzzle",
+        "riassunto": "Minimalist puzzle games - Sudoku, Calc Sprint, Number Match & more",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.puzzle/en-US/icon_QyZn0NBhNbBAv5Ma1ULzT00AsUfifRJIVrjcXB5jlOQ=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/puzzle",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Wallet",
         "id_pacchetto": "com.sidhant.wallet",
-        "riassunto": "Secure & Minimal Design Wallet for Your Credit/Debit/Loyalty/Identity Cards",
+        "riassunto": "Securely store credit, loyalty, and ID cards locally. No internet, total privacy",
         "categorie": [
             "Money",
             "Pass Wallet"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.sidhant.wallet/en-US/icon_uWpcJvlJRkPIzbvcDk3q55ZbNTgjUdU5mzkee33Nhes=.png",
+        "icona": "https://f-droid.org/repo//com.sidhant.wallet/en-US/icon_oXOna6kCSlnrLMTaLfvM7uFTV9mK3MisW3UMcnIN_no=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/wallet",
         "ultimo_aggiornamento": null
     },
@@ -30412,7 +30448,7 @@
     {
         "nome": "Simple Notes Sync",
         "id_pacchetto": "dev.dettmer.simplenotes",
-        "riassunto": "Notes & checklists with WebDAV sync to your own server",
+        "riassunto": "Offline notes & checklists with self-hosted WebDAV sync. No ads, no tracking.",
         "categorie": [
             "Note"
         ],
@@ -34929,7 +34965,7 @@
             "AI Chat"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.github.acidefluorhydrique.geminiassist/en-US/icon_Lsf1iF3ueZe8ulQmHFBfViRbRGZBZuObdE7c1Du5OAI=.png",
+        "icona": "https://f-droid.org/repo//io.github.acidefluorhydrique.geminiassist/en-US/icon_W5k88TM-MY0OsQU4jfxBXaeUPUbf3yzuUOGvaUFCOMY=.png",
         "url_codice_sorgente": "https://github.com/AcideFluorhydrique/geminiAssist",
         "ultimo_aggiornamento": null
     },
@@ -35550,7 +35586,7 @@
     {
         "nome": "Restoid",
         "id_pacchetto": "io.github.hddq.restoid",
-        "riassunto": "A modern, root-based Android app backup tool powered by restic",
+        "riassunto": "Root-based Android app backup tool powered by restic",
         "categorie": [
             "System"
         ],
@@ -43826,6 +43862,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Yelling",
+        "id_pacchetto": "org.difft.temptalk",
+        "riassunto": "Secure messaging with chat, voice and video calls.",
+        "categorie": [
+            "Messaging",
+            "Voice & Video Chat"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/TempTalkOrg/TempTalk-Android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "DigiAgriApp",
         "id_pacchetto": "org.digiagriapp",
         "riassunto": "DigiAgriApp is a software aimed at farmers and anyone with cultivated land",
@@ -50984,9 +51033,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Kwik EFIS",
+        "nome": "Kwik EFIS (E-Ink)",
         "id_pacchetto": "player.efis.pfd.ink",
-        "riassunto": "Cabina di pilotaggio di vetro / Sistema elettronico di informazione di volo",
+        "riassunto": "Aviation Glass Cockpit / EFIS with ADS-B for E-Ink devices",
         "categorie": [
             "Navigation"
         ],
