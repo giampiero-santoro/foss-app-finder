@@ -1360,14 +1360,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Do-It",
+        "nome": "Fai da te",
         "id_pacchetto": "at.co.schwaerzler.maximilian.doit",
-        "riassunto": "A modern to-do app built with Jetpack Compose and Material Design 3.",
+        "riassunto": "Un'app moderna per gli impegni costruita con Jetpack Compose e Material Design 3",
         "categorie": [
             "Task"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//at.co.schwaerzler.maximilian.doit/en-US/icon_Cn8vACMsSDUWSzlgIJh4O14_uvaRnq4JKUIPdVPAsKM=.png",
         "url_codice_sorgente": "https://github.com/maximilian-schwaerzler/Do-It",
         "ultimo_aggiornamento": null
     },
@@ -13974,6 +13974,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Summit for Lemmy",
+        "id_pacchetto": "com.idunnololz.summit.fdroid",
+        "riassunto": "A fast and easy to use app for Lemmy",
+        "categorie": [
+            "Forum"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.idunnololz.summit.fdroid/en-US/icon_ShwRsLbKVgL0elA6BoJvVdUDNPDXNJx3vYOkp_zCp8Y=.png",
+        "url_codice_sorgente": "https://github.com/idunnololz/summit",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Portamonete",
         "id_pacchetto": "com.igisw.openmoneybox",
         "riassunto": "Gestione del bilancio",
@@ -25272,7 +25284,7 @@
             "Games"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.wordgame.nian/en-US/icon_MZqjtEKHA3k4826MVcWSBhIkziAn0eDMtifPf9VA9Ec=.png",
         "url_codice_sorgente": "https://gitlab.com/astrosmurf/nian",
         "ultimo_aggiornamento": null
     },
@@ -32216,7 +32228,7 @@
             "Games"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/eu.veldsoft.ithaka.board.game.6.png",
+        "icona": "https://f-droid.org/repo//eu.veldsoft.ithaka.board.game/en-US/icon_EdmHOjt0jsjLkXp6SNPNCEtzQBHFafJATkI6xlTJbNI=.png",
         "url_codice_sorgente": "https://github.com/VelbazhdSoftwareLLC/IthakaBoardGame",
         "ultimo_aggiornamento": null
     },
@@ -32276,7 +32288,7 @@
             "Games"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/eu.veldsoft.svarka.odds.calculator.3.png",
+        "icona": "https://f-droid.org/repo//eu.veldsoft.svarka.odds.calculator/en-US/icon_QpY1rRiv10e_w3DAyfghRPOx2saHNt2SoADJaSX29G8=.png",
         "url_codice_sorgente": "https://github.com/VelbazhdSoftwareLLC/SvarkaOddsCalculator",
         "ultimo_aggiornamento": null
     },
@@ -35586,7 +35598,7 @@
     {
         "nome": "Restoid",
         "id_pacchetto": "io.github.hddq.restoid",
-        "riassunto": "Root-based Android app backup tool powered by restic",
+        "riassunto": "Strumento di backup per app Android basato su root, potenziato da restic",
         "categorie": [
             "System"
         ],
@@ -43303,7 +43315,7 @@
             "Games"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//org.broguece.game/en-US/icon_1TTaPXm-24OLUxCqeL_yHzKYP38o4lim3KEoPfvjvP8=.png",
+        "icona": "https://f-droid.org/repo//org.broguece.game/en-US/icon_uZg9--UK6n2gySoOHudI_oCKzru5JYvStLQq_YS-cEg=.png",
         "url_codice_sorgente": "https://github.com/tyrannotorus/c-brogue-ce-android",
         "ultimo_aggiornamento": null
     },
@@ -44719,7 +44731,7 @@
             "Games"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//org.flare.app/en-US/icon_6PmRAx3-pOubitda1jP6ODqud4PlHrYSfT1vzALmzRE=.png",
         "url_codice_sorgente": "https://github.com/flareteam/flare-engine",
         "ultimo_aggiornamento": null
     },
