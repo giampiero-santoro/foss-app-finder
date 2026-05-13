@@ -369,7 +369,7 @@
             "Ebook Reader"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//app.areada/en-US/icon_H_YR2z4KD_I-2FZJBR_35sLTdtRc3DWVpYc6wGkZMsQ=.png",
         "url_codice_sorgente": "https://github.com/iTsMe-Zen/Areada",
         "ultimo_aggiornamento": null
     },
@@ -6188,7 +6188,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.baldo.bob/en-US/icon_8knaF6khsay7IgIU4m4pMTVjZrCZEKbAQpvH6Weju-A=.png",
+        "icona": "https://f-droid.org/repo//com.baldo.bob/ar/icon_8knaF6khsay7IgIU4m4pMTVjZrCZEKbAQpvH6Weju-A=.png",
         "url_codice_sorgente": "https://gitlab.com/LaBaude32/bob",
         "ultimo_aggiornamento": null
     },
@@ -31989,7 +31989,7 @@
     {
         "nome": "Kefir Control",
         "id_pacchetto": "eu.raulmorales.kefircontrol",
-        "riassunto": "Minimalist app to track milk kefir fermentation times.",
+        "riassunto": "Minimalist app to track milk kefir, water kefir, and kombucha fermentation times",
         "categorie": [
             "Sports & Health"
         ],
@@ -32144,7 +32144,7 @@
             "Games"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/eu.veldsoft.colors.overflow.1.png",
+        "icona": "https://f-droid.org/repo//eu.veldsoft.colors.overflow/en-US/icon_tG3v55Sj6GhFHAPCLgj0Hy6h3TJoBnn4858xYBAxKh8=.png",
         "url_codice_sorgente": "https://github.com/VelbazhdSoftwareLLC/ColorsOverflow",
         "ultimo_aggiornamento": null
     },
@@ -52623,6 +52623,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Holos",
+        "id_pacchetto": "social.holos.app",
+        "riassunto": "Holos: Mobile-first Fediverse client with your own ActivityPub identity",
+        "categorie": [
+            "Internet",
+            "Social Network"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//social.holos.app/en-US/icon_oAGZ0EccLEy5klgPwBiiPzC_opV7UYE7EgqYGASz_5Q=.png",
+        "url_codice_sorgente": "https://codeberg.org/tom79/Holos-App",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Openreads",
         "id_pacchetto": "software.mdev.bookstracker",
         "riassunto": "Private and open source books tracker, organizer and reading list.",
@@ -52717,6 +52730,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//space.irex.mobile/en-US/icon_qp9W1RaYeqvVDDAmzToUsrmITROrlG6ptUUGZkXQhq0=.png",
         "url_codice_sorgente": "https://gitlab.com/web_irex/irex-mobile",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ConsoleFlow",
+        "id_pacchetto": "space.karrarnazim.ConsoleFlow",
+        "riassunto": "Developer browser with automatic Eruda console injection",
+        "categorie": [
+            "Browser"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//space.karrarnazim.ConsoleFlow/en-US/icon_V-N8IlOnVCfwfEOKwJ16lYUDb20hiOqhgEaW0h2aLd0=.png",
+        "url_codice_sorgente": "https://github.com/SANDRO00O/ConsoleFlow-mobile",
         "ultimo_aggiornamento": null
     },
     {
