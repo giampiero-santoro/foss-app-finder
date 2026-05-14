@@ -545,13 +545,13 @@
     {
         "nome": "UntrackMe",
         "id_pacchetto": "app.fedilab.nitterizeme",
-        "riassunto": "Trasforma i collegamenti di Youtube, Twitter e Instagram nel loro front-end alte",
+        "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Internet"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.fedilab.nitterizeme/en-US/icon_peSc67ic5Sr7xyCVUgJtnWWtdNTQ1agk3V9jEXfMzUQ=.png",
-        "url_codice_sorgente": "https://framagit.org/tom79/nitterizeme",
+        "url_codice_sorgente": "https://codeberg.org/tom79/UntrackMe",
         "ultimo_aggiornamento": null
     },
     {
@@ -6989,6 +6989,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tirailleur",
+        "id_pacchetto": "com.bupkis.tirailleur",
+        "riassunto": "A practical ballistic calculator for precision rifle shooting.",
+        "categorie": [
+            "Calculator"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.bupkis.tirailleur/en-US/icon_W65IJQjo0rwhk4THM35WORihIJu4V5PzMvOTmN6fKhU=.png",
+        "url_codice_sorgente": "https://gitlab.com/avionix/tirailleur",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Photo Editor",
         "id_pacchetto": "com.burhanrashid52.photoediting",
         "riassunto": "A Photo Editor app with simple, easy support for image editing using Paints, Tex",
@@ -10263,6 +10275,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Gym Bott",
+        "id_pacchetto": "com.exner.tools.gymbott",
+        "riassunto": "Local-only exercise and routine tracking app to organise your gym workouts.",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "EUPL-1.2",
+        "icona": "https://f-droid.org/repo//com.exner.tools.gymbott/en-US/icon_qg1tmRB8jFnd59yybPkTS3vszhvZRA-TFnF05C2GAOM=.png",
+        "url_codice_sorgente": "https://codeberg.org/jexner/GymBott",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Immich Uploader",
         "id_pacchetto": "com.exner.tools.immichuploader",
         "riassunto": "App that can upload media files to your Immich instance.",
@@ -11203,7 +11227,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.gasperpintar.smokingtracker/en-US/icon_6HPAvi522A_gUww-K3HooBiVkUsDJcVhv9dkjDs4NUU=.png",
+        "icona": "https://f-droid.org/repo//com.gasperpintar.smokingtracker/de-DE/icon_6HPAvi522A_gUww-K3HooBiVkUsDJcVhv9dkjDs4NUU=.png",
         "url_codice_sorgente": "https://github.com/pintargasper/SmokingTracker",
         "ultimo_aggiornamento": null
     },
@@ -15801,6 +15825,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Mahjong Scoring Compass",
+        "id_pacchetto": "com.kylefreed.mahjongscore",
+        "riassunto": "Automatic scoring compass for Riichi Mahjong",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.kylefreed.mahjongscore/en-US/icon_kQMdyJxfjTdetUMoK4YwpWZYnDM4OeqwhVQLZxyTVPQ=.png",
+        "url_codice_sorgente": "https://gitlab.com/kj7qlv/mahjongscore",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "LabNex for GitLab",
         "id_pacchetto": "com.labnex.app",
         "riassunto": "Android app for GitLab",
@@ -16252,6 +16288,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.looker.droidify/en-US/icon_lApsnfhrMqGkCaW-IdnYwx86CUjdTutncPvXPJythaM=.png",
         "url_codice_sorgente": "https://github.com/Droid-ify/client",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SOS Ring",
+        "id_pacchetto": "com.lorenzomarci.sosring",
+        "riassunto": "Force ringtone for VIP contacts even in Silent/DND mode",
+        "categorie": [
+            "Phone & SMS"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/JackRushante/SOSRing",
         "ultimo_aggiornamento": null
     },
     {
@@ -22151,6 +22199,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SmartFind",
+        "id_pacchetto": "com.smartfind.app",
+        "riassunto": "Find your phone with an SMS from a trusted contact",
+        "categorie": [
+            "Phone & SMS",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.smartfind.app/en-US/icon_t4f2qL5zAneGPcmThariio7rcv654D12ygzfCTYFf6o=.png",
+        "url_codice_sorgente": "https://github.com/ErinyLTD/SmartFindApp",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "BusyBox Installer",
         "id_pacchetto": "com.smartpack.busyboxinstaller",
         "riassunto": "A one-click BusyBox installation utility for Android!",
@@ -25349,6 +25410,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.wqar.quran_mem_helper/en-US/icon_YewbhjwR9vQhVLzPUaec3Pgmj8HijwbF8z_N_NotkK4=.png",
         "url_codice_sorgente": "https://github.com/Waqar144/quran_memorization_helper",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "WR Battle Sim",
+        "id_pacchetto": "com.wrbattlesim",
+        "riassunto": "Battle Simulator for WAR ROOM®",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.wrbattlesim/en-US/icon_Mepau-R9ExfrMVZRkSbK6SZPtZx3XMS3Rky2Q2ptQUA=.png",
+        "url_codice_sorgente": "https://github.com/terminator-ger/wrsim/tree/HEAD",
         "ultimo_aggiornamento": null
     },
     {
@@ -30733,6 +30806,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "OpenPillReminder",
+        "id_pacchetto": "dev.mariinkys.OpenPillReminder",
+        "riassunto": "Open source lady pill tracker for Android",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.mariinkys.OpenPillReminder/en-US/icon_exoHcYaVnotCp2glWIqEb5XLK7aBswqL3c_FaVvTnDM=.png",
+        "url_codice_sorgente": "https://github.com/mariinkys/OpenPillReminder",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Demodulate",
         "id_pacchetto": "dev.mateusznowak.demodulate",
         "riassunto": "Simple internet radio app",
@@ -35531,6 +35616,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/fvasco/pinpoi",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "LunaChron",
+        "id_pacchetto": "io.github.garemat.lunachron",
+        "riassunto": "Companion app for the Moonstone tabletop miniatures game",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//io.github.garemat.lunachron/en-US/icon_6lA6H4wpyKjTGh6n09IkZLJ_xGjB0v2tlGl0TM4AS7Q=.png",
+        "url_codice_sorgente": "https://github.com/Garemat/lunachron",
         "ultimo_aggiornamento": null
     },
     {
