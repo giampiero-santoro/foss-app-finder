@@ -981,6 +981,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Felicity Music Player (Trial)",
+        "id_pacchetto": "app.simple.felicity",
+        "riassunto": "Advance audiophile grade offline music player.",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.simple.felicity/en-US/icon_wzX06hvULCl40mEvloaq9He6kIrgIAvirVFvagl8E_M=.png",
+        "url_codice_sorgente": "https://github.com/Hamza417/Felicity",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Inure App Manager (Trial)",
         "id_pacchetto": "app.simple.inure",
         "riassunto": "Fast, refined app manager for power users, with root and Shizuku support.",
@@ -1360,7 +1372,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Fai da te",
+        "nome": "Do It",
         "id_pacchetto": "at.co.schwaerzler.maximilian.doit",
         "riassunto": "Un'app moderna per gli impegni costruita con Jetpack Compose e Material Design 3",
         "categorie": [
@@ -2612,7 +2624,7 @@
     {
         "nome": "Stochastic Reminder",
         "id_pacchetto": "cc.polysfaer.stochapop",
-        "riassunto": "Custom fixed and random reminder scheduler",
+        "riassunto": "Fixed and random reminder scheduler.",
         "categorie": [
             "Calendar & Agenda",
             "Task",
@@ -8461,6 +8473,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Lune",
+        "id_pacchetto": "com.demonlab.lune",
+        "riassunto": "Modern open source local music player for Android",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.demonlab.lune/Images/icon.png",
+        "url_codice_sorgente": "https://github.com/MrDemonc/Lune",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "YTDLnis",
         "id_pacchetto": "com.deniscerri.ytdl",
         "riassunto": "Android Video/Audio Downloader app using yt-dlp",
@@ -11514,6 +11538,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "PhoneTrack SMS",
+        "id_pacchetto": "com.gideontek.phonetrack",
+        "riassunto": "Location sharing over SMS — no internet, no account, no data required.",
+        "categorie": [
+            "Location Tracker & Sharer"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/gideontek/phonetrack",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GifBoard",
         "id_pacchetto": "com.gifboard",
         "riassunto": "Search and share GIFs directly from your keyboard.",
@@ -14252,7 +14288,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8450 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8469 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -23348,14 +23384,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Gitlalchemy",
+        "nome": "Gitalchemy",
         "id_pacchetto": "com.thomas.pedot.gitlalchemy",
         "riassunto": "Open-source native GitLab client for Android and desktop",
         "categorie": [
             "Development"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.thomas.pedot.gitlalchemy/en-US/icon_QN8jfXkta3skq7fWPGSNKiuDYSMzLjYURuwRRU5r6xY=.png",
+        "icona": "https://f-droid.org/repo//com.thomas.pedot.gitlalchemy/en-US/icon_xfK6odLItXL6itda84wm_E4_PKXBYs46402_NgMRgBU=.png",
         "url_codice_sorgente": "https://gitlab.com/thomas.pedot1/gitlalchemy",
         "ultimo_aggiornamento": null
     },
@@ -39574,6 +39610,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "TaffyQSL",
+        "id_pacchetto": "moe.zzy040330.taffyqsl",
+        "riassunto": "Free and open-source amateur radio logbook with ADIF support and QSO signing",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//moe.zzy040330.taffyqsl/en-US/icon_CuU3mT2BMOJiHET9_tvtoi5iOJhlCPyE0kDIJTlHKlI=.png",
+        "url_codice_sorgente": "https://github.com/sophiel-meow/TaffyQSL",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SamLib Инфо",
         "id_pacchetto": "monakhv.android.samlib",
         "riassunto": "Tieni traccia di nuove pubblicazioni in russo",
@@ -43273,14 +43321,14 @@
     },
     {
         "nome": "BlackCandy",
-        "id_pacchetto": "org.blackcandy.android",
+        "id_pacchetto": "org.blackcandy.androidApp",
         "riassunto": " Black Candy for Android",
         "categorie": [
-            "Multimedia"
+            "Online Media Player"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//org.blackcandy.android/en-US/icon_5IpdmBdkZwfEfb4XO5XX7nf6TS-pMgh6wDHW-mdCL3c=.png",
-        "url_codice_sorgente": "https://github.com/blackcandy-org/android",
+        "icona": "https://f-droid.org/repo//org.blackcandy.androidApp/en-US/icon_5IpdmBdkZwfEfb4XO5XX7nf6TS-pMgh6wDHW-mdCL3c=.png",
+        "url_codice_sorgente": "https://github.com/blackcandy-org/app",
         "ultimo_aggiornamento": null
     },
     {
@@ -43503,7 +43551,7 @@
             "Money"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//org.cheeserobot.btcwidget/en-US/icon_4BVVC0YGyPlSE9xD5ZOHjnwG_CYNhs7vvDU5qRjVgIU=.png",
         "url_codice_sorgente": "https://github.com/AbelLykens/org.cheeserobot.btcwidget",
         "ultimo_aggiornamento": null
     },
@@ -43979,7 +44027,7 @@
             "Voice & Video Chat"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//org.difft.temptalk/en-US/icon_-rqi9Rxxo0mrBfrrYlrUx4GsQgLjyt_l0DVeZTiMoOo=.png",
         "url_codice_sorgente": "https://github.com/TempTalkOrg/TempTalk-Android",
         "ultimo_aggiornamento": null
     },
@@ -46062,7 +46110,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.kaijinlab.tap_ducky/en-US/icon_QNfz1Y1X77jTIuqCQRWTV8sZAGCT9R4LEJvb9dqxxP8=.png",
+        "icona": "https://f-droid.org/repo//org.kaijinlab.tap_ducky/en-US/icon_5LzjGLad-Pvxh6i-XFzfHa9cylndI9UMr9VGEEpqQBg=.png",
         "url_codice_sorgente": "https://github.com/iodn/tap-ducky",
         "ultimo_aggiornamento": null
     },
@@ -53134,6 +53182,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Mindwtr",
+        "id_pacchetto": "tech.dongdongbh.mindwtr",
+        "riassunto": "Local-first GTD task manager",
+        "categorie": [
+            "Task",
+            "Time"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//tech.dongdongbh.mindwtr/en-US/icon_W7LHRoteZA4wErCIFgSeM3umsNgLIstDzsvUfPF9t9A=.png",
+        "url_codice_sorgente": "https://github.com/dongdongbh/Mindwtr",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ServerBox",
         "id_pacchetto": "tech.lolli.toolbox",
         "riassunto": "A server status & toolbox app using Flutter",
@@ -53395,7 +53456,7 @@
     {
         "nome": "Tiddloid",
         "id_pacchetto": "top.donmor.tiddloid",
-        "riassunto": "Tiddloid is an app to work with locally stored TiddlyWikis.",
+        "riassunto": "Tiddloid is an app to work with locally stored TiddlyWikis",
         "categorie": [
             "Writing"
         ],
