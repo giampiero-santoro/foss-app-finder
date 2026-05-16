@@ -369,7 +369,7 @@
             "Ebook Reader"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//app.areada/en-US/icon_H_YR2z4KD_I-2FZJBR_35sLTdtRc3DWVpYc6wGkZMsQ=.png",
+        "icona": "https://f-droid.org/repo//app.areada/en-US/icon_4A__GxJK-v0etPLpyiMRpYI1QHdO2PkNOpDxbet_UOs=.png",
         "url_codice_sorgente": "https://github.com/iTsMe-Zen/Areada",
         "ultimo_aggiornamento": null
     },
@@ -11763,7 +11763,7 @@
     {
         "nome": "Screenshot Tile (NoRoot)",
         "id_pacchetto": "com.github.cvzi.screenshottile",
-        "riassunto": "Quickly take screenshots from the quick settings panel",
+        "riassunto": "Customizable screenshot tool with quick settings shortcut and floating button",
         "categorie": [
             "Multimedia",
             "System"
@@ -18766,6 +18766,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/alialbaali/Noto",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Hermes Agent",
+        "id_pacchetto": "com.nousresearch.hermesagent",
+        "riassunto": "Local mobile AI agent with model downloads and native device tools",
+        "categorie": [
+            "AI Chat"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/adybag14-cyber/hermes-agent",
         "ultimo_aggiornamento": null
     },
     {
@@ -31634,6 +31646,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Heliodos",
+        "id_pacchetto": "eu.domob.heliodos",
+        "riassunto": "AR overlay of the sun's path at solstices, equinox, and now on your camera",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//eu.domob.heliodos/en-US/icon_EmWJKvg1Htq0RvraXU9FB1NZlZT2GdujRdr-n-gmuWc=.png",
+        "url_codice_sorgente": "https://github.com/domob1812/heliodos",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Panoramicon",
         "id_pacchetto": "eu.domob.panoramicon",
         "riassunto": "View 360° spherical panoramas using your device's motion sensors",
@@ -32385,7 +32409,7 @@
             "Games"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/eu.veldsoft.politrics.1.png",
+        "icona": "https://f-droid.org/repo//eu.veldsoft.politrics/en-US/icon_oR_lK2IzHZLwzmrvebGie8LnoSZLT4MhPmpp2q0Gsts=.png",
         "url_codice_sorgente": "https://github.com/VelbazhdSoftwareLLC/Politrics",
         "ultimo_aggiornamento": null
     },
