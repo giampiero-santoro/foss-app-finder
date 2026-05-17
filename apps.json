@@ -364,7 +364,7 @@
     {
         "nome": "Areada",
         "id_pacchetto": "app.areada",
-        "riassunto": "A lightweight offline EPUB, TXT, and PDF reader.",
+        "riassunto": "A lightweight offline reader for EPUB, PDF, TXT, and FB2.",
         "categorie": [
             "Ebook Reader"
         ],
@@ -14425,7 +14425,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Todosian - Obsidian Markdown Todos",
+        "nome": "Todosian",
         "id_pacchetto": "com.isotjs.todosian",
         "riassunto": "Manage Obsidian todo lists. Edit Markdown files directly; no account or sync",
         "categorie": [
@@ -16949,7 +16949,7 @@
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.mateusrodcosta.apps.vidyamusic/en-US/icon_tz1a2c3YzrLmLmNLZtsdEuptKvdg3Gl90wtJKoCVasA=.png",
-        "url_codice_sorgente": "https://github.com/MateusRodCosta/vidya_music",
+        "url_codice_sorgente": "https://github.com/MateusRodCosta/VidyaMusic",
         "ultimo_aggiornamento": null
     },
     {
@@ -22738,6 +22738,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Subtitle Blocker",
+        "id_pacchetto": "com.subtitlescreen",
+        "riassunto": "Overlay to mask hard-coded subtitles on videos and social media.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.subtitlescreen/en-US/icon_O0jbmDy1UN4z1Cr-zkifmqHd2_ReWo55CNHMISrHMg4=.png",
+        "url_codice_sorgente": "https://bitbucket.org/jonathanheard/subtitle-blocker",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Subtracks",
         "id_pacchetto": "com.subtracks",
         "riassunto": "A music streaming app for Subsonic-API-compatible servers",
@@ -24115,7 +24127,7 @@
     {
         "nome": "baresip",
         "id_pacchetto": "com.tutpro.baresip",
-        "riassunto": "VoIP User Agent app for Android based on baresip SIP library",
+        "riassunto": "SIP and mobile calling User Agent for Android based on baresip library",
         "categorie": [
             "Internet",
             "Phone & SMS",
@@ -27112,7 +27124,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "AntennaPod",
+        "nome": "AntennaPod - Podcast Player",
         "id_pacchetto": "de.danoeh.antennapod",
         "riassunto": "Easy-to-use, flexible and open-source podcast manager and player",
         "categorie": [
@@ -31138,7 +31150,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Su Fei",
+        "nome": "素扉",
         "id_pacchetto": "dev.wceng.sufei",
         "riassunto": "Minimalist and immersive Chinese traditional poetry reader",
         "categorie": [
