@@ -4678,7 +4678,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.anisync.android/en-US/icon_DJDFkeDB9_jA0-G-gIEVRFqi69Kr0W1Br6bEMxLAJ8o=.png",
+        "icona": "https://f-droid.org/repo//com.anisync.android/en-US/icon_LH_aN5dlI0LqUqAFNb_jFdYzQow3ostUfO4XYA18UrA=.png",
         "url_codice_sorgente": "https://github.com/Marco-9456/AniSync",
         "ultimo_aggiornamento": null
     },
@@ -26780,7 +26780,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/de.blau.android.3402.png",
+        "icona": "https://f-droid.org/repo//icons/de.blau.android.3403.png",
         "url_codice_sorgente": "https://github.com/MarcusWolschon/osmeditor4android",
         "ultimo_aggiornamento": null
     },
@@ -32555,7 +32555,7 @@
             "Sports & Health"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//eu.ziclaud.iremibreathingapp/en-US/icon_DO3xyZa79r39MIdmMF5oqZFIxW7Pb_dCItim35anOEw=.png",
+        "icona": "https://f-droid.org/repo//eu.ziclaud.iremibreathingapp/en-US/icon__PFUjk0Iqzwt1psH3Wa7SmAg_9ChqNnbjjYbUddeSgM=.png",
         "url_codice_sorgente": "https://github.com/ZiClaud/Iremi-Breathing-App",
         "ultimo_aggiornamento": null
     },
@@ -32622,6 +32622,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//f.cking.software/en-US/icon_k3M9Vahcrx7IBM51sJKpLA8xFy19rqrVEeacAEj3hU0=.png",
         "url_codice_sorgente": "https://github.com/BLE-Research-Group/MetaRadar",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "jSlide2",
+        "id_pacchetto": "fdr.ioi.jslide2",
+        "riassunto": "A short 3D Platformer with an Online Highscore and viewable Replays.",
+        "categorie": [
+            "Games"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//fdr.ioi.jslide2/en-US/icon_-6ZyP79a6_AUrxQ0bQ0JFfF1geMoiVdA5MD5V27dxcs=.png",
+        "url_codice_sorgente": "https://codeberg.org/hasya101/jSlide2",
         "ultimo_aggiornamento": null
     },
     {
