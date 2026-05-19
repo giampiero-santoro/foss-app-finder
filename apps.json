@@ -8862,6 +8862,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Files Shortcut",
+        "id_pacchetto": "com.documentsui.shortcut",
+        "riassunto": "Open Android's built-in Files app.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/surf5726/documentsui-shortcut",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Arcticons",
         "id_pacchetto": "com.donnnno.arcticons",
         "riassunto": "A monotone line-based icon pack for dark themed setups.",
@@ -14288,7 +14300,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8469 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8488 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -15309,7 +15321,7 @@
             "Time"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.kaizen.khushu/en-US/icon_ZlpzJ0t4VABUWNhhhRAFVlz4PA_VcTLJFp_cOD7YuFE=.png",
+        "icona": "https://f-droid.org/repo//com.kaizen.khushu/en-US/icon_rhM028sHBJSjPOVc_Abs7GcVrmWPZ1YGJfaD5ngrVPU=.png",
         "url_codice_sorgente": "https://github.com/greykaizen/khushu",
         "ultimo_aggiornamento": null
     },
