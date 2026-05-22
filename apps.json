@@ -18,7 +18,7 @@
         "id_pacchetto": "S.N.A.K.E",
         "riassunto": "Worm is worm, 🐍 wrom 🐍🪱",
         "categorie": [
-            "Games"
+            "Draw"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//S.N.A.K.E/en-US/icon_odggMtXzeFx9AxMscX68H_lyOicErFJoi4hOAjQWUNA=.png",
@@ -405,7 +405,7 @@
         "id_pacchetto": "app.crossword.yourealwaysbe.forkyz",
         "riassunto": "Crossword puzzles application, download and play.",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.crossword.yourealwaysbe.forkyz/en-US/icon_9RC0QqpRkXPPUGy-rA-Mx9gDUvu7pF_qp44KtVq1lCw=.png",
@@ -417,7 +417,7 @@
         "id_pacchetto": "app.crossword.yourealwaysbe.forkyzscanner",
         "riassunto": "Crossword-scanning companion app to Forkyz crossword app.",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//app.crossword.yourealwaysbe.forkyzscanner/en-US/icon_opph0r2Y_YuMG6bjiblI_CrzgawLUzCl-W_iSebvNP8=.png",
@@ -584,7 +584,7 @@
         "id_pacchetto": "app.halma",
         "riassunto": "Chinese checkers (Halma) to play with friends. Try this strategy board game now!",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//app.halma/en-US/icon_iwTCYw_qALvIdLfdkgDtc3B-WlEuFQwscR1oBciSitw=.png",
@@ -849,7 +849,7 @@
         "id_pacchetto": "app.pomodorot",
         "riassunto": "A simple timer which pauses when not in view",
         "categorie": [
-            "Games"
+            "Time"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//app.pomodorot/en-US/icon_RWx2f5IvOAP6g0QHLEyroZzKvp9NSTf2j8J4tZM-m-A=.png",
@@ -1109,7 +1109,7 @@
         "id_pacchetto": "app.usp",
         "riassunto": "﻿Unreal Speccy Portable - ZX Spectrum Emulator",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//app.usp/en-US/icon_RkWZOMoHsNErfNo67gu35CZ8v7IO6w7R7Y606oVDscM=.png",
@@ -1226,8 +1226,7 @@
         "id_pacchetto": "ardash.doodledudette",
         "riassunto": "Scarabocchio, disegno e pittura per bambini in un'applicazione Android",
         "categorie": [
-            "Draw",
-            "Games"
+            "Draw"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//ardash.doodledudette/en/icon_9RIcQ2-My8v6zD0MTTYJxfU7BwXWuIpKh_NWPv9axKk=.png",
@@ -1239,7 +1238,7 @@
         "id_pacchetto": "ardash.lato",
         "riassunto": "Un gioco di snowboard in discesa con una bella grafica",
         "categorie": [
-            "Games"
+            "Sport Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//ardash.lato/en/icon_pR0LleNOQ_KHAYkIAibb9r5-VjAxWvQ83l9e0TTmoJQ=.png",
@@ -1340,7 +1339,7 @@
         "id_pacchetto": "at.h4x.awhip",
         "riassunto": "Turn your phone into a whip.",
         "categorie": [
-            "Games"
+            "System"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -1365,7 +1364,7 @@
         "id_pacchetto": "at.krixec.ied",
         "riassunto": "Imagine Minesweeper ...\nbut in 3D",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//at.krixec.ied/en-US/icon_tZfgoEGjTx6DWeOACdK_B_KEkLmey8Eokw9TcYOiIag=.png",
@@ -1481,7 +1480,7 @@
         "id_pacchetto": "atm.rocketguardian",
         "riassunto": "Fai il tuo dovere e distruggi gli zombie",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/atm.rocketguardian.1.png",
@@ -1720,7 +1719,7 @@
         "id_pacchetto": "bim.app",
         "riassunto": "An online multiplayer mobile game of the last man standing genre",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//bim.app/br-FR/icon_Oq0WGVjQphXbcMV4db7te-Zeae3kjv3MMCOfpaMPBU0=.png",
@@ -2142,7 +2141,7 @@
         "id_pacchetto": "ca.rmen.nounours",
         "riassunto": "Nounours l'orsacchiotto e i suoi amici",
         "categorie": [
-            "Games",
+            "Casual Game",
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
@@ -2318,7 +2317,7 @@
         "id_pacchetto": "cc.narumi.chaldea.fdroid",
         "riassunto": "Material Planner for Fate/GO",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//cc.narumi.chaldea.fdroid/en-US/icon_IhGmft6LD4S2a4vak6UaX5dc4P4_VJoL6zYbUSv7_mA=.png",
@@ -2344,7 +2343,7 @@
         "id_pacchetto": "cc.sovellus.vrcaa",
         "riassunto": "VRChat Friend Management Application for Android devices.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//cc.sovellus.vrcaa/en-US/icon_vo4aB_uEWROsVSFTi_Tn3ioaFo6ah758XlczM_Qm3Ec=.png",
@@ -2471,7 +2470,7 @@
         "id_pacchetto": "ch.cryptobit.letterbox",
         "riassunto": "LetterBox is a simple kids game for learning letters",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/ch.cryptobit.letterbox.1.png",
@@ -2560,7 +2559,7 @@
         "id_pacchetto": "ch.logixisland.anuto",
         "riassunto": "Un'altro brutto gioco Tower Defense",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -2661,7 +2660,7 @@
         "id_pacchetto": "ch.simonste.jasstafel",
         "riassunto": "Very flexible Jass board to write points at the Schieber, Coiffeur, Molotov.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//ch.simonste.jasstafel/en-US/icon_Lk4OFgacep3tlPnqChBPxhHhg4ie3eNZV1sAgU4hGuQ=.png",
@@ -3088,7 +3087,7 @@
         "id_pacchetto": "codes.swee.diceapp",
         "riassunto": "A simple Dice roller for Android.",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//codes.swee.diceapp/en-US/icon_uczUKmiofLspGMosvqv2Z8F43Ge272m_zgO-Gt34mKM=.png",
@@ -3126,7 +3125,7 @@
         "id_pacchetto": "com.DartChecker",
         "riassunto": "Segnapunti freccette/contatore per partite reali di freccette",
         "categorie": [
-            "Games",
+            "Game Helper",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -3139,7 +3138,7 @@
         "id_pacchetto": "com.GTP.eveminer",
         "riassunto": "Aiuto al mining per EVE Online",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.GTP.eveminer.19.png",
@@ -3467,7 +3466,7 @@
         "id_pacchetto": "com.adilhanney.ricochlime",
         "riassunto": "Satisfying monster shooter",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.adilhanney.ricochlime/en-US/icon_N_SN3FVgYWq05VFzgw99BWIWcXWFckra-MqsjLwg77Q=.png",
@@ -3492,7 +3491,7 @@
         "id_pacchetto": "com.aditya1875.pokeverse",
         "riassunto": "Explore, collect, and manage your Pokémon universe in one app!",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.aditya1875.pokeverse/en-US/icon_s0Msgr7CD6G96FUuoZ47ZkPlA5F6l1X2IfT30WLJvKA=.png",
@@ -3593,7 +3592,7 @@
         "id_pacchetto": "com.agateau.burgerparty",
         "riassunto": "Are you fast enough to put together the burgers ordered by your customers?",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.agateau.burgerparty/en-US/icon_dkWWk2todHl2AeDml1z-Sc2Iu4RJF0lXIUDT8LjHCLk=.png",
@@ -3617,7 +3616,7 @@
         "id_pacchetto": "com.agateau.tinywheels.android",
         "riassunto": "Gioco di corsa top-down retro",
         "categorie": [
-            "Games"
+            "Sport Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.agateau.tinywheels.android/en-US/icon_tXyk1Nmlkxw9IFl-ExHp98cG0O0IEGx6I9FA_LvVfRU=.png",
@@ -3629,7 +3628,7 @@
         "id_pacchetto": "com.ahorcado",
         "riassunto": "Gioco dell'impiccato in spagnolo",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.ahorcado/en-US/icon_2YXgqRfNUteeP1IgbppYvXWIxU2jW65w2rgeUT_wlKU=.png",
@@ -3806,7 +3805,7 @@
         "id_pacchetto": "com.alaskalinuxuser.criticalvelocity",
         "riassunto": "Gioco in stile arcade a scorrimento laterale",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.alaskalinuxuser.criticalvelocity.10.png",
@@ -3830,7 +3829,7 @@
         "id_pacchetto": "com.alaskalinuxuser.justchess",
         "riassunto": "Scacchi per uno o due giocatori",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.alaskalinuxuser.justchess.13.png",
@@ -3854,7 +3853,7 @@
         "id_pacchetto": "com.alaskalinuxuser.shipcaptainandcrew",
         "riassunto": "Gioca un classico gioco di dadi per un massimo di 4 giocatori",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.alaskalinuxuser.shipcaptainandcrew.10.png",
@@ -4085,7 +4084,7 @@
         "id_pacchetto": "com.andreiapps.diesimu",
         "riassunto": "A simple app which allows you to roll a die.",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.andreiapps.diesimu/en-US/icon_a653Wu3vxEIFauo6o6DbDenroADrCKMTUGdCmUtczPQ=.png",
@@ -5289,7 +5288,7 @@
         "id_pacchetto": "com.arxlibertatis",
         "riassunto": "Android port of Arx Libertatis",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.arxlibertatis/en-US/icon_TBnl8Q1iuq1yulCo7o-lHSzNg7-DAIKdxLIXGx25b7I=.png",
@@ -5379,7 +5378,7 @@
         "id_pacchetto": "com.atelieryl.wonderdroid",
         "riassunto": "Emulatore bandai wonderswan",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//icons/com.atelieryl.wonderdroid.51.png",
@@ -5495,7 +5494,7 @@
         "id_pacchetto": "com.autismprime.fall",
         "riassunto": "Lets your phone scream if it moves too fast",
         "categorie": [
-            "Games"
+            "System"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.autismprime.fall/en-US/icon_-3dGwiDSiKBDixyXGP3xtRtLZrcP7YwZbodLzWyBnVc=.png",
@@ -5507,7 +5506,7 @@
         "id_pacchetto": "com.autismprime.krassesSpiel",
         "riassunto": "A little Game where you shoot bullets at squares ",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "AFL-1.1",
         "icona": "https://f-droid.org/repo//com.autismprime.krassesSpiel/en-US/icon_d0qE8NXcWm1YD3uHhTDcjfvs7v7zQJ4lAWfAJt8ujGI=.png",
@@ -5596,7 +5595,7 @@
         "id_pacchetto": "com.bagaturchess",
         "riassunto": "Offline chess play with 16 strength levels. Chess Engine with its own GUI. Chess",
         "categorie": [
-            "Games",
+            "Board Game",
             "Sports & Health"
         ],
         "licenza": "GPL-2.0-only",
@@ -5906,7 +5905,7 @@
         "id_pacchetto": "com.biotstoiq.hayago",
         "riassunto": "A minimalist go/chess clock",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.biotstoiq.hayago/en-US/icon_JF1jvJPdeuw5lliO6wGDijrHClwNk1R0GPPFogQrjks=.png",
@@ -5932,7 +5931,7 @@
         "id_pacchetto": "com.bithack.principia",
         "riassunto": "Physics-based sandbox building game",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//com.bithack.principia/en-US/icon_zdGvgF-Jc2lcxuaRATD5pPStzFZyEZ1shphod5vRHVM=.png",
@@ -6009,7 +6008,7 @@
         "id_pacchetto": "com.blockdrop.game",
         "riassunto": "Free and open source block-stacking puzzle game. Arrange falling shapes to clear",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.blockdrop.game/en-US/icon_R7byf9tq_bbXkI9cIvjnnyTqL-olhrG2QdyCOVb1YzE=.png",
@@ -6039,6 +6038,20 @@
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/xorum-io/open_money_tracker",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Egyptian Writer",
+        "id_pacchetto": "com.blueapps.egyptianwriter",
+        "riassunto": "View, write and export ancient Egyptian texts.",
+        "categorie": [
+            "Reading",
+            "Science & Education",
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.blueapps.egyptianwriter/de-DE/icon_LYTAai6CtskJr8PcOtoojvI-cxnOBX-NAbyqYNjRsC8=.png",
+        "url_codice_sorgente": "https://github.com/ThothDroid/Egyptian_Writer",
         "ultimo_aggiornamento": null
     },
     {
@@ -6386,7 +6399,7 @@
         "id_pacchetto": "com.bytehamster.flowitgame",
         "riassunto": "Fill all boxes with the color of their border",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.bytehamster.flowitgame/en-US/icon_LPLtdUrccLM__A3m5vpWeq1rnX390mB5kO_jxMwnMfQ=.png",
@@ -6435,7 +6448,7 @@
         "id_pacchetto": "com.calcitem.sanmill",
         "riassunto": "A Mill Game which supports many rule variants, written in Flutter",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.calcitem.sanmill/ar/icon_pLxsR3w1KB0A_H3Nv9gDiPAwTVrVmmQiYY2dOnHPk3A=.png",
@@ -6590,7 +6603,7 @@
         "id_pacchetto": "com.cdevaux.miniature_painting_companion",
         "riassunto": "A simple app to help miniature painters keep track of their painting recipes",
         "categorie": [
-            "Games",
+            "Game Helper",
             "Graphics"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -6684,7 +6697,7 @@
         "id_pacchetto": "com.chenyifaer.fafarunner",
         "riassunto": "Enjoy smooth gameplay, stunning graphics, and endless fun",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.chenyifaer.fafarunner/en-US/icon_m2mNQzSGc1Zk26fR90kfk6DDk6_K-ZjfC3PgX4IeN6Q=.png",
@@ -6736,7 +6749,7 @@
         "id_pacchetto": "com.chess.clock",
         "riassunto": "Adjust your favorite timer to play chess online with friends!",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MPL-2.0",
         "icona": "https://f-droid.org/repo//com.chess.clock/en-US/icon_yG-JBN98fErc54yIUUAtB-6HAMXOVt7aueYykNgVMyA=.png",
@@ -6748,7 +6761,7 @@
         "id_pacchetto": "com.chessclock.android",
         "riassunto": "Due timer per gli scacchi toccabili",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.chessclock.android.31.png",
@@ -6847,7 +6860,7 @@
         "id_pacchetto": "com.clicc",
         "riassunto": "A game where you will have to hit the correct button.",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.clicc/en-US/icon_zCA5joU6dNTfTkbhacHMsgxftbNa_fYXwoShYk47ks8=.png",
@@ -7054,8 +7067,7 @@
         "id_pacchetto": "com.controlloid",
         "riassunto": "Turn your phone into a real game controller for PCs",
         "categorie": [
-            "Connectivity",
-            "Games"
+            "Connectivity"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.controlloid/en-US/icon_9QNt2buY08GNDZQADOL5C-i3RZ0d9uhFuoJVmkLmxLA=.png",
@@ -7179,7 +7191,7 @@
         "id_pacchetto": "com.crawlmb",
         "riassunto": "An ASCII port of Dungeon Crawl: Stone Soup.",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//com.crawlmb/en-US/icon_x1wE64FPJVl1M0YGTzPZ0cBAMc0fuLT6CZs_v0gofP0=.png",
@@ -7565,7 +7577,7 @@
         "id_pacchetto": "com.dede.android_eggs",
         "riassunto": "Collections the Android release Easter Egg.",
         "categorie": [
-            "Games",
+            "Casual Game",
             "Graphics",
             "System"
         ],
@@ -7817,7 +7829,7 @@
         "id_pacchetto": "com.dfzlv.gjjlt.caramelos",
         "riassunto": "Gioco casual fatto con Libgdx",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.dfzlv.gjjlt.caramelos.7.png",
@@ -7905,7 +7917,7 @@
         "id_pacchetto": "com.dkanada.chip",
         "riassunto": "Emulatore Chip8",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.dkanada.chip.2.png",
@@ -7964,6 +7976,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Lotus",
+        "id_pacchetto": "com.dn0ne.lotus.community",
+        "riassunto": "Music player designed with Material You",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.dn0ne.lotus.community/en-US/icon_vZVDblir3-YHdrSREVJnGvhdz6RfijaguZPKnsc7flg=.png",
+        "url_codice_sorgente": "https://github.com/Bjorn99/lotus",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "DobbyVPN",
         "id_pacchetto": "com.dobby.vpn",
         "riassunto": "VPN client-side toolset.",
@@ -7984,7 +8008,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.documentsui.shortcut/en-US/icon__BwSnxae_SfjO25LcSB_1lUpvozr142T-3RLioPXWGA=.png",
         "url_codice_sorgente": "https://github.com/surf5726/documentsui-shortcut",
         "ultimo_aggiornamento": null
     },
@@ -8124,7 +8148,7 @@
         "id_pacchetto": "com.dozingcatsoftware.bouncy",
         "riassunto": "Gioco di flipper",
         "categorie": [
-            "Games"
+            "Casual Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.dozingcatsoftware.bouncy/en-US/icon_LCN_OECV-fBHC-WNoBRQ39REnkPq8T8w_4X9aQ5uRAc=.png",
@@ -8136,7 +8160,7 @@
         "id_pacchetto": "com.dozingcatsoftware.cardswithcats",
         "riassunto": "Play Hearts and Spades against computer-controlled cats.",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.dozingcatsoftware.cardswithcats/en-US/icon_NCsNkhTPgj2gK16MdJgEzePodVYUPESkfs6yjLzMazM=.png",
@@ -8148,7 +8172,7 @@
         "id_pacchetto": "com.dozingcatsoftware.dodge",
         "riassunto": "Guide a ball to safety avoiding swarms of enemies.",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.dozingcatsoftware.dodge/en-US/icon_rRuz7hFOlb6zMPKNfvDEAOuiIVRhyGA9PpUPB1x1wpk=.png",
@@ -8160,7 +8184,7 @@
         "id_pacchetto": "com.dozingcatsoftware.kumquats",
         "riassunto": "Place letters to create intersecting words as quickly as possible.",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.dozingcatsoftware.kumquats/en-US/icon_8pYq8X0lx4LTt8TpOI1tFYQI_XYpf48P98BtFiO_4Cg=.png",
@@ -8172,7 +8196,7 @@
         "id_pacchetto": "com.dozingcatsoftware.mouse_pounce",
         "riassunto": "Play Egyptian Rat Screw against humans or cats.",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.dozingcatsoftware.mouse_pounce/en-US/icon_Wsqs0rLOl0Vv-xqv6W2IYio2dPP4Jz1HdBc1SoOm_EE=.png",
@@ -8261,7 +8285,7 @@
         "id_pacchetto": "com.drodin.tuxrider",
         "riassunto": "Downhill racing game",
         "categorie": [
-            "Games"
+            "Sport Game"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.drodin.tuxrider.15.png",
@@ -8501,7 +8525,7 @@
         "id_pacchetto": "com.eightsines.firestrike.opensource",
         "riassunto": "An old-school 3d-shooter with cartoon graphics from creators of Gloomy Dungeons.",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.eightsines.firestrike.opensource/en-US/icon_in92sYl1UqfJxc9m-9C42agrF2mKb_GCTvNZFFBcFG8=.png",
@@ -8651,7 +8675,7 @@
         "id_pacchetto": "com.emmanuelmess.itsdicey",
         "riassunto": "Randomly select between friends.",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.emmanuelmess.itsdicey/en-US/icon_0zNXzDr2lxwCImvDp5DMomDi9J3TOXpKB3rwFmWhPOk=.png",
@@ -8688,7 +8712,7 @@
         "id_pacchetto": "com.emmanuelmess.tictactoe",
         "riassunto": "Very simple tic tac toe game",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.emmanuelmess.tictactoe/en-US/icon_uA_PPYmFonp82aWmtbWpTu6dXqy7IrzD146348KH3Ck=.png",
@@ -8750,7 +8774,7 @@
         "id_pacchetto": "com.enjoyingfoss.parlera",
         "riassunto": "A party game where your friends describe and you guess.",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.enjoyingfoss.parlera/en-US/icon_GL_4X0cxpiUIdQuwft9GvKg7z9Z9DhtulJhF10BupeU=.png",
@@ -9144,7 +9168,7 @@
         "id_pacchetto": "com.example.siete_media",
         "riassunto": "Classic game of the Spanish deck 'Half past seven'",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.example.siete_media/en-US/icon_caY1diUvZAkX2ENkC215c375dnRC27D0137izgaHVkw=.png",
@@ -9156,7 +9180,7 @@
         "id_pacchetto": "com.example.spokennumbers",
         "riassunto": "Spoken numbers memory trainer",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "MIT",
@@ -9449,7 +9473,7 @@
         "id_pacchetto": "com.feko.generictabletoprpg",
         "riassunto": "Quick access for your DnD data with a built in way to track your character data.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.feko.generictabletoprpg/en-US/icon_SWumHqvyBXU28zeCwTWmp8P0pXFO66dX8GwLYbPZoMY=.png",
@@ -9657,7 +9681,7 @@
         "id_pacchetto": "com.formfun",
         "riassunto": "Disegna un labirinto su carta e giocalo sul tuo smartphone con l'accelerometro",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.formfun.1.png",
@@ -9746,7 +9770,7 @@
         "id_pacchetto": "com.fpuellen.simplyscored",
         "riassunto": "Track your game scores easily.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.fpuellen.simplyscored/en-US/icon_pydqfEvpRcfMZwjHfuXniOt6ZxH_crlSexIO9__e3p0=.png",
@@ -9758,7 +9782,7 @@
         "id_pacchetto": "com.fr.laboussole.track",
         "riassunto": "Gao&Blaze is a narrative investigation game.",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education",
             "Security"
         ],
@@ -9895,7 +9919,7 @@
         "id_pacchetto": "com.freetime.ssmpc",
         "riassunto": "Vote, shop & explore SuperSMP anywhere! Companion app for server features",
         "categorie": [
-            "Games",
+            "Game Helper",
             "Internet"
         ],
         "licenza": "Apache-2.0",
@@ -10006,7 +10030,7 @@
         "id_pacchetto": "com.game.Cascada",
         "riassunto": "Casual logic game with marbles for two players",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.game.Cascada/en-US/icon_zcCjRSLGeiZ7Iu3X-n4HNe7urbmcvxLKkx-8c6LBPmA=.png",
@@ -10018,7 +10042,7 @@
         "id_pacchetto": "com.game.asteroids_revenge",
         "riassunto": "Inferno di proiettili di sopravvivenza senza fine (basato su punteggi elevati).",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.game.asteroids_revenge/en-US/icon_WSTO3sD5p5YqIA_I-yfluQsBroCqaP6EOsZPIcFeQaY=.png",
@@ -10030,7 +10054,7 @@
         "id_pacchetto": "com.game.caverncravers",
         "riassunto": "A roguelike turn-based virtual board game",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.game.caverncravers/en-US/icon_zLJ8JbhG83aetqIVzfgg5nq1tF8w8xNj5gMc_s_lZaU=.png",
@@ -10042,7 +10066,7 @@
         "id_pacchetto": "com.game.freethebugs",
         "riassunto": "A small puzzle game where you fix simple code bugs",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.game.freethebugs/en-US/icon_Rw71f3foYbIRDxsdl-07TirRANxejd87rTBJrUroGkE=.png",
@@ -10054,7 +10078,7 @@
         "id_pacchetto": "com.game.plutonic",
         "riassunto": "Suika physics-based planet shooter",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.game.plutonic/en-US/icon_GB9w_Q6GPtbExoM_kQHksAMPasp9BDrny8ZfSmtrRlU=.png",
@@ -10066,7 +10090,7 @@
         "id_pacchetto": "com.games.boardgames.aeonsend",
         "riassunto": "Unofficial market setup randomizer for boardgame Aeon's End",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.games.boardgames.aeonsend.1.png",
@@ -10103,7 +10127,7 @@
         "id_pacchetto": "com.gatheringhallstudios.mhworlddatabase",
         "riassunto": "Gathering Hall Studios is back with an all-new app for Monster Hunter World!",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.gatheringhallstudios.mhworlddatabase/en-US/icon_E8rXqeAJJpVXGALqZ_MXMbFhBPOPpRttSv4392qjJoM=.png",
@@ -10197,7 +10221,7 @@
         "id_pacchetto": "com.gelakinetic.mtgfam",
         "riassunto": "MTG Familiar is a collection of utilities for playing \"Magic: The Gathering\"",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.gelakinetic.mtgfam/en-US/icon_RKaftIMNwcEvgi1UOARnt4k7CE6YFcaowJk45sSLTIU=.png",
@@ -10312,7 +10336,7 @@
         "id_pacchetto": "com.ghstudios.android.mhgendatabase",
         "riassunto": "Un riferimento completo, tutto in uno, a Monster Hunter Generations",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.ghstudios.android.mhgendatabase.21.png",
@@ -10422,7 +10446,7 @@
         "id_pacchetto": "com.gitea.theoden8.sudaku",
         "riassunto": "Find patterns to solve sudoku - your sudoku workhorse handles the grunt work",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.gitea.theoden8.sudaku/en-US/icon_N8ic57dqn1U_YzY-QP8lVHglbUcYcEHdcpcywQJUS3E=.png",
@@ -10458,7 +10482,7 @@
         "id_pacchetto": "com.github.andremiras.zbarcamdemo",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Games"
+            "Multimedia"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.github.andremiras.zbarcamdemo.721202524.png",
@@ -10787,7 +10811,7 @@
         "id_pacchetto": "com.github.iamrezamousavi.mafia",
         "riassunto": "A Mafia party game app for Android +4.4",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.github.iamrezamousavi.mafia/en-US/icon_7m05QSz1VUhbBqw7eqhQ_XmEKTG3uC54fU4jIXLhpwM=.png",
@@ -10799,7 +10823,7 @@
         "id_pacchetto": "com.github.jameshnsears.chance",
         "riassunto": "Create custom dice with text and SVG faces. Use chance in new and unusual ways.",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.github.jameshnsears.chance/en-US/icon_Pr9TfegtdQd2-3ihuQNbFd2sn0JPzJE5HN3ZZ5LJsJI=.png",
@@ -10823,7 +10847,7 @@
         "id_pacchetto": "com.github.khanshoaib3.nerdsteam",
         "riassunto": "Discover trending games, player and price statistics, and detailed from Steam",
         "categorie": [
-            "Games",
+            "Game Helper",
             "Internet"
         ],
         "licenza": "GPL-3.0-only",
@@ -10902,7 +10926,7 @@
         "id_pacchetto": "com.github.m374lx.alexvsbus",
         "riassunto": "A platform runner game in which Alex needs to catch the bus on time",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.github.m374lx.alexvsbus/en-US/icon_XtygeN7jGzsg0LZ4Kh6bqTNM7g-aKTjK1VI2NYkRh5I=.png",
@@ -11029,7 +11053,7 @@
         "id_pacchetto": "com.github.msx80.doorsofdoom",
         "riassunto": "Adventure into the dungeon of infinite doors! Behind each, a monster awaits!",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.github.msx80.doorsofdoom/en-US/icon_kBGlMGO8NXd9_Fd4Flz9VWOo6gu7bv95n_EnK7s-I_g=.png",
@@ -11042,7 +11066,6 @@
         "riassunto": "A simple drawing app with big pixels and fixed palette.",
         "categorie": [
             "Draw",
-            "Games",
             "Graphics"
         ],
         "licenza": "Apache-2.0",
@@ -11115,7 +11138,7 @@
         "id_pacchetto": "com.github.muellerma.tabletoptools",
         "riassunto": "Handy tool collection for tabletop games",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.github.muellerma.tabletoptools/en-US/icon_3zPJqeJ_LtzZQq0Z-RbJcbJ_qbB7aLvYBhcs8nZ7QUs=.png",
@@ -11372,7 +11395,7 @@
         "id_pacchetto": "com.github.thewierdnut.endless_mobile",
         "riassunto": "Android port of endless-sky space trading game.",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.thewierdnut.endless_mobile/en-US/icon_leuASCWfUlmhnrKpAymRxL03l2xSiqBPAVqN6w8anuE=.png",
@@ -11423,7 +11446,7 @@
         "id_pacchetto": "com.github.trivialloop.scorehub",
         "riassunto": "Track your board game scores easily",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.trivialloop.scorehub/en-US/icon_v72Z3oRFzJcRdaflA66VZVu-kDWUJsFABm1aYdvCm4Y=.png",
@@ -11472,7 +11495,7 @@
         "id_pacchetto": "com.github.vatbub.scoreboard",
         "riassunto": "A simple app to keep track of player scores during any card game (or similar).",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.github.vatbub.scoreboard/en-GB/icon_69EqDTqpO81gzPvgfP72iwuKlarGszzX28Jusp1dabQ=.png",
@@ -11561,7 +11584,7 @@
         "id_pacchetto": "com.gitlab.ardash.appleflinger.android",
         "riassunto": "Divertente gioco single player e multiplayer - Usa una fionda per sparare mele",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.gitlab.ardash.appleflinger.android/de/icon_1qrade_iShH0gWVCU9azsheuC26ue63JCBObcYOGUn0=.png",
@@ -11763,7 +11786,7 @@
         "id_pacchetto": "com.goltzkiste.guessaday",
         "riassunto": "Indovina il giorno della settimana di una data casuale",
         "categorie": [
-            "Games",
+            "Party Game",
             "Science & Education",
             "Time"
         ],
@@ -11861,7 +11884,7 @@
         "id_pacchetto": "com.gpl.rpg.AndorsTrail",
         "riassunto": "Gioco di ruolo basato su missioni",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -11910,7 +11933,7 @@
         "id_pacchetto": "com.gravityplay",
         "riassunto": "Demonstrates Gravity in Space. Play with Asteroids Orbits. Physics.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.gravityplay/en-US/icon_-_HEfjPb9QAk3iMEtL5z170VFU_o5800ddZRd-_P3XM=.png",
@@ -12214,7 +12237,7 @@
         "id_pacchetto": "com.helddertierwelt.mentalmath",
         "riassunto": "Practice mental arithmetic solo or compete with friends.",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
@@ -12227,7 +12250,7 @@
         "id_pacchetto": "com.helloyanis.rucoycalculator",
         "riassunto": "An unofficial calculator for all things Rucoy Online related!",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.helloyanis.rucoycalculator/en-US/icon_l_QfMY0IN9_v6zVxHpqK7QZXq5zs57TFwK6MWSMkjAE=.png",
@@ -12353,7 +12376,7 @@
         "id_pacchetto": "com.huntercoles.pokerpayout",
         "riassunto": "Free poker tournament manager with payouts, blinds, and tools",
         "categorie": [
-            "Games",
+            "Game Helper",
             "Money"
         ],
         "licenza": "MIT",
@@ -12451,7 +12474,7 @@
         "id_pacchetto": "com.icesu.kinnaid",
         "riassunto": "Let 'Kin Nai D' help you choose what you want to eat!",
         "categorie": [
-            "Games",
+            "Dice",
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
@@ -12501,7 +12524,7 @@
         "id_pacchetto": "com.igormaznitsa.piratedice",
         "riassunto": "Virtual dice for Pirates boardgame",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -12564,7 +12587,7 @@
         "id_pacchetto": "com.impostormx.org",
         "riassunto": "Classic multiplayer party game, now digital and open source",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.impostormx.org/en-US/icon_klgIejtD0bsiS8PahtXEhzBHBVzJWPfoiGuuPjMkvG0=.png",
@@ -12714,7 +12737,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8488 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8494 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -12819,7 +12842,7 @@
         "id_pacchetto": "com.itsfrz.tictactoe",
         "riassunto": "Fun with emoji naughts and crosses",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.itsfrz.tictactoe/en-US/icon_sxEoCR-4r0pz-2PjBc8weyAVhdF3xTT_9n63OQxE63Y=.png",
@@ -13042,7 +13065,7 @@
         "id_pacchetto": "com.jeffliu.balancetheball",
         "riassunto": "A dexterity testing toy",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.jeffliu.balancetheball/en-US/icon_4QSXcjrgpM65CixcaafBlBRXcgEnySU-oFjC3DxVmeg=.png",
@@ -13343,7 +13366,7 @@
         "id_pacchetto": "com.jstone.livegalgame",
         "riassunto": "An amazing app that lets you chat with girls like a GalGame.",
         "categorie": [
-            "Games"
+            "Casual Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.jstone.livegalgame/en-US/icon_blCQw3FqJ2UW4UtqP11Ow-fHh_rve8RGWoN_1lw0H3o=.png",
@@ -13456,7 +13479,7 @@
         "id_pacchetto": "com.kaajjo.libresudoku",
         "riassunto": "Sudoku app for Android",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kaajjo.libresudoku/en-US/icon_Qnu4OABUKMroPcQgu-9eas1qcsZ0QuyHbyUSbdtP3_4=.png",
@@ -13480,7 +13503,7 @@
         "id_pacchetto": "com.kaeruct.glxy",
         "riassunto": "A simplified gravity simulator for Android, built with libgdx.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.kaeruct.glxy.23.png",
@@ -13492,7 +13515,7 @@
         "id_pacchetto": "com.kaeruct.gotosleep",
         "riassunto": "Count sheep until you fall asleep!",
         "categorie": [
-            "Games"
+            "Casual Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kaeruct.gotosleep/en-US/icon_7ouSyF9Dr72OaGfSkT0fyMgLAgji8lrmN5eyVh5UvCM=.png",
@@ -13504,7 +13527,7 @@
         "id_pacchetto": "com.kaeruct.raumballer",
         "riassunto": "Old-school scrolling shoot 'em up game",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kaeruct.raumballer/en-US/icon_8hfoRfuJLN7_5cj_1d4Z61QCujaMW9iA9dBMS7oD16g=.png",
@@ -13608,7 +13631,7 @@
         "id_pacchetto": "com.karin.idTech4Amm",
         "riassunto": "DOOM III/Quake 4/Prey(2006)/DOOM3 BFG/Other idTech/open-source game runtime envi",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.karin.idTech4Amm/en-US/icon_Fn4yyH86SSWeSRD9RBXqRuYTi6bWIFwuZp1MQYUpdes=.png",
@@ -13861,7 +13884,7 @@
         "id_pacchetto": "com.kokkle.gamevirusattack",
         "riassunto": "Defend a body cell against viruses",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.kokkle.gamevirusattack/en-US/icon_ygVxX3i7zRtaL0AKzw26MVABs_Lc4jtZLw6Vf4LG6Rw=.png",
@@ -13950,7 +13973,7 @@
         "id_pacchetto": "com.koshai_limited.klock",
         "riassunto": "A simple chess based clock application",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.koshai_limited.klock/en-US/icon_bcvjxDzJPY602H6nNSxDqgnuJjh6xm5jq55_UhwKm_U=.png",
@@ -14052,7 +14075,7 @@
         "id_pacchetto": "com.kylefreed.mahjongscore",
         "riassunto": "Automatic scoring compass for Riichi Mahjong",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.kylefreed.mahjongscore/en-US/icon_kQMdyJxfjTdetUMoK4YwpWZYnDM4OeqwhVQLZxyTVPQ=.png",
@@ -14231,7 +14254,7 @@
         "id_pacchetto": "com.libopenmw.openmw",
         "riassunto": "Un motore di gioco compatibile con i file di dati di TES3:Morrowind",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.libopenmw.openmw.8.png",
@@ -14305,7 +14328,7 @@
         "id_pacchetto": "com.limelight",
         "riassunto": "Play games from your PC on Android",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.limelight/en-US/icon_DJmnYRYXcS7g8UuiucuAUAvcERFj-WviJRJbXb1Hkmg=.png",
@@ -14394,7 +14417,7 @@
         "id_pacchetto": "com.lloydtorres.stately",
         "riassunto": "An unofficial app for NationStates — a political nation simulation game.",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.lloydtorres.stately/en-US/icon__OUg8zUVbkxt3xjW5vIHj7CexmW-n-itn-qiRa48A9U=.png",
@@ -14868,7 +14891,7 @@
         "id_pacchetto": "com.marceljurtz.lifecounter",
         "riassunto": "Lifecounter for Magic The Gathering",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.marceljurtz.lifecounter.15.png",
@@ -14886,6 +14909,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mardous.booming/en-US/icon_y6bsp8zIoIZKDPLrGx0EGMszSZzKGyVAa0VyQHMLj_E=.png",
         "url_codice_sorgente": "https://github.com/mardous/BoomingMusic",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Markleaf",
+        "id_pacchetto": "com.markleaf.notes",
+        "riassunto": "Local-first Markdown notes with tags, search, and file export",
+        "categorie": [
+            "Note",
+            "Writing"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/jeiel85/markleaf-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -14907,7 +14943,6 @@
         "id_pacchetto": "com.markusborg.test",
         "riassunto": "Allenatore fantasma per Squash, Badminton e Racketlon",
         "categorie": [
-            "Games",
             "Sports & Health",
             "Workout"
         ],
@@ -14971,7 +15006,6 @@
         "id_pacchetto": "com.marv42.ebt.newnote",
         "riassunto": "Submit Euro bill note data to EuroBillTracker.com",
         "categorie": [
-            "Games",
             "Internet",
             "Money"
         ],
@@ -15162,7 +15196,7 @@
         "id_pacchetto": "com.maze_squirrel",
         "riassunto": "Help the Squirrel. Different maze each time. Many levels.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.maze_squirrel/en-US/icon_m9FnX9k74vWZOqhuYLnsAggibP9N9yMq6ba_KIuSwDM=.png",
@@ -15338,7 +15372,7 @@
         "id_pacchetto": "com.metallic.chiaki",
         "riassunto": "PlayStation 4 Remote Play Client",
         "categorie": [
-            "Games"
+            "Connectivity"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -15429,7 +15463,7 @@
         "id_pacchetto": "com.miloshpetrov.sol2.android",
         "riassunto": "2D space arcade/RPG with seamless open world & planets",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.miloshpetrov.sol2.android/en-US/icon_V-AlcEQCGfsmWFbz_jr8QpM92vKQWHdItoIXwBoHJLo=.png",
@@ -15454,7 +15488,7 @@
         "id_pacchetto": "com.minar.randomix",
         "riassunto": "An app to randomly choose between numbers, answers, options. 🃏",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.minar.randomix/en-US/icon_HgjkWr1g4e8KZQZwdQzalU5MkVUcXLs5yG19KnX5O54=.png",
@@ -15604,7 +15638,7 @@
         "id_pacchetto": "com.mobile.bummerzaehler",
         "riassunto": "Fetziger Bummerlzähler für jeden der nicht überall einen Zettl hat",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mobile.bummerzaehler/en-US/icon_aM6eiMx2OW0TqVz3zegSW7Brpfea-FHvZhkDzsFcIN0=.png",
@@ -15616,7 +15650,7 @@
         "id_pacchetto": "com.mobilerpgpack.phone",
         "riassunto": "Doom 1,2 and Wolfestein RPG Android ports",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mobilerpgpack.phone/en-US/icon_o4OpSHNN9T_Nx8M3_ojUN3FSakb7tpEmRuUtHj_7hSk=.png",
@@ -15675,6 +15709,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Health Disconnect",
+        "id_pacchetto": "com.monkopedia.healthdisconnect",
+        "riassunto": "View your Health Connect data in charts and widgets. Offline. Private. No ads.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Monkopedia/health-disconnect",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Nope Remote",
         "id_pacchetto": "com.monuk7735.nope.remote",
         "riassunto": "IR remote control with customizable automation macros.",
@@ -15704,7 +15750,7 @@
         "id_pacchetto": "com.mouzinho.pokebase",
         "riassunto": "Browse Pokémon and TCG cards with search, filtering, and offline caching.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.mouzinho.pokebase/en-US/icon_P98bB8VdUOuxhLGr-hZ44QuRJleLDoRiF_bjLyZskl8=.png",
@@ -15716,7 +15762,7 @@
         "id_pacchetto": "com.movietrivia.filmfacts",
         "riassunto": "Fun trivia game for cinema enthusiasts",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Multimedia"
         ],
         "licenza": "Apache-2.0",
@@ -15831,7 +15877,7 @@
         "id_pacchetto": "com.mshdabiola.ludo.foss",
         "riassunto": "Naija Ludo: A Modern Twist on the Classic Board Game",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.mshdabiola.ludo.foss/en-US/icon_lThPnVnbYhT6vdwb1UU_2TzfjeW4XjjBnZ5m9oKVpzw=.png",
@@ -15883,7 +15929,7 @@
         "id_pacchetto": "com.mufradat.africaquiz",
         "riassunto": "Quiz game testing your knowledge of African capital cities",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "MIT",
@@ -16082,7 +16128,7 @@
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Development",
-            "Games",
+            "Emulator",
             "Graphics",
             "Multimedia"
         ],
@@ -16243,7 +16289,7 @@
         "id_pacchetto": "com.nicobrailo.pianoli",
         "riassunto": "Gioco per bambini per proteggere il telefono dai tocchi casuali",
         "categorie": [
-            "Games"
+            "Casual Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -16268,7 +16314,7 @@
         "id_pacchetto": "com.nicue.onetwo",
         "riassunto": "Fornisce dadi, contatori e timer",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -16319,7 +16365,7 @@
         "id_pacchetto": "com.nikola.jakshic.dagger",
         "riassunto": "Stay up-to-date with the latest Dota 2 matches, watch streams, and more.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.nikola.jakshic.dagger/en-US/icon_yR3V8wQjfq93YidTqdIXxsHVREuIhUCEV0PeI35SiCI=.png",
@@ -16344,7 +16390,7 @@
         "id_pacchetto": "com.nima.guessthatpokemon",
         "riassunto": "A game where you guess pokemon names and you capture them.",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.nima.guessthatpokemon/en-US/icon_uNurWSHMOl4JSXR0-AKivpMJqThhjgh43y0CUNtxghk=.png",
@@ -16407,7 +16453,7 @@
         "id_pacchetto": "com.nima.triviaapp",
         "riassunto": "A simple app that pulls out trivia out of OpenTriviaDB and challenges you.",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.nima.triviaapp/en-US/icon_jQqdsMxt3l8IIrddbzdeGjKPFikMT60snfk_lCOiLV0=.png",
@@ -16675,7 +16721,7 @@
         "id_pacchetto": "com.numguesser.tonio_rpchp.numberguesser",
         "riassunto": "Indovina il numero corretto",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.numguesser.tonio_rpchp.numberguesser.14.png",
@@ -16871,7 +16917,7 @@
         "id_pacchetto": "com.octbit.rutmath",
         "riassunto": "A math learning app for children.",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
@@ -17407,7 +17453,7 @@
         "id_pacchetto": "com.peaceray.codeword",
         "riassunto": "Guess the secret Code Word",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.peaceray.codeword/en-US/icon_T-jhFrs3mE-9A4gGY0IqvwnwfGXYcXWeVwchqup1utg=.png",
@@ -17484,7 +17530,7 @@
         "id_pacchetto": "com.phikal.regex",
         "riassunto": "A regular expression matching game",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.phikal.regex.5.png",
@@ -17576,7 +17622,7 @@
         "id_pacchetto": "com.picross.nonocross",
         "riassunto": "Nonocross è un semplice gioco di puzzle con i numeri",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.picross.nonocross/en-US/icon_zO_ZPwXUQhGbCy3fGZhW_jpDX5gcurkNDm4RQApP8cA=.png",
@@ -17650,7 +17696,7 @@
         "id_pacchetto": "com.planes.android",
         "riassunto": "Planes Android is a variant of the Battleships game for Android",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.planes.android/en-US/icon_gCwwCB7E_GuM97BXLV5LcNslyh66OaJzoXqHn0Z_ot4=.png",
@@ -17791,7 +17837,7 @@
         "id_pacchetto": "com.powerdino.splatoon3_companion",
         "riassunto": "An app for checking current Splatoon 3 map schedules",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.powerdino.splatoon3_companion/en-US/icon_UQncuHsrHnNa0bTuBYuVPDO7g5nwRQHQv_3-LY-YPdo=.png",
@@ -17917,7 +17963,7 @@
         "id_pacchetto": "com.princeappstudio.tic_tac_toe",
         "riassunto": "Tic Tac Toe: Play offline, with friends.",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.princeappstudio.tic_tac_toe/en-US/icon_zhyD7obDMgJPi_WAOpTYr3sGHzjhplCOsV9a2S4cJag=.png",
@@ -18004,7 +18050,7 @@
         "id_pacchetto": "com.quaap.computationaldemonology",
         "riassunto": "Battle Lovecraftian horrors with this set of algorithms",
         "categorie": [
-            "Games"
+            "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.quaap.computationaldemonology.1.png",
@@ -18016,7 +18062,7 @@
         "id_pacchetto": "com.quaap.dodatheexploda",
         "riassunto": "Hidden objects game for kids and adults",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.quaap.dodatheexploda.3.png",
@@ -18028,7 +18074,7 @@
         "id_pacchetto": "com.quaap.fishberserker",
         "riassunto": "Help the Vikings repel a fish attack!",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.quaap.fishberserker/en-US/icon_OD7STwTze4CbiE1yh-HPrWaPJvG7hJfRy5rxxR_shMs=.jpg",
@@ -18053,7 +18099,7 @@
         "id_pacchetto": "com.quaap.phonefonefun",
         "riassunto": "A playphone for toddlers",
         "categorie": [
-            "Games"
+            "Casual Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.quaap.phonefonefun.13.png",
@@ -18065,7 +18111,7 @@
         "id_pacchetto": "com.quaap.primary",
         "riassunto": "A simple educational practice game for kids (and adults).",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -18269,7 +18315,7 @@
         "id_pacchetto": "com.ranger.blastoff",
         "riassunto": "Casual endless runner featuring vector graphics",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.ranger.blastoff/en-US/icon_w3RzgJESoflMntSw4__IOkEXvTGMHM8DKpxnOCzBlNU=.png",
@@ -18393,7 +18439,7 @@
         "id_pacchetto": "com.rechnen.app",
         "riassunto": "train mental calculation",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.rechnen.app/en-US/icon_eUZuUyPjxEMNOa1yoFussoJqTV6unSMt3nP2HzaD65U=.png",
@@ -18466,7 +18512,7 @@
         "id_pacchetto": "com.retroarch",
         "riassunto": "Retro games and emulators on your device!",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.retroarch/en-US/icon_6FEcvEOeZ43Tv-CdN2TYvlEpwwyQf2IgOBc5-kXbjzc=.png",
@@ -18554,7 +18600,7 @@
         "id_pacchetto": "com.robertmengual.toberquizz",
         "riassunto": "Challenges that will put your imagination in check.",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.robertmengual.toberquizz/en-US/icon_R83roLxhfiVHEvmsZZDJtt2YAahtddfqwUuMnm9CtvY=.png",
@@ -18578,7 +18624,7 @@
         "id_pacchetto": "com.rocket9labs.boxcars",
         "riassunto": "Play backgammon online via bgammon.org",
         "categorie": [
-            "Games",
+            "Board Game",
             "Internet"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -18591,7 +18637,7 @@
         "id_pacchetto": "com.roguetemple.hyperroid",
         "riassunto": "Top-down rogue-like adventure",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -18856,7 +18902,7 @@
         "id_pacchetto": "com.sanskritbasics",
         "riassunto": "Learn Sanskrit letters in an easy way.",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -18869,7 +18915,7 @@
         "id_pacchetto": "com.sanskritbasics.memory",
         "riassunto": "Learn Devanagari letters (used by Sanskrit and Hindi) and develop your alertness",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -18964,7 +19010,7 @@
         "id_pacchetto": "com.sdcardstoryteller",
         "riassunto": "Play stories in Lunii® format from the SDCard",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "MPL-2.0",
         "icona": "https://f-droid.org/repo//com.sdcardstoryteller/en-US/icon_CP3d7sYzbeibxvcKrxKjWsZ_4doFws67-PvC7Jpt0Uo=.png",
@@ -19143,7 +19189,7 @@
         "id_pacchetto": "com.serwylo.beatgame",
         "riassunto": "Salta attraverso le città generate automaticamente dal ritmo della musica.",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.serwylo.beatgame/en-US/icon_yrsvTFy3kGFW9kHX958rrVVioATpJL9j3ZhUGYL1YXs=.png",
@@ -19155,7 +19201,7 @@
         "id_pacchetto": "com.serwylo.lexica",
         "riassunto": "Find as many words as possible on a grid of random letters within a time limit",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.serwylo.lexica/en-US/icon_AYsPz-inecG9YgrVDBzPD7A_6zgQDQtFLh6w2PRkHqg=.png",
@@ -19167,7 +19213,7 @@
         "id_pacchetto": "com.serwylo.retrowars",
         "riassunto": "Gioca a giochi retrò l'uno contro l'altro in qualsiasi combinazione.",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.serwylo.retrowars/en-US/icon_Qg7W0cKliOAjfHCK8H-7eZz69LulJFZ117nZE2A4YmE=.png",
@@ -19218,7 +19264,7 @@
         "id_pacchetto": "com.shatteredpixel.shatteredpixeldungeon",
         "riassunto": "Un gioco roguelike basato su Pixel Dungeon",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -19309,7 +19355,7 @@
         "id_pacchetto": "com.sidhant.puzzle",
         "riassunto": "Minimalist puzzle games - Sudoku, Calc Sprint, Number Match & more",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.puzzle/en-US/icon_QyZn0NBhNbBAv5Ma1ULzT00AsUfifRJIVrjcXB5jlOQ=.png",
@@ -19358,7 +19404,7 @@
         "id_pacchetto": "com.simondalvai.ball2box",
         "riassunto": "Swipe to shoot the ball in over 120 Levels. Can you collect the 3 stars?",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.simondalvai.ball2box/en-US/icon_WrZr4k6Yh10PG1d6o6xlAsEM9c8xrPaCopr4NhHa4kA=.png",
@@ -19370,7 +19416,7 @@
         "id_pacchetto": "com.simondalvai.pocketbroomball",
         "riassunto": "The world's first Broomball video game with 100+ real world teams!",
         "categorie": [
-            "Games"
+            "Sport Game"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.simondalvai.pocketbroomball/en-US/icon_c54NNwdDnUPh0_G2QRmnusnYQeWvT3Bid-sCdN2F01A=.png",
@@ -19395,8 +19441,7 @@
         "id_pacchetto": "com.simonramstedt.yoke",
         "riassunto": "Gamepad hackerabile per Linux",
         "categorie": [
-            "Connectivity",
-            "Games"
+            "Connectivity"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.simonramstedt.yoke.4.png",
@@ -19652,7 +19697,7 @@
         "id_pacchetto": "com.smorgasbork.hotdeath",
         "riassunto": "Gioco di carte",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.smorgasbork.hotdeath.11.png",
@@ -19897,7 +19942,7 @@
         "id_pacchetto": "com.stoptheballs",
         "riassunto": "Flying balloons shooting. Action. Shooter for kids and adults.",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.stoptheballs/en-US/icon_l2z3mCsZVHpmUeREYFU87HKunC6oy5vd3SE2XKb7FAo=.png",
@@ -20164,7 +20209,7 @@
         "id_pacchetto": "com.swordfish.lemuroid",
         "riassunto": "All in one emulator on Android",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -20201,7 +20246,7 @@
         "id_pacchetto": "com.tacticmaster",
         "riassunto": "Chess tactic trainer based on https://database.lichess.org/#puzzles.",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.tacticmaster/en-US/icon_6ajdMZpML86PFICBN-AavwtK6TJ5pPP3pgSUans0JE8=.png",
@@ -20303,7 +20348,7 @@
         "riassunto": "Robot programming game",
         "categorie": [
             "Development",
-            "Games",
+            "Puzzle Game",
             "Science & Education"
         ],
         "licenza": "MIT",
@@ -20547,7 +20592,7 @@
         "id_pacchetto": "com.thesuncat.sudoku",
         "riassunto": "A sleek and customizable Sudoku game",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.thesuncat.sudoku/en-US/icon_NDIqmSEKYoQMrH3oJ5mscYPXPWsW1V4NOmP0jGPptsk=.png",
@@ -20733,7 +20778,7 @@
         "id_pacchetto": "com.tjEnterprises.phase10Counter",
         "riassunto": "Small App to keep track of your Phase10 game! Optimised for Phones and Tablets.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.tjEnterprises.phase10Counter/de-DE/icon_NirxSAfVMVoPr9c-9W1M057J2tylxbyN33NpdIOoXjM=.png",
@@ -20914,7 +20959,7 @@
         "id_pacchetto": "com.tomer.poke.notifier",
         "riassunto": "Funzioni per Pokemon GO",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.tomer.poke.notifier.19.png",
@@ -20988,8 +21033,8 @@
         "id_pacchetto": "com.trianguloy.adnihilation",
         "riassunto": "This is just a very small app to allow you take out on those nasty ads.",
         "categorie": [
-            "Development",
-            "Games"
+            "Casual Game",
+            "Development"
         ],
         "licenza": "CC-BY-4.0",
         "icona": "https://f-droid.org/repo//com.trianguloy.adnihilation/en-US/icon_LRfIyPWpDzSwpY0fTisQlbin13TCxzzS65AbiQdAp3g=.png",
@@ -21041,7 +21086,7 @@
         "riassunto": "A tool app to create your own custom riddle apps (number->text/image).",
         "categorie": [
             "Development",
-            "Games",
+            "Puzzle Game",
             "Writing"
         ],
         "licenza": "CC-BY-4.0",
@@ -21079,7 +21124,7 @@
         "id_pacchetto": "com.tristinbaker.idlefantasy",
         "riassunto": "Idle RPG: train skills, fight dungeons, craft gear. No ads, no accounts.",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.tristinbaker.idlefantasy/en-US/icon_9h1hkNc21_zKDjvAQz13qne2EbIN25vw98yOSUsY0dE=.png",
@@ -21201,7 +21246,7 @@
     {
         "nome": "baresip",
         "id_pacchetto": "com.tutpro.baresip",
-        "riassunto": "SIP and mobile calling User Agent for Android based on baresip library",
+        "riassunto": "SIP and mobile calling and messaging User Agent for Android based on baresip lib",
         "categorie": [
             "Internet",
             "Phone & SMS",
@@ -21309,7 +21354,7 @@
         "id_pacchetto": "com.unciv.app",
         "riassunto": "Gioco 4X - Costruire una civiltà",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "MPL-2.0",
         "icona": "https://f-droid.org/repo//com.unciv.app/en-US/icon_sZApOXTOdudh1zFJUN27SZ-DHeo2Pf1WHAKLDWBB4oA=.png",
@@ -21374,7 +21419,7 @@
         "id_pacchetto": "com.uravgcode.chooser",
         "riassunto": "Select random fingers on the screen",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.uravgcode.chooser/en-US/icon_XN3NdHRdjpZRto5bYcu1EvNNZjGo8onlCmOivp1-4iE=.png",
@@ -21533,7 +21578,7 @@
         "id_pacchetto": "com.vayunmathur.games.chess",
         "riassunto": "An open-source chess app.",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.chess/en-US/icon_ggFFzY5ePxcC1bCBGmNvSt3ixfy0Xvc_7n0OWI7Fu1A=.png",
@@ -21545,7 +21590,7 @@
         "id_pacchetto": "com.vayunmathur.games.unblockjam",
         "riassunto": "A private and open source version of the classic board game \"Rush Hour\"",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.unblockjam/en-US/icon_Up6zlkty5SSZSbuKdpbeqG1RpUaC3WsKo7q8mEfyiC4=.png",
@@ -21557,7 +21602,7 @@
         "id_pacchetto": "com.vayunmathur.games.wordmaker",
         "riassunto": "A fun word puzzle game, completely private and offline",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.wordmaker/en-US/icon_sftPsIAh1bCWYdBivks8Z2yAu_ae01UNhbzHoNtmvjs=.png",
@@ -21854,7 +21899,7 @@
         "id_pacchetto": "com.vladrip.drgassistant",
         "riassunto": "Assistant for Deep Rock Galactic - game about dwarves in space. Rock and Stone!",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.vladrip.drgassistant/en-US/icon_L1AV50l03P3mixNDx_cqKixqc4LoWxTRl1BdW-BXi50=.png",
@@ -21928,7 +21973,7 @@
         "id_pacchetto": "com.vovagorodok.blichess",
         "riassunto": "Play lichess games over Bluetooth",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.vovagorodok.blichess/en-US/icon_6iIYbQWyrmxCogAR56IqKbg5LXzDsYzlcjEdd25zhjw=.png",
@@ -21940,7 +21985,7 @@
         "id_pacchetto": "com.vovagorodok.blidraughts",
         "riassunto": "Play draughts games over Bluetooth",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.vovagorodok.blidraughts/en-US/icon_vWpPBfrt7eKTB-87F-DI84oXWGAdQBHWaoqaWrt4tYk=.png",
@@ -21989,7 +22034,7 @@
         "id_pacchetto": "com.vulnerabbity.geoperion",
         "riassunto": "Geological games built using web",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -22110,7 +22155,7 @@
         "id_pacchetto": "com.wbpxre150.unjumbleapp",
         "riassunto": "an anagram game with picture hints",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.wbpxre150.unjumbleapp/en-US/icon_ODKDQD33zkvtlYO6-35kEmyvryMeqsxlWks0Zh642G0=.jpeg",
@@ -22198,7 +22243,7 @@
         "id_pacchetto": "com.willie.mancala",
         "riassunto": "Mancala Game",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.willie.mancala/en-US/icon_IobR8jWMJRf_If3CTaq5RJzsjkvUgCXU03bHSWwVvLw=.png",
@@ -22314,7 +22359,7 @@
         "id_pacchetto": "com.wordgame.nian",
         "riassunto": "Collection of word games in Swedish",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.wordgame.nian/en-US/icon_MZqjtEKHA3k4826MVcWSBhIkziAn0eDMtifPf9VA9Ec=.png",
@@ -22326,7 +22371,7 @@
         "id_pacchetto": "com.wordtracer.app",
         "riassunto": "A crossword-like puzzle game",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.wordtracer.app/en-US/icon_LZfkMuVC3_KuH9k74kfEUjjzozlNDtqaHvnB9et0-us=.png",
@@ -22352,7 +22397,7 @@
         "id_pacchetto": "com.workingagenda.devinettes",
         "riassunto": "Una collezione di indovinelli in versi",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.workingagenda.devinettes.3.png",
@@ -22377,11 +22422,11 @@
         "id_pacchetto": "com.wrbattlesim",
         "riassunto": "Battle Simulator for WAR ROOM®",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.wrbattlesim/en-US/icon_Mepau-R9ExfrMVZRkSbK6SZPtZx3XMS3Rky2Q2ptQUA=.png",
-        "url_codice_sorgente": "https://github.com/terminator-ger/wrsim/tree/HEAD",
+        "url_codice_sorgente": "https://github.com/terminator-ger/wrsim",
         "ultimo_aggiornamento": null
     },
     {
@@ -22438,7 +22483,7 @@
         "id_pacchetto": "com.xenris.liquidwarsos",
         "riassunto": "Liquid War game remake",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -22626,7 +22671,7 @@
         "id_pacchetto": "com.yepgoryo.EggReturnsHome",
         "riassunto": "A simple platformer about an egg",
         "categorie": [
-            "Games"
+            "Platformer Game"
         ],
         "licenza": "CC0-1.0",
         "icona": "https://f-droid.org/repo//com.yepgoryo.EggReturnsHome/en-US/icon_GtMsNDbENGcCeP9v2QLWqeG3XUsXEgfGvzcR6Yqyqtk=.png",
@@ -22994,7 +23039,7 @@
         "id_pacchetto": "cos.premy.mines",
         "riassunto": "Do you like challenges? Try two leveled mines.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//cos.premy.mines/en-US/icon_bCSPdwPPMgh_V-otiKBjJeCb9tOgYVbBVrP3-3iPvrg=.png",
@@ -23006,7 +23051,7 @@
         "id_pacchetto": "crypto.o0o0o0o0o.games.blackjack",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -23146,7 +23191,6 @@
         "id_pacchetto": "cz.mendelu.xmarik.train_manager",
         "riassunto": "hJOP Driver allows user to control model railroad via hJOPserver",
         "categorie": [
-            "Games",
             "Science & Education"
         ],
         "licenza": "Apache-2.0",
@@ -23312,7 +23356,7 @@
         "id_pacchetto": "de.asmw.sudokunst",
         "riassunto": "A sudoku game where you can draw the numbers",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/de.asmw.sudokunst.2.png",
@@ -23364,7 +23408,6 @@
         "id_pacchetto": "de.bahnhoefe.deutschlands.bahnhofsfotos",
         "riassunto": "Collect photos of railway stations for https://railway-stations.org",
         "categorie": [
-            "Games",
             "Navigation"
         ],
         "licenza": "MIT",
@@ -23427,7 +23470,7 @@
         "id_pacchetto": "de.beisteiners.spieleblock",
         "riassunto": "Result lists for many games",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.beisteiners.spieleblock/de-DE/icon_9e-SoOgxlrR7oeUzDjdzXh1wOULOdHbU5jg7YXmyLSI=.png",
@@ -23637,7 +23680,7 @@
         "id_pacchetto": "de.chadenas.cpudefense",
         "riassunto": "A tower defense game with a microprocessor theme",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.chadenas.cpudefense/de-DE/icon_FvUWJOZpdpSBFQBI-zdez1lDtGLrcV5syVaNTlwdi-0=.png",
@@ -23649,7 +23692,7 @@
         "id_pacchetto": "de.chagemann.regexcrossword",
         "riassunto": "Solve Crosswords defined by Regex rules!",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//de.chagemann.regexcrossword/en-US/icon_wL7B86j4jQboxh4P-iSP437Z365YT-2fmbMYPqYsT1w=.png",
@@ -23738,7 +23781,7 @@
         "id_pacchetto": "de.com.quaap.primary",
         "riassunto": "simple educational practice game for kids and adults: maths, clock, spelling",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -24040,7 +24083,7 @@
         "id_pacchetto": "de.duenndns.gmdice",
         "riassunto": "Generatore di dadi",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//de.duenndns.gmdice/en-US/icon_MFOvbj9GhLbfkQwV18URA10Zs1OuwsyCbQjImhwGYVM=.png",
@@ -24211,7 +24254,7 @@
         "id_pacchetto": "de.georgelsas.tuttocounter",
         "riassunto": "A simple score counter for the dice game \"Tutto\".",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.georgelsas.tuttocounter/de-DE/icon_Jv3URSp9rEnZWjTAUFMWQ-Tn-hy03mUlQjfvzSntshc=.png",
@@ -24223,7 +24266,7 @@
         "id_pacchetto": "de.georgsieber.ballbreak",
         "riassunto": "Minigame",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.georgsieber.ballbreak/en-US/icon_m74omOOEgocCtpvMiw9Ez3HCYSuONyIWHcAN2IdROHQ=.png",
@@ -24373,7 +24416,7 @@
         "id_pacchetto": "de.informationsanarchistik.teapot.megamichi.duckrun",
         "riassunto": "A game about a duck",
         "categorie": [
-            "Games"
+            "Platformer Game"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.informationsanarchistik.teapot.megamichi.duckrun/en-US/icon_p6gddKxgv82AsmizHwwU4u4yF9XkNg8bnX8pTbgd6Hs=.png",
@@ -24425,7 +24468,7 @@
         "id_pacchetto": "de.jepfa.hyle_x",
         "riassunto": "An Entropy clone",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.jepfa.hyle_x/en-US/icon_RakXtXJBqcojBIQGt889adMV8kX690k8eqlxbMc0gbI=.png",
@@ -24537,7 +24580,7 @@
         "id_pacchetto": "de.justquitstudios.fluttermcsweepy",
         "riassunto": "A simple Minesweeper clone",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.justquitstudios.fluttermcsweepy/en-US/icon_ezrllwycI2iOABVOB1BOXqTkWl-tDr_FWqArhaaBGMU=.png",
@@ -24807,7 +24850,7 @@
         "id_pacchetto": "de.ktran.anno1404warenrechner",
         "riassunto": "Population and chain calculations for ANNO 1404",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/de.ktran.anno1404warenrechner.1.png",
@@ -25136,7 +25179,7 @@
         "id_pacchetto": "de.mlex.same",
         "riassunto": "Two colors, nine fields. Make them all the same.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//de.mlex.same/en-US/icon_ym2xO_3oLT8bcvnVgiqBE7fpS1uycCrjieHOvOIZI7M=.png",
@@ -25293,7 +25336,7 @@
         "id_pacchetto": "de.moroway.oc",
         "riassunto": "Play with the MORO model railroad…",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.moroway.oc/en-US/icon_KXI7O7iioBjmWdMDnJCbCBbkM4mOdP0djwSLu-9bMrE=.png",
@@ -25345,7 +25388,7 @@
         "id_pacchetto": "de.mwvb.blockpuzzle",
         "riassunto": "Gioco classico avvincente, completamente gratuito, con multiplayer",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.mwvb.blockpuzzle/de/icon_FBsl1goJhT_C09MURcrfsXkpu1gK8ik7MnS8rjhW1Hk=.png",
@@ -25395,7 +25438,7 @@
         "id_pacchetto": "de.neuwirthinformatik.alexander.mtuo",
         "riassunto": "tuo port to android",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.neuwirthinformatik.alexander.mtuo/en-US/icon_8cwATnNiGCS_5Wz0MAyri7WRYRuM3nlK8obh3xge9As=.png",
@@ -25707,8 +25750,7 @@
         "id_pacchetto": "de.rainerhock.eightbitwonders",
         "riassunto": "Flexible and easy to use Commodore 8-bit emulation with builtin games",
         "categorie": [
-            "Games",
-            "Science & Education"
+            "Emulator"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//de.rainerhock.eightbitwonders/en-US/icon_YYUAR0HYx352Cxqpv3C_1-AyefPCH-N58FrtUheVXyQ=.png",
@@ -25823,7 +25865,7 @@
         "id_pacchetto": "de.saschahlusiak.freebloks",
         "riassunto": "Strategy board game similar to the famous board game Blokus",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//de.saschahlusiak.freebloks/en-US/icon_Fyu4CyiusRn4f55SpE0fmxvQmZVmgOwM8hrbOd7Miok=.png",
@@ -25951,7 +25993,7 @@
         "id_pacchetto": "de.sesu8642.feudaltactics",
         "riassunto": "Strategy game with countless unique and challenging levels.",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.sesu8642.feudaltactics/en-US/icon_2RDvScMVvlLNDy5zc1jnOywxESu1F3allTUCf3UCKvc=.png",
@@ -26052,7 +26094,7 @@
         "id_pacchetto": "de.stefan_oltmann.kaesekaestchen",
         "riassunto": "Classic puzzle game",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -26115,7 +26157,7 @@
         "id_pacchetto": "de.sudoq",
         "riassunto": "Play many sudoku types, with many assistances, all offline.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.sudoq/en-US/icon_Wy2UfdSsWUWoJB1kO_R2iB8B14FTaIaPf6yJPPfiCaw=.png",
@@ -26191,7 +26233,7 @@
         "id_pacchetto": "de.tadris.flang",
         "riassunto": "A board game similar to chess",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.tadris.flang/en-US/icon_xIaZ0DISYcIUmGMNC5nbLxzgNpLdQ5iRCwpc7Di0cFE=.png",
@@ -26230,7 +26272,7 @@
         "id_pacchetto": "de.tcrass.minos",
         "riassunto": "A simple maze game",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.tcrass.minos/en-US/icon_g7dGCVu1gBCyhSr3JK5UG6yTDktodXdVgy05BdzSxdo=.png",
@@ -26242,7 +26284,7 @@
         "id_pacchetto": "de.telefongarten.brainjogging",
         "riassunto": "An application to train your brain.",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.telefongarten.brainjogging/en-US/icon_Cd5TV5MrZQHMGg3LYR1hIpInQTvYOIytkY8BhkGSS9U=.png",
@@ -26329,7 +26371,7 @@
         "id_pacchetto": "de.tobiasbielefeld.solitaire",
         "riassunto": "Solitaire game collection with 17 games",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/de.tobiasbielefeld.solitaire.71.png",
@@ -26597,7 +26639,7 @@
         "id_pacchetto": "de.z11.roboyard",
         "riassunto": "Problem-solving game - find the optimal moves to move one robot to its target",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.z11.roboyard/de/icon_sK4hFNWvCcSgmXd2J0Mt5C2-gkSfg6xopNzhKj9_1Tk=.png",
@@ -26652,7 +26694,7 @@
         "riassunto": "Simple little paint application for kids.",
         "categorie": [
             "Draw",
-            "Games",
+            "Educational Game",
             "Graphics"
         ],
         "licenza": "GPL-3.0-only",
@@ -26796,7 +26838,7 @@
         "id_pacchetto": "dev.corruptedark.openchaoschess",
         "riassunto": "A chess game with randomized moves",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.corruptedark.openchaoschess/en-US/icon_E-Jg9z_x7mAPqlcUPeGY3pl4fFTs256I1MP5AYp1SAM=.png",
@@ -26880,7 +26922,7 @@
         "id_pacchetto": "dev.develsinthedetails.eatpoopyoucat",
         "riassunto": "Eat Poop You Cat is a bit like telephone with writing and drawing.",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.develsinthedetails.eatpoopyoucat/en-US/icon_3xmaMWWIpRuUJsPVC7rs-35lNJM1ALZmkktANAavjq4=.png",
@@ -26960,7 +27002,7 @@
         "id_pacchetto": "dev.j7126.who_goes_first",
         "riassunto": "Random funny \"who goes first\" rules from popular tabletop games!",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.j7126.who_goes_first/en-US/icon_0q__HO22Tt0mm5k-xG4avYIwduWmQLlTfxxrS6jvydY=.png",
@@ -27081,7 +27123,7 @@
         "id_pacchetto": "dev.lonami.klooni",
         "riassunto": "A libGDX game based on 1010",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/dev.lonami.klooni.860.png",
@@ -27093,7 +27135,7 @@
         "id_pacchetto": "dev.lucanlm.antimine",
         "riassunto": "A puzzle game where you search for all hidden mines. ",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.lucanlm.antimine/af-ZA/icon_5fXuUqCZJbeKU25Cj7A6Yo2eKjkdR7br3Ry61YMxmYE=.png",
@@ -27233,7 +27275,7 @@
         "id_pacchetto": "dev.obfusk.sokobang",
         "riassunto": "Sokoban puzzle game",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.obfusk.sokobang/en-US/icon_eLXOEIakSLjzTXRy1hFx3EwC1B7bKxr4MuxejVyGynw=.png",
@@ -27349,7 +27391,7 @@
         "id_pacchetto": "dev.serwin.AnarchRE",
         "riassunto": "Public domain from-scratch suckless Doom clone",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "CC0-1.0",
         "icona": "https://f-droid.org/repo//dev.serwin.AnarchRE/en-US/icon_oLATp1J2YQ5gZptCWvBpl5uA_Unjiphpx5zY0sdQupc=.png",
@@ -27732,7 +27774,7 @@
         "id_pacchetto": "eth.matteljay.mastermindy",
         "riassunto": "The customizable Mastermind clone",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//eth.matteljay.mastermindy/en-US/icon_45Kbm__vv1dR9ZK5lPdXNWpEPecA77n9tBg_mAtqMiY=.png",
@@ -27831,7 +27873,7 @@
         "id_pacchetto": "eu.dartstrainer.app.twa",
         "riassunto": "Cross-Platform app for all darts players",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -28100,7 +28142,7 @@
         "id_pacchetto": "eu.mokrzycki.learndigits",
         "riassunto": "App dedicated to children to learn numbers in an interactive and fun way!",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//eu.mokrzycki.learndigits/en-US/icon_biw8hVmFQe3UUm68Oc0FCc-eG8z3vHmTVfwpTtJCXZ0=.png",
@@ -28214,7 +28256,7 @@
         "id_pacchetto": "eu.quelltext.counting",
         "riassunto": "Learn counting in different languages with pictures",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -28241,7 +28283,7 @@
         "id_pacchetto": "eu.quelltext.memory",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -28317,7 +28359,7 @@
         "id_pacchetto": "eu.roggstar.luigithehunter.dsaassistent",
         "riassunto": "App d'utilità per Das Schwarze Auge",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.roggstar.luigithehunter.dsaassistent/de-DE/icon_DZf7YZICAbtzW8afd_NgnaRrzsfQFCB45rh9HhGWJUs=.png",
@@ -28329,7 +28371,7 @@
         "id_pacchetto": "eu.ryuu.screeps",
         "riassunto": "Web based client for Screeps",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/eu.ryuu.screeps.3.png",
@@ -28367,7 +28409,7 @@
         "id_pacchetto": "eu.tilk.cdlcplayer",
         "riassunto": "A player for guitar tabs in CDLC format",
         "categorie": [
-            "Games"
+            "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//eu.tilk.cdlcplayer/en-US/icon_q5TUxIviillJFqJpTTqqWl_BKO17YPuchRikF-CEw2A=.png",
@@ -28406,7 +28448,7 @@
         "id_pacchetto": "eu.veldsoft.brainstonz",
         "riassunto": "Brainstonz è un gioco da tavolo per due giocatori",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.brainstonz.2.png",
@@ -28418,7 +28460,7 @@
         "id_pacchetto": "eu.veldsoft.broker",
         "riassunto": "Very attractive board game which was created in 1961 for trading shares",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.veldsoft.broker/en-US/icon_sECZoEKZJ1iBdRKcNEVlx-5g2IeRvf4rcM9HiSygS1I=.png",
@@ -28430,7 +28472,7 @@
         "id_pacchetto": "eu.veldsoft.colors.overflow",
         "riassunto": "Gioco di puzzle",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.veldsoft.colors.overflow/en-US/icon_tG3v55Sj6GhFHAPCLgj0Hy6h3TJoBnn4858xYBAxKh8=.png",
@@ -28442,7 +28484,7 @@
         "id_pacchetto": "eu.veldsoft.complica4",
         "riassunto": "Gioco di puzzle",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.complica4.4.png",
@@ -28454,7 +28496,7 @@
         "id_pacchetto": "eu.veldsoft.dice.overflow",
         "riassunto": "Semplice gioco da tavolo",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.dice.overflow.2.png",
@@ -28466,7 +28508,7 @@
         "id_pacchetto": "eu.veldsoft.fish.rings",
         "riassunto": "Fish Rings Puzzle game developed by Velbazhd Software LLC (c) 2005-2026",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.veldsoft.fish.rings/en-US/icon_KdZdUfBhhiLjMfiiozPHByIjCLC917ke2wnzkYm703w=.png",
@@ -28478,7 +28520,7 @@
         "id_pacchetto": "eu.veldsoft.free.klondike",
         "riassunto": "Un misto di FreeCell e Solitario Klondike",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.free.klondike.2.png",
@@ -28490,7 +28532,7 @@
         "id_pacchetto": "eu.veldsoft.house.of.cards",
         "riassunto": "Gioco di carte simile al solitario",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "LGPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.house.of.cards.1.png",
@@ -28502,7 +28544,7 @@
         "id_pacchetto": "eu.veldsoft.hungarian.rings",
         "riassunto": "Gioco di puzzle",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.hungarian.rings.5.png",
@@ -28514,7 +28556,7 @@
         "id_pacchetto": "eu.veldsoft.ithaka.board.game",
         "riassunto": "Gioco di puzzle",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.veldsoft.ithaka.board.game/en-US/icon_EdmHOjt0jsjLkXp6SNPNCEtzQBHFafJATkI6xlTJbNI=.png",
@@ -28526,7 +28568,7 @@
         "id_pacchetto": "eu.veldsoft.kechi",
         "riassunto": "Gioco da tavolo per due giocatori",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.kechi.3.png",
@@ -28538,7 +28580,7 @@
         "id_pacchetto": "eu.veldsoft.no.thanks",
         "riassunto": "No Thanks! is a popular card game",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//eu.veldsoft.no.thanks/en-US/icon_Sa_V1iQoJQT0Gb4E-r-CCEczvSaITmidBG0rB9t0MbY=.png",
@@ -28550,7 +28592,7 @@
         "id_pacchetto": "eu.veldsoft.politrics",
         "riassunto": "Gioco da tavolo",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.veldsoft.politrics/en-US/icon_oR_lK2IzHZLwzmrvebGie8LnoSZLT4MhPmpp2q0Gsts=.png",
@@ -28562,7 +28604,7 @@
         "id_pacchetto": "eu.veldsoft.scribe4",
         "riassunto": "Gioco divertente",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.veldsoft.scribe4/en-US/icon_Dg4WucAe8OOLeXyuksRkYdeXDFBjvyKr9YR7CUGO-Tc=.png",
@@ -28574,7 +28616,7 @@
         "id_pacchetto": "eu.veldsoft.svarka.odds.calculator",
         "riassunto": "Calcolatore di probabilità del gioco di carte bulgaro",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.veldsoft.svarka.odds.calculator/en-US/icon_QpY1rRiv10e_w3DAyfghRPOx2saHNt2SoADJaSX29G8=.png",
@@ -28586,7 +28628,7 @@
         "id_pacchetto": "eu.veldsoft.tri.peaks",
         "riassunto": "Gioco di carte solitario",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.tri.peaks.3.png",
@@ -28598,7 +28640,7 @@
         "id_pacchetto": "eu.veldsoft.tuty.fruty.slot",
         "riassunto": "Gioca su una slot machine virtuale",
         "categorie": [
-            "Games"
+            "Casual Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.veldsoft.tuty.fruty.slot/en-US/icon_Y2KvxFm9a8BijID-7yNPrYZK53uN2sX2I_cZXGhPTYk=.png",
@@ -28610,7 +28652,7 @@
         "id_pacchetto": "eu.veldsoft.vitosha.blackjack",
         "riassunto": "Un'altra implementazione del famoso gioco Blackjack",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.vitosha.blackjack.2.png",
@@ -28622,7 +28664,7 @@
         "id_pacchetto": "eu.veldsoft.vitosha.poker.odds",
         "riassunto": "Calcolatrice per Texas Holdem basata su Monte Carlo",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/eu.veldsoft.vitosha.poker.odds.2.png",
@@ -28634,7 +28676,7 @@
         "id_pacchetto": "eu.veldsoft.vitoshadm",
         "riassunto": "Ti aiuta a prendere decisioni",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.veldsoft.vitoshadm/en-US/icon_R3iHhwpr36q4U_MtQVy5E0qexrT4wRmleY_uo1rQrOI=.png",
@@ -28646,7 +28688,7 @@
         "id_pacchetto": "eu.webdragon.storygame",
         "riassunto": "In this game the main goal is to make a story with the words you get.",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//eu.webdragon.storygame/de-DE/icon_2Eaa-3lBHTEITpsqTKfh2V2EJLi4OOCWfH64omzzUDU=.png",
@@ -28698,7 +28740,7 @@
         "id_pacchetto": "evil.spin",
         "riassunto": "Evil Spin is a free, fun and open source App for spinning a wheel.",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//evil.spin/en-US/icon_VqLmYaHtwTtN4ampVG8NaIgJrSpyojrvpefap2d7N8g=.png",
@@ -28749,7 +28791,7 @@
         "id_pacchetto": "fdr.ioi.jslide2",
         "riassunto": "A short 3D Platformer with an Online Highscore and viewable Replays.",
         "categorie": [
-            "Games"
+            "Platformer Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//fdr.ioi.jslide2/en-US/icon_-6ZyP79a6_AUrxQ0bQ0JFfF1geMoiVdA5MD5V27dxcs=.png",
@@ -28889,7 +28931,7 @@
         "id_pacchetto": "fr.arnaudguyon.spacevertex",
         "riassunto": "Have you ever played a Cat and Mouse game with your friends ... in Space?",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//fr.arnaudguyon.spacevertex/en-US/icon_M9pTPgsoz8Z5SbjfwirbVJYCsBJR0p1Iwzj8X3aPWB8=.png",
@@ -28925,7 +28967,7 @@
         "id_pacchetto": "fr.bux.rollingdashboard",
         "riassunto": "A dashboard for Rolling game",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -29189,7 +29231,6 @@
         "id_pacchetto": "fr.nocle.passegares",
         "riassunto": "Attraversate le stazioni ferroviarie per timbrare il visto!",
         "categorie": [
-            "Games",
             "Navigation"
         ],
         "licenza": "MIT",
@@ -29202,7 +29243,7 @@
         "id_pacchetto": "fr.nogafam.lifecounter",
         "riassunto": "Life Counter for Magic The Gathering",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//fr.nogafam.lifecounter/en-US/icon_B39p-vUcV5LZGyJJK6-kcL_I10BKZciIaG8N6EHv1B4=.png",
@@ -29254,7 +29295,7 @@
         "id_pacchetto": "fr.odrevet.kingdomino_score_count",
         "riassunto": "Calculate your \"Kingdomino\" and \"Kingdomino Age of Giants\" score easily",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//fr.odrevet.kingdomino_score_count/en-US/icon_1pwakL7t5DqW6u6CVczqgxVXzGBkWk0P2W1dyaZNfqE=.png",
@@ -29494,7 +29535,6 @@
         "id_pacchetto": "futuristicgoo.emotic",
         "riassunto": "Reignite the love for emoticons and more",
         "categorie": [
-            "Games",
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
@@ -29572,7 +29612,7 @@
         "id_pacchetto": "garden.lina.oblique_strategies",
         "riassunto": "Over one hundred worthwhile dilemmas",
         "categorie": [
-            "Games",
+            "Card Game",
             "Reading",
             "Science & Education",
             "Sports & Health"
@@ -29931,7 +29971,7 @@
         "id_pacchetto": "hr.kravarscan.enchantedfortress",
         "riassunto": "Costruisci, gestisci e difendi il tuo castello",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "LGPL-3.0-only",
         "icona": "https://f-droid.org/repo//hr.kravarscan.enchantedfortress/en-US/icon_jeUJ1jtSD_guFh2vNMlMpbnd5PhLjGZByxuLaSOR-Pw=.png",
@@ -30634,7 +30674,7 @@
         "id_pacchetto": "io.anuke.mindustry",
         "riassunto": "An open-ended factory management game with RTS and tower defense elements",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.anuke.mindustry/cs-CZ/icon_Eno3XvqCZUcHRm3eMjiUleAxgzLopPe6-hkI7BHx1lU=.png",
@@ -30701,8 +30741,8 @@
         "id_pacchetto": "io.davidar.fabularium",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Games",
-            "Reading"
+            "Reading",
+            "Visual Novel"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -30874,7 +30914,7 @@
         "id_pacchetto": "io.github.bommbomm34.latindefense",
         "riassunto": "Expand your own Roman Empire!",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.bommbomm34.latindefense/en-US/icon_0NO3CBzHNxAePptkf-e2fX_56xEZMoHDEncRLwxluTQ=.png",
@@ -30963,7 +31003,7 @@
         "id_pacchetto": "io.github.davidchilin.werewolves_game",
         "riassunto": "Multiplayer server for classic Mafia game Werewolves. Plays in browser on WiFi",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.davidchilin.werewolves_game/en-US/icon_OFnKpcTmMBpoB7p1jsdwjeNkGof4BQNcS4aEeikINEQ=.png",
@@ -31038,7 +31078,7 @@
         "id_pacchetto": "io.github.divverent.aaaaxy",
         "riassunto": "A nonlinear 2D puzzle platformer taking place in impossible spaces.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//io.github.divverent.aaaaxy/en-US/icon_IiJIuL3miR9bX69kBuxXX96J-9-5u-fahnIiInZYJI0=.png",
@@ -31050,7 +31090,6 @@
         "id_pacchetto": "io.github.dkter.aaaaa",
         "riassunto": "a minimalist keyboard",
         "categorie": [
-            "Games",
             "Keyboard & IME"
         ],
         "licenza": "MPL-2.0",
@@ -31195,7 +31234,7 @@
         "id_pacchetto": "io.github.ebraminio.bouncy",
         "riassunto": "A tiny bouncing ball that plays musical notes when it hits the walls.",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//io.github.ebraminio.bouncy/en-US/icon_9EUd8B8EmAk3_iA5Gt-bJEr-FKa2ABDSjCb1sJU1E5o=.png",
@@ -31320,7 +31359,7 @@
         "id_pacchetto": "io.github.garemat.lunachron",
         "riassunto": "Companion app for the Moonstone tabletop miniatures game",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//io.github.garemat.lunachron/en-US/icon_6lA6H4wpyKjTGh6n09IkZLJ_xGjB0v2tlGl0TM4AS7Q=.png",
@@ -31370,7 +31409,7 @@
         "id_pacchetto": "io.github.hathibelagal.eidetic",
         "riassunto": "A simple Android app that helps you improve your working memory",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//io.github.hathibelagal.eidetic/en-US/icon_oyp4QI5lknXdmfdH349W6jud7WO8mzaI2_dMEaP0Jhc=.png",
@@ -31382,7 +31421,7 @@
         "id_pacchetto": "io.github.hathibelagal.mykanji",
         "riassunto": "A simple Android app to help you practice and memorize basic Japanese kanji.",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.hathibelagal.mykanji/en-US/icon_2iPQf4mHOLLYHRRtHUMEwPyBo4su92yCvqy8g_akNFU=.png",
@@ -31468,7 +31507,7 @@
         "id_pacchetto": "io.github.jdanders.dropcount",
         "riassunto": "A recreation of the classic Drop7 puzzle game for Android",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.jdanders.dropcount/en-US/icon_uvglqgFKQjB4BYaaJ7p_8fgQcciNMM56_liuIrHFQck=.png",
@@ -31492,7 +31531,7 @@
         "id_pacchetto": "io.github.johnathan.minesweeper",
         "riassunto": "Beautiful Minesweeper. No ads, no trackers, no permissions.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -31557,8 +31596,7 @@
         "id_pacchetto": "io.github.kitswas.virtualgamepadmobile",
         "riassunto": "Android phone as a gamepad for your PC",
         "categorie": [
-            "Connectivity",
-            "Games"
+            "Connectivity"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.kitswas.virtualgamepadmobile/en-US/icon_JuDcmW6DddpH28Y8cgXiiDJUbYBO8oew_-DlZlBMxXw=.png",
@@ -31634,7 +31672,7 @@
         "id_pacchetto": "io.github.lufte.lona",
         "riassunto": "Un gioco simile a snake in HTML5",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/io.github.lufte.lona.10002.png",
@@ -31671,7 +31709,7 @@
         "id_pacchetto": "io.github.martinschneider.juvavum",
         "riassunto": "Domino Juvavum and Cram are board games which can be played against the computer",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//io.github.martinschneider.juvavum/en-US/icon_F0TaGlDySsnfmxIkowZsPgP7lUv3goZEOAVk4ors1CI=.png",
@@ -31695,7 +31733,7 @@
         "id_pacchetto": "io.github.mimoguz.tripeaksneue",
         "riassunto": "A simple Tri Peaks game.",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.mimoguz.tripeaksneue/en-US/icon_LXvWnp3hS4FiXiUIZnKz0BSkGnr39NENDQIiVlQ3X-4=.png",
@@ -31783,7 +31821,7 @@
         "id_pacchetto": "io.github.mwageringel.everest",
         "riassunto": "Un gioco di enigmi matematici",
         "categorie": [
-            "Games",
+            "Puzzle Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
@@ -31796,7 +31834,7 @@
         "id_pacchetto": "io.github.necrashter.natural_revenge",
         "riassunto": "3D FPS with Boss Fights and Randomized Weapons",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.necrashter.natural_revenge/en-US/icon_6vgOk7Ms5R1Qs6lbJ4qMDMA9iFO5kHuWsyAAMzygMCQ=.png",
@@ -31910,7 +31948,7 @@
         "id_pacchetto": "io.github.potsdam_pnp.initiative_tracker",
         "riassunto": "Initiative Tracker compatible with Pathfinder 2 encounter rules",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.potsdam_pnp.initiative_tracker/en-US/icon_m2frNsQgMtDkrifT8RqNUQ-Q4OUqJaEI_PTDH9l7KTg=.png",
@@ -31934,7 +31972,7 @@
         "id_pacchetto": "io.github.printn.humanbenchmark",
         "riassunto": "Test and compare your cognitive abilities with fun challenges",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.printn.humanbenchmark/en-US/icon_v-sbrrntCy6eYHHCS873cNXACVygXIHWqzzjNUZh-Fg=.png",
@@ -32269,7 +32307,7 @@
         "id_pacchetto": "io.github.thachillera.cardsscorekeeper",
         "riassunto": "App per tenere i punti nei giochi di carte",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/io.github.thachillera.cardsscorekeeper.3.png",
@@ -32445,7 +32483,7 @@
         "id_pacchetto": "io.github.yamin8000.dooz",
         "riassunto": "A Tic-Tac-Tao clone, a simple pen-and-paper game",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.yamin8000.dooz/en-US/icon_99X2rGjlTdpzfcbpZjDP_LPwLX-khGTif35upoFAF0U=.png",
@@ -32570,7 +32608,7 @@
         "id_pacchetto": "io.gitlab.derjosef.jigsaw",
         "riassunto": "A Jigsaw Puzzle Game",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.gitlab.derjosef.jigsaw/en-US/icon_LgUI0KyC4IS-b-8zRwgZDnkuNE3QedobuLLE233rNeg=.png",
@@ -32604,6 +32642,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Concert Diary",
+        "id_pacchetto": "io.gitlab.meckez.concertdiary",
+        "riassunto": "Concert Diary recreates a personal diary for concerts and festivals.",
+        "categorie": [
+            "Calendar & Agenda",
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.gitlab.meckez.concertdiary/en-US/icon_HoPN5V0W17PwiFHtu7iPBbz3hYncF2uXE4YhXA7PGNM=.png",
+        "url_codice_sorgente": "https://gitlab.com/meckez/concert-diary",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Marxist Tamil",
         "id_pacchetto": "io.gitlab.pycpim.marxist",
         "riassunto": "Read & Listen to essays from Marxist tamil magazine",
@@ -32622,7 +32673,7 @@
         "id_pacchetto": "io.gitlab.selosh.gametrader",
         "riassunto": "Notifications for SteamTrades.com",
         "categorie": [
-            "Games",
+            "Game Helper",
             "Internet"
         ],
         "licenza": "GPL-3.0-only",
@@ -32672,7 +32723,7 @@
         "id_pacchetto": "io.hoppe.whohere",
         "riassunto": "See how well you know your friends by answering questions together.",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//io.hoppe.whohere/de/icon_-0c0gcC5mQkgucZzIgDjMRhCee-odo3rHuQsTTRDEuo=.png",
@@ -32697,7 +32748,7 @@
         "id_pacchetto": "io.itch.pirate_solitaire",
         "riassunto": "Custom variant of the Free-Cell solitaire with pirate themed cards in pixel art.",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.itch.pirate_solitaire/en-US/icon_tMXHygKlQd81wj4i1EmkdEZNk6TQT3xS_TeM6PgXUqM=.png",
@@ -32890,7 +32941,6 @@
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Development",
-            "Games",
             "Science & Education",
             "Sports & Health"
         ],
@@ -33064,11 +33114,23 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Quire",
+        "id_pacchetto": "io.theficos.quire",
+        "riassunto": "Self-hosted EPUB reader for calibre-web. No telemetry, no cloud, your data.",
+        "categorie": [
+            "Ebook Reader"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//io.theficos.quire/en-US/icon_qjX7TkAeE5w0NriAVS_ELGR2N1GU5YOikM9O3bZWM5k=.png",
+        "url_codice_sorgente": "https://github.com/vitofico/quire",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "The One App",
         "id_pacchetto": "io.theoneapp",
         "riassunto": "Application for managing a player's characters in the RPG The One Ring.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.theoneapp/en-US/icon_7R_Vl1UBtDkLmKsRn-hiiDScGvg58sYw4smYD4DQ3mQ=.png",
@@ -33131,7 +33193,7 @@
         "id_pacchetto": "ir.hsn6.tpb",
         "riassunto": "Distruggere la base nemica",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -33587,7 +33649,7 @@
         "id_pacchetto": "jsettlers.main.android",
         "riassunto": "Remake of \"The Settlers 3\"",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -33613,7 +33675,7 @@
         "id_pacchetto": "jwtc.android.chess",
         "riassunto": "Chess program and FICS client",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//jwtc.android.chess/en-US/icon_qeorL_nJeDeozBvB2xhG2MS56enedGC4-O7Zz8N_N1s=.png",
@@ -33625,7 +33687,7 @@
         "id_pacchetto": "kaba.yucata.envoy",
         "riassunto": "Visualizza quanti giochi su Yucata sono in attesa che l'utente faccia una mossa",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/kaba.yucata.envoy.503.png",
@@ -33649,7 +33711,7 @@
         "id_pacchetto": "koeln.mop.elpeefpe",
         "riassunto": "Manage health and focuspoints of your Splittermond characters",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//icons/koeln.mop.elpeefpe.2.png",
@@ -33783,7 +33845,7 @@
         "id_pacchetto": "link.standen.michael.fatesheets",
         "riassunto": "Gestire le schede dei personaggi di Fate",
         "categorie": [
-            "Games",
+            "Game Helper",
             "Writing"
         ],
         "licenza": "MIT",
@@ -34279,7 +34341,7 @@
         "id_pacchetto": "me.lecaro.breakout",
         "riassunto": "Break colourful bricks, catch bouncing coins and select powerful upgrades !",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//me.lecaro.breakout/en-US/icon_0sHywBXlsIlGc2WWjqNJ_NM8xOrqII2D36krFDAaRl8=.png",
@@ -34363,7 +34425,7 @@
         "id_pacchetto": "me.mgerdes.open_golf",
         "riassunto": "A mini golf game currently featuring about 20 levels",
         "categorie": [
-            "Games"
+            "Sport Game"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -34491,7 +34553,7 @@
         "riassunto": "Connect your PlayStation's Minecraft to third party servers.",
         "categorie": [
             "Connectivity",
-            "Games"
+            "Game Helper"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//me.sergiotarxz.bedrockstation.pro/en-US/icon_tzl14CM9o_ZF79R85_hYBt-iF4omNnV4CNhjOkPVkj0=.png",
@@ -34748,7 +34810,7 @@
         "id_pacchetto": "ml.vivekthazhathattil.chalachithram",
         "riassunto": "Quiz app based on dialogues from Malayalam movies",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//ml.vivekthazhathattil.chalachithram/en-US/icon__-P1GU7quuCBaCOuMvxl9r-o91C5BR1cjoTke2QHOTA=.png",
@@ -34895,7 +34957,7 @@
         "id_pacchetto": "name.boyle.chris.sgtpuzzles",
         "riassunto": "40 giochi di logica a giocatore singolo",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -35041,7 +35103,7 @@
         "id_pacchetto": "net.alexbarry.alexgames",
         "riassunto": "Play simple Lua games, host web games server",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.alexbarry.alexgames/en-US/icon_9R5EKbKznkYsOfkS_GkXYQYVs3N5Y7d3X5lEvUdjoVU=.png",
@@ -35079,7 +35141,7 @@
         "id_pacchetto": "net.artificialworlds.boxstacker",
         "riassunto": "Box Stacker is a physics-based construction puzzle game.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//net.artificialworlds.boxstacker/en-US/icon_cMZ1wh0R-GrNMCzE3HV49cPUtBjr_ZkXdZi3PkotepE=.png",
@@ -35091,7 +35153,7 @@
         "id_pacchetto": "net.artificialworlds.rabbitescape",
         "riassunto": "Lemmings-like puzzle/action game",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -35103,7 +35165,7 @@
         "id_pacchetto": "net.asceai.meritous",
         "riassunto": "Gioco dungeon crawler",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/net.asceai.meritous.4.png",
@@ -35226,7 +35288,7 @@
         "id_pacchetto": "net.canvoki.godot_dice_roller",
         "riassunto": "A Godot UI control that rolls 3D dices in a box.",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//net.canvoki.godot_dice_roller/en-US/icon_t0kZYPaPp3V4N98Fjl8A-7MkhHSylD-VqY115h5NPRE=.png",
@@ -35458,7 +35520,7 @@
         "id_pacchetto": "net.gcompris.full",
         "riassunto": "Gioco didattico multi-attività per bambini da 2 a 10 anni",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-only",
@@ -35669,7 +35731,7 @@
         "id_pacchetto": "net.leodesouza.blitz",
         "riassunto": "A minimalist Fischer chess clock for Android.",
         "categorie": [
-            "Games",
+            "Game Helper",
             "Time"
         ],
         "licenza": "Apache-2.0",
@@ -35707,7 +35769,7 @@
         "id_pacchetto": "net.minetest.minetest",
         "riassunto": "Voxel-based multiplayer game platform",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "LGPL-2.1-or-later",
         "icona": "https://f-droid.org/repo//net.minetest.minetest/en-US/icon_3pxoIlzJ_qVQcZm_B8IMT9n_tzwE6mUa81ifVOdGbB0=.png",
@@ -35747,7 +35809,7 @@
         "id_pacchetto": "net.multun.gamecounter.fdroid",
         "riassunto": "A customizable game point counter",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.multun.gamecounter.fdroid/en-US/icon_HsGNbny1oCyFBdlwLFvXuLkEWMvhcYYN1E-9eK1PpSg=.png",
@@ -35820,7 +35882,7 @@
         "id_pacchetto": "net.nullsum.freedoom",
         "riassunto": "Doom engine source port bundled with Freedoom 1 & 2",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//icons/net.nullsum.freedoom.20.png",
@@ -35923,7 +35985,7 @@
         "id_pacchetto": "net.pejici.easydice",
         "riassunto": "RPG dice roller",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -36189,7 +36251,7 @@
         "id_pacchetto": "net.sourceforge.solitaire_cg",
         "riassunto": "Solitario",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//net.sourceforge.solitaire_cg/en-US/icon_V_2dbktkIznk0v7SI2z1bqLgkm4RTetOtRM6nu8H4_A=.png",
@@ -36474,7 +36536,7 @@
         "id_pacchetto": "net.vantulder.tessel",
         "riassunto": "Place tiles with matching colors to make shapes and fill the board.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//net.vantulder.tessel/en-US/icon_HIcg8ejTwRI3_XkDB9rAv5ajJHqOY2Rng8dXbtBLN1k=.png",
@@ -36510,7 +36572,7 @@
         "id_pacchetto": "net.warsmash.phone",
         "riassunto": "Warsmash Android port",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.warsmash.phone/en-US/icon_2YB2ndkwNgS9u6TMAjCEKb5IixaeBosrBhSVjM7S2JE=.png",
@@ -36584,7 +36646,7 @@
         "id_pacchetto": "net.ygingras.minutemaze",
         "riassunto": "Solve as many mazes as possible before the time runs out.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.ygingras.minutemaze/en-US/icon_t8u6ZRswvunNq1DUU_RhT0hI-GQsquLJBXTNIPNr06w=.png",
@@ -36870,7 +36932,7 @@
         "id_pacchetto": "nodomain.collectthecookies",
         "riassunto": "Collect cookies in this fun idle-ish game",
         "categorie": [
-            "Games"
+            "Casual Game"
         ],
         "licenza": "CC0-1.0",
         "icona": "https://f-droid.org/repo//nodomain.collectthecookies/en-US/icon_u1K7i9MefrQkLQOVrKrg9Du81SfTxTEvsxA6gy8DE9U=.png",
@@ -36922,7 +36984,7 @@
         "id_pacchetto": "nodomain.hoopdraw",
         "riassunto": "Draw lines to get a basketball into the hoop",
         "categorie": [
-            "Games"
+            "Sport Game"
         ],
         "licenza": "CC0-1.0",
         "icona": "https://via.placeholder.com/64",
@@ -36934,7 +36996,7 @@
         "id_pacchetto": "nodomain.playmaker",
         "riassunto": "Play or create your own platformer levels",
         "categorie": [
-            "Games"
+            "Platformer Game"
         ],
         "licenza": "CC0-1.0",
         "icona": "https://f-droid.org/repo//nodomain.playmaker/en-US/icon_Ey1B5uGj6t2AwKEGmWQD9aYru4cax63JcJ_bfEIJl-A=.png",
@@ -37012,7 +37074,7 @@
         "id_pacchetto": "ogz.tripeaks",
         "riassunto": "Un gioco di solitario a tre picchi.",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//ogz.tripeaks/bg/icon_zZwk5ZV5PHH2DoNrwL4d5dJygpkPG6dvFdDyZiUauJk=.png",
@@ -37074,7 +37136,7 @@
         "id_pacchetto": "one.scarecrow.games.OPMT",
         "riassunto": "A Strategy Board Game.",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//one.scarecrow.games.OPMT/en-US/icon_eWRGO_PSlQLlOP2VoOyEY7cMO3hD8-tvH4G6skixOWw=.png",
@@ -37226,7 +37288,7 @@
         "id_pacchetto": "org.afrikalan.tuxmath",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-only",
@@ -37341,7 +37403,7 @@
         "id_pacchetto": "org.andstatus.game2048",
         "riassunto": "2048 game with AI, Replay, History and other fun features, Open Source, no ads",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.andstatus.game2048/en-US/icon_ROdCNp8h4h-a6RUftcVBVybdLCVX0yPsdXq0dAO-s_s=.png",
@@ -37416,7 +37478,7 @@
         "id_pacchetto": "org.artsoft.rocksndiamonds",
         "riassunto": "Gioco arcade",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//icons/org.artsoft.rocksndiamonds.4020200.png",
@@ -37428,7 +37490,7 @@
         "id_pacchetto": "org.asafonov.accelerace",
         "riassunto": "Simple HTML5 racing game made just for fun.",
         "categorie": [
-            "Games"
+            "Sport Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.asafonov.accelerace/en-US/icon_1-JUBIKVt1qCmwSzok5zi_dszHsq44jBkD09sby5y8I=.png",
@@ -37440,7 +37502,7 @@
         "id_pacchetto": "org.asafonov.blockbuster",
         "riassunto": "Simple HTML5 arkanoid-type game",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.asafonov.blockbuster/en-US/icon_ej2sf9Oh-O-HJrzGDLyLXGHor-1yR2N0No4B5ia3zck=.png",
@@ -37626,7 +37688,7 @@
         "id_pacchetto": "org.benoitharrault.sudoku",
         "riassunto": "Simple Sudoku Game. Easy to play, easy to enjoy.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.benoitharrault.sudoku/en-US/icon_K8sJa5KQpfpQdgWyIgYM9INAUb5aWqFumXVzuu24Cck=.png",
@@ -37691,7 +37753,7 @@
         "id_pacchetto": "org.billthefarmer.crossword",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.crossword/en/icon_M-gITr8KzlxNMaPNiSdmmBkKaKweilTexzzcxJKFXx8=.png",
@@ -37742,7 +37804,7 @@
         "id_pacchetto": "org.billthefarmer.gridle",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.gridle/en/icon_7ggek7XqzaYy48he9w1QtER1SO6H93kdE_JKYfO08Tg=.png",
@@ -37754,7 +37816,7 @@
         "id_pacchetto": "org.billthefarmer.gurgle",
         "riassunto": "Gioco di parole",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.gurgle/en/icon_s1Jxulhq6kNu4VbMI5iYfJg5VRLksbdeAdp2JxADxm0=.png",
@@ -37841,7 +37903,7 @@
         "id_pacchetto": "org.billthefarmer.solver",
         "riassunto": "Risolvi le partite di Wordle e Gurgle",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.solver/en/icon_XKhJg6I1yfXmnUzU0ENW1TX_Fe579Jxpc2DpaCvUeZw=.png",
@@ -37942,7 +38004,7 @@
         "id_pacchetto": "org.bobstuff.bobball",
         "riassunto": "Clone in stile Jezzball",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "BSD-2-Clause",
         "icona": "https://via.placeholder.com/64",
@@ -38051,7 +38113,7 @@
         "id_pacchetto": "org.broguece.game",
         "riassunto": "Brogue CE Android - a classic dungeon crawling roguelike",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.broguece.game/en-US/icon_uZg9--UK6n2gySoOHudI_oCKzru5JYvStLQq_YS-cEg=.png",
@@ -38264,7 +38326,7 @@
         "id_pacchetto": "org.codeberg.rozworld.finalrozgamenew",
         "riassunto": "A pixel art 2D speedrun platformer featuring 17 levels and isometric mechanics.",
         "categorie": [
-            "Games"
+            "Platformer Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.codeberg.rozworld.finalrozgamenew/en-US/icon_421INBdnLCmG60M5pWFomPibWtFN_N3188ao4GOrzaI=.png",
@@ -38404,7 +38466,7 @@
         "id_pacchetto": "org.cuberite.android",
         "riassunto": "A lightweight, fast and extensible game server for Minecraft Java Edition",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.cuberite.android/en-US/icon_WqRvkrYbOFGbnRv2fW63WkwA5h4D20UzvVwVbvYOhF4=.png",
@@ -38493,7 +38555,7 @@
         "id_pacchetto": "org.develz.crawl",
         "riassunto": "A roguelike adventure through dungeons in a quest to find the Orb of Zot",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//org.develz.crawl/en-US/icon_arG72I-8hTQukxvRre-YZiDxr08AuZHrFzJvy9Fk2II=.png",
@@ -38631,7 +38693,7 @@
         "id_pacchetto": "org.dolphinemu.dolphinemu",
         "riassunto": "Emulatore di console Nintendo",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -38793,7 +38855,7 @@
         "id_pacchetto": "org.easyrpg.player",
         "riassunto": "RPG Maker 2000/2003 and EasyRPG games interpreter",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/org.easyrpg.player.6699.png",
@@ -38830,7 +38892,7 @@
         "id_pacchetto": "org.ecos.logic.flip_a_coin",
         "riassunto": "Game to help you to choose between two options!!.",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.ecos.logic.flip_a_coin/en-US/icon_UbDz5JD7idL797LXTlvwXNZMfeq1guSp-EdiIOfKRn0=.png",
@@ -38842,7 +38904,7 @@
         "id_pacchetto": "org.eehouse.android.xw4",
         "riassunto": "Un gioco simile a Scarabeo",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -38891,7 +38953,7 @@
         "id_pacchetto": "org.emunix.insteadlauncher",
         "riassunto": "Interactive fiction games",
         "categorie": [
-            "Games"
+            "Visual Novel"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -38903,7 +38965,7 @@
         "id_pacchetto": "org.emunix.unipatcher",
         "riassunto": "Utilità per applicare patch ai ROM",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -39037,7 +39099,7 @@
         "id_pacchetto": "org.exarhteam.iitc_mobile",
         "riassunto": "IITC-CE map for Ingress Prime game",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "ISC",
         "icona": "https://f-droid.org/repo//org.exarhteam.iitc_mobile/en-US/icon_bm8dtH2AWWFZsRSRTarx2-oN3-_HyAPj_UksDX0O_N8=.png",
@@ -39303,7 +39365,7 @@
         "id_pacchetto": "org.flare.app",
         "riassunto": "An action RPG with gameplay alike to the games in the Diablo series",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.flare.app/en-US/icon_6PmRAx3-pOubitda1jP6ODqud4PlHrYSfT1vzALmzRE=.png",
@@ -39571,7 +39633,7 @@
         "id_pacchetto": "org.freeminer.freeminer",
         "riassunto": "Voxel-based multiplayer game platform",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.freeminer.freeminer/en-US/icon_pFSEAR1W83C74kApNyyo-1ih5EXaDnY9vNqvIN3NOx8=.png",
@@ -39795,7 +39857,7 @@
         "id_pacchetto": "org.gnu.itsmoroto.cifrasoletras",
         "riassunto": "A simplified version of Countdown UK game-show.",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -39844,7 +39906,7 @@
         "id_pacchetto": "org.golden_ticket.golden_ticket",
         "riassunto": "Lottery simulation game - explore strategies without spending money",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.golden_ticket.golden_ticket/en-US/icon_fBg2sguDSQp7EH4mu_HaMVKAt6l_JJlc49Vd7BTzKyk=.png",
@@ -40219,7 +40281,7 @@
         "id_pacchetto": "org.jfo.app.makesomenoise",
         "riassunto": "Push a button, or move your phone, to make some noise",
         "categorie": [
-            "Games"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.jfo.app.makesomenoise/en-US/icon_ujkx1o8Lg4K6ah9h-N5ktYO1XHPincZJUj3iEYpPXGQ=.png",
@@ -40430,7 +40492,7 @@
         "id_pacchetto": "org.kirkezz.rttt",
         "riassunto": "Recursive Tic-Tac-Toe game",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.kirkezz.rttt/en-US/icon_zIXzilCcwJXmkn8u2OeEZPl2Spf-WAULwCLzdIO2828=.png",
@@ -40520,7 +40582,7 @@
         "id_pacchetto": "org.lettucepie.flickybee",
         "riassunto": "Flick and Bumble your way through the flowers.",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.lettucepie.flickybee/en-US/icon_VzLJmPgiLTChu8QJJDmr1N9u8bpECQhdavyRnflDdSM=.png",
@@ -40607,7 +40669,7 @@
         "id_pacchetto": "org.lichess.mobileV2",
         "riassunto": "The one open-source chess platform",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.lichess.mobileV2/en-US/icon_qi-nY8o1dCz5j6LrbGb_Ikh70SLOGbbOXyL7VakuXws=.png",
@@ -40619,7 +40681,7 @@
         "id_pacchetto": "org.ligi.gobandroid_hd",
         "riassunto": "Gobandroid HD un programma opensource di Go per Android go, igo, baduk, weiqi",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.ligi.gobandroid_hd.259.png",
@@ -40631,7 +40693,7 @@
         "id_pacchetto": "org.ligi.gobandroidhd.ai.gnugo",
         "riassunto": "GNU Go AI player service for Gobandroid",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.ligi.gobandroidhd.ai.gnugo.212.png",
@@ -40717,7 +40779,7 @@
         "id_pacchetto": "org.liri.liri",
         "riassunto": "Li-Ri is a arcade game where you drive a toy wood engine.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//org.liri.liri/en-US/icon_TkNFpOqHsH5q3AeuqBgbfetFto__Nrlq7S5t6tR8DmM=.png",
@@ -40742,7 +40804,7 @@
         "id_pacchetto": "org.lufebe16.freecell",
         "riassunto": "FreeCell4 is a patience / solitaire card game.",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.lufebe16.freecell/en-US/icon_Kb3tNJK_JIlXtQoGkZg5UD1IaMNMJVfLVDoICrskz-w=.png",
@@ -40767,7 +40829,7 @@
         "id_pacchetto": "org.lufebe16.pysolfc",
         "riassunto": "Una collezione di giochi di carte solitario",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.lufebe16.pysolfc/en-US/icon_9_3qXfM0eQYwxuuGsgv882OLq_CcdFZtt23axbDSQoI=.png",
@@ -40843,7 +40905,7 @@
         "id_pacchetto": "org.mattvchandler.a2050",
         "riassunto": "A game loosely based on 2048, but with circles instead of squares",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.mattvchandler.a2050/en-US/icon_3BMQD76YZDYHbtVP8WR8CTKi6E7pd6L82YveKdLHjR4=.png",
@@ -41004,7 +41066,6 @@
         "id_pacchetto": "org.mindshub.insigno",
         "riassunto": "Report and collect garbage, earning points!",
         "categorie": [
-            "Games",
             "Navigation"
         ],
         "licenza": "GPL-3.0-only",
@@ -41042,7 +41103,7 @@
         "id_pacchetto": "org.moire.opensudoku",
         "riassunto": "Open Sudoku is an Open Source Sudoku game.",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.moire.opensudoku/en-US/icon_bsqk6CwD3zJMF59UMK0v4STUwLUbabQG2iWXX2ZF6ds=.png",
@@ -41116,7 +41177,7 @@
         "id_pacchetto": "org.mupen64plusae.v3.alpha",
         "riassunto": "Front end per Mupen64 Plus",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/org.mupen64plusae.v3.alpha.246.png",
@@ -41339,7 +41400,7 @@
         "id_pacchetto": "org.og8.a1tox",
         "riassunto": "Ricorda i numeri velocemente per allenare il tuo cervello",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/org.og8.a1tox.1.png",
@@ -41351,7 +41412,7 @@
         "id_pacchetto": "org.ogre.browser",
         "riassunto": "Object-Oriented Graphics Rendering Engine - Samples",
         "categorie": [
-            "Games"
+            "Graphics"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -41377,7 +41438,7 @@
         "id_pacchetto": "org.olgsoft.apipepanic",
         "riassunto": "Il gioco preferito dagli idraulici",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -41492,7 +41553,7 @@
         "id_pacchetto": "org.opensurge2d.surgeengine",
         "riassunto": "A retro game engine with a fun platformer inspired by 16-bit Sonic games.",
         "categorie": [
-            "Games"
+            "Platformer Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.opensurge2d.surgeengine/en-US/icon_y00XnoBPnodoJADb489FZtgOI5j5dU_rSk2Wp55eHrI=.png",
@@ -41504,8 +41565,8 @@
         "id_pacchetto": "org.openttd.fdroid",
         "riassunto": "A simulation game based on the popular game \"Transport Tycoon Deluxe\"",
         "categorie": [
-            "Games",
-            "Internet"
+            "Internet",
+            "Strategy Game"
         ],
         "licenza": "LGPL-2.1-or-later",
         "icona": "https://f-droid.org/repo//org.openttd.fdroid/en-US/icon_ymrS616qpAn2i33fU14so-yR6oBfVl87tgmI5wtA5gA=.png",
@@ -41608,7 +41669,7 @@
         "id_pacchetto": "org.petero.droidfish",
         "riassunto": "Gioco di scacchi",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -41620,7 +41681,7 @@
         "id_pacchetto": "org.pgnapps.pk2",
         "riassunto": "a jump'n'run game - bring the rooster to the exit",
         "categorie": [
-            "Games"
+            "Platformer Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.pgnapps.pk2/en-US/icon_FByroU6m8XaSFxXZNi_nsb2vRi0fTrhf1G0GlKe4_4g=.png",
@@ -41645,7 +41706,7 @@
         "id_pacchetto": "org.piepmeyer.gauguin",
         "riassunto": "A Sudoku-like logic game",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.piepmeyer.gauguin/en-US/icon_Pp0IthYj4RE6O_3BQcd_ApZWV8iNei9l_LspIKJIoak=.png",
@@ -41657,7 +41718,7 @@
         "id_pacchetto": "org.pipoypipagames.cowsrevenge",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Games"
+            "Platformer Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.pipoypipagames.cowsrevenge/en/icon_Z5Php_te_VMr5R3h_9DFLelU-F58cJMNwDGH7eP1sEk=.png",
@@ -41669,7 +41730,7 @@
         "id_pacchetto": "org.pipoypipagames.towerjumper",
         "riassunto": "Gioco di abilità casual",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -41694,7 +41755,7 @@
         "id_pacchetto": "org.playhex.twa",
         "riassunto": "Play Hex board game online",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.playhex.twa/en-US/icon_iqj6SmcKrxWcE1YEoYol0xLqRcQBKx8nrSPmX_7lt8g=.png",
@@ -41745,7 +41806,7 @@
         "id_pacchetto": "org.ppsspp.ppsspp",
         "riassunto": "Emulatore di PSP",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -41782,7 +41843,7 @@
         "id_pacchetto": "org.principate.matthew.dealing_sheet",
         "riassunto": "An app to make dealing hands of cards for games like bridge easy.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.principate.matthew.dealing_sheet/en-US/icon_aGybJoDXpzPRWI4bglKMDawJG4V7PREk3ywIGtu1c2w=.png",
@@ -42200,7 +42261,7 @@
         "id_pacchetto": "org.quentin_bettoum.librememorygame",
         "riassunto": "A memory game",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.quentin_bettoum.librememorygame/cs_CZ/icon_wz0PzyUmK3iZv72NHyzQGxhVJO_b3H3xVxqIb9XgDyQ=.png",
@@ -42274,7 +42335,7 @@
         "id_pacchetto": "org.revengate.revengate",
         "riassunto": "A steampunk roguelike dungeon crawling game.",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.revengate.revengate/en-US/icon_CruDJivFsI1rehfykeQz_f6xP4wjEgzaKW6uTaLxYB8=.png",
@@ -42339,7 +42400,7 @@
         "id_pacchetto": "org.sajeg.fallingblocks",
         "riassunto": "A mobile Game, where you need to collect the blocks matching your colour",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.sajeg.fallingblocks/de-DE/icon_mrzO0eqK8wNo5D_jBeWYvIaII-QqYrxMH85L7j_OLhg=.png",
@@ -42478,7 +42539,7 @@
         "id_pacchetto": "org.scid.android",
         "riassunto": "Visualizza partite di scacchi",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//icons/org.scid.android.55.png",
@@ -42490,7 +42551,7 @@
         "id_pacchetto": "org.scotthamilton.trollslate",
         "riassunto": "Trolling app to prank your friends with barcode looking messages",
         "categorie": [
-            "Games",
+            "Party Game",
             "Reading"
         ],
         "licenza": "MIT",
@@ -42503,7 +42564,7 @@
         "id_pacchetto": "org.scoutant.blokish",
         "riassunto": "Gioco da tavolo",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -42541,7 +42602,7 @@
         "id_pacchetto": "org.secuso.privacyfriendly2048",
         "riassunto": "Prova a raggiungere 2048 con questo puzzle game",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendly2048/de/icon__EtkwPp725lQQYnzjkzDUiOqD2X5nnY1CiZSIYN9TVU=.png",
@@ -42578,7 +42639,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlybattleship",
         "riassunto": "(SECUSO) Play the battleship game on your smartphone without ads or permissions.",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlybattleship/de-DE/icon_JBOD5LPXYDXuMwAOAbz-sXGWZOb7J6bIKYrfMTaebd0=.png",
@@ -42590,7 +42651,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlyboardgameclock",
         "riassunto": "(SECUSO) Boardgame Clock offers timers for boardgame time tracking",
         "categorie": [
-            "Games",
+            "Game Helper",
             "Time"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -42616,7 +42677,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlydame",
         "riassunto": "(SECUSO) Strategy board game for 2 players. Play against an AI or each other!",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -42628,7 +42689,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlydicer",
         "riassunto": "Tiira dei dadi",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlydicer/de-DE/icon_si6lBVbpTWi7-Skao29BKAay4d1RvmynmiHj27XnfN4=.png",
@@ -42679,7 +42740,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlyludo",
         "riassunto": "(SECUSO) Boardgame for 4 up to 6 players (persons or computer opponents)",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlyludo/de-DE/icon_DZst6xmtt-VLyQO18rwuhvxU74PFijCI_sQ03zAjSjg=.png",
@@ -42691,7 +42752,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlymemory",
         "riassunto": "(SECUSO) Privacy friendly card game to find pairs of cards",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlymemory/de-DE/icon__8fNcQhCuCia954Ya-cQ1bF03Ivnzp7F-G4OIw28tSM=.png",
@@ -42703,7 +42764,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlyminesweeper",
         "riassunto": "(SECUSO) Privacy friendly Minesweeper without ads or permissions",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlyminesweeper/de/icon_I_PxcJs6WGdbqEyt_RsduiSFrqIeGV5EYx1Esw5Yp8g=.png",
@@ -42780,7 +42841,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlyrecknoningskills",
         "riassunto": "(SECUSO) Improve your calculation skills in the four basic operations",
         "categorie": [
-            "Games",
+            "Educational Game",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -42818,7 +42879,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlysolitaire",
         "riassunto": "Gioca al solitario, il famoso gioco di carte sul tuo dispositivo intelligente",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlysolitaire/de/icon_uQoi8ZlLu7r8O1i6XuLC7u3ma-_PeW6PwcktLWhbn2A=.png",
@@ -42830,7 +42891,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlysudoku",
         "riassunto": "(SECUSO) Privacy Friendly Sudoku without permissions or advertising",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlysudoku/de-DE/icon_oWx09GXf5s9FvhdDzVWZseAKTf-e7f-sn0MS7J-H4Ug=.png",
@@ -42868,7 +42929,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlyyahtzeedicer",
         "riassunto": "(SECUSO) Dice Game displays five dice that can be rolled by a button.",
         "categorie": [
-            "Games"
+            "Dice"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlyyahtzeedicer/de-DE/icon_FJba_abIkbvk7WTqDKLrgak4UWtcNHKsG8JUwB_qJ84=.png",
@@ -43130,7 +43191,7 @@
         "id_pacchetto": "org.stendhalgame.client",
         "riassunto": "Un'avventura multiplayer con la classica grafica 2D",
         "categorie": [
-            "Games"
+            "Role-Playing Game"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//org.stendhalgame.client/en-US/icon_23DHW_bN-CgktuBnJQthcIazT99tCog8kmT8nfFZrpU=.png",
@@ -43302,7 +43363,7 @@
         "id_pacchetto": "org.supertuxkart.stk",
         "riassunto": "Un gioco di corse arcade in 3D con vari personaggi, piste e modalità di gioco.",
         "categorie": [
-            "Games"
+            "Sport Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -43847,8 +43908,8 @@
         "id_pacchetto": "org.wesnoth.Wesnoth",
         "riassunto": "A turn-based strategy game with a high fantasy theme",
         "categorie": [
-            "Games",
-            "Internet"
+            "Internet",
+            "Strategy Game"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//org.wesnoth.Wesnoth/en-US/icon_9JvPHPBXLMCi30rsdZXxRZ6SoA_b8AgGI750OWwKLvc=.png",
@@ -44223,7 +44284,7 @@
         "id_pacchetto": "org.xolatgames.catashoot",
         "riassunto": "Fly in the space by the cat 😼, and shoots off from enemies 🛸",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.xolatgames.catashoot/en-US/icon_WpDULjQYxzh_6f68kzKVswwLeMRbNqp-p0JT5O8hNBU=.png",
@@ -44235,7 +44296,7 @@
         "id_pacchetto": "org.xolatgames.dima.defense",
         "riassunto": "A simple Tower Defense game that was made in LibGDX",
         "categorie": [
-            "Games"
+            "Strategy Game"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.xolatgames.dima.defense/en-US/icon_bkT5aE7aJxj-frLhgh1KsMmfoIoWx7JEUdb2UpgqdRE=.png",
@@ -44411,7 +44472,7 @@
         "id_pacchetto": "page.codeberg.marshreaper.fruitygame",
         "riassunto": "Casual Fruit Combination Game",
         "categorie": [
-            "Games"
+            "Casual Game"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//page.codeberg.marshreaper.fruitygame/en-US/icon_Co1D6xWLCepsgPDGDmjCiQVctCUVILrUg9IP2bvFb8A=.png",
@@ -44423,7 +44484,7 @@
         "id_pacchetto": "page.codeberg.terratactician_expandoria",
         "riassunto": "Hexagon based logic game",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//page.codeberg.terratactician_expandoria/en-US/icon_xCJbIthx5hweIeImt5Ye7m5y9Y8QD32PGK6xnxvMM40=.png",
@@ -44616,7 +44677,7 @@
         "id_pacchetto": "pl.sanszo.pcis",
         "riassunto": "Aiuta Polandball ad andare nello Spazio",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "NPOSL-3.0",
         "icona": "https://f-droid.org/repo//icons/pl.sanszo.pcis.2.png",
@@ -44628,7 +44689,7 @@
         "id_pacchetto": "pl.suve.colorful.android",
         "riassunto": "Simple 2D side-view shooter",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//pl.suve.colorful.android/en-US/icon_P76W6S0zImLxqsdqirytpYnLJ4NAx32MNT6Gjy7vj58=.png",
@@ -44892,7 +44953,7 @@
         "id_pacchetto": "pt.joaomneto.titancompanion",
         "riassunto": "Statistiche e generatore di regole per tutti i libri di giochi Fighting Fantasy",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "LGPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/pt.joaomneto.titancompanion.67.png",
@@ -45006,7 +45067,7 @@
         "id_pacchetto": "red.drugi.snakes",
         "riassunto": "Un gioco di serpenti in una versione estesa di Snake con avversari controllati d",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//red.drugi.snakes/en-US/icon_2icfYdi_neIQchvD6kS3QoGGXmbY_GqNsNaHUdmgXj0=.png",
@@ -45043,7 +45104,7 @@
         "id_pacchetto": "ro.hume.cosmin.retrostack",
         "riassunto": "Build a tower with a moving set of bricks",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//ro.hume.cosmin.retrostack/en-US/icon_S10IYv5dT34sGelvD0PVh2Jeycb2T8jxnG7nUEUmww4=.png",
@@ -45081,7 +45142,7 @@
         "id_pacchetto": "rocks.langhaarschneider.subsonicster",
         "riassunto": "Play Hitster card game with your own SubSonic music server",
         "categorie": [
-            "Games",
+            "Card Game",
             "Multimedia",
             "Online Media Player"
         ],
@@ -45260,7 +45321,7 @@
         "id_pacchetto": "rs.ruffle",
         "riassunto": "An Android application for ruffle.rs",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//rs.ruffle/en-US/icon_bQ_yOJtIW_1yIHpvXy6Y1s9nmS_2ZPXbqXO6yJna6b8=.png",
@@ -45359,7 +45420,7 @@
         "id_pacchetto": "ru.henridellal.patolli",
         "riassunto": "Gioco da tavolo per 1 o 2 giocatori",
         "categorie": [
-            "Games"
+            "Board Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/ru.henridellal.patolli.2.png",
@@ -45371,7 +45432,7 @@
         "id_pacchetto": "ru.hugeping.reinstead",
         "riassunto": "Interactive fiction games",
         "categorie": [
-            "Games"
+            "Visual Novel"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -45383,7 +45444,7 @@
         "id_pacchetto": "ru.hyst329.openfool",
         "riassunto": "Russian national Fool (дурак) card game",
         "categorie": [
-            "Games"
+            "Card Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/ru.hyst329.openfool.30.png",
@@ -45433,7 +45494,7 @@
         "id_pacchetto": "ru.lksh.beret",
         "riassunto": "An app to play the Hat game (aka Alias) in Russian",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//ru.lksh.beret/ru/icon_vZ8cf1B-xy9N7DP5fArRhGS3x3a9n1FDkWZI8yQPJvc=.png",
@@ -45485,7 +45546,7 @@
         "id_pacchetto": "ru.playsoftware.j2meloader",
         "riassunto": "A J2ME emulator for Android.",
         "categorie": [
-            "Games"
+            "Emulator"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//ru.playsoftware.j2meloader/en-US/icon_VBtFNFUO_uu2EMB_OWeXxZz-2YLvrJy5ckTyDGS8FzA=.png",
@@ -45550,7 +45611,7 @@
         "id_pacchetto": "ru.wohlsoft.thextech.fdroid",
         "riassunto": "2D-platformer game engine",
         "categorie": [
-            "Games"
+            "Platformer Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//ru.wohlsoft.thextech.fdroid/en-GB/icon_Jjn03CNVacKqPR1MrMEC8ywq11JMoRv94ZxrLyogKXQ=.png",
@@ -45587,7 +45648,7 @@
         "id_pacchetto": "ru.zxalexis.ugaday",
         "riassunto": "Indovina un numero",
         "categorie": [
-            "Games"
+            "Party Game"
         ],
         "licenza": "PublicDomain",
         "icona": "https://f-droid.org/repo//icons/ru.zxalexis.ugaday.15.png",
@@ -45677,7 +45738,6 @@
         "riassunto": "Controlla il tuo quadrirotore Crazyflie dal tuo dispositivo mobile",
         "categorie": [
             "Connectivity",
-            "Games",
             "Science & Education"
         ],
         "licenza": "GPL-2.0-or-later",
@@ -45783,7 +45843,7 @@
         "id_pacchetto": "se.tube42.kidsmem.android",
         "riassunto": "Gioco di memoria a due",
         "categorie": [
-            "Games"
+            "Educational Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//icons/se.tube42.kidsmem.android.17.png",
@@ -45795,7 +45855,7 @@
         "id_pacchetto": "se.tube42.p9.android",
         "riassunto": "Gioco di puzzle di parole",
         "categorie": [
-            "Games"
+            "Word Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//icons/se.tube42.p9.android.11.png",
@@ -45807,7 +45867,7 @@
         "id_pacchetto": "se.voxelmanip.boxsmasher",
         "riassunto": "Shoot balls to smash boxes into the void!",
         "categorie": [
-            "Games"
+            "Shooter Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//se.voxelmanip.boxsmasher/en-US/icon_2mr794iZ-HLpYrgIZsqimbMVVt1NQrnNtdgUqUOUIo0=.png",
@@ -45819,7 +45879,7 @@
         "id_pacchetto": "se.voxelmanip.tensy",
         "riassunto": "Select numbers that sum to ten",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//se.voxelmanip.tensy/en-US/icon_-H4j0pXYTD1tg12AmngtS7E603-veBduntXZV8hg0Ys=.png",
@@ -45831,7 +45891,7 @@
         "id_pacchetto": "sh.fhs.ksre",
         "riassunto": "(18+) A fan-made modernization of the classic visual novel",
         "categorie": [
-            "Games"
+            "Visual Novel"
         ],
         "licenza": "MPL-2.0",
         "icona": "https://f-droid.org/repo//sh.fhs.ksre/en-US/icon_9lz9lmbGFBvVD8zrAr5ppDSiHa0BY_1M4Nq0waQmrLk=.png",
@@ -45905,7 +45965,7 @@
         "id_pacchetto": "si.palcka.tarok",
         "riassunto": "A fully open-source Tarock program.",
         "categorie": [
-            "Games",
+            "Card Game",
             "Internet"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -46196,7 +46256,7 @@
         "id_pacchetto": "straw.berry",
         "riassunto": "Strawberry is strawberry, strawberry 🍓🍓🍓",
         "categorie": [
-            "Games"
+            "Casual Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//straw.berry/en-US/icon_zrfbqJ9UARHCFDHM6GIEgV1WbZv5auvg3F6k-WSTUjo=.png",
@@ -46841,8 +46901,7 @@
         "id_pacchetto": "ua.gardenapple.itchupdater",
         "riassunto": "Cliente itch.io non ufficiale. Compra, installa e gioca a giochi indie.",
         "categorie": [
-            "Games",
-            "Internet"
+            "App Store & Updater"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//ua.gardenapple.itchupdater/en-US/icon_JD_z_pHAVGtixQVMD9tltuskQTUFiqoiTa0Uq8wUB0M=.png",
@@ -46904,7 +46963,7 @@
         "id_pacchetto": "uk.co.busydoingnothing.anagrams",
         "riassunto": "A fast-paced game of anagrams to play online with friends",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//uk.co.busydoingnothing.anagrams/en-US/icon_Q7bOEPl-HXkXJuhAIKtwTCbkV19AA9lCsANrzfp_C_M=.png",
@@ -47172,7 +47231,7 @@
         "id_pacchetto": "v4lpt.vpt.f005.rsd",
         "riassunto": "Minimalistic Android app for rolling 2 dice.",
         "categorie": [
-            "Games",
+            "Dice",
             "Time"
         ],
         "licenza": "GPL-3.0-only",
@@ -47253,6 +47312,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//v4lpt.vpt.pwg/en-US/icon_zNhsX0Hxb2T_cdJMt42yWcAB2O0IhzLxXWLYm5IDluI=.png",
         "url_codice_sorgente": "https://github.com/v4lpt/pwg",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Aucards",
+        "id_pacchetto": "vadimerenkov.aucards",
+        "riassunto": "Create reusable cards for quick access when non-verbal communication is needed.",
+        "categorie": [
+            "Text to Speech"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//vadimerenkov.aucards/en-US/icon_XgVxdV7mHqwo9YcVLI_slkMf1bWb6YzwEw4NYitK62E=.png",
+        "url_codice_sorgente": "https://github.com/vadimerenkov/Aucards",
         "ultimo_aggiornamento": null
     },
     {
@@ -47345,7 +47416,7 @@
         "id_pacchetto": "x653.all_in_gold",
         "riassunto": "The Master of archery sight calibration.",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//x653.all_in_gold/en-US/icon_0Zb7ymS3RKTpeGpzp5BwMf8dSYwP72raEfqSnKtBNfQ=.png",
@@ -47357,7 +47428,7 @@
         "id_pacchetto": "x653.bullseye",
         "riassunto": "Tabellone segnapunti per tornei di freccette x01",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//x653.bullseye/en-US/icon_TcCEiqkjAtuAa98rx88GTO6cYzL2k14VK9HQzM2Tbu8=.png",
@@ -47420,7 +47491,7 @@
         "id_pacchetto": "xyz.deepdaikon.quinb",
         "riassunto": "A multiplayer reaction game: train your mind and your reflexes while having fun!",
         "categorie": [
-            "Games"
+            "Action Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//xyz.deepdaikon.quinb/en-US/icon_PI7HCSDkOiTInZY8Q7nTJZvTvZU3tb5mrPdBtu4y3c4=.png",
@@ -47432,7 +47503,7 @@
         "id_pacchetto": "xyz.deepdaikon.xeonjia",
         "riassunto": "Save the world by solving ice puzzles and defeating enemies!",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//xyz.deepdaikon.xeonjia/en-US/icon_1bqqbKPRcCv_2pm6z8W2kKzjDnmSBDCiDNEY5krl_og=.png",
@@ -47444,7 +47515,7 @@
         "id_pacchetto": "xyz.deepdaikon.zoysii",
         "riassunto": "A simple logic game: find the best path to delete every number in a square space",
         "categorie": [
-            "Games"
+            "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//xyz.deepdaikon.zoysii/en-US/icon_Q0smhUDLZZW0E-4TQqHLiGZnhH23LsXkX8OR859beQA=.png",
@@ -47689,7 +47760,7 @@
         "id_pacchetto": "zatrit.skinbread",
         "riassunto": "Lightweight application for viewing Minecraft skins from different services.",
         "categorie": [
-            "Games"
+            "Game Helper"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//zatrit.skinbread/en-US/icon_RZOpShaJSdRhZujBxfc9wNnaS2lTQAMdJ2l2CwLy5to=.png",
