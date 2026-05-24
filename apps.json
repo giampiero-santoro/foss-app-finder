@@ -5628,6 +5628,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "MESH",
+        "id_pacchetto": "com.barghest.mesh",
+        "riassunto": "Censorship-resisting overlay network for digital forensics",
+        "categorie": [
+            "Connectivity",
+            "Security",
+            "VPN & Proxy"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.barghest.mesh/en-US/icon_hsDDV6HJzUWD0_XuzXqiWKqhfVAnKucHJY2V4YzjO5E=.png",
+        "url_codice_sorgente": "https://github.com/BARGHEST-ngo/MESH",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "OnePlus Laser Tool",
         "id_pacchetto": "com.bartixxx.distancemeter",
         "riassunto": "Professional laser rangefinder for OnePlus devices with Laser AF hardware.",
@@ -6878,6 +6892,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.cliffracertech.soundaura/en-US/icon_E9RRMQu8a70nYVTTIqy2OamhM0q0aLgZLJJgZyx7xbE=.png",
         "url_codice_sorgente": "https://github.com/CliffracerMerchant/SoundAura",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "CO3",
+        "id_pacchetto": "com.co3",
+        "riassunto": "Feature riche, open source, AO3 mobile client",
+        "categorie": [
+            "Reading"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.co3/en-US/icon_m5hEYEUQ5wIZyamrVSZDrxmuzY2hzzOlUqT-QJdS6wM=.png",
+        "url_codice_sorgente": "https://github.com/tbvns/CO3",
         "ultimo_aggiornamento": null
     },
     {
@@ -11074,6 +11100,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Turns of War",
+        "id_pacchetto": "com.github.msx80.turnsofwar",
+        "riassunto": "A pixelart styled turn based strategy game",
+        "categorie": [
+            "Strategy Game"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.github.msx80.turnsofwar/en-US/icon_EUgOevalpwVDBGjy3g0UCP0ugimtWH3iRa3tkGj62-A=.png",
+        "url_codice_sorgente": "https://github.com/msx80/turnsofwar",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Coffee",
         "id_pacchetto": "com.github.muellerma.coffee",
         "riassunto": "Keep display awake",
@@ -12720,6 +12758,19 @@
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.inky.fitnesscalendar/en-US/icon_VPAHCznq49-fyR3OieOJceh6G4aMJd-YGIOSgRrHZt4=.png",
         "url_codice_sorgente": "https://github.com/Inky-developer/FitnessCalendar",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Braincup",
+        "id_pacchetto": "com.inspiredandroid.braincup",
+        "riassunto": "Train your focus, memory and math skills.",
+        "categorie": [
+            "Educational Game",
+            "Science & Education"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.inspiredandroid.braincup/en-US/icon_F5DscL61kI8IIfZw0utoQi6GSKtX-TvA3enMKxwnLxU=.png",
+        "url_codice_sorgente": "https://github.com/SimonSchubert/Braincup",
         "ultimo_aggiornamento": null
     },
     {
@@ -16502,12 +16553,12 @@
     {
         "nome": "NekoVideo",
         "id_pacchetto": "com.nkls.nekovideo",
-        "riassunto": "Modern video player with folder management, gesture controls and video cutting",
+        "riassunto": "Open-source local video player with folders, private content and DLNA cast",
         "categorie": [
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.nkls.nekovideo/en-US/icon_QYA5gqKrfQQYJtGfwAx7P_B0Y4cxhKMTmJlto_RJ630=.png",
         "url_codice_sorgente": "https://github.com/FellipitoPV/NekoVideo",
         "ultimo_aggiornamento": null
     },
@@ -16988,9 +17039,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Hidroly",
+        "nome": "Hidroly: Water Reminder",
         "id_pacchetto": "com.om1cael.hidroly",
-        "riassunto": "Track your water intake with ease.",
+        "riassunto": "Track your water intake, privately.",
         "categorie": [
             "Habit Tracker",
             "Sports & Health"
@@ -19846,6 +19897,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SSHBorg",
+        "id_pacchetto": "com.sshborg",
+        "riassunto": "SSH & SFTP client for cyborgs and Android. No ads, no tracking, no cloud.",
+        "categorie": [
+            "Remote Access"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/payne1982/sshborg",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ssrDroid",
         "id_pacchetto": "com.ssrlive.ssrdroid",
         "riassunto": "OverTLS & SSRoT Android client",
@@ -21260,7 +21323,7 @@
     {
         "nome": "baresip+",
         "id_pacchetto": "com.tutpro.baresip.plus",
-        "riassunto": "VoIP User Agent app for Android based on baresip SIP library",
+        "riassunto": "SIP and mobile calling and messaging User Agent for Android based on baresip lib",
         "categorie": [
             "Internet",
             "Phone & SMS",
@@ -21499,6 +21562,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vagujhelyigergely.calculatorm3/en-US/icon_22d7Y7qauVIPYvRM_xLn8Yyzh_qGjG-Sr_NslXcN6Uc=.png",
         "url_codice_sorgente": "https://github.com/gergelyvagujhelyi/CalculatorM3",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "InstaDownload",
+        "id_pacchetto": "com.vakarux.instadownload",
+        "riassunto": "Download Instagram reels and photos to your device",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Orang-Studio/InstaDownload",
         "ultimo_aggiornamento": null
     },
     {
@@ -30779,7 +30854,7 @@
     {
         "nome": "Ente Locker",
         "id_pacchetto": "io.ente.locker.fdroid",
-        "riassunto": "Ente Locker is an end-to-end encrypted document storage app",
+        "riassunto": "Store & share important documents privately, and pass them on in emergencies.",
         "categorie": [
             "Cloud Storage & File Sync",
             "File Encryption & Vault",
@@ -30894,6 +30969,20 @@
         "licenza": "MPL-2.0",
         "icona": "https://f-droid.org/repo//io.github.benderblog.traintime_pda/en-US/icon__xTv_mEQR76Sj0e-T5s8qKU4ya9OD7OdjsUY2jVlYO4=.png",
         "url_codice_sorgente": "https://github.com/BenderBlog/traintime_pda",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Timety",
+        "id_pacchetto": "io.github.benji377.timety",
+        "riassunto": "Offline-first productivity, focus, and habit tracking.",
+        "categorie": [
+            "Habit Tracker",
+            "Task",
+            "Time"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.benji377.timety/en-US/icon_MbyiMimHJQhjlPgV0cxgLLuu4H635xNsfmc1sH-u2UQ=.png",
+        "url_codice_sorgente": "https://github.com/Benji377/Timety",
         "ultimo_aggiornamento": null
     },
     {
@@ -34224,6 +34313,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tokn - MFA / 2FA authenticator",
+        "id_pacchetto": "me.diamondforge.tokn",
+        "riassunto": "A simple, private two-factor authenticator.",
+        "categorie": [
+            "Password & 2FA",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//me.diamondforge.tokn/en-US/icon_0srAz6NdcZiYAMrDAeTGGkVhkeRfDogTT-o6AKP5-RU=.png",
+        "url_codice_sorgente": "https://github.com/fthomys/tokn",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "LISTEN.moe",
         "id_pacchetto": "me.echeung.moemoekyun.fdroid",
         "riassunto": "Listen to j-pop and anime music radio 24/7 ad-free",
@@ -34950,6 +35052,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//moe.zzy040330.taffyqsl/en-US/icon_CuU3mT2BMOJiHET9_tvtoi5iOJhlCPyE0kDIJTlHKlI=.png",
         "url_codice_sorgente": "https://github.com/sophiel-meow/TaffyQSL",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Beam",
+        "id_pacchetto": "montafra.beam",
+        "riassunto": "Live battery metrics pinned to your status bar",
+        "categorie": [
+            "Battery"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//montafra.beam/en-US/icon_YNDD4Zq4YEJIl4WjJQSy7AmXjaUV_tr9UrdOiH593DY=.png",
+        "url_codice_sorgente": "https://github.com/montafra/beam",
         "ultimo_aggiornamento": null
     },
     {
