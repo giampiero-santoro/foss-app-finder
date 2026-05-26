@@ -8027,7 +8027,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Files Shortcut",
+        "nome": "File",
         "id_pacchetto": "com.documentsui.shortcut",
         "riassunto": "Open Android's built-in Files app.",
         "categorie": [
@@ -14971,7 +14971,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.markleaf.notes/de-DE/icon_iKCUvFem5MW77aWy-F-iP04PrOqkRiDmwbUQBU98Wj4=.png",
         "url_codice_sorgente": "https://github.com/jeiel85/markleaf-android",
         "ultimo_aggiornamento": null
     },
@@ -15428,6 +15428,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://git.sr.ht/~thestr4ng3r/chiaki",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "PB Schedule Viewer",
+        "id_pacchetto": "com.metalshard.hyperion",
+        "riassunto": "App for viewing event schedules for the Roblox group \"Pinewood Builders\"",
+        "categorie": [
+            "Schedule"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.metalshard.hyperion/en-US/icon_ofIo-a8vaZs43z5k8FllJ7lox3YsDsA0l8yjMR49R2I=.png",
+        "url_codice_sorgente": "https://github.com/themetalshard/PBScheduleViewer",
         "ultimo_aggiornamento": null
     },
     {
@@ -26854,6 +26866,21 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Nextcloud Pantry",
+        "id_pacchetto": "dev.casraf.pantry",
+        "riassunto": "Manage your household — shared lists, photos & notes on your own server.",
+        "categorie": [
+            "Cloud Storage & File Sync",
+            "Note",
+            "Shopping List",
+            "Task"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//dev.casraf.pantry/en-US/icon_9ocRMprNlRQ9litxrxk0dkGaNs0gQYnojP0iUk7vm08=.png",
+        "url_codice_sorgente": "https://github.com/chenasraf/pantry-flutter",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GPTMobile",
         "id_pacchetto": "dev.chungjungsoo.gptmobile",
         "riassunto": "Your all in one chat assistant - Chat with multiple LLMs at once!",
@@ -27002,6 +27029,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.develsinthedetails.eatpoopyoucat/en-US/icon_3xmaMWWIpRuUJsPVC7rs-35lNJM1ALZmkktANAavjq4=.png",
         "url_codice_sorgente": "https://github.com/JamesOsborn-SE/eat-poop-you-cat-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Signet",
+        "id_pacchetto": "dev.digitalgrease.signet",
+        "riassunto": "Verify calls from family, colleagues, sources against deepfake impersonation.",
+        "categorie": [
+            "Phone & SMS",
+            "Security"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.digitalgrease.signet/en-US/icon_42vGAbil6wbPb9yXhgFGQiI2Wxt9xKykSICGsJdjoHk=.png",
+        "url_codice_sorgente": "https://github.com/digital-grease/signet",
         "ultimo_aggiornamento": null
     },
     {
@@ -27446,6 +27486,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//dev.robin.flip_2_dnd/en-US/icon_vCwK1IA6qS8v3T5sZI2jC3tvjR2vUp1fBGWnfvAhnAs=.png",
         "url_codice_sorgente": "https://github.com/robinsrk/Flip_2_DND",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "gc",
+        "id_pacchetto": "dev.scarf.gc",
+        "riassunto": "GitHub Contribution graph widget",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/scarf005/gc",
         "ultimo_aggiornamento": null
     },
     {
@@ -32069,6 +32121,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Drift // Audio",
+        "id_pacchetto": "io.github.probably_oxy.drift",
+        "riassunto": "Ambient sound mixer for sleep and focus on long nights and long flights",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.probably_oxy.drift/phoneScreenshots/icon_T72BPaFL0b5FDc3iHMdrad0SBEjsovFHPrs-CO-uB2s=.png",
+        "url_codice_sorgente": "https://github.com/probably-oxy/drift-audio",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "gpsdRelay",
         "id_pacchetto": "io.github.project_kaat.gpsdrelay",
         "riassunto": "Relay NMEA information from Android to gpsd.",
@@ -33210,7 +33274,7 @@
             "Ebook Reader"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//io.theficos.quire/en-US/icon_qjX7TkAeE5w0NriAVS_ELGR2N1GU5YOikM9O3bZWM5k=.png",
+        "icona": "https://f-droid.org/repo//io.theficos.quire/en-US/icon_wRjrp7C7tB2dzK3xX2EgYBqfhgKhzeMHYL24g3Y8wKI=.png",
         "url_codice_sorgente": "https://github.com/vitofico/quire",
         "ultimo_aggiornamento": null
     },
@@ -33275,6 +33339,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.vertretungsplan.client.android/en-US/icon_KNpADgw3pfYYxMmrp0fJrxuYpZFLgyTt96EokrUQfsY=.png",
         "url_codice_sorgente": "https://codeberg.org/vertretungsplan/client-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "NodeLook",
+        "id_pacchetto": "ir.ammari.nodelook",
+        "riassunto": "A general website checker for users facing internet restrictions.",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//ir.ammari.nodelook/en-US/icon_GxJrgiahLXC4roegadqpMPmTz3aoSDaPcwAuJ7HzTs0=.png",
+        "url_codice_sorgente": "https://github.com/nodelook/android",
         "ultimo_aggiornamento": null
     },
     {
@@ -33373,6 +33449,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//is.xyz.mpv/en-US/icon_majm6xpwWsZ5twn2JJsYZaQuMUEOErcgOnvFqv2EGiw=.png",
         "url_codice_sorgente": "https://github.com/mpv-android/mpv-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "VCMI",
+        "id_pacchetto": "is.xyz.vcmi",
+        "riassunto": "Engine recreation for Heroes of Might and Magic III",
+        "categorie": [
+            "Strategy Game"
+        ],
+        "licenza": "GPL-2.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/vcmi/vcmi",
         "ultimo_aggiornamento": null
     },
     {
@@ -33681,6 +33769,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//jp.nonbili.nora/en-US/icon_-mUDuis5wj0XRSw4vn3dZH-bqHF6L5TtdTH62O8ZcEY=.png",
         "url_codice_sorgente": "https://github.com/nonbili/Nora",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Nori",
+        "id_pacchetto": "jp.nonbili.nori",
+        "riassunto": "Bookmark manager and launcher.",
+        "categorie": [
+            "Bookmark"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/nonbili/Nori",
         "ultimo_aggiornamento": null
     },
     {
@@ -37918,7 +38018,7 @@
         "id_pacchetto": "org.billthefarmer.gridle",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Puzzle Game"
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.gridle/en/icon_7ggek7XqzaYy48he9w1QtER1SO6H93kdE_JKYfO08Tg=.png",
@@ -37930,7 +38030,7 @@
         "id_pacchetto": "org.billthefarmer.gurgle",
         "riassunto": "Gioco di parole",
         "categorie": [
-            "Puzzle Game"
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.gurgle/en/icon_s1Jxulhq6kNu4VbMI5iYfJg5VRLksbdeAdp2JxADxm0=.png",
@@ -38017,7 +38117,8 @@
         "id_pacchetto": "org.billthefarmer.solver",
         "riassunto": "Risolvi le partite di Wordle e Gurgle",
         "categorie": [
-            "Puzzle Game"
+            "Game Helper",
+            "Word Game"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.solver/en/icon_XKhJg6I1yfXmnUzU0ENW1TX_Fe579Jxpc2DpaCvUeZw=.png",
@@ -39018,7 +39119,7 @@
         "id_pacchetto": "org.eehouse.android.xw4",
         "riassunto": "Un gioco simile a Scarabeo",
         "categorie": [
-            "Puzzle Game"
+            "Word Game"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -40627,6 +40728,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Volume Icon",
+        "id_pacchetto": "org.koitharu.volumeicon",
+        "riassunto": " Tiny Android app that show a volume icon in the status bar",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.koitharu.volumeicon/en-US/icon_JV8fUIaG8Fc5T87m8FrbBMqCQRQ20IDhJOTPeT9TwvE=.png",
+        "url_codice_sorgente": "https://github.com/Koitharu/VolumeIcon",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Kolab Notes",
         "id_pacchetto": "org.kore.kolabnotes.android",
         "riassunto": "Scrivere note e sincronizzarle con Kolab",
@@ -41593,7 +41706,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//org.onekash.kashcal/en-US/icon_s92e_Luxs6_tp4G8ENcZXxxMCY8j2GVktFAmiNsD52Y=.png",
+        "icona": "https://f-droid.org/repo//org.onekash.kashcal/en-US/icon_al_9rP3z4Y0r6p22lyHQlq_1Jp6BqCNirE2u53RqvKM=.png",
         "url_codice_sorgente": "https://github.com/KashCal/KashCal",
         "ultimo_aggiornamento": null
     },
@@ -44916,7 +45029,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//player.efis.pfd.ink/en-US/icon_e0F0p5ehhoYamO8DBo_YgFby-CaPv2z3pvjbVaXJ92w=.png",
+        "icona": "https://f-droid.org/repo//player.efis.pfd.ink/en-US/icon_r5v5Tt0UvVAbdjXVDMV8jPBgX2o0qrLos-brBsAC_1k=.png",
         "url_codice_sorgente": "https://gitlab.com/ninelima/kwikEFIS",
         "ultimo_aggiornamento": null
     },
@@ -47586,6 +47699,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//xyz.blorpblorp.app/en-US/icon_IulhGpEOc3vi5bgqnEP0hW-_k9TddEpawNVtymrT3lg=.png",
         "url_codice_sorgente": "https://github.com/Blorp-Labs/blorp",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "LocalCrop",
+        "id_pacchetto": "xyz.cmcdaniel.localcrop",
+        "riassunto": "Find local farms and farmers markets near you using public USDA data.",
+        "categorie": [
+            "Navigation"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://codeberg.org/colem/LocalCrop",
         "ultimo_aggiornamento": null
     },
     {
