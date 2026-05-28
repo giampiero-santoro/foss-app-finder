@@ -555,6 +555,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FloatDeck",
+        "id_pacchetto": "app.floatdeck",
+        "riassunto": "3D parallax live wallpaper with gyroscope sensor support",
+        "categorie": [
+            "Wallpaper"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//app.floatdeck/en-US/icon_KK2uURdlNdWpm2vggkVkrrvd2YXglEzyNOOa2Khmj-E=.png",
+        "url_codice_sorgente": "https://github.com/kxxoling/FloatDeck",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Fluffy",
         "id_pacchetto": "app.fluffy",
         "riassunto": "A TV friendly file manager and archive viewer",
@@ -3095,6 +3107,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tidy",
+        "id_pacchetto": "com.Ace777.tidy",
+        "riassunto": "A personal management app with all necessary features",
+        "categorie": [
+            "Task"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.Ace777.tidy/en-US/icon_xEMh2f_shYNyvkfrw8xMalVVjYyS2v4STq9X5yKbqJE=.png",
+        "url_codice_sorgente": "https://github.com/Gauravkr7488/Tidy",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "OpenTune",
         "id_pacchetto": "com.Arturo254.opentune",
         "riassunto": "A YouTube Music client with Material Design 3, for Android",
@@ -3110,7 +3134,7 @@
     {
         "nome": "Colota - GPS Location Tracker",
         "id_pacchetto": "com.Colota",
-        "riassunto": "Self-hosted GPS tracking with offline support, geofencing and native maps",
+        "riassunto": "Self-hosted GPS tracker. Open source, geofencing, offline mode, no telemetry",
         "categorie": [
             "Location Tracker & Sharer",
             "Navigation"
@@ -5271,19 +5295,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Réseau Discord Artivain",
-        "id_pacchetto": "com.artivain.reseaudiscord",
-        "riassunto": "Simple app to check if a Discord ID is listed on Reseau Discord Artivain API.",
-        "categorie": [
-            "Internet",
-            "Security"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.artivain.reseaudiscord/en-US/icon_D83q7tvqi8wf16h5EvPlBWbEdZTtaDtGMAMbXUvPB-I=.png",
-        "url_codice_sorgente": "https://github.com/GoudronViande24/reseau-discord-app",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Arx Libertatis",
         "id_pacchetto": "com.arxlibertatis",
         "riassunto": "Android port of Arx Libertatis",
@@ -6078,6 +6089,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.bluefirestudios.memeboard/en-US/icon_k9hJIad61BcaYicWfNFnEV9cTNNh9lbRsq_jBtjNKTI=.png",
         "url_codice_sorgente": "https://github.com/THEbluefirestudios/memeboard-fdroid",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "BlueSound Controller",
+        "id_pacchetto": "com.bluesound.bluesoundplayer",
+        "riassunto": "Control BluOS and Sonos multi-room audio players on your network",
+        "categorie": [
+            "Remote Controller"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/rdOxalis/bluesoundplayer",
         "ultimo_aggiornamento": null
     },
     {
@@ -8481,7 +8504,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.eblan.launcher/en-US/icon_-YlG68JAEl12IhTZ58BKFOftjLP4gJDarxUAhMUrUrE=.png",
-        "url_codice_sorgente": "https://github.com/JackEblan/EinsteinLauncher",
+        "url_codice_sorgente": "https://github.com/JackEblan/YagniLauncher",
         "ultimo_aggiornamento": null
     },
     {
@@ -11555,6 +11578,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Proxy Exit",
+        "id_pacchetto": "com.github.vgaj.proxy",
+        "riassunto": "Use your phone's mobile connection as a proxy for desktop browsers.",
+        "categorie": [
+            "VPN & Proxy"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/vgaj/proxy",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Call Counter",
         "id_pacchetto": "com.github.webierta.call_counter",
         "riassunto": "Control of the Plan of outgoing calls and sent sms",
@@ -13872,7 +13907,7 @@
     {
         "nome": "Sapio",
         "id_pacchetto": "com.klee.sapio",
-        "riassunto": "Android Open Source API compatibility",
+        "riassunto": "Android apps that respect you!",
         "categorie": [
             "System"
         ],
@@ -14748,7 +14783,7 @@
             "Money"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.mablanco.pricegrab/en-US/icon_nARGdmi8pnYRWylqGcFDvE2Gy-Rpt0SVMCHuxBgpOAk=.png",
+        "icona": "https://f-droid.org/repo//com.mablanco.pricegrab/en-US/icon_zhHhcklUGdaaACPzJ7A0HOVKr-yZEXB1q_bo-K2qEpE=.png",
         "url_codice_sorgente": "https://github.com/mablanco/pricegrab",
         "ultimo_aggiornamento": null
     },
@@ -15806,6 +15841,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.mookie.circo.23.png",
         "url_codice_sorgente": "https://github.com/MalcolmScruggs/CircoIconPack",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Mooneva Cycle",
+        "id_pacchetto": "com.mooneva.app",
+        "riassunto": "Private, offline menstrual cycle tracker. No account, no cloud.",
+        "categorie": [
+            "Health Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.mooneva.app/en-US/icon_61cN2z5l37qsKlxT02Y-BUaq9O6zJ6616ORBBiy0uLo=.png",
+        "url_codice_sorgente": "https://github.com/aradar46/Mooneva-Cycle-Private-Period-Tracker",
         "ultimo_aggiornamento": null
     },
     {
@@ -17524,6 +17571,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Accessibility Button Launcher",
+        "id_pacchetto": "com.pedronveloso.a11ybutton",
+        "riassunto": "Assign one app to the Android accessibility button or shortcut",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.pedronveloso.a11ybutton/en-US/icon_9jW5OvWJjZCi3GLGPk4s-Rvl1b_JmIf_tBP-icn7NQA=.png",
+        "url_codice_sorgente": "https://github.com/pedronveloso/a11y-button-launcher-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "PennyWise AI",
         "id_pacchetto": "com.pennywiseai.tracker",
         "riassunto": "Private, SMS-powered expense tracker with on-device AI",
@@ -18571,6 +18630,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Grove",
+        "id_pacchetto": "com.resurrect.grove",
+        "riassunto": "Visualize your growth.",
+        "categorie": [
+            "Habit Tracker"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.resurrect.grove/en-US/icon_u8-QGGTE3BFO-x8_7WM6H-9S4h2O08OpQCH_rzZy2Oo=.png",
+        "url_codice_sorgente": "https://github.com/resurrectdev1/grove",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "RetroArch",
         "id_pacchetto": "com.retroarch",
         "riassunto": "Retro games and emulators on your device!",
@@ -19414,14 +19485,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Puzzle Suite",
+        "nome": "Puzzle Games",
         "id_pacchetto": "com.sidhant.puzzle",
         "riassunto": "Minimalist puzzle games - Sudoku, Calc Sprint, Number Match & more",
         "categorie": [
             "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.sidhant.puzzle/en-US/icon_QyZn0NBhNbBAv5Ma1ULzT00AsUfifRJIVrjcXB5jlOQ=.png",
+        "icona": "https://f-droid.org/repo//com.sidhant.puzzle/en-US/icon_QoQwA7ZQvDtF4Fma-qRgwFlbs7dH_kMXeKl-3QFJHhQ=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/puzzle",
         "ultimo_aggiornamento": null
     },
@@ -19884,6 +19955,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Rush Hour",
+        "id_pacchetto": "com.sphericalkat.rushhour",
+        "riassunto": "Mumbai suburban train timetable and live tracking",
+        "categorie": [
+            "Public Transport"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.sphericalkat.rushhour/en-US/icon_8ms4C1cK9NuTmIsABn_2kkHyg8aLaEOa2LQEyQjfuvg=.png",
+        "url_codice_sorgente": "https://git.sr.ht/~sphericalkat/rush-hour",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Carnet",
         "id_pacchetto": "com.spisoft.quicknote",
         "riassunto": "Powerful note taking app with sync and online editor",
@@ -20147,7 +20230,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.sunilpaulmathew.debloater/en-US/icon_Lzm90TSYowtwDxUA8WO1rgMU1TdN8rRcfBMZjwbajhE=.png",
+        "icona": "https://f-droid.org/repo//com.sunilpaulmathew.debloater/en-US/icon_VWSBGWUFHI9_1fwVPntczWfHFhHLe43Vb7VXAxViB4o=.png",
         "url_codice_sorgente": "https://github.com/sunilpaulmathew/De-Bloater",
         "ultimo_aggiornamento": null
     },
@@ -22616,6 +22699,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "xnotes",
+        "id_pacchetto": "com.xnotes",
+        "riassunto": "Handwriting notes and sketching app with stylus support",
+        "categorie": [
+            "Writing"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/shardulvs/xnotes-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Timidity AE",
         "id_pacchetto": "com.xperia64.timidityae",
         "riassunto": "Player MIDI che sfrutta la libreria Timidity++",
@@ -23219,6 +23314,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/cz.antecky.netswitch.5.png",
         "url_codice_sorgente": "https://github.com/tantecky/android/tree/HEAD/NetSwitch",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SPAYD Decoder",
+        "id_pacchetto": "cz.jancejka.spayddecoder",
+        "riassunto": "Offline decoder for Czech SPAYD payment QR codes.",
+        "categorie": [
+            "Money"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Cuchulain/spayd-decoder-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -26595,6 +26702,21 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Volksverpetzer",
+        "id_pacchetto": "de.volksverpetzer.app",
+        "riassunto": "Read Volksverpetzer fact checks, analysis and articles on your mobile phone.",
+        "categorie": [
+            "Internet",
+            "News",
+            "Reading",
+            "Writing"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//de.volksverpetzer.app/de-DE/icon_KMtr8m_SJ9uhMyHqKf4jKb6Z2YZXJCTffxGy8GlKHhw=.png",
+        "url_codice_sorgente": "https://github.com/Volksverpetzer/vvp_app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "BonjourBrowser",
         "id_pacchetto": "de.wellenvogel.bonjourbrowser",
         "riassunto": "Browse Bonjour services for http",
@@ -27283,9 +27405,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "OpenPillReminder",
+        "nome": "OpenPillReminder: Birth Control Pill Tracker",
         "id_pacchetto": "dev.mariinkys.OpenPillReminder",
-        "riassunto": "Open source lady pill tracker for Android",
+        "riassunto": "Open source lady pill (birth control) tracker",
         "categorie": [
             "Sports & Health"
         ],
@@ -30784,6 +30906,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tile Match",
+        "id_pacchetto": "infrared.tilematch",
+        "riassunto": "Match, tap, and clear your way to victory!",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//infrared.tilematch/en-US/icon_vvUD29tQphd6MI2LUjwPggay7T1rNidLFmns0TdyZXU=.png",
+        "url_codice_sorgente": "https://gitlab.com/infrared-developer/tile-match",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Image Compressor",
         "id_pacchetto": "io.ahxxm.ic",
         "riassunto": "Compress JPEG/PNG images using mozjpeg or jpegli offline",
@@ -32803,7 +32937,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.gitlab.meckez.concertdiary/en-US/icon_HoPN5V0W17PwiFHtu7iPBbz3hYncF2uXE4YhXA7PGNM=.png",
+        "icona": "https://f-droid.org/repo//io.gitlab.meckez.concertdiary/en-US/icon_TUJ9dIsII4IRg999mX8n0ENw9vVHz1Gt41xOJovzrCM=.png",
         "url_codice_sorgente": "https://gitlab.com/meckez/concert-diary",
         "ultimo_aggiornamento": null
     },
@@ -40728,6 +40862,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "KnightStalker",
+        "id_pacchetto": "org.knightstalker.app",
+        "riassunto": "Open-source Stalker IPTV client for Android",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://gitlab.com/hc51t/knightstalker",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Volume Icon",
         "id_pacchetto": "org.koitharu.volumeicon",
         "riassunto": " Tiny Android app that show a volume icon in the status bar",
@@ -45017,7 +45163,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//player.efis.pfd/en-US/icon_e0F0p5ehhoYamO8DBo_YgFby-CaPv2z3pvjbVaXJ92w=.png",
+        "icona": "https://f-droid.org/repo//player.efis.pfd/en-US/icon_YRt1e6th7iec5WFXiEs-pKprDQM-nyEOvgpLiCSUzD8=.png",
         "url_codice_sorgente": "https://gitlab.com/ninelima/kwikEFIS",
         "ultimo_aggiornamento": null
     },
@@ -45029,7 +45175,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//player.efis.pfd.ink/en-US/icon_r5v5Tt0UvVAbdjXVDMV8jPBgX2o0qrLos-brBsAC_1k=.png",
+        "icona": "https://f-droid.org/repo//player.efis.pfd.ink/en-US/icon_PN3IvvmTJYf8n6xuQfVnYVxgd1CKLrKDtaYMH40_p2M=.png",
         "url_codice_sorgente": "https://gitlab.com/ninelima/kwikEFIS",
         "ultimo_aggiornamento": null
     },
@@ -45082,6 +45228,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//pro.kherel.selfprivacy/en-US/icon_KqV8lYNuMMaJAAUrk8cnGSeuE-7m0fwgrQiiM8fLCqM=.png",
         "url_codice_sorgente": "https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org.app",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Tune Tangler",
+        "id_pacchetto": "pro.kwiatek.tune_tangler",
+        "riassunto": "Enjoy your music — record, refine, remix, share.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Flower7C3/tune-tangler",
         "ultimo_aggiornamento": null
     },
     {
@@ -46173,6 +46331,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//sh.ikl.liteshort/en-US/icon_mQPvN8duq1wtOg5-zqhG4ybBglJ7HAVAF4_TaRecsxU=.png",
         "url_codice_sorgente": "https://github.com/132ikl/liteshort-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Momentum",
+        "id_pacchetto": "shub39.momentum",
+        "riassunto": "App to make Montages easily",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//shub39.momentum/en-US/icon_C4duU50QwaqENh1j6QvlZ6xYWVsREuwwxesuBgiM3PM=.png",
+        "url_codice_sorgente": "https://github.com/shub39/Momentum",
         "ultimo_aggiornamento": null
     },
     {
@@ -47551,6 +47721,20 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//vadimerenkov.aucards/en-US/icon_XgVxdV7mHqwo9YcVLI_slkMf1bWb6YzwEw4NYitK62E=.png",
         "url_codice_sorgente": "https://github.com/vadimerenkov/Aucards",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Autasker",
+        "id_pacchetto": "vadimerenkov.autasker",
+        "riassunto": "A simple but robust task manager available on Android, Windows and Linux.",
+        "categorie": [
+            "Calendar & Agenda",
+            "Habit Tracker",
+            "Task"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/vadimerenkov/Autasker",
         "ultimo_aggiornamento": null
     },
     {
