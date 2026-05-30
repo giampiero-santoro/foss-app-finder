@@ -667,6 +667,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Maskan — Private AI Chat",
+        "id_pacchetto": "app.maskan.chat",
+        "riassunto": "Private BYOK AI chat. 11 providers, voice, image, export. 3 languages.",
+        "categorie": [
+            "AI Chat"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.maskan.chat/ar/icon_9jkaKflSvQlpCR9MC__s7Pfzb5B0P2nwaXtrxefKtMM=.png",
+        "url_codice_sorgente": "https://github.com/humammalhas/maskan",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "BitBanana",
         "id_pacchetto": "app.michaelwuensch.bitbanana",
         "riassunto": "Unleash your Bitcoin Lightning node!",
@@ -861,7 +873,7 @@
         "id_pacchetto": "app.pomodorot",
         "riassunto": "A simple timer which pauses when not in view",
         "categorie": [
-            "Time"
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//app.pomodorot/en-US/icon_RWx2f5IvOAP6g0QHLEyroZzKvp9NSTf2j8J4tZM-m-A=.png",
@@ -1756,6 +1768,7 @@
         "id_pacchetto": "biz.binarysolutions.mindfulnessmeditation",
         "riassunto": "Selection of audio guides for mindfulness meditation",
         "categorie": [
+            "Meditation",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -1768,6 +1781,7 @@
         "id_pacchetto": "biz.binarysolutions.mindfulscale",
         "riassunto": "Find out how mindful you are on a scale of 1 to 6",
         "categorie": [
+            "Meditation",
             "Sports & Health"
         ],
         "licenza": "MIT",
@@ -2038,7 +2052,8 @@
         "riassunto": "A time tracking app that respects your privacy without being fancy.",
         "categorie": [
             "Time",
-            "Time Tracker"
+            "Time Tracker",
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//ca.hamaluik.timecop/en-US/icon_V5f15Qn4qPEKTlBFGESdjdoSzwVp1ByxvabboYUfgZM=.png",
@@ -2063,6 +2078,7 @@
         "riassunto": "Progression workout journal for multiple weight training programs",
         "categorie": [
             "Sports & Health",
+            "Timer",
             "Workout"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -3841,7 +3857,8 @@
         "id_pacchetto": "com.alaskalinuxuser.hourglass",
         "riassunto": "Imposta timer variabili con allarme sonoro e vibrazione",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.alaskalinuxuser.hourglass.6.png",
@@ -4320,7 +4337,8 @@
         "id_pacchetto": "com.antoinelabpixel.boxingclock",
         "riassunto": "Interval timer for boxing training with audio cues and configurable rounds.",
         "categorie": [
-            "Sports & Health"
+            "Sports & Health",
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.antoinelabpixel.boxingclock/en-US/icon_m0W2WFbODl04_29l7zCXSl5D5KRFeg4CvUy3WzE2ENs=.png",
@@ -5198,7 +5216,8 @@
         "id_pacchetto": "com.apps.adrcotfas.goodtime",
         "riassunto": "Timer di produttività progettato per tenervi sulla buona strada e non distrarvi",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -5467,6 +5486,7 @@
         "categorie": [
             "Sports & Health",
             "Time",
+            "Timer",
             "Workout"
         ],
         "licenza": "0BSD",
@@ -5856,7 +5876,8 @@
         "riassunto": "Alarm, clock, timer and stopwatch mode",
         "categorie": [
             "Clock",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.best.deskclock/en-US/icon_JSi6bQGhI7bk9AbCKwtjAYdoSKHGqpQ7MY1bIstMENs=.png",
@@ -6021,6 +6042,7 @@
         "riassunto": "A simple timer for your workouts, built with Flutter!",
         "categorie": [
             "Sports & Health",
+            "Timer",
             "Workout"
         ],
         "licenza": "MIT",
@@ -6120,7 +6142,8 @@
         "id_pacchetto": "com.bnyro.clock",
         "riassunto": "Privacy focused clock app build with MD3",
         "categorie": [
-            "Clock"
+            "Clock",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.bnyro.clock/en-US/icon_6PxGKZDqfhBe7uuX9dlmizPE7bZVwScK9-Jr5Bdv-mM=.png",
@@ -6303,6 +6326,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Fatto",
+        "id_pacchetto": "com.brokenpip3.fatto",
+        "riassunto": "your Taskwarrior Android companion",
+        "categorie": [
+            "Task"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.brokenpip3.fatto/android/icon_x2s15IK4GagggLzU-1f8SmvmsYTPQfkfvlLT34qb7ZY=.png",
+        "url_codice_sorgente": "https://github.com/brokenpip3/fatto",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Just (Video) Player",
         "id_pacchetto": "com.brouken.player",
         "riassunto": "Semplice lettore video basato sulla libreria ExoPlayer",
@@ -6383,7 +6418,8 @@
         "id_pacchetto": "com.buzbuz.smartautoclicker",
         "riassunto": "Automating clicks based on what is displayed",
         "categorie": [
-            "System"
+            "System",
+            "Timer"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//com.buzbuz.smartautoclicker/en-US/icon_z13taPHqDPZUJ6Cmi4D4-mJ7jZUDODEPNZobLcArC-w=.png",
@@ -6786,7 +6822,8 @@
         "id_pacchetto": "com.chess.clock",
         "riassunto": "Adjust your favorite timer to play chess online with friends!",
         "categorie": [
-            "Game Helper"
+            "Game Helper",
+            "Timer"
         ],
         "licenza": "MPL-2.0",
         "icona": "https://f-droid.org/repo//com.chess.clock/en-US/icon_yG-JBN98fErc54yIUUAtB-6HAMXOVt7aueYykNgVMyA=.png",
@@ -6798,7 +6835,8 @@
         "id_pacchetto": "com.chessclock.android",
         "riassunto": "Due timer per gli scacchi toccabili",
         "categorie": [
-            "Game Helper"
+            "Game Helper",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.chessclock.android.31.png",
@@ -6915,6 +6953,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.cliffracertech.soundaura/en-US/icon_E9RRMQu8a70nYVTTIqy2OamhM0q0aLgZLJJgZyx7xbE=.png",
         "url_codice_sorgente": "https://github.com/CliffracerMerchant/SoundAura",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Cloudbase Predictor",
+        "id_pacchetto": "com.cloudbasepredictor",
+        "riassunto": "Weather forecasts for soaring and free-flight pilots",
+        "categorie": [
+            "Weather"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/CloudbasePredictor/CloudbasePredictor",
         "ultimo_aggiornamento": null
     },
     {
@@ -8165,15 +8215,15 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Gallery",
+        "nome": "ReFra",
         "id_pacchetto": "com.dot.gallery",
-        "riassunto": "Light-weight Media Gallery",
+        "riassunto": "ReFra — A modern, open-source media gallery",
         "categorie": [
             "Gallery",
             "Graphics"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.dot.gallery/en-US/icon_EkrKeTKezFQEYmeiF-cixwfwxnMD6aUotlhisDHWcng=.png",
+        "icona": "https://f-droid.org/repo//com.dot.gallery/en-US/icon_poVCaExXhiJa_kRsVGmCdIjXXmHG-YkJtckk9SjiFHs=.png",
         "url_codice_sorgente": "https://github.com/IacobIonut01/Gallery",
         "ultimo_aggiornamento": null
     },
@@ -8811,6 +8861,7 @@
         "id_pacchetto": "com.enjoyingfoss.om",
         "riassunto": "Meditare consapevolmente per aumentare l'intelligenza emotiva",
         "categorie": [
+            "Meditation",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -9293,7 +9344,8 @@
         "riassunto": "App that counts, beeps, and helps with repeating tasks, such as at the gym.",
         "categorie": [
             "Sports & Health",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "EUPL-1.2",
         "icona": "https://f-droid.org/repo//com.exner.tools.fototimer/en-US/icon_WyOCbAfChm5t06sgnNCnFphb-B7EKtArtfZkL7Wx-4w=.png",
@@ -9355,8 +9407,10 @@
         "id_pacchetto": "com.exner.tools.meditationtimer",
         "riassunto": "App that counts, beeps, and helps with repeating tasks, such as meditation.",
         "categorie": [
+            "Meditation",
             "Sports & Health",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "EUPL-1.2",
         "icona": "https://f-droid.org/repo//com.exner.tools.meditationtimer/en-US/icon_fhqKaTWSlwNjvxJz-tKBTztzLiFIgffw5RXp-RpCSMM=.png",
@@ -10031,7 +10085,8 @@
         "id_pacchetto": "com.futsch1.medtimer",
         "riassunto": "Medication and pill reminder with log, fully offline and privacy focused",
         "categorie": [
-            "Sports & Health"
+            "Sports & Health",
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.futsch1.medtimer/en-US/icon_xLgkIq8ircRfYUyaODGW0Li4WgzWWPdrhrGaO9ZKVSU=.png",
@@ -10217,7 +10272,8 @@
         "riassunto": "A precise and minimal timer for HEMA training and sparring.",
         "categorie": [
             "Sports & Health",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.gdf.hema_timer/en-US/icon_7P8iqYxjwx8TXvqEunLowLWJuCtzkJVrRvhj0EXnDWk=.png",
@@ -10556,6 +10612,7 @@
         "id_pacchetto": "com.github.ashutoshgngwr.noice",
         "riassunto": "Focus, meditate and relax with natural calming noise.",
         "categorie": [
+            "Meditation",
             "Multimedia",
             "Sports & Health"
         ],
@@ -11199,7 +11256,8 @@
         "id_pacchetto": "com.github.muellerma.tabletoptools",
         "riassunto": "Handy tool collection for tabletop games",
         "categorie": [
-            "Game Helper"
+            "Game Helper",
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.github.muellerma.tabletoptools/en-US/icon_3zPJqeJ_LtzZQq0Z-RbJcbJ_qbB7aLvYBhcs8nZ7QUs=.png",
@@ -12823,7 +12881,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8494 manual pages, 28 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8506 manual pages, 28 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -13292,7 +13350,9 @@
         "id_pacchetto": "com.jithware.brethap",
         "riassunto": "Control your breathing during meditation.",
         "categorie": [
-            "Sports & Health"
+            "Meditation",
+            "Sports & Health",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.jithware.brethap/en-US/icon_YUG7fh37oy5VLB19N5z373xOkwmlAFfGF0TEx0hTupg=.png",
@@ -13370,6 +13430,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.jmstudios.redmoon/en-US/icon_OopDB8V1yMtnFsnQg3yeVCzjf3gvLa540T_m9fj0uFs=.png",
         "url_codice_sorgente": "https://github.com/LibreShift/red-moon",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "DriveSoberly",
+        "id_pacchetto": "com.johanpy.drivesoberly",
+        "riassunto": "Alcohol blood rate computer for driving",
+        "categorie": [
+            "Calculator",
+            "Health Manager"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.johanpy.drivesoberly/en-US/icon_3N9aV6_lpF69FrLbVJD3z3bGWE_R4lSjeXDs8uUb5bc=.png",
+        "url_codice_sorgente": "https://github.com/JohanPy/DriveSoberly",
         "ultimo_aggiornamento": null
     },
     {
@@ -13802,6 +13875,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Solo Forge",
+        "id_pacchetto": "com.kbul.spicycrab",
+        "riassunto": "Local-first fasting, food, weight, and workout tracker",
+        "categorie": [
+            "Diet",
+            "Health Manager",
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/kirilan/SoloForge",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CaptureSposed",
         "id_pacchetto": "com.keshav.capturesposed",
         "riassunto": "Block Android's Screenshot and Screen Recording Detection APIs",
@@ -13934,7 +14021,9 @@
         "id_pacchetto": "com.kmac5dev.mindfulnotifier",
         "riassunto": "A mindfulness bell with configurable text notifications, scheduling, and sound",
         "categorie": [
-            "Sports & Health"
+            "Meditation",
+            "Sports & Health",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kmac5dev.mindfulnotifier/en-US/icon_meXaPjzuWxMHNjhkuywkcXgibBBBMfsl2yfkrWXXTYg=.png",
@@ -14303,7 +14392,8 @@
             "Internet",
             "Multimedia",
             "Science & Education",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.leestarb.fourthtools/en-US/icon_5WNG6vEqzR6XX4lo1_ntuHpAjUz-t3qTDSWf4fcQZgk=.png",
@@ -14582,7 +14672,7 @@
             "Phone & SMS"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.lorenzomarci.sosring/en-US/icon_9oeVZtoQxUJ8S5Om5qqJiIoxJo57l0mUj_YWSbyS-8I=.png",
         "url_codice_sorgente": "https://github.com/JackRushante/SOSRing",
         "ultimo_aggiornamento": null
     },
@@ -14859,7 +14949,8 @@
         "riassunto": "This app emulates manual gestures to power off the phone.",
         "categorie": [
             "System",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.maforn.timedshutdown/en-US/icon_AC1agaH0G_PFV1r3wydUzRGmPNREeemwPrngZ7ulSlU=.png",
@@ -15307,7 +15398,8 @@
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Time",
-            "Time Tracker"
+            "Time Tracker",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mcsnowflake.worktimer/android/icon_2ulxYoOyPvurF6rw-fHZdyx3Ys-_1ohNUVVvyih_wEM=.png",
@@ -15724,6 +15816,7 @@
         "id_pacchetto": "com.mmazzarolo.breathly",
         "riassunto": "Un modo semplice per concentrarsi sul proprio respiro",
         "categorie": [
+            "Meditation",
             "Sports & Health"
         ],
         "licenza": "MPL-2.0",
@@ -15814,7 +15907,7 @@
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.monkopedia.healthdisconnect/en-US/icon_yOU3UFxUJ8bu-MGdP5kieta2K84jUABs0dkd3BXGFOU=.png",
         "url_codice_sorgente": "https://github.com/Monkopedia/health-disconnect",
         "ultimo_aggiornamento": null
     },
@@ -16151,7 +16244,8 @@
         "id_pacchetto": "com.mzhang.cleantimer",
         "riassunto": "A simple timer for speedsolving Rubik's cubes and other twisty puzzles.",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.mzhang.cleantimer.2.png",
@@ -16163,7 +16257,8 @@
         "id_pacchetto": "com.nathanatos.Cuppa",
         "riassunto": "Cronometra il tuo tè mentre è in infusione",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//com.nathanatos.Cuppa/en-US/icon_ba2gciUiOmK713oD8QuxfP-hHgpDeRNeRa_xML3b8Vc=.png",
@@ -16270,6 +16365,18 @@
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//com.neumorphic.calculator/en-US/icon_vK8z5_ESCkTirctLKFz1GQsAx6V6e_UijQrAeibYr7E=.png",
         "url_codice_sorgente": "https://github.com/belelaritra/Neumorphic_Calculator",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Agora",
+        "id_pacchetto": "com.newoether.agora",
+        "riassunto": "BYOK LLM client with multi-provider access, agentic workflows, remote control",
+        "categorie": [
+            "AI Chat"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/newo-ether/Agora",
         "ultimo_aggiornamento": null
     },
     {
@@ -16750,6 +16857,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "RKNHardering",
+        "id_pacchetto": "com.notcvnt.rknhardering",
+        "riassunto": "Detects VPN and proxy usage on Android using RKN methodology",
+        "categorie": [
+            "Network Analyzer",
+            "Security"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/xtclovver/RKNHardering",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Note Crypt Pro",
         "id_pacchetto": "com.notecryptpro",
         "riassunto": "Tieni i tuoi appunti al sicuro",
@@ -16908,8 +17028,10 @@
         "id_pacchetto": "com.nyxkn.meditation",
         "riassunto": "An essential meditation timer",
         "categorie": [
+            "Meditation",
             "Sports & Health",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.nyxkn.meditation/en-US/icon_yPGTmK_2koB9HHcYcbNxVlA69GrKW6fDMtYwhd9-VH4=.png",
@@ -17115,7 +17237,8 @@
         "id_pacchetto": "com.omelan.cofi",
         "riassunto": "Open-source coffee timer. Easy-to-use interface. Perfect cup every time!",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.omelan.cofi/en-US/icon_NLCBaoq0y2OeOH8XR1g2kyBSSiLpotQrA6XZgql7yts=.jpg",
@@ -17571,6 +17694,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Pearlnode",
+        "id_pacchetto": "com.pearlnode",
+        "riassunto": "Control Shelly smart home devices on your local network. No cloud, no account.",
+        "categorie": [
+            "Remote Controller"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.pearlnode/en-US/icon_4swUxfZMwzn8fXfkDpM1QtSrcIBMtQRsxNtHCnkEJsE=.png",
+        "url_codice_sorgente": "https://github.com/vandah/pearlnode",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Accessibility Button Launcher",
         "id_pacchetto": "com.pedronveloso.a11ybutton",
         "riassunto": "Assign one app to the Android accessibility button or shortcut",
@@ -17684,6 +17819,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/jeremymarch/HoplitePolytonicKeyboardAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "openZinkBooth",
+        "id_pacchetto": "com.photo.openzinkbooth",
+        "riassunto": "An easy-to-use photo booth app for capturing and printing with HP Sprocket",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.photo.openzinkbooth/en-US/icon_phSny7o-237hMx8D8tdQXNRZxViXhdvFBrskgX8LUz0=.png",
+        "url_codice_sorgente": "https://github.com/oliexdev/openZinkBooth",
         "ultimo_aggiornamento": null
     },
     {
@@ -18511,7 +18658,8 @@
         "riassunto": "Timer per lavoro, studio e migliori abitudini quotidiane.",
         "categorie": [
             "Time",
-            "Time Tracker"
+            "Time Tracker",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.razeeman.util.simpletimetracker/en-US/icon_7oB4g6VsjvCtBikg1TQr_JEJnpzZwEBG-LZJSACAUgM=.png",
@@ -19199,7 +19347,7 @@
             "Security"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.securescreen.app/en-US/icon_uqdcYM7VYVfKJUHKDrTX7ottQzfbxWQYx-73WYlkdZk=.png",
         "url_codice_sorgente": "https://github.com/adikul1023/SecureScreen",
         "ultimo_aggiornamento": null
     },
@@ -19359,7 +19507,8 @@
         "id_pacchetto": "com.sesu8642.infusion_timer",
         "riassunto": "Tea timer for Gong Fu and western style brewing for true enthusiasts.",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.sesu8642.infusion_timer/en-US/icon_ADfFnvGnhYJzdTDTFZfrcViFaQvPZFg79NpRlyemlYs=.png",
@@ -19741,7 +19890,8 @@
         "riassunto": "Timer, which activates the devices standby mode",
         "categorie": [
             "Sports & Health",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -20281,7 +20431,9 @@
             "Bookmark",
             "Note",
             "Task",
-            "Time Tracker"
+            "Time",
+            "Time Tracker",
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.superproductivity.superproductivity/en-US/icon_FcxgdDj9JZBXzVknfabEpswSa3IOdU-Nte678RgVEso=.png",
@@ -20310,6 +20462,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.svenjacobs.app.leon/en-US/icon_0TpKYOySnqGg3Zf5j2DvaPsQPvwixVKjjeUnG5gMJZ4=.png",
         "url_codice_sorgente": "https://github.com/svenjacobs/leon",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Swap",
+        "id_pacchetto": "com.swap.app",
+        "riassunto": "Share files on LAN from Android to any browser",
+        "categorie": [
+            "File Transfer"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Mobinshahidi/swap",
         "ultimo_aggiornamento": null
     },
     {
@@ -20539,6 +20703,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Privamatic",
+        "id_pacchetto": "com.techtrest.privamatic",
+        "riassunto": "Know your privacy score. Fix what matters. No cloud, no tracking.",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/techtrest/privamatic",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Share to Clipboard",
         "id_pacchetto": "com.tengu.sharetoclipboard",
         "riassunto": "A way to copy to clipboard straight from the share menu!",
@@ -20706,6 +20882,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.theripper.cb_app/en-US/icon_Kg9FGH_xP5nwQi2XywYevC6IFeYfbIb4l3YoCXdeVS4=.png",
         "url_codice_sorgente": "https://github.com/printpagestopdf/cb_app",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Slow Mail",
+        "id_pacchetto": "com.theripper.slowmail",
+        "riassunto": "Slow Mail is an Android email client for reading and composing emails",
+        "categorie": [
+            "Email"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.theripper.slowmail/en-US/icon_dP6aMzajBagMMuRQFeTKOK19nG7YzsrDXoVUEpVyf0Q=.png",
+        "url_codice_sorgente": "https://github.com/printpagestopdf/slow_mail",
         "ultimo_aggiornamento": null
     },
     {
@@ -20958,6 +21146,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Quick Search",
+        "id_pacchetto": "com.tk.quicksearch",
+        "riassunto": "Search apps, contacts, files, settings, calendar, and the web from one bar",
+        "categorie": [
+            "Launcher",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.tk.quicksearch/en-US/icon_GPem7bqVYsRYknNx7blv9siSQ1VwoRh5VFzEVxp5PVg=.png",
+        "url_codice_sorgente": "https://github.com/teja2495/quick-search",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "TkTon Wallet",
         "id_pacchetto": "com.tkton.wallet",
         "riassunto": "TkTon is a wallet for TON blockchain",
@@ -21064,7 +21265,8 @@
         "id_pacchetto": "com.tomatodev.timerdroid",
         "riassunto": "Use multiple timers",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.tomatodev.timerdroid.1412312.png",
@@ -21919,7 +22121,8 @@
         "riassunto": "Modern and powerful clock, alarms, timer and stopwatch.",
         "categorie": [
             "Clock",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.vicolo.chrono/en-US/icon_KJ7swoGa9nTj811HxagjyxqqinOLywmo12bmmXKQjQY=.png",
@@ -22376,6 +22579,7 @@
         "riassunto": "Track your workouts and progress with the 5/3/1 method.",
         "categorie": [
             "Sports & Health",
+            "Timer",
             "Workout"
         ],
         "licenza": "GPL-3.0-only",
@@ -24650,7 +24854,8 @@
         "id_pacchetto": "de.jepfa.bdt",
         "riassunto": "A timer with intermediate notifications",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.jepfa.bdt/en-US/icon_9n1mfbLQs767ZxjIMPCLif1TjqJmmHgW1JImO_tBWi0=.png",
@@ -24942,7 +25147,8 @@
             "Internet",
             "Recipe Manager",
             "Shopping List",
-            "Sports & Health"
+            "Sports & Health",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.kitshn.android/en-US/icon_KDwu4yHOCStyP2LD4Lj90QVwS9UscFzFcGCjEp_YSlY=.png",
@@ -25101,6 +25307,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.live.gdev.timetracker/en-US/icon_01CMsAU9Ls5jioNkNyB20phO3E88evK5SR_lMw7HWcs=.png",
         "url_codice_sorgente": "https://github.com/gsantner/kimai-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "LoloTrans",
+        "id_pacchetto": "de.lolo.lolotrans",
+        "riassunto": "Floating-bubble translator with on-device ML Kit translation",
+        "categorie": [
+            "Translation & Dictionary"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/immerzu/LoloTrans",
         "ultimo_aggiornamento": null
     },
     {
@@ -26075,7 +26293,7 @@
             "Public Transport"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140003.png",
+        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140004.png",
         "url_codice_sorgente": "https://gitlab.com/oeffi/oeffi",
         "ultimo_aggiornamento": null
     },
@@ -27590,6 +27808,7 @@
         "categorie": [
             "Sports & Health",
             "Time",
+            "Timer",
             "Workout"
         ],
         "licenza": "MIT",
@@ -27806,7 +28025,8 @@
         "id_pacchetto": "dubrowgn.microtimer",
         "riassunto": "A tiny, microwave-inspired timer app for Android",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//dubrowgn.microtimer/en-US/icon_UkqiS0N9iKz7Sxtx5l9TbENKOAV1PnuydEE1JMdlk4E=.png",
@@ -28571,7 +28791,8 @@
         "id_pacchetto": "eu.raulmorales.kefircontrol",
         "riassunto": "Minimalist app to track milk kefir, water kefir, and kombucha fermentation times",
         "categorie": [
-            "Sports & Health"
+            "Sports & Health",
+            "Timer"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.raulmorales.kefircontrol/en-US/icon_Wz2LVarexLGdsgXR02AHnKnzl_DJpAIkAlcVC2m3bzw=.png",
@@ -28962,6 +29183,7 @@
         "id_pacchetto": "eu.ziclaud.iremibreathingapp",
         "riassunto": "App that gives breathing exercises to reduce anxiety",
         "categorie": [
+            "Meditation",
             "Science & Education",
             "Sports & Health"
         ],
@@ -28977,7 +29199,8 @@
         "categorie": [
             "Recipe Manager",
             "Science & Education",
-            "Sports & Health"
+            "Sports & Health",
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//eu.zimbelstern.tournant/en-US/icon_YMhRcgjyhnLoZspcVyaXl0Nw0kYMQ_jeaIaNbUvoFWQ=.png",
@@ -29633,6 +29856,7 @@
         "riassunto": "Customisable HIIT timer with animated exercises",
         "categorie": [
             "Sports & Health",
+            "Timer",
             "Workout"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -29645,7 +29869,8 @@
         "id_pacchetto": "fr.smarquis.sleeptimer",
         "riassunto": "Simplest Sleep Timer",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//fr.smarquis.sleeptimer/en-US/icon_kfBbfbhgibf99d7yYMFhg2_9_8yXwOXF_tt8Oj5qgs4=.png",
@@ -30376,7 +30601,7 @@
             "Voice & Video Chat"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//im.narayana.another/en-US/icon_Gd29YYcOViXFC4B-51u0n8ry8eBdvvdTSgvVn1cX7G0=.png",
+        "icona": "https://f-droid.org/repo//im.narayana.another/en-US/icon_de5h_6YcQ0cBp3SXnjvxBXHd-TMf5bWE3_b15F8Qcxc=.png",
         "url_codice_sorgente": "https://dev.narayana.im/narayana/anotherim",
         "ultimo_aggiornamento": null
     },
@@ -31341,6 +31566,7 @@
         "categorie": [
             "Sports & Health",
             "Time",
+            "Timer",
             "Workout"
         ],
         "licenza": "GPL-3.0-only",
@@ -31647,6 +31873,7 @@
         "riassunto": "Tracker per allenamento a corpo libero - crea e personalizza i tuoi esercizi",
         "categorie": [
             "Sports & Health",
+            "Timer",
             "Workout"
         ],
         "licenza": "GPL-3.0-only",
@@ -31721,7 +31948,8 @@
         "riassunto": "Flexible interval timers for sports training with dynamic duration control",
         "categorie": [
             "Sports & Health",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//io.github.hitchclimber.universaltimers/en-US/icon_jevNlf9kuNZQL87exAInp89H6iJ8BWOA8QCQcpj2FJs=.png",
@@ -31864,6 +32092,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.karino2.texttl/en-US/icon_ZAkKE27D_D1ZjmJQSZCXEizv1WW2Bsh5Ovn90Z6oM8g=.png",
         "url_codice_sorgente": "https://github.com/karino2/TextTL",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Haven",
+        "id_pacchetto": "io.github.kennethchoinfosec.haven",
+        "riassunto": "Isolate and run multiple instances of apps using Work Profiles",
+        "categorie": [
+            "App Manager",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.kennethchoinfosec.haven/en-US/icon_IPmHNpP-mSG9YYTzOU45BTiowKujqpSmScv_q5GAtuI=.png",
+        "url_codice_sorgente": "https://github.com/Kenneth-Cho-InfoSec/Haven",
         "ultimo_aggiornamento": null
     },
     {
@@ -33200,6 +33441,7 @@
         "id_pacchetto": "io.naox.inbe",
         "riassunto": "A meditation app to guide and track your Wim Hof Breathing practice",
         "categorie": [
+            "Meditation",
             "Sports & Health",
             "Time"
         ],
@@ -33553,7 +33795,8 @@
         "riassunto": "A modern Pomodoro timer and task manager.",
         "categorie": [
             "Task",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//ir.shahriaarrr.tomodoro/en-US/icon_6TV0vnmfxkRJOn1xXdt94Ppmi8oCU35DGJCSfZ0HhUE=.png",
@@ -34437,7 +34680,8 @@
         "categorie": [
             "Habit Tracker",
             "Science & Education",
-            "Task"
+            "Task",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//me.ahmetcetinkaya.whph/cs-CZ/icon_tpPTqqEGIdreAhCa15py36S-PiU0HDONw1S8SrfdG1s=.png",
@@ -34578,7 +34822,8 @@
         "riassunto": "Lock the screen after a timer runs out.",
         "categorie": [
             "Sports & Health",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//me.gloeckl.fallasleep/en-US/icon_hZpd-nfO8BdW8dcNOmiZqFGB63dGtISRaYJWFPm8_0M=.png",
@@ -34941,7 +35186,9 @@
         "categorie": [
             "Calendar & Agenda",
             "Habit Tracker",
-            "Time Tracker"
+            "Time",
+            "Time Tracker",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//me.timeto.app/en-US/icon_0ucTHMrHBG9WlfuTd20-8I9zNjbJdUO4oxYtIKv6nhU=.png",
@@ -37119,6 +37366,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Last Launcher",
+        "id_pacchetto": "nl.bw20.last_launcher",
+        "riassunto": "Minimal text-only launcher focused on speed and simplicity",
+        "categorie": [
+            "Launcher",
+            "System"
+        ],
+        "licenza": "EUPL-1.2",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://codeberg.org/BW20/last-launcher",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SleepyWifi",
         "id_pacchetto": "nl.devluuk.sleepywifi",
         "riassunto": "Disattiva il Wi-Fi quando il tuo cellulare è sospeso",
@@ -37460,7 +37720,8 @@
         "riassunto": "Stopwatch and clock with giant digits",
         "categorie": [
             "Clock",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/omegacentauri.mobi.simplestopwatch.31.png",
@@ -39789,7 +40050,8 @@
         "riassunto": "Handy, lightweight, open-source clock app with essential features.",
         "categorie": [
             "Clock",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.fossify.clock/en-US/icon_I2dYnnRKTH1elfKmd3Ukz-xmCT0kbq2RCMU-ttaQvrg=.png",
@@ -41090,7 +41352,8 @@
         "id_pacchetto": "org.ligi.materialteatimer",
         "riassunto": "Cronometrate il vostro tè con stile",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.ligi.materialteatimer.14.png",
@@ -41290,7 +41553,8 @@
         "id_pacchetto": "org.mattvchandler.progressbars",
         "riassunto": "A simple timer / countdown app",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.mattvchandler.progressbars/en-US/icon_e-_eajpXLN395tKMMCj3GJ8vvHChkqqjAxnqBCIGU0U=.png",
@@ -41660,7 +41924,8 @@
         "id_pacchetto": "org.nsh07.pomodoro",
         "riassunto": "Minimalist Pomodoro timer",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.nsh07.pomodoro/en-US/icon_RlPZe1wP_lpVnsPcQIiV968PQApxY_6-OPPeHeV0HwY=.png",
@@ -42265,7 +42530,8 @@
         "id_pacchetto": "org.projectmaxs.module.alarmset",
         "riassunto": "Un modulo per MAXS",
         "categorie": [
-            "System"
+            "System",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -42963,6 +43229,7 @@
         "riassunto": "App to integrate planned breaks into your day.",
         "categorie": [
             "Sports & Health",
+            "Timer",
             "Workout"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -43038,6 +43305,7 @@
         "riassunto": "(SECUSO) Circuit Trainer supports the user during circuit training sessions.",
         "categorie": [
             "Sports & Health",
+            "Timer",
             "Workout"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -43101,6 +43369,7 @@
         "riassunto": "(SECUSO) Supports circuit training sessions and helps achieve training goals.",
         "categorie": [
             "Sports & Health",
+            "Timer",
             "Workout"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -44269,7 +44538,8 @@
         "riassunto": "Productivity timer",
         "categorie": [
             "Time",
-            "Time Tracker"
+            "Time Tracker",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.wentura.getflow/en-US/icon_3fBq70zaUDwNhW6kMUp7xWKPjRl2Kg6WTa_O-WYB3DQ=.png",
@@ -44419,7 +44689,8 @@
         "id_pacchetto": "org.woheller69.eggtimer",
         "riassunto": "With Smart EggTimer you can cook eggs perfectly.",
         "categorie": [
-            "Sports & Health"
+            "Sports & Health",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.woheller69.eggtimer/en-US/icon_--_cKNCtw9Dl2-kv8iAoG2iqmgPEny3tf2uAUfq8M3c=.png",
@@ -44767,7 +45038,9 @@
         "id_pacchetto": "org.yuttadhammo.BodhiTimer",
         "riassunto": "Elegant Meditation Timer",
         "categorie": [
-            "Time"
+            "Meditation",
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -46288,8 +46561,10 @@
         "id_pacchetto": "sh.ftp.rocketninelabs.meditationassistant.opensource",
         "riassunto": "Timer e registratore per sessioni di meditazioni ricco di funzioni",
         "categorie": [
+            "Meditation",
             "Sports & Health",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//sh.ftp.rocketninelabs.meditationassistant.opensource/en-US/icon_Q4W1bwqqvfns4pz1lvtszKuYqBC4BewcHdu5SqfaobE=.png",
@@ -46350,7 +46625,8 @@
         "id_pacchetto": "si.jakobkreft.ontime",
         "riassunto": "Presentation timer for speakers at live events",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//si.jakobkreft.ontime/en-US/icon__f5TQyMXIdiZUWfJmduY9wrOL_utCUTHZJi_FrT9BdU=.png",
@@ -46941,7 +47217,9 @@
         "id_pacchetto": "tibarj.tranquilstopwatch",
         "riassunto": "Stopwatch with current time display for long, non-interactive sessions.",
         "categorie": [
-            "Time"
+            "Meditation",
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//tibarj.tranquilstopwatch/en-US/icon_J0d7gOATkc8kPCEI_0DcIdsoebOobpPi3KBjMp2xpV4=.png",
@@ -47602,7 +47880,8 @@
         "id_pacchetto": "v4lpt.vpt.c016.TPC",
         "riassunto": "Distraction-free pomodoro timer",
         "categorie": [
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//v4lpt.vpt.c016.TPC/en-US/icon_nzOQ0s6eldQfoAvTspqS3f9vU9B456nOjvnzLr-XulQ=.png",
@@ -47616,7 +47895,8 @@
         "categorie": [
             "Multimedia",
             "Science & Education",
-            "Time"
+            "Time",
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//v4lpt.vpt.f003.gdp/en-US/icon_ga-Izv0Wc1mPyoMPn1K9ozYh5dB2M-y794VmHYVzxZA=.png",
