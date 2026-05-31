@@ -164,6 +164,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Albi",
+        "id_pacchetto": "ai.privatebydesign.albi",
+        "riassunto": "A health tracking app that respects your privacy",
+        "categorie": [
+            "Health Manager"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//ai.privatebydesign.albi/en-US/icon_pRfoNlFSHF9GENFncV3zNDHCufjoYcLArvULef0NUMM=.png",
+        "url_codice_sorgente": "https://gitlab.com/martynbutty/healthTracker",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SUSI.AI",
         "id_pacchetto": "ai.susi",
         "riassunto": "Susi AI è un assistente personale intelligente",
@@ -6333,7 +6345,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.brokenpip3.fatto/android/icon_x2s15IK4GagggLzU-1f8SmvmsYTPQfkfvlLT34qb7ZY=.png",
+        "icona": "https://f-droid.org/repo//com.brokenpip3.fatto/en-US/icon_x2s15IK4GagggLzU-1f8SmvmsYTPQfkfvlLT34qb7ZY=.png",
         "url_codice_sorgente": "https://github.com/brokenpip3/fatto",
         "ultimo_aggiornamento": null
     },
@@ -7657,6 +7669,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.debojit.wallapp/en-US/icon_XtR-I9Ao3EY8JDENoPDTsCUyiGZHWo1nq-ikEM1kGes=.png",
         "url_codice_sorgente": "https://github.com/debojitsantra/Wallapp-Android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Backlog Tracker",
+        "id_pacchetto": "com.debojitsantra.backlogtracker",
+        "riassunto": "Calculate, track, and defeat compounding academic backlogs.",
+        "categorie": [
+            "Science & Education",
+            "Task"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.debojitsantra.backlogtracker/en-US/icon_SuuXXzzyD9R5FGfWRJFhcxR92fu0kv0VHEnFMRDSoXc=.png",
+        "url_codice_sorgente": "https://github.com/debojitsantra/BacklogTracker-Android",
         "ultimo_aggiornamento": null
     },
     {
@@ -10927,7 +10952,7 @@
     {
         "nome": "Chance",
         "id_pacchetto": "com.github.jameshnsears.chance",
-        "riassunto": "Create custom dice with text and SVG faces. Use chance in new and unusual ways.",
+        "riassunto": "Create custom dice with text and SVG faces.",
         "categorie": [
             "Dice"
         ],
@@ -11109,7 +11134,7 @@
     {
         "nome": "VoicePlus – Audiobook Player",
         "id_pacchetto": "com.github.mistermo_vibecode.voiceplus",
-        "riassunto": "Audiobook player with listening logs, statistics, and no tracking.",
+        "riassunto": "Offline audiobook player with some quality of life features.",
         "categorie": [
             "Multimedia"
         ],
@@ -12264,6 +12289,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "WhatsOpen",
+        "id_pacchetto": "com.harshalbhatia.whatsopen",
+        "riassunto": "Open WhatsApp chats with any number, no contact needed.",
+        "categorie": [
+            "Phone & SMS"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/harshalbhatia/whatsopen",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Al-Azkar",
         "id_pacchetto": "com.hassaneltantawy.alazkar",
         "riassunto": "Imam Al-Hafiz Yahya bin Sharafah Al-Din Al-Nawawi.",
@@ -12843,7 +12880,7 @@
     {
         "nome": "Fitness Calendar",
         "id_pacchetto": "com.inky.fitnesscalendar",
-        "riassunto": "A private and fully offline activity tracker.",
+        "riassunto": "A private and offline by default activity tracker.",
         "categorie": [
             "Sports & Health",
             "Writing"
@@ -17195,6 +17232,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Offline Currency Converter",
+        "id_pacchetto": "com.offlinecurrencyconverter.app",
+        "riassunto": "Convert currencies offline with support for 160+ currencies",
+        "categorie": [
+            "Unit Convertor"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/DavidNeurieder/offline-currency-converter",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "reReminder",
         "id_pacchetto": "com.olaf.rereminder",
         "riassunto": "A simple, open-source app for setting recurring reminders throughout your day.",
@@ -18140,7 +18189,7 @@
     {
         "nome": "Torrent Search",
         "id_pacchetto": "com.prajwalch.torrentsearch",
-        "riassunto": "Search and download torrents from multiple sources",
+        "riassunto": "Search torrents across multiple providers simultaneously",
         "categorie": [
             "Internet"
         ],
@@ -22366,6 +22415,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Voyager",
+        "id_pacchetto": "com.voyagerfiles",
+        "riassunto": "Voyager - Material Design 3 file browser with SFTP, FTP, SMB, and WebDAV support",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/AlanHuang99/Voyager",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "WiFiAnalyzer",
         "id_pacchetto": "com.vrem.wifianalyzer",
         "riassunto": "Ottimizza la tua rete Wi-Fi",
@@ -22910,7 +22971,7 @@
             "Writing"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.xnotes/en-US/icon_3CDjjuWaukggFAXAuZ4ZkV1lgnQiShsiz6Defd2sRdc=.png",
         "url_codice_sorgente": "https://github.com/shardulvs/xnotes-android",
         "ultimo_aggiornamento": null
     },
@@ -27830,6 +27891,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Otoscope",
+        "id_pacchetto": "dev.rubec.otoscope",
+        "riassunto": "Ad-free viewer for cheap WiFi otoscope cameras.",
+        "categorie": [
+            "Connectivity",
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//dev.rubec.otoscope/en-US/icon_CXlJaDo5s6jW1WZr3ebRUHGuQGjCLHvJQAPtipol4xo=.png",
+        "url_codice_sorgente": "https://github.com/rbeilvert/otoscope",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "gc",
         "id_pacchetto": "dev.scarf.gc",
         "riassunto": "GitHub Contribution graph widget",
@@ -30960,7 +31034,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "GPN 2025 Schedule",
+        "nome": "GPN 2026 Schedule",
         "id_pacchetto": "info.metadude.android.gpn.schedule",
         "riassunto": "GPN Schedule",
         "categorie": [
@@ -33447,7 +33521,7 @@
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.naox.inbe/en-US/icon_JdeivyDuYM9SJPQYhOuL_l34NEprYCR-nxlwcR9SGsI=.png",
-        "url_codice_sorgente": "https://github.com/naoxio/inbreeze",
+        "url_codice_sorgente": "https://github.com/waozixyz/inbe-legacy",
         "ultimo_aggiornamento": null
     },
     {
@@ -34156,7 +34230,7 @@
             "Bookmark"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//jp.nonbili.nori/en-US/icon_cFmSurNzG3QelMwSBojdH8tIU5-gQwy7Y_Q6jxpfQLU=.png",
         "url_codice_sorgente": "https://github.com/nonbili/Nori",
         "ultimo_aggiornamento": null
     },
@@ -36151,7 +36225,7 @@
     {
         "nome": "Paperless NGX Uploader",
         "id_pacchetto": "net.gmartin.paperlessngx_uploader",
-        "riassunto": "upload documents to a Paperless-NGX server using the native share intent",
+        "riassunto": "Upload documents to a Paperless-NGX server using the native share intent",
         "categorie": [
             "Internet"
         ],
@@ -39980,6 +40054,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.flare.app/en-US/icon_6PmRAx3-pOubitda1jP6ODqud4PlHrYSfT1vzALmzRE=.png",
         "url_codice_sorgente": "https://github.com/flareteam/flare-engine",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Forkgram Classic",
+        "id_pacchetto": "org.forkgram.classic",
+        "riassunto": "Un fork di Telegram che conserva l'interfaccia classica pre-Liquid Glass.",
+        "categorie": [
+            "Internet",
+            "Messaging"
+        ],
+        "licenza": "GPL-2.0-or-later",
+        "icona": "https://f-droid.org/repo//org.forkgram.classic/en-US/icon_38xrSqlLm11LVFPobb454fXQgd-gp-HNqV_l9SUX_go=.png",
+        "url_codice_sorgente": "https://github.com/forkgram/forkgram-classic",
         "ultimo_aggiornamento": null
     },
     {
@@ -47092,9 +47179,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Mindwtr",
+        "nome": "Mindwtr - GTD Task Manager",
         "id_pacchetto": "tech.dongdongbh.mindwtr",
-        "riassunto": "Local-first GTD task manager",
+        "riassunto": "Free GTD task manager. Offline, private, local-first to-do list.",
         "categorie": [
             "Task",
             "Time"
@@ -48013,7 +48100,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//vadimerenkov.autasker/en-US/icon_eNT9mxRZ4LlHFPqMdsGqV4xIatlPDK2CndkojnVPrgI=.png",
         "url_codice_sorgente": "https://github.com/vadimerenkov/Autasker",
         "ultimo_aggiornamento": null
     },
@@ -48300,7 +48387,7 @@
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//xyz.linerly.searxist/en-US/icon_DTFMcrgPGzbTwWVcAKFhkxkmH3C1rmp9RRhEFe78Szc=.png",
-        "url_codice_sorgente": "https://codeberg.org/Linerly/searxist",
+        "url_codice_sorgente": "https://codeberg.org/searxist/android",
         "ultimo_aggiornamento": null
     },
     {
@@ -48391,6 +48478,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//xyz.ptgms.tosdr/en-US/icon_IuoVwRtaAKUWdr9R0-FJFuHGCJZ8wheXBHFnMkQC7uY=.png",
         "url_codice_sorgente": "https://github.com/tosdr/tosdr-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Inner Breeze",
+        "id_pacchetto": "xyz.waozi.inbe",
+        "riassunto": "A free, open-source guided breathing meditation app based on the Wim Hof method.",
+        "categorie": [
+            "Meditation"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//xyz.waozi.inbe/en-US/icon__pw70MoF1lyhj2_81FXfJoFPa1Z8e43FoXWDN3DKuf4=.png",
+        "url_codice_sorgente": "https://github.com/waozixyz/inbe",
         "ultimo_aggiornamento": null
     },
     {
