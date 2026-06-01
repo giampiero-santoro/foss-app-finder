@@ -1622,6 +1622,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "MobiloSignal",
+        "id_pacchetto": "barilyuk.mobilosignal",
+        "riassunto": "Find the best spot for calls and mobile internet by seeing signal strength",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//barilyuk.mobilosignal/en-US/icon_ZjxKmA0qiNgHxJzBQfAFpzZ-u46vals_UAhBf-e8Rkg=.png",
+        "url_codice_sorgente": "https://github.com/Eb43/phonesignalstrength",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "﻿TeXeTeScribe",
         "id_pacchetto": "barilyuk.texetescribe",
         "riassunto": "Read and write in text-based files: TXT, JSON, HTML, CSV, XML, YAML, INI, MD",
@@ -3938,6 +3950,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.albertobonacina.wassword/en-US/icon_P4jPX4AFWw_qiq43vNVrV64PjmIautPsETE8UEtWkbc=.png",
         "url_codice_sorgente": "https://github.com/polilluminato/wassword-flutter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Valencia Transit Reloaded",
+        "id_pacchetto": "com.albertodiaz.valencia_transit_reloaded",
+        "riassunto": "Transit info for the metropolitan area of Valencia and Alicante",
+        "categorie": [
+            "Navigation",
+            "Public Transport"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.albertodiaz.valencia_transit_reloaded/en-US/icon_N288qvOFzD2bvmFxsI6JLEVVw_yrvxZ4ekB8AHZmo_I=.png",
+        "url_codice_sorgente": "https://codeberg.org/albertodiaz/valencia-transit-reloaded",
         "ultimo_aggiornamento": null
     },
     {
@@ -19052,6 +19077,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FoxAppMemo",
+        "id_pacchetto": "com.rtneg.foxappmemo",
+        "riassunto": "Track, rate, and tag your Android apps with memos. No internet required.",
+        "categorie": [
+            "App Manager"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.rtneg.foxappmemo/en-US/icon_ILWKoAOvOsbdmyj_-tj-cn2jxYk1H93MrH8hR79K4wc=.png",
+        "url_codice_sorgente": "https://github.com/soraiyu/foxappmemo",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "KyuubiMask - Privacy First",
         "id_pacchetto": "com.rtneg.kyuubimask",
         "riassunto": "Privacy-focused notification masking for screen sharing and presentations",
@@ -20585,6 +20622,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/Swordfish90/Lemuroid",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "WakeUpScreen",
+        "id_pacchetto": "com.symeonchen.wakeupscreen",
+        "riassunto": "Accende lo schermo quando arriva una notifica",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.symeonchen.wakeupscreen/en-US/icon_2ZQ8MjJ73Ryvp1NyJMBtH_NFj7YJkFVfkPOPZe8RO9k=.png",
+        "url_codice_sorgente": "https://github.com/riko2chen/WakeUpScreen",
         "ultimo_aggiornamento": null
     },
     {
@@ -27719,6 +27768,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.melonpan.kotori/en-US/icon_IjzEw7oP4YW580FzKIxvTDXWOIiJOQddRRh-wi9v3oo=.png",
         "url_codice_sorgente": "https://gitlab.com/isseigx/kotori",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Quedalle",
+        "id_pacchetto": "dev.mlg.quedalle",
+        "riassunto": "Quedalle in ads, tracking, accounts. Just a tile launcher.",
+        "categorie": [
+            "Launcher"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/MatthieuGrr/quedalle-launcher",
         "ultimo_aggiornamento": null
     },
     {
