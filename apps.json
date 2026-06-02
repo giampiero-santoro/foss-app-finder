@@ -1166,6 +1166,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Vegan Inspector",
+        "id_pacchetto": "app.vegan_inspector",
+        "riassunto": "A barcode scanner that checks if products are vegan or vegetarian.",
+        "categorie": [
+            "Diet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.vegan_inspector/de/icon_xFtKigv5IgkM-YYweP9HZRIC4PrDcXaQBQXDufBbGsA=.png",
+        "url_codice_sorgente": "https://codeberg.org/Vegan-Inspector/app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Voyager for Lemmy",
         "id_pacchetto": "app.vger.voyager",
         "riassunto": "Join the discussion",
@@ -13044,6 +13056,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "iSpindle Plotter",
+        "id_pacchetto": "com.ispindle.plotter",
+        "riassunto": "Collect and plot fermentation data from an iSpindel hydrometer.",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/GlassOnTin/iSpindlePlotter",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Classic Tic Tac Toe",
         "id_pacchetto": "com.itsfrz.tictactoe",
         "riassunto": "Fun with emoji naughts and crosses",
@@ -13216,6 +13240,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://gitlab.com/juanitobananas/drowser/tree/HEAD",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Magnifica",
+        "id_pacchetto": "com.jarsilio.android.magnifica",
+        "riassunto": "A magnificent magnifier",
+        "categorie": [
+            "Graphics"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://gitlab.com/juanitobananas/magnifica",
         "ultimo_aggiornamento": null
     },
     {
@@ -26472,19 +26508,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "MakeACopy – OCR Latin (Best)",
-        "id_pacchetto": "de.schliweb.makeacopy.lang.latin.best",
-        "riassunto": "More accurate Tesseract Best models for Latin languages. Add-on for MakeACopy.",
-        "categorie": [
-            "Graphics",
-            "Multimedia"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//de.schliweb.makeacopy.lang.latin.best/en-US/icon_71l-uam0SrF5CIReiMYE5fX3-A6LwZcS2v6-apO8T-o=.png",
-        "url_codice_sorgente": "https://github.com/egdels/makeacopy",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "SambaLite",
         "id_pacchetto": "de.schliweb.sambalite",
         "riassunto": "A lightweight, modern, and open-source Android client for SMB/CIFS shares.",
@@ -32493,6 +32516,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "NOVA",
+        "id_pacchetto": "io.github.nofuturekid.nova",
+        "riassunto": "Open-source client for Unraid® NAS servers",
+        "categorie": [
+            "Cloud Storage & File Sync"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/nofuturekid/nova",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "3D Geometry Animation",
         "id_pacchetto": "io.github.nvlad1.function3danimator",
         "riassunto": "Build and animate 3D mathematical surfaces offline",
@@ -36633,9 +36668,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "NymVPN – Private VPN",
+        "nome": "NymVPN – Anonymous No-Log VPN",
         "id_pacchetto": "net.nymtech.nymvpn",
-        "riassunto": "The World’s Most Private VPN",
+        "riassunto": "Private, secure Swiss dVPN. WireGuard, mixnet, decentralized proxy, no email.",
         "categorie": [
             "Connectivity",
             "Internet",
@@ -39321,6 +39356,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "duckAssist",
+        "id_pacchetto": "org.diekaiju.duckassist",
+        "riassunto": "Lightweight, privacy-focused WebView wrapper for Duck.ai",
+        "categorie": [
+            "AI Chat"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.diekaiju.duckassist/en-US/icon_K3SmX4z6CrgPDrCUtL_XECtz-g8Oo8xkVZhqeUkeEQM=.png",
+        "url_codice_sorgente": "https://github.com/diekaiju/duckAssist",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Yelling",
         "id_pacchetto": "org.difft.temptalk",
         "riassunto": "Secure messaging with chat, voice and video calls.",
@@ -41112,6 +41159,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/js-labs/WalkieTalkie",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Autu Mandu",
+        "id_pacchetto": "org.juanro.autumandu",
+        "riassunto": "Autu Mandu allows you to control the income and expenses of your vehicles.",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//org.juanro.autumandu/en-US/icon_uEa9497MOVXWW58LTZgA9_TiljyFJjcSvc5I3DEBqGo=.png",
+        "url_codice_sorgente": "https://github.com/juanro49/autu-mandu",
         "ultimo_aggiornamento": null
     },
     {
@@ -43562,7 +43621,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Notes (PFA)",
+        "nome": "Notes (Privacy Friendly)",
         "id_pacchetto": "org.secuso.privacyfriendlynotes",
         "riassunto": "(SECUSO) Notes App with minimal permissions and without advertising",
         "categorie": [
