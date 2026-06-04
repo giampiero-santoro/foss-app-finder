@@ -583,6 +583,7 @@
         "id_pacchetto": "app.fluffy",
         "riassunto": "A TV friendly file manager and archive viewer",
         "categorie": [
+            "File Manager",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -920,7 +921,7 @@
     {
         "nome": "Universal Installer",
         "id_pacchetto": "app.pwhs.universalinstaller",
-        "riassunto": "APK/APKS/XAPK/APKM installer with OBB, URL downloads, Shizuku & VirusTotal scans",
+        "riassunto": "Premium APK/XAPK installer with expressive animations, Shizuku & URL downloads.",
         "categorie": [
             "App Manager",
             "System"
@@ -2368,8 +2369,7 @@
         "id_pacchetto": "cc.kafuu.bilidownload",
         "riassunto": "bilibili video resource downloader",
         "categorie": [
-            "Internet",
-            "Multimedia"
+            "Download"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//cc.kafuu.bilidownload/en-US/icon_CQ3B9pPSHorTct4vGlrWxSuP3kgAwB-YSoRM_cjraRw=.png",
@@ -3372,6 +3372,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Acho",
+        "id_pacchetto": "com.acho.chat.app",
+        "riassunto": "Lightweight WebView client for Acho Chat",
+        "categorie": [
+            "Social Network"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/jorgecobos14/I_need_to_stop_programming_pls",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Conceal Authenticator",
         "id_pacchetto": "com.acktarius.concealauthenticator",
         "riassunto": "Secure 2FA authenticator with blockchain backup and encryption.",
@@ -4047,6 +4059,7 @@
             "App Manager",
             "Cloud Storage & File Sync",
             "File Encryption & Vault",
+            "File Manager",
             "System",
             "Text Editor"
         ],
@@ -4061,6 +4074,7 @@
         "riassunto": "Analyse, transfer and open files all in one app.",
         "categorie": [
             "Ebook Reader",
+            "File Manager",
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -5324,6 +5338,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ShizuWall",
+        "id_pacchetto": "com.arslan.shizuwall",
+        "riassunto": "Lightweight no root, no vpn firewall solution powered by Shizuku",
+        "categorie": [
+            "Firewall"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.arslan.shizuwall/en-US/icon_bdge3hq1qJXtWFm1kMPmYgD8Ipfp1Jv7iHGjF3kHQx0=.png",
+        "url_codice_sorgente": "https://github.com/AhmetCanArslan/ShizuWall",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Vault",
         "id_pacchetto": "com.arsvechkarev.vault",
         "riassunto": "Simple, secure and fast password manager compatible with KeePass",
@@ -5963,7 +5989,7 @@
         "id_pacchetto": "com.biglybt.android.client",
         "riassunto": "Ad-free, open source torrenting for phone, tablet, Chromebook, & Android TV",
         "categorie": [
-            "Internet"
+            "Download"
         ],
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//com.biglybt.android.client/en-US/icon_ldmgJws0Hnjf9KMHZoLbs5ohTdhbKAdzeTdHFpwXLgQ=.png",
@@ -7364,7 +7390,7 @@
         "id_pacchetto": "com.crazylegend.subhub",
         "riassunto": "Subtitles downloader",
         "categorie": [
-            "Multimedia"
+            "Download"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.crazylegend.subhub/en-US/icon_xoN60dUkNZjNcAEEAzY3n2ucm-keiQwJAK41ukw4-xU=.png",
@@ -7613,7 +7639,7 @@
             "Writing"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.darkrockstudios.apps.hammer.android/en-US/icon_3EXQ5ehD8tEMRJnK0noP2qZRFueLewKnuBbzGatLsIU=.png",
+        "icona": "https://f-droid.org/repo//com.darkrockstudios.apps.hammer.android/en-US/icon_wncje5LnqyH8M0d5GWh2VxLdtdnkYYiCW-ZmiGVRaUM=.png",
         "url_codice_sorgente": "https://github.com/Wavesonics/hammer-editor",
         "ultimo_aggiornamento": null
     },
@@ -7641,6 +7667,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/darshan-/Battery-Indicator-Pro",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "2026 Football Fixtures Widget",
+        "id_pacchetto": "com.dasp.worldcup2026",
+        "riassunto": "2026 football fixtures and widgets.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/uta-dasp/FIFA-WorldCup-2026-Fixture-Widget",
         "ultimo_aggiornamento": null
     },
     {
@@ -7799,11 +7837,24 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SrednaBG",
+        "id_pacchetto": "com.demosten.srednabg",
+        "riassunto": "Real-time average speed inside Bulgaria's average-speed camera zones.",
+        "categorie": [
+            "Navigation",
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.demosten.srednabg/bg/icon_DslIkVV83ZMlLjD4m5IDDO7OGYXVJW42RKvV2t1NIu0=.png",
+        "url_codice_sorgente": "https://github.com/demosten-com/SrednaBG",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "YTDLnis",
         "id_pacchetto": "com.deniscerri.ytdl",
         "riassunto": "Android Video/Audio Downloader app using yt-dlp",
         "categorie": [
-            "Multimedia"
+            "Download"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.deniscerri.ytdl/en-US/icon_6XMWnTCSfwIxAmHfnKuwS_0TitJcuAmuMNl8_Hxu4KA=.png",
@@ -7957,19 +8008,6 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.developerfromjokela.motioneyeclient/en-US/icon_iNA4STKni8Zsznb1K7vrB4itY3nxTvLClGg8kyQDH_U=.png",
         "url_codice_sorgente": "https://github.com/developerfromjokela/motioneye-client",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "AndroidCrypt",
-        "id_pacchetto": "com.dewdrop623.androidcrypt",
-        "riassunto": "AES Crypt compatible file encryption utility",
-        "categorie": [
-            "File Encryption & Vault",
-            "Security"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.dewdrop623.androidcrypt/en-US/icon_qR3PEAoohCt5zU_9_qQX7u9QrhbK-ktonXKh4hH9gew=.png",
-        "url_codice_sorgente": "https://github.com/ndew623/AndroidCrypt",
         "ultimo_aggiornamento": null
     },
     {
@@ -8166,6 +8204,7 @@
         "id_pacchetto": "com.documentsui.shortcut",
         "riassunto": "Open Android's built-in Files app.",
         "categorie": [
+            "File Manager",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -8988,6 +9027,7 @@
         "id_pacchetto": "com.etb.filemanager",
         "riassunto": "Make organizing, navigating and manipulating documents and media more efficient",
         "categorie": [
+            "File Manager",
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -10490,6 +10530,7 @@
         "categorie": [
             "App Manager",
             "Cloud Storage & File Sync",
+            "File Manager",
             "File Transfer",
             "System"
         ],
@@ -10539,7 +10580,7 @@
         "id_pacchetto": "com.gianlu.aria2app",
         "riassunto": "An advanced download manager and aria2 client for your pocket.",
         "categorie": [
-            "Internet"
+            "Download"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.gianlu.aria2app/en-GB/icon_EmxffhA8b-3mP87j_dwrvCxfsn587siAGJ7UBwYd-sE=.png",
@@ -11081,8 +11122,7 @@
         "id_pacchetto": "com.github.livingwithhippos.unchained",
         "riassunto": "App to interact with Real Debrid",
         "categorie": [
-            "Internet",
-            "Multimedia"
+            "Download"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.github.livingwithhippos.unchained/en-US/icon_acg5lfDFFxJFsqaL7jPVvz71qzoWSJ6kbJCMPNhZ650=.png",
@@ -12274,6 +12314,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "C2K — Couch to 5K & 10K",
+        "id_pacchetto": "com.hackerapps.c2k",
+        "riassunto": "Free, open-source C25K/C210K running trainer. No Google, no tracking.",
+        "categorie": [
+            "Timer",
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/AnalogGhost/c2k",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Tinte Webcoms",
         "id_pacchetto": "com.halftough.webcomreader",
         "riassunto": "Reader per determinati webcomics",
@@ -13250,7 +13303,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.jarsilio.android.magnifica/en-US/icon_pb4LKpJEUQWvtWdNiW6ko1Gi9JZQeuIlYfSXFmRhibk=.png",
         "url_codice_sorgente": "https://gitlab.com/juanitobananas/magnifica",
         "ultimo_aggiornamento": null
     },
@@ -13685,7 +13738,7 @@
         "id_pacchetto": "com.junkfood.seal",
         "riassunto": "Video/Audio downloader progettato a tema con Material You",
         "categorie": [
-            "Multimedia"
+            "Download"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.junkfood.seal/en-US/icon_j8mCLA_OX-sJn7TRAdvoaUMW1f6djRv6RMzAnNdaG4I=.png",
@@ -14430,6 +14483,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.lavabit.pahoehoe/de/icon_3i0Pw5_e-w47eYndEq9IhI3_qEibB-rG0z0o4miG9Q4=.png",
         "url_codice_sorgente": "https://github.com/lavabit/pahoehoe",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Mood Cairns",
+        "id_pacchetto": "com.lcdcode.moodcairns",
+        "riassunto": "Private, fully offline mood tracker. No network access. Your data's yours..",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.lcdcode.moodcairns/en-US/icon_LaW3ClklXGB-mEQ3FoB8DDzvaPhDYV8v9KvJ2WIsj38=.png",
+        "url_codice_sorgente": "https://github.com/lcdcode/mood-cairns",
         "ultimo_aggiornamento": null
     },
     {
@@ -15256,6 +15321,7 @@
         "id_pacchetto": "com.martinmimigames.simplefileexplorer",
         "riassunto": "Android 1.0+ mini simple file manager/explorer",
         "categorie": [
+            "File Manager",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -15665,6 +15731,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.metalshard.hyperion/en-US/icon_ofIo-a8vaZs43z5k8FllJ7lox3YsDsA0l8yjMR49R2I=.png",
         "url_codice_sorgente": "https://github.com/themetalshard/PBScheduleViewer",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Acoustic",
+        "id_pacchetto": "com.metalshard.projectwave",
+        "riassunto": "Simple internet radio application for Android",
+        "categorie": [
+            "Radio"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.metalshard.projectwave/en-US/icon_l5wdAiCaPkQuhwckwkMzqN35P_8cQsPxqpC3p-YSMJE=.png",
+        "url_codice_sorgente": "https://github.com/themetalshard/acoustic-radio",
         "ultimo_aggiornamento": null
     },
     {
@@ -16306,7 +16384,7 @@
         "id_pacchetto": "com.myAllVideoBrowser",
         "riassunto": "Video downloader with browser for downloading videos from everywhere",
         "categorie": [
-            "Multimedia"
+            "Download"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.myAllVideoBrowser/en-US/icon_ueEpJtvn9JiCPT6CkBOmpGgnTB6U_WjKWhwJObCj6vg=.png",
@@ -16473,7 +16551,7 @@
             "AI Chat"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.newoether.agora/en-US/icon_Uf0V9GGgLhGdZnhBaCoZoYlHxELFlQnQg_tpzJ6Xzvw=.png",
         "url_codice_sorgente": "https://github.com/newo-ether/Agora",
         "ultimo_aggiornamento": null
     },
@@ -16730,6 +16808,7 @@
         "id_pacchetto": "com.nima.openbooksdownloader",
         "riassunto": "This is an app that uses dbooks.org api to download open published books.",
         "categorie": [
+            "Download",
             "Reading"
         ],
         "licenza": "MIT",
@@ -18170,7 +18249,7 @@
             "Social Network"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.poppingmoon.aria/en-US/icon_WhB9r_Bmr_Py2pPRE185bo2r6bHg59xeShxJFf7Z5Hw=.png",
+        "icona": "https://f-droid.org/repo//com.poppingmoon.aria/en-US/icon_nKGYjQuir4PxWAkdmuR1hbe9QAaUXGe0y2SR3dcTMv8=.png",
         "url_codice_sorgente": "https://github.com/poppingmoon/aria",
         "ultimo_aggiornamento": null
     },
@@ -18561,6 +18640,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.quitter.app/en-US/icon_dNSIRJ3zO2O4U7ChdA7wul8SNl2dUzFl_kusM9hZpAo=.png",
         "url_codice_sorgente": "https://github.com/brandonp2412/Quitter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Collective Club Maze",
+        "id_pacchetto": "com.qwde.ccm",
+        "riassunto": "A game similar to the board game ricochet robots.",
+        "categorie": [
+            "Board Game"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.qwde.ccm/en-US/icon_6mHdNMvmLeMYVRloL_FztLXsFcAStrWAFIZXK3YdjZs=.png",
+        "url_codice_sorgente": "https://gitlab.com/andsild/collective-club-maze",
         "ultimo_aggiornamento": null
     },
     {
@@ -19453,6 +19544,7 @@
         "riassunto": "File manager for keeping your files in safe",
         "categorie": [
             "File Encryption & Vault",
+            "File Manager",
             "Security",
             "System"
         ],
@@ -19502,7 +19594,7 @@
     {
         "nome": "SeekPrivacy",
         "id_pacchetto": "com.seeker.seekprivacy",
-        "riassunto": "Hardware-hardened file isolation to defeat \"All Files Access\" surveillance.",
+        "riassunto": "Activist-Grade Defense Against System-Level Data Surveillance",
         "categorie": [
             "File Encryption & Vault",
             "Security"
@@ -19758,7 +19850,7 @@
     {
         "nome": "Puzzle Games",
         "id_pacchetto": "com.sidhant.puzzle",
-        "riassunto": "Minimalist puzzle games - Sudoku, Calc Sprint, Number Match & more",
+        "riassunto": "150+ minimalist brain games. Challenge your logic, memory, math & attention in g",
         "categorie": [
             "Puzzle Game"
         ],
@@ -20334,6 +20426,7 @@
         "id_pacchetto": "com.starry.myne",
         "riassunto": " Android application to download & read ebooks from the Project GutenBerg.",
         "categorie": [
+            "Download",
             "Ebook Reader",
             "Reading"
         ],
@@ -20690,6 +20783,7 @@
         "id_pacchetto": "com.tachibana.downloader",
         "riassunto": "Download Navi is a free and Open Source download manager for Android 4.4+",
         "categorie": [
+            "Download",
             "Internet"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -21477,7 +21571,7 @@
         "id_pacchetto": "com.torrents_csv_android",
         "riassunto": "A search engine for Torrents-csv.",
         "categorie": [
-            "Internet"
+            "Download"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.torrents_csv_android/en-US/icon_nkyffbBtBHLwkr5-_IRU4uW_Q2sbpA5FSGA5s6oKxHk=.png",
@@ -22000,6 +22094,7 @@
         "id_pacchetto": "com.vakarux.instadownload",
         "riassunto": "Download Instagram reels and photos to your device",
         "categorie": [
+            "Download",
             "Internet"
         ],
         "licenza": "MIT",
@@ -22172,6 +22267,18 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.photos/en-US/icon_D-SFkm1N4JxGogYFulOV_fcg8SjP46rQ0beCJfdoDts=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Weather",
+        "id_pacchetto": "com.vayunmathur.weather",
+        "riassunto": "A modern, open-source weather app with Material You",
+        "categorie": [
+            "Weather"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.weather/en-US/icon_mgn8l-keyCINOYaiTY9c1HDNgvmsOb0ViN8uP76BaPc=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -22504,6 +22611,7 @@
         "id_pacchetto": "com.voyagerfiles",
         "riassunto": "Voyager - Material Design 3 file browser with SFTP, FTP, SMB, and WebDAV support",
         "categorie": [
+            "File Manager",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -22566,7 +22674,7 @@
         "id_pacchetto": "com.vuze.android.remote",
         "riassunto": "Gestisci clients BitTorrent",
         "categorie": [
-            "Internet",
+            "Download",
             "Remote Controller"
         ],
         "licenza": "GPL-2.0-or-later",
@@ -24691,6 +24799,7 @@
         "riassunto": "A file manager for Android, using rclone for the heavy lifting.",
         "categorie": [
             "Cloud Storage & File Sync",
+            "File Manager",
             "Internet",
             "System"
         ],
@@ -25458,12 +25567,12 @@
     {
         "nome": "LoloTrans",
         "id_pacchetto": "de.lolo.lolotrans",
-        "riassunto": "Floating-bubble translator with on-device ML Kit translation",
+        "riassunto": "Floating-bubble translator with configurable translation backend",
         "categorie": [
             "Translation & Dictionary"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//de.lolo.lolotrans/en-US/icon_rnchAArbBt76ZcMJkcylQ808fNkbOVPyMr6dPmjDPCc=.png",
         "url_codice_sorgente": "https://github.com/immerzu/LoloTrans",
         "ultimo_aggiornamento": null
     },
@@ -26439,7 +26548,7 @@
             "Public Transport"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140004.png",
+        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140005.png",
         "url_codice_sorgente": "https://gitlab.com/oeffi/oeffi",
         "ultimo_aggiornamento": null
     },
@@ -27276,6 +27385,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Appstract Icon Pack",
+        "id_pacchetto": "dev.appstract.iconpack",
+        "riassunto": "Abstract icon pack with 590 hand-designed icons",
+        "categorie": [
+            "Icon Pack"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//dev.appstract.iconpack/en-US/icon_WxvZqJsrxYyAF6bR-eDUPd1ITQ_1S3NsnBEnIJij_3g=.png",
+        "url_codice_sorgente": "https://github.com/yangchoo/Appstract",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Language Dex",
         "id_pacchetto": "dev.arthurcose.languagedex",
         "riassunto": "Create custom dictionaries and retain words with puzzles.",
@@ -27305,8 +27426,8 @@
         "id_pacchetto": "dev.bartuzen.qbitcontroller",
         "riassunto": "Remotely control qBittorrent from any device",
         "categorie": [
-            "Connectivity",
-            "Internet"
+            "Download",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.bartuzen.qbitcontroller/en-US/icon_HnQ70M0cSqSUBKP2AR3uev8sA1u4SvMLpIBe57UuDuw=.png",
@@ -27988,6 +28109,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Compound Calculator",
+        "id_pacchetto": "dev.samyu.compoundcalculator",
+        "riassunto": "Simple offline compound interest calculator",
+        "categorie": [
+            "Calculator"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//dev.samyu.compoundcalculator/en-US/icon_HvScLNYolJW5rseoaxcc__d5bbHSwvQ3gSWGVuB4VDo=.png",
+        "url_codice_sorgente": "https://github.com/yudataguy/retirement-compound-interest-calculator",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "gc",
         "id_pacchetto": "dev.scarf.gc",
         "riassunto": "GitHub Contribution graph widget",
@@ -28094,8 +28227,7 @@
         "id_pacchetto": "dev.yashgarg.qbit",
         "riassunto": "Modern qBittorrent WebUI Client",
         "categorie": [
-            "Development",
-            "Internet"
+            "Download"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.yashgarg.qbit/en-US/icon_09bURKjfGZOZwm52XpzkeE9cdNYL2aMt3l8vvF4Rk54=.png",
@@ -28693,6 +28825,7 @@
         "id_pacchetto": "eu.hxreborn.phdp",
         "riassunto": "Xposed module showing download progress around the camera cutout",
         "categorie": [
+            "Download",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -29782,6 +29915,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Foldio",
+        "id_pacchetto": "fr.kanis.foldio",
+        "riassunto": "A music player that treats folders as playlists.",
+        "categorie": [
+            "Local Media Player",
+            "Multimedia"
+        ],
+        "licenza": "BSD-3-Clause",
+        "icona": "https://f-droid.org/repo//fr.kanis.foldio/en-US/icon_bzPW5cYIY_VLZCFCOos9mj0rh54alLnqwlVw7VwA36Y=.png",
+        "url_codice_sorgente": "https://gitlab.com/ivankanis/foldio-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Don du Sang",
         "id_pacchetto": "fr.mobdev.blooddonation",
         "riassunto": "Localizza centri di donazione di sangue di Etablissement Français du Sang (EFS)",
@@ -30652,8 +30798,7 @@
         "id_pacchetto": "hu.tagsoft.ttorrent.search",
         "riassunto": "Simple interface for Transdroid search",
         "categorie": [
-            "Internet",
-            "Multimedia"
+            "Download"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//hu.tagsoft.ttorrent.search/en-US/icon_mQ756rTix-HOVbFrQ2Z-S3NC6hA_bMIdHbnh-V3AwWA=.png",
@@ -32861,6 +33006,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "iBeacon Tasker Plugin",
+        "id_pacchetto": "io.github.smailzhu.ibeacontasker",
+        "riassunto": "Scan iBeacon advertisements from Tasker tasks",
+        "categorie": [
+            "Connectivity",
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/smailzhu/ibeacon-tasker-plugin",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SMS2Email",
         "id_pacchetto": "io.github.sms2email.sms2email",
         "riassunto": "Forwards SMS messages to SMTP (Email) server",
@@ -33169,6 +33327,7 @@
         "riassunto": "A file manager for Android, using rclone for the heavy lifting.",
         "categorie": [
             "Cloud Storage & File Sync",
+            "File Manager",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -35449,6 +35608,7 @@
         "categorie": [
             "Cloud Storage & File Sync",
             "File Encryption & Vault",
+            "File Manager",
             "File Transfer",
             "System",
             "Text Editor"
@@ -35990,7 +36150,7 @@
     {
         "nome": "AndBible: Bible Study",
         "id_pacchetto": "net.bible.android.activity",
-        "riassunto": "Read the Bible, study commentaries or dictionaries, or read books offline.",
+        "riassunto": "Powerful Bible study toolkit: commentaries, bookmarks, notes, AI tools",
         "categorie": [
             "Reading",
             "Religion"
@@ -36058,6 +36218,18 @@
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//net.canvoki.godot_dice_roller/en-US/icon_t0kZYPaPp3V4N98Fjl8A-7MkhHSylD-VqY115h5NPRE=.png",
         "url_codice_sorgente": "https://github.com/vokimon/godot-dice-roller",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Voki Bot",
+        "id_pacchetto": "net.canvoki.vokibot",
+        "riassunto": "Android automation tool",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//net.canvoki.vokibot/en-US/icon_X87z5OOX_9zpuRpnv4Fgua0tzt8Y3Bt_V3VvD4TIQKQ=.png",
+        "url_codice_sorgente": "https://github.com/vokimon/vokibot",
         "ultimo_aggiornamento": null
     },
     {
@@ -37544,7 +37716,7 @@
             "System"
         ],
         "licenza": "EUPL-1.2",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//nl.bw20.last_launcher/en-US/icon_26lmuAE5SWCrtTQxUiFgJFtg7su_qEIpBTI4kldCJ_U=.png",
         "url_codice_sorgente": "https://codeberg.org/BW20/last-launcher",
         "ultimo_aggiornamento": null
     },
@@ -38055,6 +38227,7 @@
         "id_pacchetto": "org.afhdownloader",
         "riassunto": "Scaricare da androidfilehost.com",
         "categorie": [
+            "Download",
             "Internet"
         ],
         "licenza": "GPL-3.0-only",
@@ -39323,7 +39496,8 @@
         "id_pacchetto": "org.deluge.trireme",
         "riassunto": "Client Deluge leggero",
         "categorie": [
-            "Internet"
+            "Download",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -39436,7 +39610,7 @@
         "id_pacchetto": "org.dkf.jmule",
         "riassunto": "Search and download from the ED2K(eDonkey2000) networks",
         "categorie": [
-            "Internet"
+            "Download"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.dkf.jmule/en-US/icon_2bZSVTTDRui0kCKUUDH7bPwdC-iPt-35kryrIk-npjs=.png",
@@ -39806,6 +39980,7 @@
         "id_pacchetto": "org.equeim.tremotesf",
         "riassunto": "Client BitTorrent di trasmissione a controllo remoto",
         "categorie": [
+            "Download",
             "Remote Controller"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -40195,7 +40370,7 @@
         "id_pacchetto": "org.forthecommunity.torrentsdigger",
         "riassunto": "Dig Torrents from Internet.",
         "categorie": [
-            "Internet"
+            "Download"
         ],
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//org.forthecommunity.torrentsdigger/en-US/icon_jqZAxLzfiUjcuYaKi1E7HjPdNjekPI-meFcRRcWFuHQ=.png",
@@ -40271,6 +40446,7 @@
         "id_pacchetto": "org.fossify.filemanager",
         "riassunto": "Handy, lightweight, open-source file explorer with essential features.",
         "categorie": [
+            "File Manager",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -43004,7 +43180,7 @@
         "id_pacchetto": "org.proninyaroslav.libretorrent",
         "riassunto": "Client per torrent (software libero, copyleft).",
         "categorie": [
-            "Internet"
+            "Download"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.proninyaroslav.libretorrent/en-US/icon_dPU2aB1n6sbQiEF2K88eVegKSG2gT4D8W3LUenntoCQ=.png",
@@ -44499,7 +44675,8 @@
         "id_pacchetto": "org.transdroid.full",
         "riassunto": "Gestisci i client BitTorrent",
         "categorie": [
-            "Internet"
+            "Download",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -44511,7 +44688,8 @@
         "id_pacchetto": "org.transdroid.lite",
         "riassunto": "Gestisci i client BitTorrent",
         "categorie": [
-            "Internet"
+            "Download",
+            "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -44523,7 +44701,7 @@
         "id_pacchetto": "org.transdroid.search",
         "riassunto": "Plugin per Transdroid",
         "categorie": [
-            "Internet"
+            "Download"
         ],
         "licenza": "LGPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -46501,7 +46679,7 @@
         "id_pacchetto": "ru.yourok.torrserve",
         "riassunto": "Download torrent files",
         "categorie": [
-            "Internet"
+            "Download"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//ru.yourok.torrserve/en-US/icon_6r3dRMKmpfm_rg9L3UFIGJM8Csfzk80nYdJDfzaZhTw=.png",
@@ -47400,7 +47578,7 @@
         "id_pacchetto": "threads.server",
         "riassunto": "Nodo IPFS Lite con UI moderna per supporto ad usi standard di IPFS",
         "categorie": [
-            "Connectivity"
+            "Download"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//threads.server/en-US/icon_sWorSWpbmIWO9Qq4aLDTz0sOcqs-we772prGunW4-DM=.png",
@@ -47412,7 +47590,7 @@
         "id_pacchetto": "threads.thor",
         "riassunto": "The Thor app is a web browser with the focus on speed and usability.",
         "categorie": [
-            "Connectivity"
+            "Download"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//threads.thor/en-US/icon_h529wR-N5X9khCqHqY3bSG-AQel7uSZNzBmL9YUQ0ws=.png",
@@ -48541,7 +48719,7 @@
         "id_pacchetto": "xyz.myachin.downloader",
         "riassunto": "External downloader for SaveTo (companion app)",
         "categorie": [
-            "System"
+            "Download"
         ],
         "licenza": "CDDL-1.0",
         "icona": "https://via.placeholder.com/64",
