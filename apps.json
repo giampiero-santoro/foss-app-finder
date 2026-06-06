@@ -2886,7 +2886,7 @@
             "Local Media Player"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//chromahub.rhythm.app/en-US/icon_dLtv5ndSh_RWyUVIkITzoKleikHN2ZFZklxSh2H2Cbg=.png",
+        "icona": "https://f-droid.org/repo//chromahub.rhythm.app/en-US/icon_HopHKQGn7kjBHvf9xc9qdp3u6UrDq6leZ08fwHkpKWc=.png",
         "url_codice_sorgente": "https://github.com/cromaguy/Rhythm",
         "ultimo_aggiornamento": null
     },
@@ -10876,6 +10876,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Android IP Camera",
+        "id_pacchetto": "com.github.digitallyrefined.androidipcamera",
+        "riassunto": "An Android MJPEG IP Camera app",
+        "categorie": [
+            "Internet",
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.github.digitallyrefined.androidipcamera/en-US/icon_5E2tMfyZbrrtmWaVR-J3ZrPeWmsBA4qN9C7rXhrA3uM=.png",
+        "url_codice_sorgente": "https://github.com/DigitallyRefined/android-ip-camera",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SoftPlus Options",
         "id_pacchetto": "com.github.dmitrykouznetsov.softplusoptions",
         "riassunto": "Offline-first, privacy-focused options payoff and volatility surface simulator.",
@@ -12120,7 +12133,7 @@
             "Role-Playing Game"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.gpl.rpg.AndorsTrail.85.png",
         "url_codice_sorgente": "https://github.com/AndorsTrailRelease/andors-trail",
         "ultimo_aggiornamento": null
     },
@@ -16710,7 +16723,7 @@
             "Game Helper"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.nicue.onetwo.41.png",
         "url_codice_sorgente": "https://github.com/ndleyton/OneTwo",
         "ultimo_aggiornamento": null
     },
@@ -17071,18 +17084,6 @@
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/alialbaali/Noto",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Hermes Agent",
-        "id_pacchetto": "com.nousresearch.hermesagent",
-        "riassunto": "Run local AI models with chat, files, voice, and Android tools",
-        "categorie": [
-            "AI Chat"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.nousresearch.hermesagent/en-US/icon_Vmt_ZSB-ZYViuznDexWlEyDokVjl4UhagHw7RtdIDpo=.png",
-        "url_codice_sorgente": "https://github.com/adybag14-cyber/hermes-agent",
         "ultimo_aggiornamento": null
     },
     {
@@ -18440,6 +18441,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.prof18.feedflow/en-US/icon_59v5ycIuhdqDDpfG1B218-gN-JtFllkdg4Xn0kvEEW8=.png",
         "url_codice_sorgente": "https://github.com/prof18/feed-flow",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Zerion",
+        "id_pacchetto": "com.professor.zerion",
+        "riassunto": "Private messaging over Tor. No phone, no email. Now with channels.",
+        "categorie": [
+            "Messaging"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20001.png",
+        "url_codice_sorgente": "https://github.com/zerionproject/Zerion",
         "ultimo_aggiornamento": null
     },
     {
@@ -27135,6 +27148,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "UWR Planer",
+        "id_pacchetto": "de.uwrplan.app",
+        "riassunto": "Match planning for underwater rugby – the UWR Planer app.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.103003.png",
+        "url_codice_sorgente": "https://git.pabr.de/uwr/uwr_plan_app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Varengold activeTAN",
         "id_pacchetto": "de.varengold.activeTAN",
         "riassunto": "2FA for online banking",
@@ -32342,6 +32367,44 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/john-athan/minesweeper",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "AirPlay Server",
+        "id_pacchetto": "io.github.jqssun.airplay",
+        "riassunto": "AirPlay receiver implementation for Android with video and audio support.",
+        "categorie": [
+            "Connectivity",
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.jqssun.airplay/en-US/icon_HKaWMv5miYrvRWDc_bRk32HrdBiMKUa5gMB8Gpw4uc8=.png",
+        "url_codice_sorgente": "https://github.com/jqssun/android-airplay-server",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Extend",
+        "id_pacchetto": "io.github.jqssun.displayextend",
+        "riassunto": "Extend is an all-purpose display manager for any physical or virtual display.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.jqssun.displayextend/en-US/icon_PDVUWKqSZAwG5J7XDiMbJ29dyrwydWuXWjPxAmoSP84=.png",
+        "url_codice_sorgente": "https://github.com/jqssun/android-display-extend",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Mirror",
+        "id_pacchetto": "io.github.jqssun.displaymirror",
+        "riassunto": "Screen mirroring manager with support for AirPlay, Moonlight, and DisplayLink.",
+        "categorie": [
+            "Multimedia",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.jqssun.displaymirror/en-US/icon_ocwqaf6EoFZOLc4hYRE2AWYHuiK-Jecr-PYTHvliBso=.png",
+        "url_codice_sorgente": "https://github.com/jqssun/android-display-mirror",
         "ultimo_aggiornamento": null
     },
     {
@@ -39537,7 +39600,7 @@
             "AI Chat"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.diekaiju.duckassist/en-US/icon_K3SmX4z6CrgPDrCUtL_XECtz-g8Oo8xkVZhqeUkeEQM=.png",
+        "icona": "https://f-droid.org/repo//org.diekaiju.duckassist/en-US/icon_Q-EK0oifR6d8QsdAA0ODuyOBQS5K6fgJP8ZZFhdEtKc=.png",
         "url_codice_sorgente": "https://github.com/diekaiju/duckAssist",
         "ultimo_aggiornamento": null
     },
