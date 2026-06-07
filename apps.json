@@ -10911,7 +10911,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.dyhkwong.sagernet/en-US/icon__2fwdOO1MwnmGsctgwaP-4ElaUb2FRIQxKT0owRTnC8=.png",
-        "url_codice_sorgente": "https://github.com/dyhkwong/Exclave",
+        "url_codice_sorgente": "https://github.com/ExclaveNetwork/Exclave",
         "ultimo_aggiornamento": null
     },
     {
@@ -11062,6 +11062,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.github.jameshnsears.quoteunquote/en-US/icon_72AWpxHrHWcAkNnn7Hf4NDNNQ8dkHEwjLgbwZle84ZA=.png",
         "url_codice_sorgente": "https://github.com/jameshnsears/QuoteUnquote",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "OW Camera 2 For Pebble",
+        "id_pacchetto": "com.github.jamsinclair.owcamera2",
+        "riassunto": "Control your phone's camera remotely from your Pebble smartwatch",
+        "categorie": [
+            "Graphics"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.github.jamsinclair.owcamera2/en-US/icon_MrfnaJsxc2oFLCogz-K8zmDEnedY1lHnB38YskGbZMk=.png",
+        "url_codice_sorgente": "https://github.com/jamsinclair/ow-camera-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -20946,12 +20958,12 @@
     {
         "nome": "Privamatic",
         "id_pacchetto": "com.techtrest.privamatic",
-        "riassunto": "Know your privacy score. Fix what matters. No cloud, no tracking.",
+        "riassunto": "Privacy score for your Android — 45+ checks, no cloud, no tracking.",
         "categorie": [
             "Security"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.techtrest.privamatic/en-US/icon_fC6PiIOE38Qr81qu-JmDoLgY1-vqq3n3s11b9sQB_hU=.png",
         "url_codice_sorgente": "https://github.com/techtrest/privamatic",
         "ultimo_aggiornamento": null
     },
@@ -22172,6 +22184,18 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.contacts/en-US/icon_UKNFba8g1nE5M6NtEUgesc1pJzoCrtzNLMLqqURH9OQ=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Email",
+        "id_pacchetto": "com.vayunmathur.email",
+        "riassunto": "A modern, open-source email client with a unified inbox",
+        "categorie": [
+            "Email"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.email/en-US/icon_R2oTIRijPxcI8_9Kij7RW9kgJCuaAD3xhJU5gRc2ERQ=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -29256,7 +29280,7 @@
     {
         "nome": "Colors Overflow",
         "id_pacchetto": "eu.veldsoft.colors.overflow",
-        "riassunto": "Gioco di puzzle",
+        "riassunto": "Colors Overflow is a very simple but very addictive board game developed by Velb",
         "categorie": [
             "Puzzle Game"
         ],
@@ -29304,7 +29328,7 @@
     {
         "nome": "Free Klondike",
         "id_pacchetto": "eu.veldsoft.free.klondike",
-        "riassunto": "Un misto di FreeCell e Solitario Klondike",
+        "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Card Game"
         ],
@@ -29340,7 +29364,7 @@
     {
         "nome": "Ithaka Board Game",
         "id_pacchetto": "eu.veldsoft.ithaka.board.game",
-        "riassunto": "Gioco di puzzle",
+        "riassunto": "Ithaka board game is played on a four by four square grid with three pieces in e",
         "categorie": [
             "Puzzle Game"
         ],
@@ -29376,7 +29400,7 @@
     {
         "nome": "Politrics",
         "id_pacchetto": "eu.veldsoft.politrics",
-        "riassunto": "Gioco da tavolo",
+        "riassunto": "Politrics is a strategic board game inspired by Chess, where strategy and tactic",
         "categorie": [
             "Board Game"
         ],
@@ -29388,7 +29412,7 @@
     {
         "nome": "Scribe4",
         "id_pacchetto": "eu.veldsoft.scribe4",
-        "riassunto": "Gioco divertente",
+        "riassunto": "Scribe4 is a logical game developed by Mark Steere.",
         "categorie": [
             "Board Game"
         ],
@@ -29400,7 +29424,7 @@
     {
         "nome": "Svarka Odds Calculator",
         "id_pacchetto": "eu.veldsoft.svarka.odds.calculator",
-        "riassunto": "Calcolatore di probabilità del gioco di carte bulgaro",
+        "riassunto": "Calculate odds and probabilities for the Bulgarian card game Svarka",
         "categorie": [
             "Game Helper"
         ],
@@ -29410,21 +29434,21 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Tri Peaks Solitaire for Android",
+        "nome": "Tri PeaksSolitaire for Android",
         "id_pacchetto": "eu.veldsoft.tri.peaks",
-        "riassunto": "Gioco di carte solitario",
+        "riassunto": "TriPeaks Solitaire for Android is a card game.",
         "categorie": [
             "Card Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/eu.veldsoft.tri.peaks.3.png",
+        "icona": "https://f-droid.org/repo//eu.veldsoft.tri.peaks/en-US/icon_8mmIfaOcB2SLwc5cNjSwGz8RSK6oFp7cyeEFbaSgpdc=.png",
         "url_codice_sorgente": "https://github.com/VelbazhdSoftwareLLC/TriPeaksSolitaireForAndroid",
         "ultimo_aggiornamento": null
     },
     {
         "nome": "Tuty Fruty Slot for Android",
         "id_pacchetto": "eu.veldsoft.tuty.fruty.slot",
-        "riassunto": "Gioca su una slot machine virtuale",
+        "riassunto": "This is a playing for fun slot machine game (no gambling). It has five reels, th",
         "categorie": [
             "Casual Game"
         ],
@@ -29460,7 +29484,7 @@
     {
         "nome": "Vitosha Decision Maker",
         "id_pacchetto": "eu.veldsoft.vitoshadm",
-        "riassunto": "Ti aiuta a prendere decisioni",
+        "riassunto": "Vitosha Decision Maker is really simple decision maker toy developed by Velbazhd",
         "categorie": [
             "Dice"
         ],
@@ -33234,6 +33258,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Linthra",
+        "id_pacchetto": "io.github.thezupzup.linthra",
+        "riassunto": "Open-source, local-first music player for music you own. No forced sync.",
+        "categorie": [
+            "Local Media Player",
+            "Online Media Player"
+        ],
+        "licenza": "MPL-2.0",
+        "icona": "https://f-droid.org/repo//io.github.thezupzup.linthra/en-US/icon_CaJlK4vwTcLxVrK1nN2G9ZZD0CreZqMhKQsoQTEvL6Y=.png",
+        "url_codice_sorgente": "https://github.com/TheZupZup/Linthra",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GPSd Forwarder",
         "id_pacchetto": "io.github.tiagoshibata.gpsdclient",
         "riassunto": "Servizio per inoltrare messaggi NMEA a un server GPSd",
@@ -35008,7 +35045,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//m.co.rh.id.a_medic_log/en-US/icon_VzHOXxh1tQfDWdX7yygA4918_B65nt8uVwGfmf8XV-s=.png",
+        "icona": "https://f-droid.org/repo//m.co.rh.id.a_medic_log/de-DE/icon_VzHOXxh1tQfDWdX7yygA4918_B65nt8uVwGfmf8XV-s=.png",
         "url_codice_sorgente": "https://github.com/rh-id/a-medic-log",
         "ultimo_aggiornamento": null
     },
@@ -35185,7 +35222,7 @@
     {
         "nome": "Tokn - MFA / 2FA authenticator",
         "id_pacchetto": "me.diamondforge.tokn",
-        "riassunto": "A simple, private two-factor authenticator.",
+        "riassunto": "Open-source 2FA authenticator. Encrypted on-device. No accounts.",
         "categorie": [
             "Password & 2FA",
             "Security"
@@ -38072,7 +38109,7 @@
     {
         "nome": "Backtalk",
         "id_pacchetto": "off.kys.backtalk",
-        "riassunto": "Backtalk: message yourself to stay organized.",
+        "riassunto": "Message yourself to stay organized.",
         "categorie": [
             "Note",
             "Writing"
@@ -46771,6 +46808,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/renyuneyun/Easer",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Passchain",
+        "id_pacchetto": "s1m.hwfido2provider",
+        "riassunto": "Use security key with Bluetooth, NFC, USB or your phone secure element",
+        "categorie": [
+            "Password & 2FA"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//s1m.hwfido2provider/en-US/icon_1PCSQ8dqnoQMO5EOzAm-YBRN-VyY2x9KHCvNr9lth6o=.png",
+        "url_codice_sorgente": "https://codeberg.org/s1m/hw-fido2-provider",
         "ultimo_aggiornamento": null
     },
     {
