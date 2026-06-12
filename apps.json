@@ -67,7 +67,8 @@
         "id_pacchetto": "ac.robinson.mediaphone",
         "riassunto": "Create, tell, share and enjoy multimedia digital stories",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "LGPL-3.0-only",
         "icona": "https://f-droid.org/repo//ac.robinson.mediaphone/en-US/icon_K9MU6WWBA7ETcyn5wrEloCOuXDcHytUciBSzwXwd9IA=.png",
@@ -389,6 +390,7 @@
         "id_pacchetto": "app.bitbag",
         "riassunto": "Bitcoin price tracker & net worth dashboard. No ads, no accounts, privacy-first.",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-only",
@@ -695,6 +697,7 @@
         "id_pacchetto": "app.ladefuchs.android",
         "riassunto": "Shows the cheapest charging card - with only one swipe at the charging point.",
         "categorie": [
+            "Market & Price",
             "Money",
             "Navigation"
         ],
@@ -758,6 +761,7 @@
         "id_pacchetto": "app.motionui.android",
         "riassunto": "A web interface to manage your own NVR with motion.",
         "categorie": [
+            "Camera",
             "Internet",
             "Security"
         ],
@@ -783,7 +787,9 @@
         "id_pacchetto": "app.myzel394.alibi",
         "riassunto": "Use your phone as a dashcam and save the last 30 minutes when you need it.",
         "categorie": [
+            "Camera",
             "Multimedia",
+            "Recorder",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -1094,11 +1100,10 @@
         "id_pacchetto": "app.soundtree",
         "riassunto": "Audio recorder with topic organization, marks, and page-like waveforms.",
         "categorie": [
-            "Multimedia",
-            "Note"
+            "Recorder"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/app.soundtree.9025.png",
+        "icona": "https://f-droid.org/repo//icons/app.soundtree.10000.png",
         "url_codice_sorgente": "https://github.com/CodeMarbles/SoundTree",
         "ultimo_aggiornamento": null
     },
@@ -1183,7 +1188,7 @@
         "id_pacchetto": "app.umerfarooq.websocketcam",
         "riassunto": "Access Android camera via Websocket client API",
         "categorie": [
-            "Connectivity"
+            "Camera"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.umerfarooq.websocketcam/en-US/icon_xDTKLaqqSVMt6kyJF2OygjVPCQSu-N4VMaBGG0sJvA4=.png",
@@ -1287,6 +1292,7 @@
         "id_pacchetto": "app.zornslemma.mypricelog",
         "riassunto": "Traccia e confronta i prezzi nei negozi locali, offline",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -2294,6 +2300,7 @@
         "id_pacchetto": "cash.p.terminal",
         "riassunto": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
         "categorie": [
+            "Market & Price",
             "Money",
             "Wallet"
         ],
@@ -2533,8 +2540,10 @@
         "id_pacchetto": "ch.betzengineering.openvine",
         "riassunto": "Record and stitch 6-second video clips. Offline and private.",
         "categorie": [
+            "Camera",
             "Graphics",
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//ch.betzengineering.openvine/en-US/icon_EkD9OzO1PLAa4Zb27YtJmCGhSr1SdfgYcFuZZd7TPAo=.png",
@@ -3263,7 +3272,8 @@
         "id_pacchetto": "com.GTP.eveminer",
         "riassunto": "Aiuto al mining per EVE Online",
         "categorie": [
-            "Game Helper"
+            "Game Helper",
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.GTP.eveminer.19.png",
@@ -4043,7 +4053,8 @@
         "id_pacchetto": "com.alexkang.loopboard",
         "riassunto": "Registra e riproduci i suoni, anche in loop",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.alexkang.loopboard.20.png",
@@ -5976,7 +5987,8 @@
         "riassunto": "The Swiss army knife of musicians",
         "categorie": [
             "Multimedia",
-            "Music Practice Tool"
+            "Music Practice Tool",
+            "Recorder"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.berkersen.practicesuite/de-DE/icon_G25T75Geb2t9L4lGD9fNndGedI9uySIV6MMd36NRG5E=.png",
@@ -6217,6 +6229,7 @@
         "riassunto": "Track your money easily and fully free",
         "categorie": [
             "Finance Manager",
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -6393,6 +6406,7 @@
         "id_pacchetto": "com.brentpanther.bitcoinwidget",
         "riassunto": "A simple widget to display prices for lots of cryptocurrencies.",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -6405,6 +6419,7 @@
         "id_pacchetto": "com.brentpanther.ethereumwidget",
         "riassunto": "Mostra i prezzi di cambio correnti di Ethereum",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -6417,6 +6432,7 @@
         "id_pacchetto": "com.brentpanther.litecoinwidget",
         "riassunto": "Mostra gli attuali prezzi di cambio Litcoin",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -7200,6 +7216,7 @@
         "id_pacchetto": "com.codesail.market_monk",
         "riassunto": "Track stocks in style!",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -7225,6 +7242,7 @@
         "id_pacchetto": "com.cointrend",
         "riassunto": "Monitor di criptovalute veloce e privato",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -7377,6 +7395,7 @@
         "riassunto": "Real-time stock market watcher.",
         "categorie": [
             "Internet",
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-only",
@@ -7684,6 +7703,7 @@
         "id_pacchetto": "com.darkrockstudios.app.securecamera",
         "riassunto": "Snap pics of anything, safely.",
         "categorie": [
+            "Camera",
             "Gallery",
             "Security"
         ],
@@ -8076,6 +8096,7 @@
         "id_pacchetto": "com.developerfromjokela.motioneyeclient",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
+            "Camera",
             "DNS & Hosts",
             "Graphics"
         ],
@@ -8165,7 +8186,8 @@
         "id_pacchetto": "com.dimowner.audiorecorder",
         "riassunto": "gives easy audio recording experience",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.dimowner.audiorecorder/en-US/icon_JzliRmh_TwnKed3RdHrM5bTEoTZLqSEm-1UrNfCBCpE=.png",
@@ -8482,6 +8504,7 @@
         "id_pacchetto": "com.dozingcatsoftware.vectorcamera",
         "riassunto": "Un'app che applica effetti in tempo reale all'input della fotocamera",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
@@ -8724,6 +8747,7 @@
         "riassunto": "Controlla la cronologia dei prezzi dei prodotti Amazon",
         "categorie": [
             "Internet",
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-only",
@@ -9420,6 +9444,7 @@
         "id_pacchetto": "com.example.poleidoscope",
         "riassunto": "A kaleidoscope based on complex polynomials. Trippy.",
         "categorie": [
+            "Camera",
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
@@ -9507,6 +9532,7 @@
         "id_pacchetto": "com.example.zoomhundred",
         "riassunto": "Extreme 100x hybrid zoom camera with local image processing.",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "MIT",
@@ -9649,7 +9675,9 @@
         "id_pacchetto": "com.fadcam",
         "riassunto": "Background video recorder, screen recorder and remote camera control.",
         "categorie": [
-            "Multimedia"
+            "Camera",
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.fadcam/en-US/icon_xWKXfNwdGujoByii0pjqGMbFluhmQOWD56OKu9cRqnk=.png",
@@ -10047,6 +10075,7 @@
         "id_pacchetto": "com.fpf.sentinellens",
         "riassunto": "Facial recognition surveillance with alerts",
         "categorie": [
+            "Camera",
             "Multimedia",
             "Security"
         ],
@@ -10978,6 +11007,7 @@
         "id_pacchetto": "com.github.digitallyrefined.androidipcamera",
         "riassunto": "An Android MJPEG IP Camera app",
         "categorie": [
+            "Camera",
             "Internet",
             "Multimedia"
         ],
@@ -11180,7 +11210,7 @@
         "riassunto": "Discover trending games, player and price statistics, and detailed from Steam",
         "categorie": [
             "Game Helper",
-            "Internet"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.khanshoaib3.nerdsteam/en-US/icon_PPX9h9sIwn9g1UX1e_hL5-KWwFmLnA6iABn5K0eXMY0=.png",
@@ -11508,6 +11538,7 @@
         "id_pacchetto": "com.github.niqdev.ipcam",
         "riassunto": "Streaming video MJPEG su Android",
         "categorie": [
+            "Camera",
             "Internet"
         ],
         "licenza": "MIT",
@@ -11544,7 +11575,7 @@
         "id_pacchetto": "com.github.premnirmal.tickerwidget",
         "riassunto": "Widget ticker del mercato azionario",
         "categorie": [
-            "Time"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -11655,7 +11686,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.github.shadowsocks.plugin.v2ray.1030300.png",
+        "icona": "https://f-droid.org/repo//icons/com.github.shadowsocks.plugin.v2ray.1030400.png",
         "url_codice_sorgente": "https://github.com/shadowsocks/v2ray-plugin-android",
         "ultimo_aggiornamento": null
     },
@@ -11916,7 +11947,7 @@
         "id_pacchetto": "com.github.xiaoshihou.jiyi",
         "riassunto": "Encrypted audio logging app",
         "categorie": [
-            "Writing"
+            "Recorder"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.xiaoshihou.jiyi/en-US/icon_9bNw344W7hc9jFc1Q3VZI1ZQqIILZHC9aiRAYGkv9a0=.png",
@@ -12778,6 +12809,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Entropy's Defiance",
+        "id_pacchetto": "com.hwanderer.entropysdefiance",
+        "riassunto": "Minimalist launcher and time-horizon task manager.",
+        "categorie": [
+            "Launcher",
+            "Task",
+            "Time"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.hwanderer.entropysdefiance/en-US/icon_4zFTmWaZqIiio6z8qB1LWb7h_Z2BwRQu5ogtxetf7i8=.png",
+        "url_codice_sorgente": "https://gitlab.com/hwanderer/entropysdefiance",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "hwloc lstopo",
         "id_pacchetto": "com.hwloc.lstopo",
         "riassunto": "Display the topology of your hardware using the hwloc library and lstopo tool",
@@ -12806,6 +12851,7 @@
         "id_pacchetto": "com.iakmds.librecamera",
         "riassunto": "Modern camera app to take pictures and record videos",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -13386,6 +13432,7 @@
         "id_pacchetto": "com.jairaj.janglegmail.motioneye",
         "riassunto": "Stream and connect all of your Surveillance network cameras",
         "categorie": [
+            "Camera",
             "Security"
         ],
         "licenza": "GPL-3.0-only",
@@ -13435,6 +13482,7 @@
         "id_pacchetto": "com.jarsilio.android.magnifica",
         "riassunto": "A magnificent magnifier",
         "categorie": [
+            "Camera",
             "Graphics"
         ],
         "licenza": "GPL-3.0-only",
@@ -13811,6 +13859,7 @@
         "id_pacchetto": "com.jstephan.yarc",
         "riassunto": "YARC - Multi rate converter services",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-only",
@@ -14987,6 +15036,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "PixelPlayerOSS",
+        "id_pacchetto": "com.lostf1sh.pixelplayeross",
+        "riassunto": "Local-first Android music player for offline and self-hosted libraries.",
+        "categorie": [
+            "Local Media Player",
+            "Online Media Player"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.lostf1sh.pixelplayeross.1.png",
+        "url_codice_sorgente": "https://github.com/lostf1sh/PixelPlayerOSS",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Cavity",
         "id_pacchetto": "com.louis.app.cavity",
         "riassunto": "Wine cellar manager for Android",
@@ -15104,6 +15166,7 @@
         "id_pacchetto": "com.lukeneedham.videodiary",
         "riassunto": "Video Diary - record your life in one short video a day",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
@@ -15116,6 +15179,7 @@
         "id_pacchetto": "com.lun.chin.aicamera",
         "riassunto": "Camera che simula la profondita' di campo usando una rete neurale",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "MIT",
@@ -15180,6 +15244,7 @@
         "id_pacchetto": "com.mablanco.pricegrab",
         "riassunto": "Compare two supermarket prices and find the cheaper one per unit.",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -16025,6 +16090,7 @@
         "id_pacchetto": "com.minimalisticapps.priceconverter",
         "riassunto": "Minimalistic app converting prices of fiat shitcoins and Bitcoin",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -16189,7 +16255,7 @@
         "riassunto": "A Notes and AI Voice Transcription app",
         "categorie": [
             "Note",
-            "Writing"
+            "Recorder"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.module.notelycompose.android/en-US/icon_uImCiN3K1gp3Bscpdzng0vQkq7jigui01BLeFmeoVRw=.png",
@@ -17523,6 +17589,7 @@
         "id_pacchetto": "com.offlinecurrencyconverter.app",
         "riassunto": "Convert currencies offline with support for 160+ currencies",
         "categorie": [
+            "Market & Price",
             "Unit Convertor"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -17649,6 +17716,7 @@
         "id_pacchetto": "com.opencamera_sensors.app",
         "riassunto": "Synchronized recording of video and IMU data with advanced camera options",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -17763,6 +17831,7 @@
         "id_pacchetto": "com.orpheusdroid.screenrecorder",
         "riassunto": "Registratore di schermo leggero e funzionale",
         "categorie": [
+            "Recorder",
             "System"
         ],
         "licenza": "AGPL-3.0-only",
@@ -18053,16 +18122,16 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "PennyWise AI",
+        "nome": "PennyWise AI - Expense Tracker",
         "id_pacchetto": "com.pennywiseai.tracker",
-        "riassunto": "Private, SMS-powered expense tracker with on-device AI",
+        "riassunto": "Private expense tracker & budget app — auto-reads bank SMS, on-device AI.",
         "categorie": [
             "AI Chat",
             "Finance Manager",
             "Money"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.pennywiseai.tracker/en-US/icon_bfpqJGHLJvoAMJWexCvzG4dbdtHObNS7an0Y38ZLaN0=.png",
+        "icona": "https://f-droid.org/repo//com.pennywiseai.tracker/en-US/icon_XA521tvvRXtCZthLQI9-IDFjNnLWB80M7PZqzgOGZy4=.png",
         "url_codice_sorgente": "https://github.com/sarim2000/pennywiseai-tracker",
         "ultimo_aggiornamento": null
     },
@@ -18353,6 +18422,7 @@
         "id_pacchetto": "com.polar.mirror",
         "riassunto": "Simple Android application turning your device into a pocket mirror🪞",
         "categorie": [
+            "Camera",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -18830,6 +18900,7 @@
         "id_pacchetto": "com.rabbittownsoftware.coinvert",
         "riassunto": "A powerful, modern currency converter",
         "categorie": [
+            "Market & Price",
             "Money",
             "Unit Convertor"
         ],
@@ -19703,7 +19774,7 @@
             "Internet"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.seafile.seadroid2.370.png",
         "url_codice_sorgente": "https://github.com/haiwen/seadroid",
         "ultimo_aggiornamento": null
     },
@@ -20032,7 +20103,7 @@
     {
         "nome": "Puzzle Games",
         "id_pacchetto": "com.sidhant.puzzle",
-        "riassunto": "150+ minimalist brain games. Challenge your logic, memory & attention in game",
+        "riassunto": "190+ minimalist brain games. Challenge your logic, memory & attention in game",
         "categorie": [
             "Puzzle Game"
         ],
@@ -20145,6 +20216,7 @@
         "id_pacchetto": "com.simpledecredwidget",
         "riassunto": "Un widget per controllare il tasso di cambio di Decred",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -20545,7 +20617,7 @@
             "Remote Access"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.sshborg/en-US/icon_WATxdXo2DWe9ZYiUbjEtR4eDiDVGtgD1hW_sy6xMS_A=.png",
         "url_codice_sorgente": "https://github.com/payne1982/sshborg",
         "ultimo_aggiornamento": null
     },
@@ -20684,6 +20756,7 @@
         "id_pacchetto": "com.streamatico.polymarketviewer",
         "riassunto": "Browse Polymarket prediction markets ",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -21022,6 +21095,18 @@
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//com.tailscale.ipn/en-US/icon_5TGeXxQgv5xhKbIbHbh4rDy3HLn3obnX86f4BoQa5jk=.png",
         "url_codice_sorgente": "https://github.com/tailscale/tailscale-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Motivational App",
+        "id_pacchetto": "com.takasu.motivational_app.direct",
+        "riassunto": "A tiny joke app that gives you brutally direct motivation in one tap.",
+        "categorie": [
+            "Casual Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.takasu.motivational_app.direct/en-US/icon_SR-nKqewFM2fj42qP1BcnCkHBhrxqv4IU3YERT9Oc2s=.png",
+        "url_codice_sorgente": "https://github.com/GiovanniDrago/motivationalApp",
         "ultimo_aggiornamento": null
     },
     {
@@ -21386,6 +21471,7 @@
         "id_pacchetto": "com.thibaudperso.sonycamera",
         "riassunto": "Control a Sony camera over Wi-Fi",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
@@ -21636,6 +21722,7 @@
         "id_pacchetto": "com.tnibler.cryptocam",
         "riassunto": "Take encrypted photos and video to protect sensitive information.",
         "categorie": [
+            "Camera",
             "Multimedia",
             "Security"
         ],
@@ -22382,6 +22469,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Alchemist",
+        "id_pacchetto": "com.vayunmathur.games.alchemist",
+        "riassunto": "Start with the four basic elements and create anything!",
+        "categorie": [
+            "Casual Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.alchemist/en-US/icon_JejiCNWjsGeRvImFNEztiZNljzISbzaDJT05rN3Tut0=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Chess",
         "id_pacchetto": "com.vayunmathur.games.chess",
         "riassunto": "An open-source chess app.",
@@ -22414,6 +22513,19 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.wordmaker/en-US/icon_sftPsIAh1bCWYdBivks8Z2yAu_ae01UNhbzHoNtmvjs=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Health",
+        "id_pacchetto": "com.vayunmathur.health",
+        "riassunto": "A health metric management health meant to replace Google Fit",
+        "categorie": [
+            "Diet",
+            "Health Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.health/en-US/icon_ZacXjNI93U5-eOTIk1o9eWf9ps3DdX7_LcCZzSC4YKI=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -22544,6 +22656,7 @@
         "id_pacchetto": "com.vermont.possin",
         "riassunto": "Bitcoin and Crypto point of sale payment system for merchants",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "Apache-2.0",
@@ -22708,6 +22821,7 @@
         "id_pacchetto": "com.vladpen.cams",
         "riassunto": "Simple RTSP viewer for IP cameras",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "GPL-2.0-or-later",
@@ -22822,7 +22936,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.voyagerfiles/en-US/icon_77I8_fB4s37EinQpCnG-4nXxDHTt8hqoqf2grQ3UpqY=.png",
         "url_codice_sorgente": "https://github.com/AlanHuang99/Voyager",
         "ultimo_aggiornamento": null
     },
@@ -23066,6 +23180,7 @@
         "id_pacchetto": "com.willchan.simple_random_stock",
         "riassunto": "Randomly select a stock from one of the three US indexes",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -23506,6 +23621,7 @@
         "riassunto": "Record and Stream Audio and/or Screen",
         "categorie": [
             "Multimedia",
+            "Recorder",
             "System"
         ],
         "licenza": "MIT",
@@ -24614,6 +24730,7 @@
         "id_pacchetto": "de.cloneapps.crypto_prices",
         "riassunto": "Track all of your favorite crypto prices",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-only",
@@ -26726,6 +26843,7 @@
         "id_pacchetto": "de.salomax.currencies",
         "riassunto": "Un convertitore di valuta per Android",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -27346,6 +27464,7 @@
         "id_pacchetto": "de.uwepost.android.deltacam",
         "riassunto": "Regista i movimenti (delta) in una singola immagine",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "Apache-2.0",
@@ -27361,7 +27480,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.103023.png",
+        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.103043.png",
         "url_codice_sorgente": "https://git.pabr.de/uwr/uwr_plan_app",
         "ultimo_aggiornamento": null
     },
@@ -28330,6 +28449,7 @@
         "id_pacchetto": "dev.rubec.otoscope",
         "riassunto": "Ad-free viewer for cheap WiFi otoscope cameras.",
         "categorie": [
+            "Camera",
             "Connectivity",
             "Multimedia"
         ],
@@ -29144,7 +29264,8 @@
         "id_pacchetto": "eu.mrogalski.saidit",
         "riassunto": "Time travelling audio recorder for Android.",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.mrogalski.saidit/en-US/icon_-auREOOCNBqEwsI_raj6zsyfEc4H26hE9vLHWtE7u-g=.png",
@@ -29427,6 +29548,7 @@
         "id_pacchetto": "eu.uwot.fabio.altcoinprices",
         "riassunto": "Controlla i prezzi delle altcoin in tempo reale",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-only",
@@ -29984,6 +30106,7 @@
         "id_pacchetto": "fr.corenting.convertisseureurofranc",
         "riassunto": "Inflation calculator for various countries",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -31065,6 +31188,7 @@
         "id_pacchetto": "humer.uvc_camera",
         "riassunto": "App for using a video camera over usb from userspace.",
         "categorie": [
+            "Camera",
             "Development",
             "Multimedia"
         ],
@@ -31803,7 +31927,7 @@
             "Security"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.ente.auth/en-US/icon_BzfyZR0eC3T8JT1En09UJp3m2ey-BBP-x7QBbh2e8ao=.png",
+        "icona": "https://f-droid.org/repo//io.ente.auth/en-US/icon_3cmPEcs1UUpIdp1eaCaDoLcfJKi87TAaHyYjJJ6hBj0=.png",
         "url_codice_sorgente": "https://github.com/ente-io/ente/",
         "ultimo_aggiornamento": null
     },
@@ -32758,7 +32882,8 @@
         "id_pacchetto": "io.github.leonidius20.recorder.lite",
         "riassunto": "Audio recorder",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.leonidius20.recorder.lite/en-US/icon_GPhAE7QOIY4nKgmaOOnn4ma9a7PLb1ucFMQj9rA_x_c=.png",
@@ -33999,6 +34124,7 @@
         "id_pacchetto": "io.librehealth.toolkit.cost_of_care",
         "riassunto": "Compare costs of medical procedures of US Hospitals",
         "categorie": [
+            "Market & Price",
             "Science & Education",
             "Sports & Health"
         ],
@@ -34542,6 +34668,7 @@
         "id_pacchetto": "it.danieleverducci.ojo",
         "riassunto": "Ojo is a basic IP Camera surveillance wall.",
         "categorie": [
+            "Camera",
             "Connectivity",
             "Multimedia",
             "Security"
@@ -35718,7 +35845,8 @@
         "id_pacchetto": "me.proton.echophenomena.recordplayreverse",
         "riassunto": "A simple audio toy that lets you record and playback audio forward or reversed.",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//me.proton.echophenomena.recordplayreverse/en-US/icon_X_8cOVgE01Cv2zg208fDiDK0c24dUdEpNgRbwFzOqnw=.png",
@@ -35780,6 +35908,7 @@
         "id_pacchetto": "me.sujanpoudel.playdeals",
         "riassunto": "Find the latest app deals and discounts on paid apps and games.",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-only",
@@ -36053,6 +36182,7 @@
         "id_pacchetto": "mobi.boilr.boilr",
         "riassunto": "Avvisi di prezzo per Bitcoin, altcoins, assets e futures",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -36518,6 +36648,7 @@
         "id_pacchetto": "net.canvoki.carburoid",
         "riassunto": "Find gas stations by price and distance in Spain, France and Portugal.",
         "categorie": [
+            "Market & Price",
             "Navigation"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -37111,6 +37242,7 @@
         "id_pacchetto": "net.nitratine.priceperunit",
         "riassunto": "Find the best deal for the same item at different prices.",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "Apache-2.0",
@@ -37493,6 +37625,7 @@
         "id_pacchetto": "net.sourceforge.opencamera",
         "riassunto": "Fotocamera",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -37593,6 +37726,7 @@
         "id_pacchetto": "net.stargw.fx",
         "riassunto": "A simple Foreign Exchange Rate Currency app. Free rates and no adverts.",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "Apache-2.0",
@@ -37814,6 +37948,7 @@
         "id_pacchetto": "net.vonforst.evmap",
         "riassunto": "Find electric vehicle charging stations",
         "categorie": [
+            "Market & Price",
             "Navigation"
         ],
         "licenza": "MIT",
@@ -38710,6 +38845,7 @@
         "id_pacchetto": "org.app.geotagvideocamera",
         "riassunto": "Camera with a map and coordinates overlay.",
         "categorie": [
+            "Camera",
             "Navigation",
             "System"
         ],
@@ -38896,6 +39032,7 @@
         "id_pacchetto": "org.avmedia.remotevideocam",
         "riassunto": "Stream video/audio between two phones. Zero configuration.",
         "categorie": [
+            "Camera",
             "Connectivity"
         ],
         "licenza": "MIT",
@@ -39034,6 +39171,7 @@
         "id_pacchetto": "org.billthefarmer.currency",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-only",
@@ -39185,6 +39323,7 @@
         "id_pacchetto": "org.billthefarmer.specie",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "GPL-3.0-only",
@@ -39474,6 +39613,7 @@
         "id_pacchetto": "org.cheeserobot.btcwidget",
         "riassunto": "Tiny home-screen widget showing the latest Bitcoin price in USD or EUR.",
         "categorie": [
+            "Market & Price",
             "Money"
         ],
         "licenza": "MIT",
@@ -39510,6 +39650,7 @@
         "id_pacchetto": "org.cimbar.camerafilecopy",
         "riassunto": "use your camera to transfer data – even in airplane mode",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "MIT",
@@ -39560,7 +39701,8 @@
         "id_pacchetto": "org.codeberg.genericpers0n.soundrecorderplus",
         "riassunto": "A basic sound recorder app for Android.",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.codeberg.genericpers0n.soundrecorderplus/en-US/icon_SjVydzgzuQERPJcBNINiIxZZAilLh39DJOe-_epq-c8=.png",
@@ -39572,7 +39714,8 @@
         "id_pacchetto": "org.codeberg.nykula.sapfir",
         "riassunto": "SF2 sampler with recording and chopping",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.codeberg.nykula.sapfir/en-US/icon_DqdlJG2qq-5kPu42v2XvY_4i7Y289RgHDyrGy3AA3Kw=.png",
@@ -39636,7 +39779,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/org.connectbot.11008000.png",
+        "icona": "https://f-droid.org/repo//org.connectbot/en-US/icon_duduOFcd2opofLACri7YuvYRMastbmvdXXLhAHi87tg=.png",
         "url_codice_sorgente": "https://github.com/connectbot/connectbot",
         "ultimo_aggiornamento": null
     },
@@ -40407,6 +40550,7 @@
         "id_pacchetto": "org.fairscan.app",
         "riassunto": "Scan a document and get a clean PDF you can save or share instantly",
         "categorie": [
+            "Camera",
             "Graphics",
             "Multimedia"
         ],
@@ -40724,6 +40868,7 @@
         "id_pacchetto": "org.fossify.camera",
         "riassunto": "Lightweight open-source camera app for quick, easy, and secure photography",
         "categorie": [
+            "Camera",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -40893,7 +41038,8 @@
         "id_pacchetto": "org.fossify.voicerecorder",
         "riassunto": "Record anything with this Open-source and Ad-free recorder",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.fossify.voicerecorder/en-US/icon_KYvcDjpflfCG2E4kPN6ipz-Q9rSdLJfGiU2mJ3MuNlo=.png",
@@ -41635,6 +41781,7 @@
         "id_pacchetto": "org.jshobbysoft.cameraalign",
         "riassunto": "Align your phone with a previously taken photo",
         "categorie": [
+            "Camera",
             "Graphics"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -42944,7 +43091,7 @@
             "VPN & Proxy"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.outline.android.client.55.png",
         "url_codice_sorgente": "https://github.com/Jigsaw-Code/outline-apps",
         "ultimo_aggiornamento": null
     },
@@ -43575,10 +43722,10 @@
         "id_pacchetto": "org.pyload.android.client",
         "riassunto": "Manage remote downloads",
         "categorie": [
-            "System"
+            "Download"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/org.pyload.android.client.21.png",
+        "icona": "https://f-droid.org/repo//icons/org.pyload.android.client.22.png",
         "url_codice_sorgente": "https://github.com/pyload/pyload-android",
         "ultimo_aggiornamento": null
     },
@@ -43662,7 +43809,8 @@
         "id_pacchetto": "org.residuum.alligator",
         "riassunto": "Record musical loops, play them back, and change the sound with movement.",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.residuum.alligator/en-US/icon_sIdTJs5-zY22D6mrhVKl10D4IFFoIHIBsiyerklrtUY=.png",
@@ -43833,6 +43981,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.schabi.newpipe/en-US/icon_OHy4y1W-fJCNhHHOBCM9V_cxZNJJgbcNkB-x7UDTY9Q=.png",
         "url_codice_sorgente": "https://github.com/TeamNewPipe/NewPipe",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "LocalTube",
+        "id_pacchetto": "org.schabi.newpipe.localserver",
+        "riassunto": "Self-hosted streaming server solution built on top of NewPipe Extractor",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.schabi.newpipe.localserver/en-US/icon_yUrTbSJ6ZCWcC71rFv92TXJGBqRV7uDkUDdLpUyRAfA=.png",
+        "url_codice_sorgente": "https://github.com/diekaiju/localtube",
         "ultimo_aggiornamento": null
     },
     {
@@ -44713,14 +44873,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Notifications for Facebook",
+        "nome": "Notifications for FB",
         "id_pacchetto": "org.surrel.facebooknotifications",
-        "riassunto": "Riproduce le Notifiche di Facebook nella barra delle notifiche di Android",
+        "riassunto": "Privacy-friendly Facebook notifications app.",
         "categorie": [
-            "Internet"
+            "Social Network"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/org.surrel.facebooknotifications.13.png",
+        "icona": "https://f-droid.org/repo//org.surrel.facebooknotifications/en-US/icon_vl9LR-ArLeGCMPol8lChzrDzBebC4n2aXF8oEyBKiDw=.png",
         "url_codice_sorgente": "https://github.com/gsurrel/FacebookNotifications",
         "ultimo_aggiornamento": null
     },
@@ -45292,6 +45452,7 @@
         "id_pacchetto": "org.witness.sscphase1",
         "riassunto": "Picture anonymity: Take pictures & blur identities with this privacy camera app",
         "categorie": [
+            "Camera",
             "Multimedia",
             "Security"
         ],
@@ -45317,6 +45478,7 @@
         "id_pacchetto": "org.woheller69.TimeLapseCam",
         "riassunto": "Minimalistic app that records time lapse videos",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
@@ -45342,7 +45504,8 @@
         "id_pacchetto": "org.woheller69.audio_analyzer_for_android",
         "riassunto": "A handy real-time audio spectrum and spectrogram analyzer",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.woheller69.audio_analyzer_for_android/en-US/icon_69h0hh9-RSrBkOK1H9avcrClGYxS-jXwwEYX_umaAsg=.png",
@@ -45505,6 +45668,7 @@
         "id_pacchetto": "org.woheller69.spritpreise",
         "riassunto": "Gas Prices shows the current prices at petrol stations in Germany",
         "categorie": [
+            "Market & Price",
             "Navigation"
         ],
         "licenza": "GPL-3.0-only",
@@ -45962,6 +46126,7 @@
         "id_pacchetto": "pl.hypeapp.endoscope",
         "riassunto": "Streaming di video in diretta tra dispositivi android tramite Wi-Fi",
         "categorie": [
+            "Camera",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
@@ -46210,7 +46375,8 @@
         "id_pacchetto": "pro.kwiatek.tune_tangler",
         "riassunto": "Enjoy your music — record, refine, remix, share.",
         "categorie": [
-            "Multimedia"
+            "Multimedia",
+            "Recorder"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -47834,6 +48000,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "OpenVitals",
+        "id_pacchetto": "tech.mmarca.openvitals",
+        "riassunto": "Private Health Connect summary; not medical advice",
+        "categorie": [
+            "Health Manager",
+            "Workout"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//tech.mmarca.openvitals/en-US/icon_18a8_ECKrN70frlXygRdmVUBJafEDbeDaVe-8jw2dKw=.png",
+        "url_codice_sorgente": "https://codeberg.org/mmarca-tech/OpenVitals",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Platypush",
         "id_pacchetto": "tech.platypush.platypush",
         "riassunto": "Control your Platypush instances from Android.",
@@ -48045,6 +48224,7 @@
         "id_pacchetto": "tmendes.com.analyticalbalancedroid",
         "riassunto": "Scalare i prezzi alle unità di base comuni",
         "categorie": [
+            "Market & Price",
             "Money",
             "Sports & Health"
         ],
@@ -48201,6 +48381,7 @@
         "id_pacchetto": "troop.com.freedcam",
         "riassunto": "FreeDCam is an open source camera app which try to enable stuff that is\nforgotte",
         "categorie": [
+            "Camera",
             "Graphics",
             "Multimedia"
         ],
