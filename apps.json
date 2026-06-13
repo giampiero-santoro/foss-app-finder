@@ -1103,7 +1103,7 @@
             "Recorder"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/app.soundtree.10000.png",
+        "icona": "https://f-droid.org/repo//icons/app.soundtree.10003.png",
         "url_codice_sorgente": "https://github.com/CodeMarbles/SoundTree",
         "ultimo_aggiornamento": null
     },
@@ -15472,7 +15472,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.markleaf.notes/de-DE/icon_iKCUvFem5MW77aWy-F-iP04PrOqkRiDmwbUQBU98Wj4=.png",
+        "icona": "https://f-droid.org/repo//com.markleaf.notes/en-US/icon_iKCUvFem5MW77aWy-F-iP04PrOqkRiDmwbUQBU98Wj4=.png",
         "url_codice_sorgente": "https://github.com/jeiel85/markleaf-android",
         "ultimo_aggiornamento": null
     },
@@ -18986,7 +18986,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Tui",
+        "nome": "Tūī",
         "id_pacchetto": "com.rama.tui",
         "riassunto": "Privacy-first local media player.",
         "categorie": [
@@ -19210,7 +19210,7 @@
     {
         "nome": "Flac-R",
         "id_pacchetto": "com.resurrect.flac_r",
-        "riassunto": "Take control of your music library.",
+        "riassunto": "Perfect your collection.",
         "categorie": [
             "Multimedia"
         ],
@@ -19440,7 +19440,7 @@
             "Security"
         ],
         "licenza": "ISC",
-        "icona": "https://f-droid.org/repo//com.roundsalmon4.appverifier/en-US/icon_FA8T7W3wfiN-qRyQNkBUfRRddlvuuiHPk9L19ZgzzNY=.png",
+        "icona": "https://f-droid.org/repo//com.roundsalmon4.appverifier/en-US/icon_kwGNJ3_HVj_0ywBmNYs8R8NADo7sHZzWxreCAUQpMf0=.png",
         "url_codice_sorgente": "https://github.com/RoundSalmon4/AppVerifierBG",
         "ultimo_aggiornamento": null
     },
@@ -26347,6 +26347,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "RealmScore",
+        "id_pacchetto": "de.morzo.realmscore",
+        "riassunto": "Score keeper for the Fantasy Realms card game",
+        "categorie": [
+            "Game Helper"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.morzo.realmscore/de-DE/icon_vaRst0WZKP3Oe3lGVNHDoIDSfj3DQ-zQqCUqvBZlhDo=.png",
+        "url_codice_sorgente": "https://github.com/BastianSetter/realmscore",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "National Geographic for Muzei",
         "id_pacchetto": "de.msal.muzei.nationalgeographic",
         "riassunto": "Immagini di National Geographic per Muzei",
@@ -31877,6 +31889,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "whatIwatch",
+        "id_pacchetto": "io.codeberg.allibragi.whatiwatch",
+        "riassunto": "Track the series you're currently watching",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.codeberg.allibragi.whatiwatch/en-US/icon_SOBrwGNUwKHUnCYR3YxJBRvAUgwe7KljolT-lxOSKFA=.png",
+        "url_codice_sorgente": "https://codeberg.org/allibragi/whatiwatch",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "dahliaOS Calculator",
         "id_pacchetto": "io.dahliaos.calculator",
         "riassunto": "Perform basic calculations",
@@ -34912,7 +34936,7 @@
     {
         "nome": "Nori",
         "id_pacchetto": "jp.nonbili.nori",
-        "riassunto": "Bookmark manager and launcher.",
+        "riassunto": "Gestore e avviatore di segnalibri.",
         "categorie": [
             "Bookmark"
         ],
@@ -37291,7 +37315,7 @@
     {
         "nome": "NymVPN – Anonymous No-Log VPN",
         "id_pacchetto": "net.nymtech.nymvpn",
-        "riassunto": "Private, secure Swiss dVPN. WireGuard, mixnet, decentralized proxy, no email.",
+        "riassunto": "VPN suisse, privé et sécurisé. WireGuard, mixnet, proxy décentralisé, sans email",
         "categorie": [
             "Connectivity",
             "Internet",
@@ -46601,6 +46625,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Pictionary Generator",
+        "id_pacchetto": "red.pictionary_generator",
+        "riassunto": "A Pictionary-ish Word Generator",
+        "categorie": [
+            "Party Game"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//red.pictionary_generator/en-US/icon_d5Zeuh-_qoOgJZEBX5vrPQy5NIYZaX8CGn1MoPAM9vk=.png",
+        "url_codice_sorgente": "https://gitlab.com/ari-donnenfeld/pictionary-generator",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Simple Keyboard",
         "id_pacchetto": "rkr.simplekeyboard.inputmethod",
         "riassunto": "An app for those who only need a keyboard and nothing more",
@@ -47950,7 +47986,7 @@
     {
         "nome": "SMS to URL Forwarder",
         "id_pacchetto": "tech.bogomolov.incomingsmsgateway",
-        "riassunto": "simple incoming SMS to URL forwarder",
+        "riassunto": "Simple incoming SMS to URL forwarder",
         "categorie": [
             "Phone & SMS"
         ],
