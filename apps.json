@@ -426,6 +426,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Trayzero",
+        "id_pacchetto": "app.cleartray",
+        "riassunto": "A Getting Things Done inbox — capture, clarify, engage. On-device, no account.",
+        "categorie": [
+            "Task"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.cleartray/en-US/icon_noISCTQTBQY68Ph909izDoHt6qTimt7J9IQ0GXo-0sM=.png",
+        "url_codice_sorgente": "https://github.com/roman10/trayzero",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CoMaps - Hike, Bike, Drive Offline with Privacy",
         "id_pacchetto": "app.comaps.fdroid",
         "riassunto": "Easy map navigation - Discover more of your journey - Powered by the community",
@@ -6872,7 +6884,7 @@
         "id_pacchetto": "com.cg.lrceditor",
         "riassunto": "Create and edit lyric files with ease",
         "categorie": [
-            "Multimedia"
+            "Lyrics"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.cg.lrceditor/en-US/icon_WfnKxcJV3xwMgOAWhEJsY88LDVXQ_17EhEwoHv2JLjE=.png",
@@ -6903,6 +6915,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.chaser.paintballnotificator/de-DE/icon_jrk2vSvbFm4bDwB-4sfDl8GrSqp5UKL2dMNGOJw2PFM=.png",
         "url_codice_sorgente": "https://github.com/CryZo/PaintballNotificator",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Unofficial CheckMK Monitoring",
+        "id_pacchetto": "com.checkmk.unofficial_checkmk_monitoring",
+        "riassunto": "Monitor CheckMK hosts and services on the go",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "GPL-2.0-only",
+        "icona": "https://f-droid.org/repo//com.checkmk.unofficial_checkmk_monitoring/en-US/icon_dMd-op9a8t_K5zqDlj3-K2D3SdSSxonqqJKMjNFgXcY=.png",
+        "url_codice_sorgente": "https://git.pabr.de/apps/unofficial_checkmk_monitoring",
         "ultimo_aggiornamento": null
     },
     {
@@ -7975,7 +7999,7 @@
             "Health Manager",
             "Sports & Health"
         ],
-        "licenza": "MIT",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.derdilla.bloodPressureApp/en-US/icon_kz6QGLlBsqPBk-wWlukbiJfWC2SGpT9eB1hi5Wd3w8c=.png",
         "url_codice_sorgente": "https://github.com/derdilla/blood-pressure-monitor-fl",
         "ultimo_aggiornamento": null
@@ -11008,8 +11032,10 @@
         "riassunto": "An Android MJPEG IP Camera app",
         "categorie": [
             "Camera",
-            "Internet",
-            "Multimedia"
+            "Connectivity",
+            "Multimedia",
+            "Remote Access",
+            "Remote Controller"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.github.digitallyrefined.androidipcamera/en-US/icon_5E2tMfyZbrrtmWaVR-J3ZrPeWmsBA4qN9C7rXhrA3uM=.png",
@@ -12221,7 +12247,7 @@
     {
         "nome": "Sky Map",
         "id_pacchetto": "com.google.android.stardroid",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "Sky Map turns your phone into a window on the night sky.",
         "categorie": [
             "Navigation"
         ],
@@ -12988,6 +13014,7 @@
         "id_pacchetto": "com.illusionman1212.lyricsgrabbr",
         "riassunto": "Lyrics grabbr provides lyrics for the currently playing song",
         "categorie": [
+            "Lyrics",
             "Multimedia",
             "Reading"
         ],
@@ -13787,7 +13814,7 @@
             "Health Manager"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.johanpy.drivesoberly/en-US/icon_3N9aV6_lpF69FrLbVJD3z3bGWE_R4lSjeXDs8uUb5bc=.png",
+        "icona": "https://f-droid.org/repo//com.johanpy.drivesoberly/en-US/icon_rFk3EsvbxtBCxvubX1g14q9R0R_xoLjwlTTvDcLSGhQ=.png",
         "url_codice_sorgente": "https://github.com/JohanPy/DriveSoberly",
         "ultimo_aggiornamento": null
     },
@@ -14111,8 +14138,7 @@
         "id_pacchetto": "com.kanedias.vanilla.lyrics",
         "riassunto": "Vanilla Music player Lyrics Search plugin",
         "categorie": [
-            "Local Media Player",
-            "Multimedia"
+            "Lyrics"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.kanedias.vanilla.lyrics.13.png",
@@ -17267,7 +17293,7 @@
             "Security"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.notcvnt.rknhardering/en-US/icon_ZD6f_y2BVKZgrltTY7uXUFyyOGvabCxxRhSGFC3x-hM=.png",
         "url_codice_sorgente": "https://github.com/xtclovver/RKNHardering",
         "ultimo_aggiornamento": null
     },
@@ -20079,8 +20105,7 @@
         "id_pacchetto": "com.shub39.rush",
         "riassunto": "App to search, view, save and share lyrics",
         "categorie": [
-            "Internet",
-            "Multimedia"
+            "Lyrics"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.shub39.rush/en-US/icon_ZxKhsswHqz8ySBuMuIJgCU4a9djWMYgQLFyYG9DYlRA=.png",
@@ -20103,7 +20128,7 @@
     {
         "nome": "Puzzle Games",
         "id_pacchetto": "com.sidhant.puzzle",
-        "riassunto": "190+ minimalist brain games. Challenge your logic, memory & attention in game",
+        "riassunto": "200+ minimalist brain games. Challenge your logic, memory & attention in game",
         "categorie": [
             "Puzzle Game"
         ],
@@ -20607,6 +20632,18 @@
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.spix.app.foss/en-US/icon_4MZRT3AWsCSZgd9WTs2B5G5lMEGdQbUKSERM-kjvLJE=.png",
         "url_codice_sorgente": "https://github.com/LuckyTheCookie/FitTrack",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SponsorCut",
+        "id_pacchetto": "com.sponsorcut",
+        "riassunto": "Remove sponsor segments from local video and audio files using SponsorBlock.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.sponsorcut/en-US/icon_k9rcqLqwvGbvT2WZFJjMS3ed-sz7y8djHAmMiociLpk=.png",
+        "url_codice_sorgente": "https://github.com/Guy-Steiff/SponsorCut",
         "ultimo_aggiornamento": null
     },
     {
@@ -22309,9 +22346,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Urik Keyboard",
+        "nome": "Tastiera Urik",
         "id_pacchetto": "com.urik.keyboard",
-        "riassunto": "Privacy-focused Android keyboard",
+        "riassunto": "Tastiera Android incentrata sulla privacy",
         "categorie": [
             "Keyboard & IME"
         ],
@@ -22649,6 +22686,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.vedroid.events.1.png",
         "url_codice_sorgente": "https://gitlab.com/jasuramme/vedroid-events",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Ventoid",
+        "id_pacchetto": "com.ventoid.app",
+        "riassunto": "Install Ventoy-style bootable USB drives from Android without root.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.ventoid.app.7.png",
+        "url_codice_sorgente": "https://github.com/GPLaider/Ventoid",
         "ultimo_aggiornamento": null
     },
     {
@@ -25219,7 +25268,7 @@
         "id_pacchetto": "de.gabbo.forro_lyrics",
         "riassunto": "Database offline dei testi di Forró",
         "categorie": [
-            "Reading"
+            "Lyrics"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/de.gabbo.forro_lyrics.18.png",
@@ -28041,6 +28090,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.fabik.bluetoothhid/en-US/icon_Hd8trJjiQLyHH-hFFo8_vODv7vCxEk86T1ObVdGFmTY=.png",
         "url_codice_sorgente": "https://github.com/Fabi019/hid-barcode-scanner",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Calendar Sync",
+        "id_pacchetto": "dev.henriquecouto.calsync",
+        "riassunto": "Sync events across multiple local device calendars automatically.",
+        "categorie": [
+            "Calendar & Agenda"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.73.png",
+        "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
     {
@@ -33592,7 +33653,7 @@
         "id_pacchetto": "io.github.teccheck.fastlyrics",
         "riassunto": "Un'app che scarica i testi delle canzoni, anche di quelle che stai ascoltando",
         "categorie": [
-            "Multimedia"
+            "Lyrics"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.teccheck.fastlyrics/en-US/icon_Fho2Smns1C1ZpUJp6G0N5Aqjjvk5njBzJGVqQwua1kw=.png",
@@ -34823,7 +34884,7 @@
         "id_pacchetto": "it.zitzusoft.lyrics_2",
         "riassunto": "Find, read and save locally your favourite songs' lyrics!",
         "categorie": [
-            "Multimedia"
+            "Lyrics"
         ],
         "licenza": "CC-BY-4.0",
         "icona": "https://f-droid.org/repo//it.zitzusoft.lyrics_2/en-US/icon_JY12Jc9dqmgOtblICEm-ZTtwR2zqu7ILI_Nab5Go5iY=.png",
@@ -41317,7 +41378,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.gnu.emacs.300200003.png",
+        "icona": "https://f-droid.org/repo//icons/org.gnu.emacs.310090003.png",
         "url_codice_sorgente": "https://git.savannah.gnu.org/cgit/emacs.git/tree/",
         "ultimo_aggiornamento": null
     },
@@ -41568,8 +41629,7 @@
         "id_pacchetto": "org.hollowbamboo.chordreader2",
         "riassunto": "A digital music book to fetch online and store locally chords and lyrics",
         "categorie": [
-            "Multimedia",
-            "Science & Education"
+            "Lyrics"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.hollowbamboo.chordreader2/en-US/icon_YdpTXYTfewES1QQpelPWLOHwQO8lKsR_lGRFbMlIVM8=.png",
@@ -45942,8 +46002,7 @@
         "id_pacchetto": "org.zephyrsoft.sdbviewer",
         "riassunto": "Visualizza i testi delle canzoni, una traduzione e gli accordi per chitarra",
         "categorie": [
-            "Multimedia",
-            "Reading"
+            "Lyrics"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.zephyrsoft.sdbviewer/en-US/icon_TzJ8NMdZCjvEiKZMVa-LcMAYS--01q693CcAHJsiU9M=.png",
@@ -46496,6 +46555,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//proton.android.pass.fdroid/en-US/icon_ffWYEAGE-Jr8JzeT3iQ2yTteDvhwqgqAl1QNw4dFdQU=.png",
         "url_codice_sorgente": "https://github.com/protonpass/android-pass",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "RUTEdu",
+        "id_pacchetto": "prz.rutedu.app",
+        "riassunto": "Interactive education app for chemistry, math and geography",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/prz.rutedu.app.601.png",
+        "url_codice_sorgente": "https://github.com/RUTEdu-Team/RUTEdu",
         "ultimo_aggiornamento": null
     },
     {
