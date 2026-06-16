@@ -3450,7 +3450,7 @@
             "Social Network"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.acho.chat.app/en-US/icon_VfHvRoLONo2zeSIJXvQRzGiOZg4kyHgbm4UrhwL3R1g=.png",
         "url_codice_sorgente": "https://github.com/jorgecobos14/I_need_to_stop_programming_pls",
         "ultimo_aggiornamento": null
     },
@@ -4412,7 +4412,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.anisync.android/en-US/icon_LH_aN5dlI0LqUqAFNb_jFdYzQow3ostUfO4XYA18UrA=.png",
+        "icona": "https://f-droid.org/repo//com.anisync.android/en-US/icon_sTE4bvrQu9EJiQS4xXY16fIqINMml_icqi7SnlELu2Q=.png",
         "url_codice_sorgente": "https://github.com/Marco-9456/AniSync",
         "ultimo_aggiornamento": null
     },
@@ -6105,6 +6105,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.bily/en-US/icon_CrS58KsL6QockrpMoaJgiQGBAq9lFif8k1XMwd2qMcU=.png",
         "url_codice_sorgente": "https://gitlab.com/pncls/bily",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Binaural Beat",
+        "id_pacchetto": "com.binauralbeat",
+        "riassunto": "Binaural beat generator with the classic SBaGen engine and ambient backgrounds",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-2.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://gitlab.com/jave/binauralbeat",
         "ultimo_aggiornamento": null
     },
     {
@@ -12488,7 +12500,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.43.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.53.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -14539,6 +14551,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kounex.obsBlade/en-US/icon_ZFVL5Get2wfXgj-5vKDPCUTqmbjg8lhWJUzaAVF-Xg0=.png",
         "url_codice_sorgente": "https://github.com/Kounex/obs_blade",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Solipsism Browser",
+        "id_pacchetto": "com.krystelligence.solipsism",
+        "riassunto": "Rail-first browser with privacy tools and one-handed controls",
+        "categorie": [
+            "Browser"
+        ],
+        "licenza": "MPL-2.0",
+        "icona": "https://f-droid.org/repo//com.krystelligence.solipsism/en-US/icon_EfVApXqXpH8gbYDk-JFmP5Hvd4nOyhUSTcvRSXb6Xnk=.png",
+        "url_codice_sorgente": "https://github.com/Kenneth-Cho-InfoSec/Solipsism",
         "ultimo_aggiornamento": null
     },
     {
@@ -18156,7 +18180,7 @@
             "Finance Manager",
             "Money"
         ],
-        "licenza": "MIT",
+        "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.pennywiseai.tracker/en-US/icon_XA521tvvRXtCZthLQI9-IDFjNnLWB80M7PZqzgOGZy4=.png",
         "url_codice_sorgente": "https://github.com/sarim2000/pennywiseai-tracker",
         "ultimo_aggiornamento": null
@@ -18692,7 +18716,7 @@
             "Messaging"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20001.png",
+        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20002.png",
         "url_codice_sorgente": "https://github.com/zerionproject/Zerion",
         "ultimo_aggiornamento": null
     },
@@ -22985,7 +23009,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.voyagerfiles/en-US/icon_77I8_fB4s37EinQpCnG-4nXxDHTt8hqoqf2grQ3UpqY=.png",
+        "icona": "https://f-droid.org/repo//com.voyagerfiles/en-US/icon_nEFiZr3npst80uFMLZPFKTKjlREZU62JB7hurSRSZh0=.png",
         "url_codice_sorgente": "https://github.com/AlanHuang99/Voyager",
         "ultimo_aggiornamento": null
     },
@@ -25247,7 +25271,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://gitlab.com/stovocor/whohasmystuff",
+        "url_codice_sorgente": "https://codeberg.org/stovocor/whohasmystuff",
         "ultimo_aggiornamento": null
     },
     {
@@ -26946,7 +26970,7 @@
             "Public Transport"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140005.png",
+        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140006.png",
         "url_codice_sorgente": "https://gitlab.com/oeffi/oeffi",
         "ultimo_aggiornamento": null
     },
@@ -33377,6 +33401,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Audio Visualizer",
+        "id_pacchetto": "io.github.rinoprogram.audiovisualizer",
+        "riassunto": "Audio visualizer for local media playback.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.rinoprogram.audiovisualizer/en-US/icon_1XmLEzrHQwIeCyYjlNQhfQWOhRvfmL2wkw7Olz4HpKk=.png",
+        "url_codice_sorgente": "https://github.com/Rino-program/Audio-Visualizer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Karui ToDo",
         "id_pacchetto": "io.github.ronynn.karui",
         "riassunto": "An open source, privacy focussed, aesthetic todo list app.",
@@ -36777,6 +36813,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//net.casimirlab.frigoligo/en-US/icon_DEQmJEA6LavFrqcTizXRZUTmzGSsijpQ_EZey1v7E_w=.png",
         "url_codice_sorgente": "https://github.com/casimir/frigoligo",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "MyShare",
+        "id_pacchetto": "net.chlup.myshare",
+        "riassunto": "Upload photos and documents to a server on user request",
+        "categorie": [
+            "File Transfer"
+        ],
+        "licenza": "GPL-2.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/net.chlup.myshare.168.png",
+        "url_codice_sorgente": "https://gitlab.com/pramacomht/myshare",
         "ultimo_aggiornamento": null
     },
     {
@@ -42948,7 +42996,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.nutritionfacts.dailydozen.94.png",
         "url_codice_sorgente": "https://github.com/nutritionfactsorg/daily-dozen-android",
         "ultimo_aggiornamento": null
     },
