@@ -1115,7 +1115,7 @@
             "Recorder"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/app.soundtree.10003.png",
+        "icona": "https://f-droid.org/repo//icons/app.soundtree.10010.png",
         "url_codice_sorgente": "https://github.com/CodeMarbles/SoundTree",
         "ultimo_aggiornamento": null
     },
@@ -3609,6 +3609,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Umpire Assistant",
+        "id_pacchetto": "com.adiamas.umpireassistant",
+        "riassunto": "Pitch count and score tracker for baseball, softball, and kickball officials.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.adiamas.umpireassistant/en-US/icon_L9dsj0BtAAYSIqgn0CUPBtmrRidjcYEwRuHH9erEAtg=.png",
+        "url_codice_sorgente": "https://github.com/adiamas/umpireassistant",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "NoMoreBackground",
         "id_pacchetto": "com.adilhanney.no_more_background",
         "riassunto": "Control your Android™ apps",
@@ -5407,6 +5419,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.arduia.expense/en-US/icon_R9Jf8jR0YqdG1_0QzwpOGD6kVCopCJDvy3A2YbCNeao=.png",
         "url_codice_sorgente": "https://github.com/arduia/ProExpense",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Archiv",
+        "id_pacchetto": "com.armanmaurya.archiv",
+        "riassunto": "Smart document scanner with tagging and fast search.",
+        "categorie": [
+            "Ebook Reader",
+            "File Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.armanmaurya.archiv/en-US/icon_hY8bJni8l1Dtf_awH0aWoZTpAxnDHndpThEWYu4j4Ic=.png",
+        "url_codice_sorgente": "https://github.com/armanmaurya/archiv",
         "ultimo_aggiornamento": null
     },
     {
@@ -9840,6 +9865,7 @@
         "id_pacchetto": "com.ferlagod.rocinante",
         "riassunto": "Fast, private, and native client for the BookWyrm literary social network.",
         "categorie": [
+            "Reading",
             "Social Network"
         ],
         "licenza": "AGPL-3.0-only",
@@ -12500,7 +12526,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.53.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.103.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -13228,7 +13254,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8537 manual pages, 30 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8562 manual pages, 30 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -13585,7 +13611,7 @@
             "Music Practice Tool"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.jayc180.rhythmengine.100.png",
+        "icona": "https://f-droid.org/repo//com.jayc180.rhythmengine/en-US/icon_GUJcAk8BYPdIAwZimpe8BQMkpzUTnnV1Yfoq2DxjjPk=.png",
         "url_codice_sorgente": "https://github.com/jayc180/prog-metronome",
         "ultimo_aggiornamento": null
     },
@@ -18711,12 +18737,12 @@
     {
         "nome": "Zerion",
         "id_pacchetto": "com.professor.zerion",
-        "riassunto": "Private messaging over Tor. No phone, no email. Now with channels.",
+        "riassunto": "Encrypted chats, calls and channels over Tor. No phone number, no email.",
         "categorie": [
             "Messaging"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20002.png",
+        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20003.png",
         "url_codice_sorgente": "https://github.com/zerionproject/Zerion",
         "ultimo_aggiornamento": null
     },
@@ -23301,9 +23327,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Wire • Secure Messenger",
+        "nome": "Wire",
         "id_pacchetto": "com.wire",
-        "riassunto": "Wire offers highly secure communication – anywhere and anytime.",
+        "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Internet",
             "Messaging",
@@ -24043,6 +24069,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/zulip/zulip-flutter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "RecorderX",
+        "id_pacchetto": "com.zygisk_enc.RecorderX",
+        "riassunto": "High-performance screen recorder with internal audio support",
+        "categorie": [
+            "Recorder"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.zygisk_enc.RecorderX/metadata/icon_YFxCg2Mt6iTHwdZTgVMz6nQsiRjBAAmGQL-ptNcdpok=.png",
+        "url_codice_sorgente": "https://github.com/snap24/RecorderX",
         "ultimo_aggiornamento": null
     },
     {
@@ -26034,6 +26072,19 @@
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/lukaspieper/Gcam-Services-Provider",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Truvark",
+        "id_pacchetto": "de.lukaspieper.truvark",
+        "riassunto": "A multi-vault file encryption app that respects your privacy.",
+        "categorie": [
+            "File Encryption & Vault",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/de.lukaspieper.truvark.203.png",
+        "url_codice_sorgente": "https://github.com/lukaspieper/Truvark",
         "ultimo_aggiornamento": null
     },
     {
@@ -28117,14 +28168,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Calendar Sync",
+        "nome": "CalSync",
         "id_pacchetto": "dev.henriquecouto.calsync",
         "riassunto": "Sync events across multiple local device calendars automatically.",
         "categorie": [
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.73.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.93.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -29239,7 +29290,7 @@
             "Internet"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/eu.heili.wormhole.7943.png",
         "url_codice_sorgente": "https://github.com/wormhole-app/wormhole",
         "ultimo_aggiornamento": null
     },
@@ -38376,7 +38427,8 @@
         "id_pacchetto": "nl.privacydragon.bookwyrm",
         "riassunto": "A BookWyrm client for Android.",
         "categorie": [
-            "Reading"
+            "Reading",
+            "Social Network"
         ],
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//nl.privacydragon.bookwyrm/en-US/icon_2QtT365TAKAkZhJDf-trXywuovCQRWXa0Qi4DJNu72g=.png",
@@ -45288,7 +45340,7 @@
             "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.transdroid.full.248.png",
         "url_codice_sorgente": "https://github.com/erickok/transdroid",
         "ultimo_aggiornamento": null
     },
@@ -45301,7 +45353,7 @@
             "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.transdroid.lite.248.png",
         "url_codice_sorgente": "https://github.com/erickok/transdroid",
         "ultimo_aggiornamento": null
     },
@@ -47868,7 +47920,7 @@
             "Browser"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//space.karrarnazim.ConsoleFlow/en-US/icon_hutkL5V6-4JUit9Qdozh8nHumAf9RtBVtp-xHKYjqhE=.png",
+        "icona": "https://f-droid.org/repo//space.karrarnazim.ConsoleFlow/en-US/icon_K3kbaTWAtzKzY-8N7jYYGQml7_ceEV9JelT7fsSituo=.png",
         "url_codice_sorgente": "https://github.com/SANDRO00O/ConsoleFlow-mobile",
         "ultimo_aggiornamento": null
     },
@@ -48157,7 +48209,7 @@
     {
         "nome": "OpenVitals",
         "id_pacchetto": "tech.mmarca.openvitals",
-        "riassunto": "Private Health Connect summary; not medical advice",
+        "riassunto": "Private Health Connect dashboard",
         "categorie": [
             "Health Manager",
             "Workout"
