@@ -117,7 +117,6 @@
         "id_pacchetto": "ademar.bitac",
         "riassunto": "An easy and quick way to check the balance of bitcoin addresses.",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -390,8 +389,7 @@
         "id_pacchetto": "app.bitbag",
         "riassunto": "Bitcoin price tracker & net worth dashboard. No ads, no accounts, privacy-first.",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.bitbag/en-US/icon_5RIEOmbKcH0KLYJOOB-7BNoBdO8L_R6eJedWGXNTh4g=.png",
@@ -454,7 +452,6 @@
         "id_pacchetto": "app.crescentcash.src",
         "riassunto": "Send coins to a Cash Account or Bitcoin Cash address with Crescent Cash",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -531,6 +528,7 @@
         "id_pacchetto": "app.fedilab.castlab",
         "riassunto": "Cast your media to DLNA/UPnP and FCast devices",
         "categorie": [
+            "Cast",
             "Gallery",
             "Local Media Player",
             "Online Media Player",
@@ -710,7 +708,6 @@
         "riassunto": "Shows the cheapest charging card - with only one swipe at the charging point.",
         "categorie": [
             "Market & Price",
-            "Money",
             "Navigation"
         ],
         "licenza": "Apache-2.0",
@@ -747,7 +744,6 @@
         "id_pacchetto": "app.michaelwuensch.bitbanana",
         "riassunto": "Unleash your Bitcoin Lightning node!",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -914,8 +910,7 @@
         "id_pacchetto": "app.plugbrain.android",
         "riassunto": "PlugBrain blocks apps and uses math challenges to reduce screen time.",
         "categorie": [
-            "Science & Education",
-            "Time"
+            "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.plugbrain.android/en-US/icon_ctecfGhY3thlzVvrUIlRcNjIlc0l8UyvzSlkGbHKU9o=.png",
@@ -1304,8 +1299,7 @@
         "id_pacchetto": "app.zornslemma.mypricelog",
         "riassunto": "Traccia e confronta i prezzi nei negozi locali, offline",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//app.zornslemma.mypricelog/en-US/icon_Efyr30H_pLb9d8ofSf5ltYaA5sVkHE2QIUxTQl4JhcU=.png",
@@ -1366,8 +1360,7 @@
         "id_pacchetto": "art.pegasko.yeeemp",
         "riassunto": "Yeeemp - tag-based event tracker for everything",
         "categorie": [
-            "Sports & Health",
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//art.pegasko.yeeemp/en-US/icon_Kfzn_6JvCHrn7qW-maaagD0xGIFZDFvqqFyMXkOAJK8=.png",
@@ -1379,8 +1372,7 @@
         "id_pacchetto": "askanimus.arbeitszeiterfassung2",
         "riassunto": "Annotazione delle ore di lavoro, generazione e invio di rapporti (PDF, CSV, ICS)",
         "categorie": [
-            "Money",
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//askanimus.arbeitszeiterfassung2/de/icon_U8Ehc6xa7Z99RWnqwAAhY_twnySG_W7Tgx-vAP-0uvQ=.png",
@@ -1404,8 +1396,7 @@
         "id_pacchetto": "at.bitfire.icsdroid",
         "riassunto": "Subscribe to Webcal (.ics) calendars",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//at.bitfire.icsdroid/en-US/icon_MD-5aCORQ45UHOhdYf0-OntTncNYmEHhmTo6ggfbh8E=.png",
@@ -1467,8 +1458,7 @@
         "id_pacchetto": "at.jclehner.rxdroid",
         "riassunto": "Ti ricorda gli orari dei tuoi farmaci",
         "categorie": [
-            "Sports & Health",
-            "Time"
+            "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -1516,8 +1506,7 @@
         "id_pacchetto": "at.manuelbichler.octalsuntime",
         "riassunto": "A clock for solar time in the octal number system",
         "categorie": [
-            "Clock",
-            "Time"
+            "Clock"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//at.manuelbichler.octalsuntime/en-US/icon_rLddBMgKuq42QPRMWrZYhWGQxo12H6CH5CVq0Z6lPnk=.png",
@@ -1758,8 +1747,7 @@
         "id_pacchetto": "be.chvp.nanoledger",
         "riassunto": "Data entry app for plain text accounting",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//be.chvp.nanoledger/en-US/icon_1axXnDRkoepAh7CJsomTDHT1jBSil_1crMD_ASMGvMk=.png",
@@ -1771,8 +1759,7 @@
         "id_pacchetto": "be.digitalia.fosdem",
         "riassunto": "Programma del browser per la conferenza FOSDEM",
         "categorie": [
-            "Schedule",
-            "Time"
+            "Schedule"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -1911,7 +1898,7 @@
         "id_pacchetto": "biz.binarysolutions.vatcalculator",
         "riassunto": "Calculate VAT for any country in the world",
         "categorie": [
-            "Money"
+            "Calculator"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//biz.binarysolutions.vatcalculator/en-US/icon_xyjzZE2Jy1XClHRJpRPCjye4q9GrRlWyIYfDma_Aa3g=.png",
@@ -1976,9 +1963,7 @@
         "id_pacchetto": "br.com.colman.petals",
         "riassunto": "Take control of your weed consumption",
         "categorie": [
-            "Science & Education",
-            "Sports & Health",
-            "Time"
+            "Habit Tracker"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//br.com.colman.petals/en-US/icon_mBbTCC5y6CISQx7qq4smd7gi0Ik18mf8raB1zH5fekg=.png",
@@ -2155,7 +2140,6 @@
         "id_pacchetto": "ca.hamaluik.timecop",
         "riassunto": "A time tracking app that respects your privacy without being fancy.",
         "categorie": [
-            "Time",
             "Time Tracker",
             "Timer"
         ],
@@ -2169,7 +2153,7 @@
         "id_pacchetto": "ca.littlesvr.everyonestimetable",
         "riassunto": "Looking for a prof's or friend's school timetable? Look in here!",
         "categorie": [
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//ca.littlesvr.everyonestimetable/en-US/icon_tvDYNubtSEJrVSyAkrbQrrk8lee2y30IcG8C2Qu57gw=.png",
@@ -2235,8 +2219,7 @@
         "id_pacchetto": "ca.rmen.android.frenchcalendar",
         "riassunto": "French Revolutionary calendar widget",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/ca.rmen.android.frenchcalendar.1182.png",
@@ -2261,7 +2244,7 @@
         "id_pacchetto": "ca.rmen.android.scrumchatter",
         "riassunto": "Cronometrare i membri mentre parlano alle riunioni",
         "categorie": [
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/ca.rmen.android.scrumchatter.10606.png",
@@ -2313,7 +2296,6 @@
         "riassunto": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
         "categorie": [
             "Market & Price",
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -2326,8 +2308,7 @@
         "id_pacchetto": "cat.mvmike.minimalcalendarwidget",
         "riassunto": "Minimal Calendar Widget",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//cat.mvmike.minimalcalendarwidget/en-US/icon_K-oLJlzwjbk5V_Nl0zSWNhLPrr6vQfGdCAJAAOWvtFU=.png",
@@ -2353,7 +2334,7 @@
         "id_pacchetto": "cat.naval.florae",
         "riassunto": "Keep care of your green, leafy best friends.",
         "categorie": [
-            "Time"
+            "Task"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//cat.naval.florae/en-US/icon_bhsdebuH62qIGyLAaD8cmBfPMIqH-tiqFhDfEKf4M80=.png",
@@ -2389,6 +2370,7 @@
         "id_pacchetto": "cc.chenhe.qqnotifyevo",
         "riassunto": "Optimize QQ notification without ROOT",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "AGPL-3.0-only",
@@ -2401,6 +2383,7 @@
         "id_pacchetto": "cc.echonet.coolmicapp",
         "riassunto": "Client sorgente di Icecast",
         "categorie": [
+            "Cast",
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
@@ -2461,9 +2444,9 @@
         "id_pacchetto": "cc.polysfaer.stochapop",
         "riassunto": "Fixed and random reminder scheduler.",
         "categorie": [
+            "Alarm Clock",
             "Calendar & Agenda",
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//cc.polysfaer.stochapop/en-US/icon_XhNqWjYzHVacER0Hz4hIaXjYfEuc8uOsv7cIXdCzdeQ=.png",
@@ -2666,8 +2649,7 @@
         "id_pacchetto": "ch.ihdg.calendarcolor",
         "riassunto": "Cambia il colore del calendario",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -2806,7 +2788,6 @@
         "id_pacchetto": "ch.swissbitcoinpay.checkout",
         "riassunto": "1 minute to accept Bitcoin in your business.",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -3052,8 +3033,7 @@
         "id_pacchetto": "cn.super12138.todo",
         "riassunto": "A concise to-do app that follows Material 3 Expressive.",
         "categorie": [
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//cn.super12138.todo/en-US/icon_kLSCSdevJyX15PrpsITCmQJ0LCE7m8T1sYXrEpy6gCM=.png",
@@ -3089,6 +3069,7 @@
         "id_pacchetto": "co.adityarajput.notifilter",
         "riassunto": "Silence annoying notifications",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -3130,7 +3111,6 @@
         "id_pacchetto": "co.electriccoin.zcash.foss",
         "riassunto": "The most private crypto wallet. Built for financial sovereignty.",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -3183,7 +3163,6 @@
         "id_pacchetto": "co.timsmart.vouchervault",
         "riassunto": "A vault for all your vouchers and gift cards.",
         "categorie": [
-            "Money",
             "Pass Wallet"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -3309,8 +3288,7 @@
         "id_pacchetto": "com.MNPDigital.holidayz",
         "riassunto": "Public and Regional Holidays for 100+ Countries",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.MNPDigital.holidayz/en-US/icon_Rfnexf7c4nrHCsH7nG0Ls6QYhUCbSnk_3wwSlujQvQg=.png",
@@ -3374,7 +3352,7 @@
         "id_pacchetto": "com.a4a.g8invoicing",
         "riassunto": "Create invoices, delivery notes and credit notes easily",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.a4a.g8invoicing/en-US/icon_KljiCtpx75APEIWy45knYOWNO5oyqEz7uFw2m_7Tn4I=.png",
@@ -3423,7 +3401,8 @@
         "id_pacchetto": "com.abhijitvalluri.android.fitnotifications",
         "riassunto": "Abilita tutte le notifiche per i dispositivi Fitbit compatibili",
         "categorie": [
-            "Connectivity"
+            "Connectivity",
+            "Notification"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -3823,7 +3802,6 @@
         "id_pacchetto": "com.aisleron",
         "riassunto": "Aisleron: Fly through the shops!",
         "categorie": [
-            "Money",
             "Shopping List"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -3875,8 +3853,7 @@
         "id_pacchetto": "com.akdev.nofbeventscraper",
         "riassunto": "Import Facebook-Events to the calendar",
         "categorie": [
-            "Internet",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.akdev.nofbeventscraper.15.png",
@@ -3988,7 +3965,6 @@
         "id_pacchetto": "com.alaskalinuxuser.hourglass",
         "riassunto": "Imposta timer variabili con allarme sonoro e vibrazione",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "Apache-2.0",
@@ -4157,6 +4133,7 @@
         "id_pacchetto": "com.amaze.fileutilities",
         "riassunto": "Analyse, transfer and open files all in one app.",
         "categorie": [
+            "Cast",
             "Ebook Reader",
             "File Manager",
             "System"
@@ -4384,7 +4361,7 @@
         "id_pacchetto": "com.androidfromfrankfurt.workingtimealert",
         "riassunto": "Non scordarti mai l'ora di andare a casa",
         "categorie": [
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//icons/com.androidfromfrankfurt.workingtimealert.4.png",
@@ -4409,7 +4386,7 @@
         "id_pacchetto": "com.angrydoughnuts.android.alarmclock",
         "riassunto": "Una sveglia",
         "categorie": [
-            "Time"
+            "Alarm Clock"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -4497,9 +4474,9 @@
         "id_pacchetto": "com.antonok.warpclock",
         "riassunto": "Quick shortcut for setting alarms based on your preferred amount of sleep.",
         "categorie": [
+            "Alarm Clock",
             "Sports & Health",
-            "System",
-            "Time"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.antonok.warpclock/en-US/icon_InAhxpfHqtt6P1ItEFzYZbaI5Sdu-Y7cAb66ZrKPEv0=.png",
@@ -5309,7 +5286,8 @@
         "id_pacchetto": "com.app.missednotificationsreminder",
         "riassunto": "Promemoria sonoro periodico per le notifiche perse",
         "categorie": [
-            "Connectivity"
+            "Connectivity",
+            "Notification"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.app.missednotificationsreminder.2010605222.png",
@@ -5363,7 +5341,6 @@
         "id_pacchetto": "com.apps.adrcotfas.goodtime",
         "riassunto": "Timer di produttività progettato per tenervi sulla buona strada e non distrarvi",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "Apache-2.0",
@@ -5388,6 +5365,7 @@
         "id_pacchetto": "com.aragaer.jtt",
         "riassunto": "Widget orologio",
         "categorie": [
+            "Alarm Clock",
             "Clock",
             "System"
         ],
@@ -5413,8 +5391,7 @@
         "id_pacchetto": "com.arduia.expense",
         "riassunto": "A simple free finance note to safely record daily expense without any Ads.",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.arduia.expense/en-US/icon_R9Jf8jR0YqdG1_0QzwpOGD6kVCopCJDvy3A2YbCNeao=.png",
@@ -5670,7 +5647,6 @@
         "riassunto": "Timer intervallo",
         "categorie": [
             "Sports & Health",
-            "Time",
             "Timer",
             "Workout"
         ],
@@ -5734,6 +5710,7 @@
         "id_pacchetto": "com.averi.worldscribe",
         "riassunto": "Aiutare gli scrittori di storie con la costruzione del mondo narrativo",
         "categorie": [
+            "Cast",
             "Writing"
         ],
         "licenza": "MIT",
@@ -6061,8 +6038,9 @@
         "id_pacchetto": "com.best.deskclock",
         "riassunto": "Alarm, clock, timer and stopwatch mode",
         "categorie": [
+            "Alarm Clock",
             "Clock",
-            "Time",
+            "Stopwatch",
             "Timer"
         ],
         "licenza": "Apache-2.0",
@@ -6075,6 +6053,7 @@
         "id_pacchetto": "com.better.alarm",
         "riassunto": "Sveglia migliorata",
         "categorie": [
+            "Alarm Clock",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -6124,8 +6103,7 @@
         "id_pacchetto": "com.bily",
         "riassunto": "Aids in splitting shared receipts fairly",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.bily/en-US/icon_CrS58KsL6QockrpMoaJgiQGBAq9lFif8k1XMwd2qMcU=.png",
@@ -6161,7 +6139,6 @@
         "id_pacchetto": "com.bitcoin.sharedhaven.testnet",
         "riassunto": "Bitcoin wallet with secure multisig features",
         "categorie": [
-            "Money",
             "Security",
             "Wallet"
         ],
@@ -6278,8 +6255,7 @@
         "riassunto": "Track your money easily and fully free",
         "categorie": [
             "Finance Manager",
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -6341,7 +6317,9 @@
         "id_pacchetto": "com.bnyro.clock",
         "riassunto": "Privacy focused clock app build with MD3",
         "categorie": [
+            "Alarm Clock",
             "Clock",
+            "Stopwatch",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -6430,7 +6408,6 @@
         "id_pacchetto": "com.boldwallet",
         "riassunto": "Seedless, secure Bitcoin wallet using Threshold Signatures. ",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "Apache-2.0",
@@ -6455,8 +6432,7 @@
         "id_pacchetto": "com.brentpanther.bitcoinwidget",
         "riassunto": "A simple widget to display prices for lots of cryptocurrencies.",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.brentpanther.bitcoinwidget/en-US/icon_PhLAdcohgdPiO9mmbtK3PmM4n_ILZz8pp2a2TVr7_dc=.png",
@@ -6468,8 +6444,7 @@
         "id_pacchetto": "com.brentpanther.ethereumwidget",
         "riassunto": "Mostra i prezzi di cambio correnti di Ethereum",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.brentpanther.ethereumwidget.33.png",
@@ -6481,8 +6456,7 @@
         "id_pacchetto": "com.brentpanther.litecoinwidget",
         "riassunto": "Mostra gli attuali prezzi di cambio Litcoin",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.brentpanther.litecoinwidget.23.png",
@@ -6557,7 +6531,6 @@
         "id_pacchetto": "com.btcontract.wallet",
         "riassunto": "Portafoglio Bitcoin",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "Apache-2.0",
@@ -6933,8 +6906,8 @@
         "id_pacchetto": "com.chancehorizon.just24hoursplus",
         "riassunto": " A free and open source app that shows a large digital clock",
         "categorie": [
-            "Clock",
-            "Time"
+            "Alarm Clock",
+            "Clock"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.chancehorizon.just24hoursplus/en-US/icon_w5LWs6lXUmZb8sdyXWM3JSposi6s9DJb0NW62YEkEzw=.png",
@@ -7177,7 +7150,7 @@
             "Weather"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.cloudbasepredictor.114.png",
+        "icona": "https://f-droid.org/repo//icons/com.cloudbasepredictor.134.png",
         "url_codice_sorgente": "https://github.com/CloudbasePredictor/CloudbasePredictor",
         "ultimo_aggiornamento": null
     },
@@ -7277,8 +7250,7 @@
         "id_pacchetto": "com.codesail.market_monk",
         "riassunto": "Track stocks in style!",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.codesail.market_monk/en-US/icon_Qu3fnN5fH1Now8Jow43psqTT3EkD9i4MKMizBRo2m6A=.png",
@@ -7290,7 +7262,6 @@
         "id_pacchetto": "com.coinerella.peercoin",
         "riassunto": "Your mobile wallet for Peercoin and Peercoin testnet.",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "AGPL-3.0-only",
@@ -7303,8 +7274,7 @@
         "id_pacchetto": "com.cointrend",
         "riassunto": "Monitor di criptovalute veloce e privato",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.cointrend/en-US/icon_DLLWzaWwKc4SVAGXfVgmYanibUqJayzIAIlEsxAUXYc=.png",
@@ -7353,7 +7323,6 @@
         "riassunto": "Secure mobile client for the Conceal Network web wallet.",
         "categorie": [
             "Internet",
-            "Money",
             "Wallet"
         ],
         "licenza": "BSD-3-Clause",
@@ -7456,8 +7425,7 @@
         "riassunto": "Real-time stock market watcher.",
         "categorie": [
             "Internet",
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.cosmos.candle/en-US/icon_a3F5l7TM7vmMn-fz_83f39LDR1gGlfp30dD7B9AMofU=.png",
@@ -7919,7 +7887,7 @@
         "id_pacchetto": "com.decred.decredaddressscanner",
         "riassunto": "Scans Decred addresses for available funds and notifies of changes.",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "ISC",
         "icona": "https://f-droid.org/repo//icons/com.decred.decredaddressscanner.10.png",
@@ -8133,7 +8101,7 @@
         "id_pacchetto": "com.dev.xavier.tempusromanum",
         "riassunto": "Generatore di date latine con un widget",
         "categorie": [
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.dev.xavier.tempusromanum/en-US/icon_vC37rDUNZootmnR53H_g24vsxamMIqDNzMf_5_pUNwI=.png",
@@ -8436,9 +8404,9 @@
         "id_pacchetto": "com.dosse.clock31",
         "riassunto": "Clock + Calendar combo widget for Android",
         "categorie": [
+            "Alarm Clock",
             "Calendar & Agenda",
-            "Clock",
-            "Time"
+            "Clock"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.dosse.clock31/en-US/icon_7drInaLI39ZfNsoMVpFSFN1fxNkbOm4zqRLAE-bboS8=.png",
@@ -8477,6 +8445,7 @@
         "id_pacchetto": "com.dot.gallery",
         "riassunto": "ReFra — A modern, open-source media gallery",
         "categorie": [
+            "Cast",
             "Gallery",
             "Graphics"
         ],
@@ -8603,8 +8572,7 @@
         "id_pacchetto": "com.dreautall.waterflyiii",
         "riassunto": "Unofficial App for Firefly III, an open source personal finance manager.",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.dreautall.waterflyiii/en-US/icon_8XGo4W2RE4yLXXc0JYuAibeQhuyIzrj46fyzkfTw1Y8=.png",
@@ -8679,9 +8647,9 @@
         "id_pacchetto": "com.dsalmun.luxalarm",
         "riassunto": "Wake up with light! This alarm can only be turned off when your room is bright",
         "categorie": [
+            "Alarm Clock",
             "Calendar & Agenda",
-            "Sports & Health",
-            "Time"
+            "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.dsalmun.luxalarm/en-US/icon_95LwvxWHTvbvHckDmtoyiLbQJUvG8dyku6I9NWaTeTQ=.png",
@@ -8808,8 +8776,7 @@
         "riassunto": "Controlla la cronologia dei prezzi dei prodotti Amazon",
         "categorie": [
             "Internet",
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -8957,8 +8924,7 @@
         "id_pacchetto": "com.elementlo.spark_list",
         "riassunto": "manage personal information and knowledge",
         "categorie": [
-            "Time",
-            "Writing"
+            "Note"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.elementlo.spark_list/en-US/icon_86tLZ1cL4Pw2KKOAU1s7d8TiUW0vDgi7HrSN4J9ZpdI=.png",
@@ -9034,7 +9000,7 @@
         "id_pacchetto": "com.emmanuelmess.deadlinesapp.free",
         "riassunto": "Simple app for managing deadlines",
         "categorie": [
-            "Time"
+            "Task"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.emmanuelmess.deadlinesapp.free/en-US/icon_JjY3t_tRIc_qmVl3KjF2pVY3nEZlWifivSSGc6Hi2IM=.png",
@@ -9058,8 +9024,7 @@
         "id_pacchetto": "com.emmanuelmess.simpleaccounting",
         "riassunto": "Gestisci il tuo denaro facilmente",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.emmanuelmess.simpleaccounting.23.png",
@@ -9186,6 +9151,7 @@
         "categorie": [
             "Connectivity",
             "Navigation",
+            "Notification",
             "System"
         ],
         "licenza": "AGPL-3.0-only",
@@ -9430,7 +9396,7 @@
         "id_pacchetto": "com.example.mempal",
         "riassunto": "A Bitcoin mempool monitoring and notification app for Android.",
         "categorie": [
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.example.mempal/en-US/icon_F9i8TtWq0mOyFZQ14RnteEQ-TrAmjZyA4rLB9UTCOIE=.png",
@@ -9468,6 +9434,7 @@
         "id_pacchetto": "com.example.notificationalerter",
         "riassunto": "Get notified only of important notifications.",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -9619,7 +9586,6 @@
         "riassunto": "App that counts, beeps, and helps with repeating tasks, such as at the gym.",
         "categorie": [
             "Sports & Health",
-            "Time",
             "Timer"
         ],
         "licenza": "EUPL-1.2",
@@ -9684,7 +9650,6 @@
         "categorie": [
             "Meditation",
             "Sports & Health",
-            "Time",
             "Timer"
         ],
         "licenza": "EUPL-1.2",
@@ -9789,6 +9754,7 @@
         "id_pacchetto": "com.farmerbb.secondscreen.free",
         "riassunto": "Migliore mirroring dello schermo",
         "categorie": [
+            "Cast",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -9891,6 +9857,7 @@
         "id_pacchetto": "com.firebirdberlin.nightdream.noGms",
         "riassunto": "Clock, screensaver & radio with dynamic brightness & custom layouts.",
         "categorie": [
+            "Alarm Clock",
             "Clock",
             "Weather"
         ],
@@ -9945,7 +9912,7 @@
         "id_pacchetto": "com.flasskamp.subz",
         "riassunto": "Subscription and contract management with notification function.",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -10086,8 +10053,7 @@
         "id_pacchetto": "com.forrestguice.suntimescalendars",
         "riassunto": "A calendar provider add-on for Suntimes.",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.forrestguice.suntimescalendars/en-US/icon_X2cjb2yh-S0bOQYBMHwLzGBgqv1MjagF5PVseZz8m_U=.png",
@@ -10099,8 +10065,8 @@
         "id_pacchetto": "com.forrestguice.suntimeswidget",
         "riassunto": "Sunlight and moonlight information (clock, alarms, tiles, and widgets).",
         "categorie": [
-            "Clock",
-            "Time"
+            "Alarm Clock",
+            "Clock"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.forrestguice.suntimeswidget/en-US/icon_AKG_cr50Uvnm0ot0egvZ2oXhSuYSJ_huUYdcZjB-1Jk=.png",
@@ -10149,7 +10115,7 @@
     {
         "nome": "SmartScan",
         "id_pacchetto": "com.fpf.smartscan",
-        "riassunto": "Private offline AI search for your media.",
+        "riassunto": "Search and organise images and videos offline with on-device AI.",
         "categorie": [
             "Gallery",
             "Multimedia"
@@ -10389,7 +10355,7 @@
         "id_pacchetto": "com.futurice.android.reservator",
         "riassunto": "Visualizzare la disponibilità delle sale riunioni",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//icons/com.futurice.android.reservator.21.png",
@@ -10563,7 +10529,6 @@
         "riassunto": "A precise and minimal timer for HEMA training and sparring.",
         "categorie": [
             "Sports & Health",
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -10642,7 +10607,6 @@
         "id_pacchetto": "com.georgeyt9769.cardabase",
         "riassunto": "All your loyalty cards at one place.",
         "categorie": [
-            "Money",
             "Pass Wallet"
         ],
         "licenza": "MIT",
@@ -10745,7 +10709,7 @@
         "id_pacchetto": "com.giacomomensio.ricevapp",
         "riassunto": "Third-party app for quick access, not affiliated with Agenzia delle Entrate",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.giacomomensio.ricevapp/en-US/icon_3cK8roJut7Ge8h2g2Tq17mehezPGUxk7MmJ3NmXK41U=.png",
@@ -10855,7 +10819,7 @@
         "id_pacchetto": "com.github.aba2l.taswast",
         "riassunto": "Calendario Amazigh",
         "categorie": [
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.github.aba2l.taswast.1.png",
@@ -10918,8 +10882,7 @@
         "id_pacchetto": "com.github.ashutoshgngwr.tenbitclockwidget",
         "riassunto": "A beautiful BCD clock for your home screen",
         "categorie": [
-            "Clock",
-            "Time"
+            "Clock"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.ashutoshgngwr.tenbitclockwidget/en-US/icon_TrUyJLRoXZGniCc2uQM3OnsVmlOokr_KZk0ZQaPrtjY=.png",
@@ -11085,8 +11048,7 @@
         "id_pacchetto": "com.github.dmitrykouznetsov.softplusoptions",
         "riassunto": "Offline-first, privacy-focused options payoff and volatility surface simulator.",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.dmitrykouznetsov.softplusoptions/en-US/icon_XUjvMkRoof9jj-fF_J0qsnw6hQRx-s8gGzGcSCE0bMQ=.png",
@@ -11111,8 +11073,7 @@
         "id_pacchetto": "com.github.emavgl.piggybankpro",
         "riassunto": "Oinkoin Money Manager makes managing personal finances easy and secure.",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.emavgl.piggybankpro/en-US/icon_VzoQpBaNpMmXpf6kL1vydHu2_Hdev7i9dAI6i0-mRs8=.png",
@@ -11137,7 +11098,7 @@
         "id_pacchetto": "com.github.fi3te.notificationcron",
         "riassunto": "Scheduling recurring notifications on your phone",
         "categorie": [
-            "Time"
+            "Notification"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.fi3te.notificationcron/de-DE/icon_u7Tl2IQFbuiba9YkJxCMiM78VuPOixFu7Q-Mn8hzmys=.png",
@@ -11390,8 +11351,7 @@
         "id_pacchetto": "com.github.meypod.al_azan",
         "riassunto": "Privacy focused open-source muslim Adhan (islamic prayer times) and qibla app",
         "categorie": [
-            "Religion",
-            "Time"
+            "Religion"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.meypod.al_azan/en-US/icon_jrEF25URwtdNlZAdIMESOVVq8B9shDC12bC1xpScE9M=.png",
@@ -11563,6 +11523,7 @@
         "id_pacchetto": "com.github.muellerma.stopwatch",
         "riassunto": "Stopwatch as quick tile",
         "categorie": [
+            "Stopwatch",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -11651,8 +11612,7 @@
         "id_pacchetto": "com.github.rahul_gill.attendance",
         "riassunto": "Attendance Tracker for students with focus on UI and usability",
         "categorie": [
-            "Science & Education",
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.rahul_gill.attendance/en-US/icon_jliqNUak3bREnvxtocGpzOaD19dZdiLhNMypKIRvVgg=.png",
@@ -11689,8 +11649,7 @@
         "id_pacchetto": "com.github.saikcaskey.pokertracker",
         "riassunto": "Personal poker tracking app",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -11703,7 +11662,6 @@
         "riassunto": "Bitcoin wallet app made to test payment systems against double-spend attacks.",
         "categorie": [
             "Internet",
-            "Money",
             "Security",
             "Wallet"
         ],
@@ -11984,6 +11942,7 @@
         "id_pacchetto": "com.github.whyrising.flashyalarm",
         "riassunto": "Turn on flashlight/torch when alarm goes off.",
         "categorie": [
+            "Alarm Clock",
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -12072,7 +12031,7 @@
         "id_pacchetto": "com.gitlab.kreikenbaum.suntime.fdroid",
         "riassunto": "Allinea il tuo bioritmo con il sole",
         "categorie": [
-            "Time"
+            "Clock"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.gitlab.kreikenbaum.suntime.fdroid.9.png",
@@ -12109,7 +12068,6 @@
         "id_pacchetto": "com.gitlab.uak.mobile_paper_wallet",
         "riassunto": "Create single use cryptocurrency wallet, just like a paper wallet",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -12238,8 +12196,7 @@
         "riassunto": "Indovina il giorno della settimana di una data casuale",
         "categorie": [
             "Party Game",
-            "Science & Education",
-            "Time"
+            "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.goltzkiste.guessaday.8.png",
@@ -12396,7 +12353,7 @@
         "id_pacchetto": "com.greenaddress.abcore",
         "riassunto": "wrapper Bitcoin Core",
         "categorie": [
-            "Money"
+            "Wallet"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.greenaddress.abcore.77.png",
@@ -12408,7 +12365,6 @@
         "id_pacchetto": "com.greenaddress.greenbits_android_wallet",
         "riassunto": "Bitcoin - secure and easy",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
@@ -12464,6 +12420,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.grocerymanager.1.png",
         "url_codice_sorgente": "https://gitlab.com/upasana-me/grocerymanager/tree/HEAD",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Materialistic Nouveau",
+        "id_pacchetto": "com.growse.android.io.github.hidroh.materialistic",
+        "riassunto": "Material design Hacker News client for Android",
+        "categorie": [
+            "Forum",
+            "News"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.growse.android.io.github.hidroh.materialistic/en-US/icon_52e94W9XGqNs3AZpZO9vSd8A-6lP_iuc2tTdK8bW680=.png",
+        "url_codice_sorgente": "https://github.com/growse/materialistic-nouveau/",
         "ultimo_aggiornamento": null
     },
     {
@@ -12535,8 +12504,7 @@
         "id_pacchetto": "com.gyorog.polycal",
         "riassunto": "colorful, text-based calendar widget",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.gyorog.polycal/en-US/icon_50G_7fLh9_vd5WO2rxBa8NK0_iCJUaSNG7MW9gQA8IM=.png",
@@ -12587,7 +12555,6 @@
         "id_pacchetto": "com.haringeymobile.ukweather",
         "riassunto": "Visualizza previsioni meteo",
         "categorie": [
-            "Time",
             "Weather"
         ],
         "licenza": "Apache-2.0",
@@ -12637,7 +12604,8 @@
         "id_pacchetto": "com.hassaneltantawy.hisnelmoslem",
         "riassunto": "Comprehensive Azkar & Dua app from Hisn Elmoslem.",
         "categorie": [
-            "Reading"
+            "Alarm Clock",
+            "Religion"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.hassaneltantawy.hisnelmoslem/en-US/icon_K5Fk5RTjns3-LA060FFDv153q9e1CKCDSxAGZoapuas=.png",
@@ -12649,8 +12617,7 @@
         "id_pacchetto": "com.hassaneltantawy.qadaa",
         "riassunto": "Helps you to organize your missed prayers and fasting.",
         "categorie": [
-            "Religion",
-            "Time"
+            "Religion"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.hassaneltantawy.qadaa/en-US/icon_EpFSuVTBMuvCPN0NkkbBku4DzWBwrsk22hcelaz7fF4=.png",
@@ -12864,8 +12831,7 @@
         "id_pacchetto": "com.huntercoles.pokerpayout",
         "riassunto": "Free poker tournament manager with payouts, blinds, and tools",
         "categorie": [
-            "Game Helper",
-            "Money"
+            "Game Helper"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.huntercoles.pokerpayout/en-US/icon_O3VIkcN3pBKl8Dzndlcr4WvQnT5vrYIrHCdaH9D99bc=.png",
@@ -12878,8 +12844,7 @@
         "riassunto": "Minimalist launcher and time-horizon task manager.",
         "categorie": [
             "Launcher",
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.hwanderer.entropysdefiance/en-US/icon_4zFTmWaZqIiio6z8qB1LWb7h_Z2BwRQu5ogtxetf7i8=.png",
@@ -12928,8 +12893,7 @@
         "id_pacchetto": "com.iatfei.streakalarm",
         "riassunto": "Promemoria per le streak di Snapchat",
         "categorie": [
-            "Phone & SMS",
-            "Time"
+            "Phone & SMS"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.iatfei.streakalarm/en-US/icon__ujpFKwd1EruoqDDWD6yi1kIE-EHkC06abydDlbv8gs=.png",
@@ -12953,6 +12917,7 @@
         "id_pacchetto": "com.iboalali.sysnotifsnooze",
         "riassunto": "Nasconde la fastidiosa notifica \"in esecuzione in background\"",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -13014,8 +12979,7 @@
         "id_pacchetto": "com.igisw.openmoneybox",
         "riassunto": "Gestione del bilancio",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.igisw.openmoneybox/en-US/icon_td01uIJHNmXJ5y2FOzwYgxjctmLaUGVd9BlkxhLyKlU=.png",
@@ -13129,7 +13093,6 @@
         "riassunto": "Calcolatrice e Convertitore",
         "categorie": [
             "Calculator",
-            "Money",
             "System",
             "Unit Convertor"
         ],
@@ -13281,8 +13244,7 @@
         "id_pacchetto": "com.invoiceninja.app",
         "riassunto": "Invoice your clients, accept payments, track expenses & time billable-tasks",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "AAL",
         "icona": "https://f-droid.org/repo//com.invoiceninja.app/en-US/icon_LPWoIZbJmUcAygqj36LQc7VrQWpwL4230flO2a4m9Ug=.png",
@@ -13334,6 +13296,7 @@
         "id_pacchetto": "com.ismartcoding.plain",
         "riassunto": "Manage your phone on the web! Access files, contacts, videos, music & more.",
         "categorie": [
+            "Cast",
             "System"
         ],
         "licenza": "AGPL-3.0-only",
@@ -13560,6 +13523,7 @@
         "id_pacchetto": "com.jarsilio.android.pingoff",
         "riassunto": "Silence your phone automatically when using selected apps.",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -13645,6 +13609,7 @@
         "id_pacchetto": "com.jens.automation2",
         "riassunto": "Automate stuff on your device by creating rules.",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -13669,8 +13634,7 @@
         "id_pacchetto": "com.jerameeldelosreyes.sushi",
         "riassunto": "Keep track of your own finances",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.jerameeldelosreyes.sushi/en-US/icon_YE19fBbn07gvzh7Z_Y44yiSKrLPT7XyVNu2cWnxsxAs=.png",
@@ -13824,7 +13788,7 @@
         "id_pacchetto": "com.jmstudios.chibe",
         "riassunto": "Vibra per ricordarti il tempo",
         "categorie": [
-            "Time"
+            "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -13924,8 +13888,7 @@
         "id_pacchetto": "com.jstephan.yarc",
         "riassunto": "YARC - Multi rate converter services",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.jstephan.yarc.5.png",
@@ -14011,7 +13974,7 @@
         "id_pacchetto": "com.justdeax.composeStopwatch",
         "riassunto": "Stopwatch in the Material You theme, designed for ease of use and best features",
         "categorie": [
-            "Time"
+            "Stopwatch"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.justdeax.composeStopwatch/en-US/icon_QiFCaWrFjg9WlzZBZOCgROXjyk62cvx1EXL0Jx8GFi4=.png",
@@ -14111,8 +14074,7 @@
         "riassunto": "Private Muslim app for prayer, tasbih, study, and gentle reminders",
         "categorie": [
             "Reading",
-            "Religion",
-            "Time"
+            "Religion"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kaizen.khushu/en-US/icon_rhM028sHBJSjPOVc_Abs7GcVrmWPZ1YGJfaD5ngrVPU=.png",
@@ -14213,8 +14175,7 @@
         "id_pacchetto": "com.katiearose.sobriety",
         "riassunto": "Track your addictions and maintain sobriety!",
         "categorie": [
-            "Sports & Health",
-            "Time"
+            "Habit Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.katiearose.sobriety/en-US/icon_YJom_9me0hYcshRmiKW5UqN_mbzHW2e3nnjGWpPWxtM=.png",
@@ -14251,8 +14212,7 @@
         "id_pacchetto": "com.kazispin.money_logs",
         "riassunto": "Financial Record Manager App",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kazispin.money_logs/en-US/icon_hsuN7JpPFTwJT0FrBm6DiCQFJ_XW6T3BLj2QR1UXLKI=.png",
@@ -14264,9 +14224,9 @@
         "id_pacchetto": "com.kazufukurou.nanji",
         "riassunto": "Clock widget for language learners",
         "categorie": [
+            "Alarm Clock",
             "Clock",
-            "Science & Education",
-            "Time"
+            "Science & Education"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.kazufukurou.nanji/en-US/icon_BXFLirN46u1Pw5Ovlqom2jqe0fesDKjO0Iu2b-krMoE=.png",
@@ -14533,7 +14493,6 @@
         "id_pacchetto": "com.komodoplatform.komodowallet",
         "riassunto": "Cross-platform cryptocurrency wallet and decentralized exchange (DEX)",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
@@ -14693,19 +14652,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "WalletCount",
-        "id_pacchetto": "com.lako.walletcount",
-        "riassunto": "A money management app for your wallet.",
-        "categorie": [
-            "Finance Manager",
-            "Money"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.lako.walletcount/en-US/icon_KIjbUrZwAhZ9mnyzqXIFZbrwcJCuKOr1FQrwk971Rjg=.png",
-        "url_codice_sorgente": "https://github.com/GittyMac/WalletCount",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Lalumo",
         "id_pacchetto": "com.lalumo.app",
         "riassunto": "Kids learn music with animal friends, melodies, and puzzles - playful and colorf",
@@ -14827,7 +14773,7 @@
             "Internet",
             "Multimedia",
             "Science & Education",
-            "Time",
+            "Stopwatch",
             "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -14840,7 +14786,7 @@
         "id_pacchetto": "com.leinardi.ubuntucountdownwidget",
         "riassunto": "Keep an eye on the days remaining before the new release of Ubuntu!",
         "categorie": [
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.leinardi.ubuntucountdownwidget/en-US/icon_WDzBlcjJ-QSTWGK8CfXtEhL6okCcUwyQvuxOOyPvS1Q=.png",
@@ -14902,8 +14848,7 @@
         "id_pacchetto": "com.lightplanx.xddk",
         "riassunto": "Remind yourself about important tasks. Plan your entire year with a countdown!",
         "categorie": [
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.lightplanx.xddk/en-US/icon_1tUFoe0Y6umznQETeiFGeXpsls6sq-tznciuyLX_7tY=.png",
@@ -15153,7 +15098,7 @@
         "id_pacchetto": "com.ltrademark.hourly",
         "riassunto": "A minimalist hourly chime.",
         "categorie": [
-            "Time"
+            "Clock"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.ltrademark.hourly/en-US/icon_QHYB1qv1_9iFjM-fPAXOH9p3N0czsFiYJPhuphmWovg=.png",
@@ -15320,8 +15265,7 @@
         "id_pacchetto": "com.mablanco.pricegrab",
         "riassunto": "Compare two supermarket prices and find the cheaper one per unit.",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.mablanco.pricegrab/en-US/icon_zhHhcklUGdaaACPzJ7A0HOVKr-yZEXB1q_bo-K2qEpE=.png",
@@ -15400,7 +15344,6 @@
         "riassunto": "This app emulates manual gestures to power off the phone.",
         "categorie": [
             "System",
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -15635,8 +15578,7 @@
         "id_pacchetto": "com.marv42.ebt.newnote",
         "riassunto": "Submit Euro bill note data to EuroBillTracker.com",
         "categorie": [
-            "Internet",
-            "Money"
+            "Internet"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.marv42.ebt.newnote/en-US/icon_HXkvRxqcNkUqGVkDGdB69rH4UTsGwKZe3gkGqOTdnIc=.png",
@@ -15668,6 +15610,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Materializr",
+        "id_pacchetto": "com.materializr.app",
+        "riassunto": "Parametric 3D CAD",
+        "categorie": [
+            "Graphics"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.6.png",
+        "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Save Locally",
         "id_pacchetto": "com.mateusrodcosta.apps.share2storage",
         "riassunto": "Using an app that doesn't allow Saving but allows Sharing? No problem! ",
@@ -15696,7 +15650,7 @@
         "id_pacchetto": "com.mathi_amorim.emmanuel.metrictime",
         "riassunto": "Shows the current metric time in a widget on the home screen",
         "categorie": [
-            "Time"
+            "Clock"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.mathi_amorim.emmanuel.metrictime.4.png",
@@ -15758,6 +15712,7 @@
         "id_pacchetto": "com.mattgmg.miracastwidget",
         "riassunto": "Widget Miracast",
         "categorie": [
+            "Cast",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -15771,8 +15726,7 @@
         "riassunto": "Manage your everyday tasks in the right order.",
         "categorie": [
             "Development",
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.mattmaniak.queueToDo/en-US/icon_burIqqvRBKr5NPhtHL6Y8md25GlqQMj-VJPRWKkuFN0=.png",
@@ -15849,7 +15803,6 @@
         "id_pacchetto": "com.mcsnowflake.worktimer",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Time",
             "Time Tracker",
             "Timer"
         ],
@@ -15877,8 +15830,7 @@
         "id_pacchetto": "com.mdiqentw.lifedots",
         "riassunto": "Diary in 8 dimensions",
         "categorie": [
-            "Time",
-            "Writing"
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mdiqentw.lifedots/en-US/icon_DNnfXmkvzysNKh09YgZUKgXlm4yk90jnECpS-k3Ue-k=.png",
@@ -16089,6 +16041,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SpeakThat!",
+        "id_pacchetto": "com.micoyc.speakthat",
+        "riassunto": "The world's most comprehensive notification reader",
+        "categorie": [
+            "Notification"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.micoyc.speakthat/en-US/icon_PZ6exN5FnmnPObM8SvooUdF-EH6UR-zQrI_Z73POcgI=.png",
+        "url_codice_sorgente": "https://github.com/mitchib1440/SpeakThat",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Padland",
         "id_pacchetto": "com.mikifus.padland",
         "riassunto": "Padland is a tool to manage, share, remember and read collaborative documents ba",
@@ -16129,8 +16093,7 @@
         "id_pacchetto": "com.minar.birday",
         "riassunto": "A simple yet useful birthday manager. Birday is free and ad-free! 🥳",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.minar.birday/en-US/icon_9dUPtWnTfw6DIgLXF5NWD3F7npS89-CJ7N_sIdwZ0oo=.png",
@@ -16167,7 +16130,7 @@
         "riassunto": "Minimalistic app converting prices of fiat shitcoins and Bitcoin",
         "categorie": [
             "Market & Price",
-            "Money"
+            "Unit Convertor"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.minimalisticapps.priceconverter/en-US/icon_3bVPMtOQ2XCc3htI8kZjv6UYGWFMkcXhLE-ZksedEOI=.png",
@@ -16368,8 +16331,7 @@
         "id_pacchetto": "com.money.manager.ex",
         "riassunto": "Gestisci le tue finanze in mobilità, con crittografia di sicurezza e sinc tramit",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.money.manager.ex/en-US/icon_QF7g1MCI0Iy_QKoJixzLN4SZwg9t9JNDOwdpwoa5DUE=.png",
@@ -16659,8 +16621,7 @@
         "id_pacchetto": "com.mustafacanyucel.fireflyiiishortcuts",
         "riassunto": "Application simplifies transactions of FireflyIII",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.mustafacanyucel.fireflyiiishortcuts/en-US/icon_wuQKSX95R5HcCQjG9J23hJpgGKAqlFUMfVbplBqV3qw=.png",
@@ -16721,7 +16682,6 @@
         "id_pacchetto": "com.mzhang.cleantimer",
         "riassunto": "A simple timer for speedsolving Rubik's cubes and other twisty puzzles.",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "MIT",
@@ -16734,7 +16694,6 @@
         "id_pacchetto": "com.nathanatos.Cuppa",
         "riassunto": "Cronometra il tuo tè mentre è in infusione",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "BSD-3-Clause",
@@ -16931,8 +16890,8 @@
         "id_pacchetto": "com.nfcalarmclock",
         "riassunto": "Customizable and feature-rich alarm clock app.",
         "categorie": [
-            "System",
-            "Time"
+            "Alarm Clock",
+            "System"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.nfcalarmclock/en-US/icon_6daA89N1TIb1DI5jcVke-47OBb-xVEdET_eS4LLtLAs=.png",
@@ -16970,7 +16929,6 @@
         "id_pacchetto": "com.nickspatties.timeclock",
         "riassunto": "Keep track of the time you spend doing the things you want with this app",
         "categorie": [
-            "Time",
             "Time Tracker"
         ],
         "licenza": "MIT",
@@ -17020,7 +16978,6 @@
         "id_pacchetto": "com.nighthawkapps.wallet.android",
         "riassunto": "Private Money in your pocket.",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "Apache-2.0",
@@ -17173,8 +17130,7 @@
         "id_pacchetto": "com.nishantboro.splititeasy",
         "riassunto": "Split bills with friends easily.",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.nishantboro.splititeasy/en-US/icon_bcn4FWC9-t4z7FZ2_qfuAwWZKOxI4RuYGw8zWeK9qYw=.png",
@@ -17199,7 +17155,8 @@
         "id_pacchetto": "com.nkls.nekovideo",
         "riassunto": "Open-source local video player with folders, private content and DLNA cast",
         "categorie": [
-            "Multimedia"
+            "Cast",
+            "Local Media Player"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.nkls.nekovideo/en-US/icon_QYA5gqKrfQQYJtGfwAx7P_B0Y4cxhKMTmJlto_RJ630=.png",
@@ -17302,6 +17259,7 @@
         "id_pacchetto": "com.noorconnect.app",
         "riassunto": "Premium privacy-first Islamic companion: Quran, Qibla, Adhan, & Habit tracking.",
         "categorie": [
+            "Alarm Clock",
             "Religion"
         ],
         "licenza": "MIT",
@@ -17496,7 +17454,6 @@
         "categorie": [
             "Meditation",
             "Sports & Health",
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -17678,7 +17635,7 @@
         "id_pacchetto": "com.olaf.rereminder",
         "riassunto": "A simple, open-source app for setting recurring reminders throughout your day.",
         "categorie": [
-            "Time"
+            "Alarm Clock"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.olaf.rereminder/en-US/icon_aiOSb0fdfk1h7O19yluROnyuQXCTRj71hDcih8BUEig=.png",
@@ -17690,8 +17647,7 @@
         "id_pacchetto": "com.oliverszabo.tcrbdetector",
         "riassunto": "T CrB Detector notifies the user when the star T CrB has exploded.",
         "categorie": [
-            "Science & Education",
-            "Time"
+            "Science & Education"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.oliverszabo.tcrbdetector/en-US/icon_eC3jzr_6cGlxqD_g6rm5g8IC-9DY3Any69UcFxELJnA=.png",
@@ -17716,7 +17672,6 @@
         "id_pacchetto": "com.omelan.cofi",
         "riassunto": "Open-source coffee timer. Easy-to-use interface. Perfect cup every time!",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -17768,7 +17723,7 @@
         "id_pacchetto": "com.oml.recordtimedroid",
         "riassunto": "Record date and time to manage times to tasks",
         "categorie": [
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -17894,8 +17849,7 @@
         "id_pacchetto": "com.oriondev.moneywallet",
         "riassunto": "Gestore delle spese",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.oriondev.moneywallet.75.png",
@@ -17932,8 +17886,7 @@
         "id_pacchetto": "com.oryanmat.trellowidget",
         "riassunto": "Widget for Trello is an android home screen widget.",
         "categorie": [
-            "Time",
-            "Writing"
+            "Task"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.oryanmat.trellowidget/en-US/icon_0jDqAUNSqUJF-dtCeEXxkszSHWy_rMgL2ofDBXUtatc=.png",
@@ -17958,6 +17911,7 @@
         "id_pacchetto": "com.otpextractor.secureotp",
         "riassunto": "Auto-detect and copy OTP codes from SMS, Email, and app notifications",
         "categorie": [
+            "Notification",
             "Password & 2FA",
             "Security",
             "System"
@@ -18076,6 +18030,7 @@
         "riassunto": "Auto reply bot for WhatsApp, FB Messenger and more soon",
         "categorie": [
             "Internet",
+            "Notification",
             "Phone & SMS"
         ],
         "licenza": "GPL-3.0-only",
@@ -18114,7 +18069,6 @@
         "riassunto": "Yet another todo app",
         "categorie": [
             "Task",
-            "Time",
             "Writing"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -18203,8 +18157,7 @@
         "riassunto": "Private expense tracker & budget app — auto-reads bank SMS, on-device AI.",
         "categorie": [
             "AI Chat",
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.pennywiseai.tracker/en-US/icon_XA521tvvRXtCZthLQI9-IDFjNnLWB80M7PZqzgOGZy4=.png",
@@ -18395,6 +18348,7 @@
         "id_pacchetto": "com.pilot51.voicenotify",
         "riassunto": "Spoken notifications",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -18648,8 +18602,7 @@
         "id_pacchetto": "com.prayertimemuter",
         "riassunto": "Automatically silence your phone during prayer times",
         "categorie": [
-            "Religion",
-            "Time"
+            "Religion"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -18763,7 +18716,7 @@
         "id_pacchetto": "com.pvcodes.debtcalc",
         "riassunto": "Calculating the debt at your finger tips.",
         "categorie": [
-            "Money"
+            "Calculator"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.pvcodes.debtcalc/en-US/icon_shUW6xYzJMwUQG5bSHZkK_NLMdqfdCxtesJKIs5BBlg=.png",
@@ -18977,7 +18930,6 @@
         "riassunto": "A powerful, modern currency converter",
         "categorie": [
             "Market & Price",
-            "Money",
             "Unit Convertor"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -19163,7 +19115,6 @@
         "id_pacchetto": "com.razeeman.util.simpletimetracker",
         "riassunto": "Timer per lavoro, studio e migliori abitudini quotidiane.",
         "categorie": [
-            "Time",
             "Time Tracker",
             "Timer"
         ],
@@ -19308,6 +19259,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Lrc-R",
+        "id_pacchetto": "com.resurrect.lrc_r",
+        "riassunto": "Read the rhythm.",
+        "categorie": [
+            "Lyrics"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.resurrect.lrc_r/en-US/icon_rOIE7cO5CT0pSrRG2JkDh2Qf3WXV79w11q9ZQRd2TjY=.png",
+        "url_codice_sorgente": "https://github.com/resurrectdev1/lrc-r",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "RetroArch",
         "id_pacchetto": "com.retroarch",
         "riassunto": "Retro games and emulators on your device!",
@@ -19350,8 +19313,7 @@
         "riassunto": "All-In-One Expense-Budget tracker for bank SMS and PDF statements with optional ",
         "categorie": [
             "AI Chat",
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.ritesh.cashiro/en-US/icon_ljuzzLYLmsH3grilu927PtUMOW7FS5BgyUCepnxB4qQ=.png",
@@ -19473,7 +19435,6 @@
         "id_pacchetto": "com.rootminusone8004.bazarnote",
         "riassunto": "A simple offline shopping list app",
         "categorie": [
-            "Money",
             "Note",
             "Shopping List",
             "Writing"
@@ -19549,6 +19510,7 @@
         "id_pacchetto": "com.rtneg.kyuubimask",
         "riassunto": "Privacy-focused notification masking for screen sharing and presentations",
         "categorie": [
+            "Notification",
             "Security"
         ],
         "licenza": "Apache-2.0",
@@ -19676,7 +19638,7 @@
         "id_pacchetto": "com.samarthdesai.repeatme",
         "riassunto": "Programma reminder personalizzati basati su intervalli",
         "categorie": [
-            "Time"
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.samarthdesai.repeatme.6.png",
@@ -20050,7 +20012,6 @@
         "id_pacchetto": "com.sesu8642.infusion_timer",
         "riassunto": "Tea timer for Gong Fu and western style brewing for true enthusiasts.",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -20192,7 +20153,6 @@
         "id_pacchetto": "com.sidhant.wallet",
         "riassunto": "Offline card vault with AES-256-GCM encryption. Zero internet, total privacy.",
         "categorie": [
-            "Money",
             "Pass Wallet"
         ],
         "licenza": "AGPL-3.0-only",
@@ -20253,7 +20213,6 @@
         "id_pacchetto": "com.simonimal.minimalcurconv",
         "riassunto": "Offline, manual input, minimal currency converter",
         "categorie": [
-            "Money",
             "Unit Convertor"
         ],
         "licenza": "AGPL-3.0-only",
@@ -20291,8 +20250,7 @@
         "id_pacchetto": "com.simpledecredwidget",
         "riassunto": "Un widget per controllare il tasso di cambio di Decred",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.simpledecredwidget.3.png",
@@ -20433,7 +20391,6 @@
         "riassunto": "Timer, which activates the devices standby mode",
         "categorie": [
             "Sports & Health",
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -20549,7 +20506,6 @@
         "riassunto": "Track your daily screen time and regain control of your attention.",
         "categorie": [
             "System",
-            "Time",
             "Time Tracker"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -20614,8 +20570,7 @@
         "id_pacchetto": "com.soumikshah.investmenttracker",
         "riassunto": "We're here to track money going out of your checking account into different type",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.soumikshah.investmenttracker/en-US/icon_Ipkwho9c1nYcxir9VGMfTzUBmUzpexN7IelAQjZ7Ygo=.png",
@@ -20754,8 +20709,7 @@
         "id_pacchetto": "com.starry.greenstash",
         "riassunto": "Plan, manage, and achieve your savings goals easily",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.starry.greenstash/en-US/icon_H96n0hoCvG_GiV8wpjIZ_0s1ZBF5pgNvf-L6rFoiNcY=.png",
@@ -20843,8 +20797,7 @@
         "id_pacchetto": "com.streamatico.polymarketviewer",
         "riassunto": "Browse Polymarket prediction markets ",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.streamatico.polymarketviewer/en-US/icon_pjO1T4hHKKsQPWRT1NF7wkRPeMdUfHd1RkHPkLGPb8Y=.png",
@@ -20988,7 +20941,6 @@
             "Bookmark",
             "Note",
             "Task",
-            "Time",
             "Time Tracker",
             "Timer"
         ],
@@ -21075,8 +21027,8 @@
         "id_pacchetto": "com.sweak.qralarm",
         "riassunto": "Disable alarms with a QR scanner",
         "categorie": [
-            "Development",
-            "Time"
+            "Alarm Clock",
+            "Development"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sweak.qralarm/en-US/icon_tY6ids0HJryExb9I-owxBPg_7c0I5bc0pLSpAhGl-cQ=.png",
@@ -21100,6 +21052,7 @@
         "id_pacchetto": "com.symeonchen.wakeupscreen",
         "riassunto": "Accende lo schermo quando arriva una notifica",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -21520,7 +21473,6 @@
         "id_pacchetto": "com.theskillapp.skillapp",
         "riassunto": "Simple, fully offline time-tracking app",
         "categorie": [
-            "Time",
             "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
@@ -21608,7 +21560,7 @@
         "id_pacchetto": "com.thomaskuenneth.mintime",
         "riassunto": "A minimalistic countdown app to help structure your talks and presentations.",
         "categorie": [
-            "Time"
+            "Timer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.thomaskuenneth.mintime/en-US/icon_SbTudGhTa41u2D7pK5n1AJtCDxoh_oR_OKT2FM_mOjg=.png",
@@ -21759,7 +21711,6 @@
         "id_pacchetto": "com.tkton.wallet",
         "riassunto": "TkTon is a wallet for TON blockchain",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
@@ -21785,7 +21736,7 @@
         "id_pacchetto": "com.tmendes.birthdaydroid",
         "riassunto": "This application will help you remember all the birthdays of your friends",
         "categorie": [
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.tmendes.birthdaydroid/de-DE/icon_iz3RTlToN2Kj8XFvDsKvY9PtVSEDBs1JLdOC29fMrD4=.png",
@@ -21862,7 +21813,6 @@
         "id_pacchetto": "com.tomatodev.timerdroid",
         "riassunto": "Use multiple timers",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -21876,7 +21826,6 @@
         "riassunto": "KitchenOwl helps you organize your grocery life.",
         "categorie": [
             "Finance Manager",
-            "Money",
             "Recipe Manager",
             "Shopping List",
             "Sports & Health"
@@ -22364,6 +22313,7 @@
         "id_pacchetto": "com.upbad.apps.autonotify",
         "riassunto": "Relay notifications of any apps to Android Auto",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "MIT",
@@ -22731,7 +22681,7 @@
         "id_pacchetto": "com.vedroid.events",
         "riassunto": "Vedroid Events - simple birthdays and events remainder app without any stupid us",
         "categorie": [
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.vedroid.events.1.png",
@@ -22746,7 +22696,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.ventoid.app.7.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/GPLaider/Ventoid",
         "ultimo_aggiornamento": null
     },
@@ -22756,7 +22706,7 @@
         "riassunto": "Bitcoin and Crypto point of sale payment system for merchants",
         "categorie": [
             "Market & Price",
-            "Money"
+            "Wallet"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.vermont.possin/en-US/icon_nwcSW40Qk4OMxDJ7D1bw1mncrT2EzL6aqSxVDr0_LE0=.png",
@@ -22768,7 +22718,7 @@
         "id_pacchetto": "com.vgorcum.minedmonero",
         "riassunto": "App complementare per minatori di Monero su pool supportati",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vgorcum.minedmonero/en-US/icon_eMSIDEGNnz4xww-rkIFJ_dt8JLEuLnWKmCDm6ZOQCU0=.png",
@@ -22780,8 +22730,9 @@
         "id_pacchetto": "com.vicolo.chrono",
         "riassunto": "Modern and powerful clock, alarms, timer and stopwatch.",
         "categorie": [
+            "Alarm Clock",
             "Clock",
-            "Time",
+            "Stopwatch",
             "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -22882,7 +22833,7 @@
         "id_pacchetto": "com.vishnu.remindme",
         "riassunto": "Set alarms for a specific date in the future (alarm, not a reminder!).",
         "categorie": [
-            "Time"
+            "Alarm Clock"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.vishnu.remindme/en-US/icon_SaHfS8ZsPas1At9QrGL2ZgfktpOuJnx-9_tOj5GNeGU=.png",
@@ -23163,8 +23114,7 @@
         "id_pacchetto": "com.wangjinli.carvita",
         "riassunto": "Personal assistant for managing and predicting your vehicle's maintenance needs.",
         "categorie": [
-            "Security",
-            "Time"
+            "Security"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.wangjinli.carvita/en-US/icon_EDFqi91dZuGHdKghXDxTybZy-jMVciAw9Jo6SVk1T18=.jpg",
@@ -23177,7 +23127,6 @@
         "riassunto": "toodoo - a minimalistc task manager, just tasks, categories, filtering, sorting",
         "categorie": [
             "Task",
-            "Time",
             "Writing"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -23219,7 +23168,7 @@
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.wbrawner.simplemarkdown.free/en-US/icon_11Q2YeSpaCdwngLM8y-udw_LoSTd5Nusecp1kLmKs-s=.png",
-        "url_codice_sorgente": "https://github.com/wbrawner/SimpleMarkdown",
+        "url_codice_sorgente": "https://codeberg.org/wbrawner/SimpleMarkdown",
         "ultimo_aggiornamento": null
     },
     {
@@ -23279,8 +23228,7 @@
         "id_pacchetto": "com.willchan.simple_random_stock",
         "riassunto": "Randomly select a stock from one of the three US indexes",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.willchan.simple_random_stock/en-US/icon_ZWKbKLBgPrxQUTl7AllAC6BsjrC6DSvJN0d9z-NhR8M=.png",
@@ -23632,8 +23580,7 @@
         "id_pacchetto": "com.xvzan.simplemoneytracker",
         "riassunto": "Yet another personal accounting app",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.xvzan.simplemoneytracker/en-US/icon_Y3OGMy8N68F4pU01HGrQiOO8syTkoMojm43phzreWL4=.png",
@@ -23645,6 +23592,7 @@
         "id_pacchetto": "com.xxxx.parcel",
         "riassunto": "Extract the address and pickup code from SMS automatically",
         "categorie": [
+            "Notification",
             "Password & 2FA",
             "Phone & SMS"
         ],
@@ -23682,8 +23630,8 @@
         "id_pacchetto": "com.yahyaoui.prayermode",
         "riassunto": "Automatic Do Not Disturb for Islamic prayer times - Your Salah first.",
         "categorie": [
-            "Religion",
-            "Time"
+            "Notification",
+            "Religion"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.yahyaoui.prayermode/en-US/icon_6NIa4DLCElKXRVC37xvEkfokHRy656tHRRPmzufM4U8=.png",
@@ -23846,8 +23794,7 @@
         "riassunto": "YA Habit Tracker is a Modern Habit Tracker",
         "categorie": [
             "Habit Tracker",
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.zavedahmad.yaHabit/en-US/icon_xmiNjmf8KkDAVchrftYwV8m7ZgAW-yo8QUvs1saTxzY=.png",
@@ -24084,6 +24031,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "VolumeX",
+        "id_pacchetto": "com.zygisk_enc.volumeX",
+        "riassunto": "Simple volume control via Quick Settings",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.zygisk_enc.volumeX/metadata/icon_fCeDzwLdbFRWIeblD42Ov7_aZQPYZpQHY0CAdCZu8SA=.png",
+        "url_codice_sorgente": "https://github.com/snap24/volumeX",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Fairphone Checkup",
         "id_pacchetto": "community.fairphone.checkup",
         "riassunto": "Un'app che permette all'utente di testare le caratteristiche del dispositivo",
@@ -24213,7 +24172,7 @@
         "id_pacchetto": "cz.jancejka.spayddecoder",
         "riassunto": "Offline decoder for Czech SPAYD payment QR codes.",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://via.placeholder.com/64",
@@ -24225,7 +24184,6 @@
         "id_pacchetto": "cz.jirkovsky.lukas.chmupocasi",
         "riassunto": "Previsioni meteo a breve termine per la Repubblica Ceca",
         "categorie": [
-            "Time",
             "Weather"
         ],
         "licenza": "GPL-3.0-only",
@@ -24647,7 +24605,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/de.blau.android.3403.png",
+        "icona": "https://f-droid.org/repo//icons/de.blau.android.3404.png",
         "url_codice_sorgente": "https://github.com/MarcusWolschon/osmeditor4android",
         "ultimo_aggiornamento": null
     },
@@ -24669,8 +24627,8 @@
         "id_pacchetto": "de.blocklink.pigrid",
         "riassunto": "App di supporto per Gridcoin Stakebox",
         "categorie": [
-            "Connectivity",
-            "Money"
+            "Remote Controller",
+            "Science & Education"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/de.blocklink.pigrid.5.png",
@@ -24706,7 +24664,7 @@
         "id_pacchetto": "de.box2code.matoid",
         "riassunto": "Pay beverages with RFID-Tag",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.box2code.matoid/en-US/icon_aOdlpaOSG_lQFHCjE1ItmX_Dmsgxd-M_YyoGzzjpG6A=.png",
@@ -24790,8 +24748,7 @@
         "id_pacchetto": "de.chaosdorf.meteroid",
         "riassunto": "Client per Mete",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.chaosdorf.meteroid/en-US/icon_F2yCtdJzp9RY-FvEIsUt_r01u_ku-jo8-JJR17bGwME=.png",
@@ -24841,8 +24798,7 @@
         "id_pacchetto": "de.cloneapps.crypto_prices",
         "riassunto": "Track all of your favorite crypto prices",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.cloneapps.crypto_prices/en-US/icon_xCLsDVKLGHIPsCuXV2AJGEcHtDINC37j4gQA8nBOQSI=.png",
@@ -24881,6 +24837,7 @@
         "id_pacchetto": "de.computerelite.shockalarm",
         "riassunto": "Material3 app for controlling OpenShock shockers",
         "categorie": [
+            "Alarm Clock",
             "Connectivity",
             "Multimedia",
             "System"
@@ -24907,7 +24864,7 @@
         "id_pacchetto": "de.cryptobitch.muelli.vouchercalc",
         "riassunto": "Calcola quanti buoni è necessario utilizzare",
         "categorie": [
-            "Money"
+            "Calculator"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/de.cryptobitch.muelli.vouchercalc.3.png",
@@ -24971,8 +24928,7 @@
         "riassunto": "Discover concerts, partys, theatre, cinema and much more in germany",
         "categorie": [
             "Schedule",
-            "Sports & Health",
-            "Time"
+            "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -24998,8 +24954,7 @@
         "id_pacchetto": "de.dbauer.expensetracker",
         "riassunto": "Keep track of your monthly spending",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.dbauer.expensetracker/en-US/icon_xmw-UGJgh-6N7LzBCr5J_zf2GIqgE6wPvpcmN8CuWXA=.png",
@@ -25133,7 +25088,7 @@
         "id_pacchetto": "de.drmaxnix.birthdaycountdown",
         "riassunto": "An App counting down to your next birthday!",
         "categorie": [
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.drmaxnix.birthdaycountdown/en-US/icon_TxGNjLWY7FKXwwAFEV8bHHgRjt4kY6tO3Ey__VFQx5M=.png",
@@ -25158,7 +25113,7 @@
         "id_pacchetto": "de.drmaxnix.mfcbalance",
         "riassunto": "Generic Reader for Balance on MIFARE Classic NFC Cards",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.drmaxnix.mfcbalance/en-US/icon_Df1hY9Erq1D1g_EYX4SiwaBW5HYqHWT6uGsM-34qvzg=.png",
@@ -25251,8 +25206,7 @@
             "Calendar & Agenda",
             "Connectivity",
             "Sports & Health",
-            "System",
-            "Time"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.felixnuesse.timedsilence/en-US/icon_Lc3Ddl41iANyIEjhzrbRFo7wBGJkVC6IKcZcBHdwi_k=.png",
@@ -25265,7 +25219,7 @@
         "riassunto": "Stay organized with one plaintext file per day.",
         "categorie": [
             "Note",
-            "Time",
+            "Task",
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
@@ -25544,7 +25498,6 @@
         "id_pacchetto": "de.jepfa.bdt",
         "riassunto": "A timer with intermediate notifications",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "MIT",
@@ -25553,9 +25506,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "HyleX",
+        "nome": "HyleX (Entropy / Hyle 7)",
         "id_pacchetto": "de.jepfa.hyle_x",
-        "riassunto": "An Entropy clone",
+        "riassunto": "Chaos against Order: An Entropy / Hyle 7 like board game",
         "categorie": [
             "Board Game"
         ],
@@ -25569,8 +25522,7 @@
         "id_pacchetto": "de.jepfa.personaltasklogger",
         "riassunto": "Manage your tasks, everyday",
         "categorie": [
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.jepfa.personaltasklogger/en-US/icon_xZ1B6k-gDwI4ajctf5DI7X4XpYANvydpH0MUtv3WpPE=.png",
@@ -25607,6 +25559,7 @@
         "id_pacchetto": "de.jl.notificationlog",
         "riassunto": "Logs system notifications",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -25682,8 +25635,7 @@
         "riassunto": "Create and send Appointment-Confirmation-Message from Android-Calendar-Entry.",
         "categorie": [
             "Calendar & Agenda",
-            "System",
-            "Time"
+            "System"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -25760,12 +25712,11 @@
         "id_pacchetto": "de.k4ever.k4android",
         "riassunto": "client per il sistema di denaro k4ever",
         "categorie": [
-            "Internet",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/de.k4ever.k4android.10.png",
-        "url_codice_sorgente": "https://gitlab.tubit.tu-berlin.de/freitagsrunde/k4ever-android-2",
+        "url_codice_sorgente": "https://github.com/freitagsrunde/k4ever-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -25862,8 +25813,7 @@
         "id_pacchetto": "de.koelle.christian.trickytripper",
         "riassunto": "Gestisce le spese di viaggio",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/de.koelle.christian.trickytripper.25.png",
@@ -25964,7 +25914,6 @@
         "id_pacchetto": "de.langerhans.wallet",
         "riassunto": "Store digital currency",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
@@ -26269,7 +26218,7 @@
         "id_pacchetto": "de.micmun.android.deufeitage",
         "riassunto": "Trova i giorni festivi tedeschi per stato e anno",
         "categorie": [
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.micmun.android.deufeitage/de/icon_8g_IBwmnKr8gK2ljKxRBQT67Wf2RTj903_R7-Qkp4dE=.png",
@@ -26540,7 +26489,7 @@
         "riassunto": "Active break timer with exercises - reminds you to move at the office.",
         "categorie": [
             "Sports & Health",
-            "Time"
+            "Timer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.mysportsmate.officebreak/de-DE/icon_UGfEShtTgCtIH8rgb44JsISSG5PR1TyJLYMasUuWIUs=.png",
@@ -26723,7 +26672,8 @@
         "id_pacchetto": "de.nulide.shiftcal",
         "riassunto": "A smart shift calendar",
         "categorie": [
-            "Time"
+            "Alarm Clock",
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.nulide.shiftcal/en-US/icon_EZNqtCGRrh3KC_4VOmglcIgzDG86Gx2k1utWPx1UWXg=.png",
@@ -26772,8 +26722,7 @@
         "id_pacchetto": "de.php_tech.piggybudget",
         "riassunto": "Traccia semplicemente le tue spese",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.php_tech.piggybudget/en-US/icon_09ZewNhplEmZzbbKQnay5DzZmtOk1ZBPWcoC2GbTso8=.png",
@@ -26798,7 +26747,7 @@
         "id_pacchetto": "de.piratentools.spickerrr",
         "riassunto": "The motion app for party conferences of the pirate party germany",
         "categorie": [
-            "Time"
+            "Schedule"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.piratentools.spickerrr/de-DE/icon_vE5EISNYP5XzWKEDGu-pAUs5YhHcvI_vz73KgCP74q0=.png",
@@ -26836,8 +26785,7 @@
         "id_pacchetto": "de.quaddyservices.dynamicnightlight",
         "riassunto": "Orologio a bassa luminosità",
         "categorie": [
-            "Clock",
-            "Time"
+            "Clock"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/de.quaddyservices.dynamicnightlight.2110.png",
@@ -26979,8 +26927,7 @@
         "id_pacchetto": "de.salomax.currencies",
         "riassunto": "Un convertitore di valuta per Android",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.salomax.currencies/en-US/icon_Jf1fgXgA5uWjQHnzZFuTq6c2nfXOJtgPKbrV8ewNbk8=.png",
@@ -27030,7 +26977,6 @@
         "id_pacchetto": "de.schildbach.wallet",
         "riassunto": "I tuoi Bitcoin, nella tua tasca!",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
@@ -27043,7 +26989,6 @@
         "id_pacchetto": "de.schildbach.wallet_test",
         "riassunto": "Versione di prova di Bitcoin",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
@@ -27170,8 +27115,7 @@
         "id_pacchetto": "de.smasi.tickmate",
         "riassunto": "Diario a un bit",
         "categorie": [
-            "Habit Tracker",
-            "Time"
+            "Habit Tracker"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -27625,9 +27569,7 @@
         "id_pacchetto": "de.varengold.activeTAN",
         "riassunto": "2FA for online banking",
         "categorie": [
-            "Money",
-            "Password & 2FA",
-            "Security"
+            "Password & 2FA"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.varengold.activeTAN/en-US/icon_lSs3LTdBXLsv7y3PyB7JI3bd9nndsQihwOEnoPNquqk=.png",
@@ -27770,7 +27712,7 @@
         "id_pacchetto": "de.yaacc",
         "riassunto": "UPNP/DLNA client and server ",
         "categorie": [
-            "Multimedia"
+            "Cast"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.yaacc/en-US/icon_QVqlosMIU1jb5cXRVO7IEVtPUqzvCSRDWN-Py_UEQhQ=.png",
@@ -28007,8 +27949,7 @@
         "id_pacchetto": "dev.corruptedark.diditakemymeds",
         "riassunto": "An app to manage and track medication doses",
         "categorie": [
-            "Sports & Health",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.corruptedark.diditakemymeds/en-US/icon_QfrOjWg0N9ZwGdsLgt0XDdq8ZKH5OYj7P5hPf-pRQeQ=.png",
@@ -28155,6 +28096,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Heartwood",
+        "id_pacchetto": "dev.easonhuang.heartwood",
+        "riassunto": "A private, read-only Material You viewer for your Health Connect data.",
+        "categorie": [
+            "Health Manager"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//dev.easonhuang.heartwood/en-US/icon_DRefBn0IoHAhI6URlQq1e9USoeNcxmNAsWhyAjbSoqQ=.png",
+        "url_codice_sorgente": "https://github.com/GuyOnWifi/heartwood",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Bluetooth QR & Barcode to PC",
         "id_pacchetto": "dev.fabik.bluetoothhid",
         "riassunto": "Enables sending QR/Barcodes to a Bluetooth Device (e.g PC) without any Software",
@@ -28175,7 +28128,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.93.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.103.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -28190,6 +28143,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.imranr.obtainium.fdroid/en-US/icon_8o6Dm3kPEr-C-8U1QdRd9B6DrkXPqLJQ7or0KN7ut_4=.png",
         "url_codice_sorgente": "https://github.com/ImranR98/Obtainium",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FiSSH",
+        "id_pacchetto": "dev.ioanm.fissh",
+        "riassunto": "Autenticazione SSH tramite Fingerprint scanning via rete (TLS Sockets).",
+        "categorie": [
+            "Remote Access",
+            "Security"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/dev.ioanm.fissh.70.png",
+        "url_codice_sorgente": "https://gitlab.com/ioanm/FiSSH-App",
         "ultimo_aggiornamento": null
     },
     {
@@ -28304,7 +28270,6 @@
             "Draw",
             "Note",
             "Task",
-            "Time",
             "Time Tracker"
         ],
         "licenza": "AGPL-3.0-only",
@@ -28354,7 +28319,6 @@
         "id_pacchetto": "dev.maartje.hetsaldo",
         "riassunto": "A cross-platform De Lijn \"smart\"ticket saldo checking application.",
         "categorie": [
-            "Money",
             "Pass Wallet"
         ],
         "licenza": "EUPL-1.2",
@@ -28519,6 +28483,7 @@
         "riassunto": "A way to display Android phone notifications on Linux",
         "categorie": [
             "Connectivity",
+            "Notification",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -28571,7 +28536,6 @@
         "riassunto": "The simplest interval timer you can imagine",
         "categorie": [
             "Sports & Health",
-            "Time",
             "Timer",
             "Workout"
         ],
@@ -28585,6 +28549,7 @@
         "id_pacchetto": "dev.robin.flip_2_dnd",
         "riassunto": "Toggle Do Not Disturb mode by flipping your phone face down",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "MIT",
@@ -28813,7 +28778,6 @@
         "id_pacchetto": "dubrowgn.microtimer",
         "riassunto": "A tiny, microwave-inspired timer app for Android",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "MIT",
@@ -28882,6 +28846,19 @@
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//duress.keyboard.lite/en-US/icon_5i5gWHSJE_aBhzYGneHzKysVUDk7-3k8b0MoqDFwd3s=.png",
         "url_codice_sorgente": "https://github.com/pofesk0/DuressKeyboardLite/",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Edge Roll",
+        "id_pacchetto": "edge.roll",
+        "riassunto": "Tumble a cube across a crumbling tile bridge. One-thumb 3D arcade.",
+        "categorie": [
+            "Action Game",
+            "Casual Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//edge.roll/en-US/icon_lKEE9HCB_JprUE8SOQG4vQTv6hp984zPr254chbBeBM=.png",
+        "url_codice_sorgente": "https://github.com/Eve-146T/edge-roll",
         "ultimo_aggiornamento": null
     },
     {
@@ -28980,6 +28957,7 @@
         "riassunto": "An app for managing and performing timed workouts",
         "categorie": [
             "Sports & Health",
+            "Stopwatch",
             "Workout"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -29018,7 +28996,6 @@
         "id_pacchetto": "eth.brume.wallet",
         "riassunto": "The private Ethereum wallet",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -29193,7 +29170,6 @@
         "id_pacchetto": "eu.domob.shopt2",
         "riassunto": "A simple shopping list app with shop grouping and item ordering.",
         "categorie": [
-            "Money",
             "Shopping List"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -29387,8 +29363,7 @@
         "id_pacchetto": "eu.mirkodi.swatchbeatclock",
         "riassunto": "Internet Time clock and converter",
         "categorie": [
-            "Clock",
-            "Time"
+            "Clock"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//eu.mirkodi.swatchbeatclock/en-US/icon_J7ZmtzMPaEEeHGVfOr6cWmbp8cSrEx9ncsRAxC_lVGs=.png",
@@ -29438,8 +29413,7 @@
         "id_pacchetto": "eu.nemui.ailin.uclock",
         "riassunto": "Simple analog clock widget",
         "categorie": [
-            "Clock",
-            "Time"
+            "Clock"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//eu.nemui.ailin.uclock/en-US/icon_sJjLp_9JD_3KFVyG6u6Mf1wh5aHE547FzRS80MB_Y3Q=.png",
@@ -29696,8 +29670,7 @@
         "id_pacchetto": "eu.uwot.fabio.altcoinprices",
         "riassunto": "Controlla i prezzi delle altcoin in tempo reale",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/eu.uwot.fabio.altcoinprices.81.png",
@@ -30079,7 +30052,7 @@
         "id_pacchetto": "felixwiemuth.simplereminder",
         "riassunto": "Quickly create reminders and get notified later",
         "categorie": [
-            "Time"
+            "Alarm Clock"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//felixwiemuth.simplereminder/en-US/icon_GDLYFROral71PU_kznlULSnI_C9zE_u6HndEguqFS48=.png",
@@ -30104,7 +30077,6 @@
         "id_pacchetto": "finance.valet",
         "riassunto": "The Bitcoin Lightning Wallet with Extra Features",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "Apache-2.0",
@@ -30254,8 +30226,8 @@
         "id_pacchetto": "fr.corenting.convertisseureurofranc",
         "riassunto": "Inflation calculator for various countries",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Calculator",
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//fr.corenting.convertisseureurofranc/en-US/icon_yX7dMbq8B-8xLKXuTfkb1822oVS3OakHwppQRUGksHI=.png",
@@ -30396,6 +30368,8 @@
         "id_pacchetto": "fr.jnda.android.flashalert",
         "riassunto": "Illumina il terminale quando ricevi una chiamata, sms o una notifica",
         "categorie": [
+            "Alarm Clock",
+            "Notification",
             "Phone & SMS"
         ],
         "licenza": "GPL-3.0-only",
@@ -30674,7 +30648,6 @@
         "id_pacchetto": "fr.smarquis.sleeptimer",
         "riassunto": "Simplest Sleep Timer",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "Apache-2.0",
@@ -31109,7 +31082,6 @@
         "id_pacchetto": "hashengineering.darkcoin.wallet",
         "riassunto": "Have your Dash always with you, in your pocket!",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -31122,7 +31094,6 @@
         "id_pacchetto": "hashengineering.groestlcoin.wallet",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
@@ -31135,7 +31106,6 @@
         "id_pacchetto": "hashengineering.groestlcoin.wallet_test",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
@@ -31455,7 +31425,6 @@
         "categorie": [
             "Connectivity",
             "Messaging",
-            "Money",
             "Security",
             "Wallet"
         ],
@@ -31636,6 +31605,7 @@
         "id_pacchetto": "info.dvkr.screenstream",
         "riassunto": "Screen streaming over HTTP",
         "categorie": [
+            "Cast",
             "Multimedia",
             "System"
         ],
@@ -31903,8 +31873,7 @@
         "id_pacchetto": "info.tangential.cone",
         "riassunto": "App di inserimento dati nel libro mastro di contabilità in testo semplice",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/info.tangential.cone.28.png",
@@ -32042,7 +32011,6 @@
         "riassunto": "Perform basic calculations",
         "categorie": [
             "Calculator",
-            "Money",
             "Science & Education",
             "System"
         ],
@@ -32202,8 +32170,7 @@
         "id_pacchetto": "io.github.aoc_normal",
         "riassunto": "An Always On Clock for Android.",
         "categorie": [
-            "Clock",
-            "Time"
+            "Clock"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.aoc_normal/en-US/icon_fEvVLhbfG7f3FJ5aqBp_RUpPfCQS9bA4M6FkLwKkG6s=.png",
@@ -32229,8 +32196,8 @@
         "riassunto": "Offline-first productivity, focus, and habit tracking.",
         "categorie": [
             "Habit Tracker",
-            "Task",
-            "Time"
+            "Stopwatch",
+            "Task"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.benji377.timety/en-US/icon_MbyiMimHJQhjlPgV0cxgLLuu4H635xNsfmc1sH-u2UQ=.png",
@@ -32332,7 +32299,8 @@
         "riassunto": "Stopwatch, but for data usage",
         "categorie": [
             "Connectivity",
-            "Internet"
+            "Internet",
+            "Stopwatch"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.datastopwatch/en-US/icon_Q7P8sJWPWulRDrZa0Wc5gkQItuN4mX2N770VYyPfb78=.png",
@@ -32406,7 +32374,7 @@
         "riassunto": "A highly customizable interval timer",
         "categorie": [
             "Sports & Health",
-            "Time",
+            "Stopwatch",
             "Timer",
             "Workout"
         ],
@@ -32522,8 +32490,7 @@
         "id_pacchetto": "io.github.dorumrr.happytaxes",
         "riassunto": "Private bookkeeping for freelancers, small business, or personal finances.",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.dorumrr.happytaxes/en-US/icon_Bu9FaFuiBle0ioYbcKjH62QGLMHwV0abMiGmbjlnnOo=.png",
@@ -32789,7 +32756,6 @@
         "riassunto": "Flexible interval timers for sports training with dynamic duration control",
         "categorie": [
             "Sports & Health",
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-2.0-only",
@@ -32839,6 +32805,7 @@
         "id_pacchetto": "io.github.jd1378.otphelper",
         "riassunto": "Un'app open-source che rileva e copia i codici OTP per te",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "AGPL-3.0-only",
@@ -32887,6 +32854,7 @@
         "id_pacchetto": "io.github.jqssun.airplay",
         "riassunto": "AirPlay receiver implementation for Android with video and audio support.",
         "categorie": [
+            "Cast",
             "Connectivity",
             "Multimedia"
         ],
@@ -32912,6 +32880,7 @@
         "id_pacchetto": "io.github.jqssun.displaymirror",
         "riassunto": "Screen mirroring manager with support for AirPlay, Moonlight, and DisplayLink.",
         "categorie": [
+            "Cast",
             "Multimedia",
             "System"
         ],
@@ -33331,7 +33300,7 @@
         "id_pacchetto": "io.github.pitonite.exch_cx",
         "riassunto": "Automatic Cryptocurrency Swaps",
         "categorie": [
-            "Money"
+            "Market & Price"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.pitonite.exch_cx/en-US/icon_u6zrYn0E9Pj-NTALRRrmdhjECqdFNoDCJvdR5MiONvo=.png",
@@ -33470,7 +33439,6 @@
         "categorie": [
             "Note",
             "Task",
-            "Time",
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
@@ -33547,7 +33515,7 @@
         "id_pacchetto": "io.github.scovillo.playondlna",
         "riassunto": "Play Youtube videos ad-free on DLNA players (e.g. Kodi) in your local network!",
         "categorie": [
-            "Multimedia",
+            "Cast",
             "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
@@ -33851,8 +33819,7 @@
         "id_pacchetto": "io.github.vendelin8.elements",
         "riassunto": "Chinese zodiac five elements as a pageable calendar",
         "categorie": [
-            "Graphics",
-            "Time"
+            "Graphics"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.vendelin8.elements/en-US/icon_NQUG1k12xYuw9LTzb90CLB9tcd188os5IFYY8NI8S_8=.png",
@@ -34194,7 +34161,6 @@
         "id_pacchetto": "io.horizontalsystems.bankwallet",
         "riassunto": "Bitcoin, Ethereum, DeFi",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -34374,8 +34340,7 @@
         "riassunto": "A meditation app to guide and track your Wim Hof Breathing practice",
         "categorie": [
             "Meditation",
-            "Sports & Health",
-            "Time"
+            "Sports & Health"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.naox.inbe/en-US/icon_JdeivyDuYM9SJPQYhOuL_l34NEprYCR-nxlwcR9SGsI=.png",
@@ -34603,8 +34568,7 @@
         "id_pacchetto": "io.timelimit.android.aosp.direct",
         "riassunto": "Flexibly limit the usage duration",
         "categorie": [
-            "System",
-            "Time"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.timelimit.android.aosp.direct/en-US/icon_PaxylMiI-rzWjB0htPOybrteCvWUw53r2aMbnCc10FA=.png",
@@ -34616,8 +34580,7 @@
         "id_pacchetto": "io.timelimit.android.open",
         "riassunto": "Simply limit the usage duration",
         "categorie": [
-            "System",
-            "Time"
+            "System"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.timelimit.android.open/en-US/icon_ovvfpfZpudmRSrgenrxZ2zRQqdXb2lbqCEFngbnoeoE=.png",
@@ -34727,7 +34690,6 @@
         "riassunto": "A modern Pomodoro timer and task manager.",
         "categorie": [
             "Task",
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -35198,7 +35160,8 @@
         "id_pacchetto": "kiwi.root.an2linuxclient",
         "riassunto": "Sync Android notifications encrypted to a Linux desktop",
         "categorie": [
-            "Connectivity"
+            "Connectivity",
+            "Notification"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//kiwi.root.an2linuxclient/en-US/icon_g8qx87Gjd9SCT5ZAtVFcmjZkQgqZEztZ0NPIM3azDrE=.png",
@@ -35317,8 +35280,7 @@
         "id_pacchetto": "lab.rreedd.oriens",
         "riassunto": "Roman Timekeeping (Unequal Hours) Widget",
         "categorie": [
-            "Science & Education",
-            "Time"
+            "Clock"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//lab.rreedd.oriens/en-US/icon_FGaoOiNX0D0sv7FL4POI5w1111CL98gBL0yEnNO1Xgc=.png",
@@ -35331,8 +35293,7 @@
         "riassunto": "Seasonal time system clock 不定時法時計 ウィジェット",
         "categorie": [
             "Clock",
-            "Science & Education",
-            "Time"
+            "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//lab.rreedd.oyatsu/en-US/icon_l2TnE2ya8NX58hVEPzEJ0CFz4JmwkpZl276vjCQ8Vfs=.png",
@@ -35573,8 +35534,7 @@
         "categorie": [
             "Calendar & Agenda",
             "Inventory",
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//m.co.rh.id.a_personal_stuff/de-DE/icon_ksxV4Iw6cEKktJ74LSwPauCL0m-GzdrimXdceeLPSgU=.png",
@@ -35652,7 +35612,6 @@
         "riassunto": "Task manager app, supporting syncing with Taskwarrior.",
         "categorie": [
             "Task",
-            "Time",
             "Writing"
         ],
         "licenza": "Apache-2.0",
@@ -35755,7 +35714,6 @@
         "riassunto": "Lock the screen after a timer runs out.",
         "categorie": [
             "Sports & Health",
-            "Time",
             "Timer"
         ],
         "licenza": "MIT",
@@ -35768,7 +35726,6 @@
         "id_pacchetto": "me.hackerchick.catima",
         "riassunto": "For your barcodes, memberships, loyalty programs, coupons and tickets.",
         "categorie": [
-            "Money",
             "Pass Wallet"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -36080,8 +36037,7 @@
         "id_pacchetto": "me.sujanpoudel.playdeals",
         "riassunto": "Find the latest app deals and discounts on paid apps and games.",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//me.sujanpoudel.playdeals/en-US/icon_5wlgY0w9aqo7viygRgFILjc_tXzUm5H68scHJFM-CGY=.png",
@@ -36121,7 +36077,6 @@
         "categorie": [
             "Calendar & Agenda",
             "Habit Tracker",
-            "Time",
             "Time Tracker",
             "Timer"
         ],
@@ -36149,7 +36104,6 @@
         "riassunto": "Simple tally counter for Android. It makes counting easier!",
         "categorie": [
             "Sports & Health",
-            "Time",
             "Writing"
         ],
         "licenza": "Apache-2.0",
@@ -36354,8 +36308,7 @@
         "id_pacchetto": "mobi.boilr.boilr",
         "riassunto": "Avvisi di prezzo per Bitcoin, altcoins, assets e futures",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/mobi.boilr.boilr.9.png",
@@ -36404,6 +36357,7 @@
         "id_pacchetto": "moe.dic1911.autodnd",
         "riassunto": "A simple tool to toggle DND automatically when using specified apps.",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "AGPL-3.0-only",
@@ -36623,7 +36577,7 @@
         "id_pacchetto": "net.activitywatch.android",
         "riassunto": "Track how you spend your time on your devices.",
         "categorie": [
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "MPL-2.0",
         "icona": "https://f-droid.org/repo//net.activitywatch.android/en-US/icon_WEQpOWkwgQyifxt-xagtcn-riQFoqhUVDz-4c3akMWE=.png",
@@ -36635,7 +36589,7 @@
         "id_pacchetto": "net.adhikary.mrtbuddy",
         "riassunto": "Check your Dhaka MRT / Rapid Pass balances and trips instantly",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//net.adhikary.mrtbuddy/en-US/icon_mlOwM68qaYz05wDzBuT1sHNby7q5cjrhXCJE6v4NTRY=.png",
@@ -36874,7 +36828,7 @@
             "File Transfer"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/net.chlup.myshare.168.png",
+        "icona": "https://f-droid.org/repo//net.chlup.myshare/en-US/icon_72YOa-asiLDv0ef0cFdrStYXKf7vN3Pr2Sp-bDt6des=.png",
         "url_codice_sorgente": "https://gitlab.com/pramacomht/myshare",
         "ultimo_aggiornamento": null
     },
@@ -36985,8 +36939,7 @@
         "id_pacchetto": "net.diffengine.romandigitalclock",
         "riassunto": "Digital Clock App and Widget with Roman Numeral Display",
         "categorie": [
-            "Clock",
-            "Time"
+            "Clock"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//net.diffengine.romandigitalclock/en-US/icon_5o_2HPpeOPDJIIFg3TSj9uu1PoMm65joHU0hv1sPQOw=.png",
@@ -37026,8 +36979,7 @@
         "id_pacchetto": "net.eneiluj.moneybuster",
         "riassunto": "Multi-project shared budget manager able to sync with self hosted FOSS services",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//net.eneiluj.moneybuster/en-US/icon_m7cYVa5nguLTzoOE5Gldg-0btAmG9pOT6npCW0CuICw=.png",
@@ -37076,8 +37028,7 @@
         "riassunto": "Schedule viewer for conferences and other events",
         "categorie": [
             "Calendar & Agenda",
-            "Schedule",
-            "Time"
+            "Schedule"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//net.gaast.giggity/en-US/icon_C8q-07EMMncgnDbkZK8lQAL3nSN8qAoPgBlDpWeq1qo=.png",
@@ -37287,8 +37238,7 @@
         "id_pacchetto": "net.ktnx.mobileledger",
         "riassunto": "Convenient front-end to hledger-web",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//net.ktnx.mobileledger/bg-BG/icon_hd-gXc-wbZZswcuL9VK35edjfVp3KwdxejOVBH4-uV4=.png",
@@ -37301,7 +37251,7 @@
         "riassunto": "A minimalist Fischer chess clock for Android.",
         "categorie": [
             "Game Helper",
-            "Time"
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//net.leodesouza.blitz/en-US/icon_x1C9Wl-9KIq6JRHtpdBBrH3uMSu1MlSO8FUxpPT8MK4=.png",
@@ -37402,7 +37352,7 @@
         "id_pacchetto": "net.nhiroki.bluelinesolarinfo",
         "riassunto": "Sun & moon information",
         "categorie": [
-            "Time"
+            "Science & Education"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//net.nhiroki.bluelinesolarinfo/en-US/icon_w1QCQB52JR34-tk6jI5tLUkcgQyAhP-x3CUR2xXdJVo=.png",
@@ -37426,8 +37376,7 @@
         "id_pacchetto": "net.nitratine.priceperunit",
         "riassunto": "Find the best deal for the same item at different prices.",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//net.nitratine.priceperunit/en-US/icon_jJObdipaXzTal_JD5y0YcpJZbY3aEKQMFWQ2eHxq9u0=.png",
@@ -37758,8 +37707,7 @@
         "id_pacchetto": "net.sf.times",
         "riassunto": "Times for Jewish prayers",
         "categorie": [
-            "Religion",
-            "Time"
+            "Religion"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -37910,8 +37858,7 @@
         "id_pacchetto": "net.stargw.fx",
         "riassunto": "A simple Foreign Exchange Rate Currency app. Free rates and no adverts.",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//net.stargw.fx/en-US/icon_Mfa_h3l7qwiB9L9YJyw0cI_u-0V_FnRXh6Y-An3Y58M=.png",
@@ -37935,7 +37882,7 @@
         "id_pacchetto": "net.taler.merchantpos",
         "riassunto": "Process orders and take in Taler payments",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//net.taler.merchantpos/en-US/icon_eygQcY5NYchr0zQ1GdSer03uWau_Jr09naWC9PQyjtY=.png",
@@ -37947,7 +37894,6 @@
         "id_pacchetto": "net.taler.wallet.fdroid",
         "riassunto": "GNU Taler makes privacy-friendly online transactions fast and easy.",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -38051,6 +37997,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FakeBlankScreen",
+        "id_pacchetto": "net.tlfoxhuman.fakeblankscreen",
+        "riassunto": "An application that only displays a black screen to reduce power consumption.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//net.tlfoxhuman.fakeblankscreen/en-US/icon_-5aGZPqrw0b6yo0hLV2V-vITkind_eka6E_wdfxkZ_I=.png",
+        "url_codice_sorgente": "https://github.com/TranslucentFoxHuman/FakeBlankScreen",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "萊姆輸入法",
         "id_pacchetto": "net.toload.main.hd",
         "riassunto": "A smaller better Lime (Lightweight Input Method Editor)",
@@ -38068,9 +38026,9 @@
         "id_pacchetto": "net.turtton.ytalarm",
         "riassunto": "A simple alarm application using ytdl-android.",
         "categorie": [
+            "Alarm Clock",
             "Internet",
-            "Multimedia",
-            "Time"
+            "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.turtton.ytalarm/en-US/icon_oO46uwGnIxxvjX3rULV8Ts9Nu2vN6b0Q59HLOc9wwhI=.png",
@@ -38169,7 +38127,7 @@
         "id_pacchetto": "net.xisberto.timerpx",
         "riassunto": "Create alarms for predefined time increments",
         "categorie": [
-            "Time"
+            "Timer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//net.xisberto.timerpx/en-US/icon_ofYwMxwcFaipIxiNFlZQN8_8AIgTRlISdLdFNC6Hq-s=.png",
@@ -38699,7 +38657,7 @@
         "riassunto": "Stopwatch and clock with giant digits",
         "categorie": [
             "Clock",
-            "Time",
+            "Stopwatch",
             "Timer"
         ],
         "licenza": "MIT",
@@ -39005,8 +38963,7 @@
         "riassunto": "Home screen widgets displaying events from selected calendars and task lists",
         "categorie": [
             "Calendar & Agenda",
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.andstatus.todoagenda/en-US/icon_I_i6pvWvqfWkNrC91-kUMeeMY0-Xbgcb8F4JENmFzfU=.png",
@@ -39104,7 +39061,7 @@
         "id_pacchetto": "org.asafonov.monly",
         "riassunto": "Monly is an awesome budget planner",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.asafonov.monly/en-US/icon_c1hkk0eBGObqKBTRNT_VshQ8JkxAdeD7qXZcHGGc3rg=.png",
@@ -39204,8 +39161,7 @@
         "id_pacchetto": "org.avmedia.gshockGoogleSync",
         "riassunto": "Add smart functions to your Casio square BT G-Shock Watch.",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.avmedia.gshockGoogleSync/en-US/icon_ACZLCCNVH-iUZaYaR7VREkB_WFwCMQjmbyGgxtnNCf4=.png",
@@ -39356,8 +39312,7 @@
         "id_pacchetto": "org.billthefarmer.currency",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.currency/en/icon_2qO5mwzXCxm7YM7XZsJZ1VOG-wQThqXjRxgRYnisIyM=.png",
@@ -39508,8 +39463,7 @@
         "id_pacchetto": "org.billthefarmer.specie",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.billthefarmer.specie/en/icon_3eyeKW4sLmT6eqqTuoLdXq-U2Slge2xRTCdMkAdjFmk=.png",
@@ -39534,8 +39488,7 @@
         "id_pacchetto": "org.birthdayadapter",
         "riassunto": "See birthdays and other events from your contacts in your calendar.",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.birthdayadapter/en-US/icon_v22IS7QEMLeIODqeow67qYFfjn7wmu7Kj10OLP9F9VY=.png",
@@ -39561,7 +39514,6 @@
         "id_pacchetto": "org.bitbucket.watashi564.combapp",
         "riassunto": "Haircomb crypto currency wallet, core and a blockchain syncing software.",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "Apache-2.0",
@@ -39720,7 +39672,6 @@
         "riassunto": "Find places to spend sats wherever you are",
         "categorie": [
             "Internet",
-            "Money",
             "Navigation"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -39798,8 +39749,7 @@
         "id_pacchetto": "org.cheeserobot.btcwidget",
         "riassunto": "Tiny home-screen widget showing the latest Bitcoin price in USD or EUR.",
         "categorie": [
-            "Market & Price",
-            "Money"
+            "Market & Price"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.cheeserobot.btcwidget/en-US/icon_4BVVC0YGyPlSE9xD5ZOHjnwG_CYNhs7vvDU5qRjVgIU=.png",
@@ -39985,6 +39935,7 @@
         "id_pacchetto": "org.courville.nova",
         "riassunto": "Video player for local/network content with subtitle/metadata download support",
         "categorie": [
+            "Cast",
             "Local Media Player",
             "Multimedia"
         ],
@@ -40237,6 +40188,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "DissPair",
+        "id_pacchetto": "org.disspair.disspair",
+        "riassunto": "Bluetooth security toolkit",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/org.disspair.disspair.3.png",
+        "url_codice_sorgente": "https://github.com/threadpoolx/DissPair",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "LANShield",
         "id_pacchetto": "org.distrinet.lanshield",
         "riassunto": "Protect your LAN by managing app access to your local network.",
@@ -40341,7 +40305,7 @@
         "id_pacchetto": "org.droidupnp",
         "riassunto": "Play files off the network",
         "categorie": [
-            "Multimedia"
+            "Cast"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.droidupnp.18.png",
@@ -40403,8 +40367,7 @@
         "id_pacchetto": "org.eagsoftware.basiccashflow",
         "riassunto": "The easiest way to track your cash: no fuss, just money tracking.",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.eagsoftware.basiccashflow/en-US/icon_0MeG5HZq37msNwbwopKOs91xnQTeQx7fEa_6wmdgP-c=.png",
@@ -40527,7 +40490,6 @@
         "id_pacchetto": "org.electrum.electrum",
         "riassunto": "Fast and self-custodial wallet for Bitcoin and the Lightning Network",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -40540,7 +40502,7 @@
         "id_pacchetto": "org.elijaxapps.androidxmrigminer",
         "riassunto": "Miniera criptovalute con XMRig miner sul tuo smartphone",
         "categorie": [
-            "Money"
+            "Wallet"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/org.elijaxapps.androidxmrigminer.5.png",
@@ -40588,7 +40550,6 @@
         "id_pacchetto": "org.encointer.wallet",
         "riassunto": "Interact with the Encointer Blockchain",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "Apache-2.0",
@@ -41040,8 +41001,7 @@
         "id_pacchetto": "org.fossify.calendar",
         "riassunto": "Securely plan, schedule, and set reminders with our private calendar app.",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.fossify.calendar/en-US/icon_BAhUc7CcTB0Q-Lko-Vlp3ywXIZoeMf7r2gkDB8fIyRM=.png",
@@ -41066,8 +41026,9 @@
         "id_pacchetto": "org.fossify.clock",
         "riassunto": "Handy, lightweight, open-source clock app with essential features.",
         "categorie": [
+            "Alarm Clock",
             "Clock",
-            "Time",
+            "Stopwatch",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -41548,7 +41509,7 @@
         "id_pacchetto": "org.gonbei774.pocketcheck",
         "riassunto": "A working memory app - \"Anything to put in your pocket?\"",
         "categorie": [
-            "Time"
+            "Inventory"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.gonbei774.pocketcheck/en-US/icon_TwVUsRMpGPQV9-YOK4H3vXaX1atlA9zupojhKjZbFWk=.png",
@@ -41858,7 +41819,6 @@
         "id_pacchetto": "org.jdfossapps.android.shopwithmom",
         "riassunto": "Create price and unit comparisons and create a shopping list.",
         "categorie": [
-            "Money",
             "Shopping List"
         ],
         "licenza": "GPL-3.0-only",
@@ -42081,8 +42041,7 @@
         "riassunto": "A simple, multi-purpose counter app",
         "categorie": [
             "Habit Tracker",
-            "Sports & Health",
-            "Time"
+            "Sports & Health"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//org.kde.bettercounter/en-US/icon_NjF7fbEYDtMsjV1W7YUX-Exl3wyJanZSw6IROR01D0E=.png",
@@ -42244,6 +42203,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Voxtral",
+        "id_pacchetto": "org.lesewolf.voxtral",
+        "riassunto": "Live voice input based on Mistral Voxtral",
+        "categorie": [
+            "Keyboard & IME",
+            "Writing"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://gitlab.com/lesewolf/voxtralrealtime-ime",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Flicky Bee",
         "id_pacchetto": "org.lettucepie.flickybee",
         "riassunto": "Flick and Bumble your way through the flowers.",
@@ -42383,7 +42355,6 @@
         "id_pacchetto": "org.ligi.materialteatimer",
         "riassunto": "Cronometrate il vostro tè con stile",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -42584,7 +42555,6 @@
         "id_pacchetto": "org.mattvchandler.progressbars",
         "riassunto": "A simple timer / countdown app",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "MIT",
@@ -42955,7 +42925,6 @@
         "id_pacchetto": "org.nsh07.pomodoro",
         "riassunto": "Minimalist Pomodoro timer",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -43561,6 +43530,7 @@
         "id_pacchetto": "org.projectmaxs.module.alarmset",
         "riassunto": "Un modulo per MAXS",
         "categorie": [
+            "Alarm Clock",
             "System",
             "Timer"
         ],
@@ -43683,6 +43653,7 @@
         "id_pacchetto": "org.projectmaxs.module.notification",
         "riassunto": "Un modulo per MAXS",
         "categorie": [
+            "Notification",
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -44031,8 +44002,7 @@
         "id_pacchetto": "org.roto",
         "riassunto": "Offline rota and shift viewer with today/tomorrow focus, widget, zero tracking.",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.roto/en-US/icon_6lmIOiOprGMNvbo3mMEFBpkHIMQYHCwcs7RDWcH0UaI=.png",
@@ -44175,7 +44145,7 @@
             "Online Media Player"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.schabi.newpipe.localserver/en-US/icon_yUrTbSJ6ZCWcC71rFv92TXJGBqRV7uDkUDdLpUyRAfA=.png",
+        "icona": "https://f-droid.org/repo//org.schabi.newpipe.localserver/en-US/icon_HCBQvM11RgfF3l1sujCnIaMjJDgYwjT89jXtPR_8yns=.png",
         "url_codice_sorgente": "https://github.com/diekaiju/localtube",
         "ultimo_aggiornamento": null
     },
@@ -44210,7 +44180,7 @@
         "id_pacchetto": "org.schabi.terminightor",
         "riassunto": "Sveglia basata su tag NFC",
         "categorie": [
-            "Time"
+            "Alarm Clock"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/org.schabi.terminightor.12.png",
@@ -44336,7 +44306,7 @@
         "riassunto": "(SECUSO) Boardgame Clock offers timers for boardgame time tracking",
         "categorie": [
             "Game Helper",
-            "Time"
+            "Stopwatch"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlyboardgameclock/de-DE/icon_85kgnYhCkoI8M9KHgmITVp0DBkgsYUQtfcTS4PFQpMI=.png",
@@ -44386,8 +44356,7 @@
         "id_pacchetto": "org.secuso.privacyfriendlyfinancemanager",
         "riassunto": "(SECUSO) Helps you keep track of your income and expenses.",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.secuso.privacyfriendlyfinancemanager/de-DE/icon_8l8ArpmWWeXATWp6_iCOOLbPGaHRwl_Ftz9bIxLKZWA=.png",
@@ -44413,6 +44382,7 @@
         "riassunto": "(SECUSO) Supports circuit training sessions and helps achieve training goals.",
         "categorie": [
             "Sports & Health",
+            "Stopwatch",
             "Timer",
             "Workout"
         ],
@@ -44602,7 +44572,6 @@
         "riassunto": "(SECUSO) Create lists of tasks which can be individually managed.",
         "categorie": [
             "Task",
-            "Time",
             "Writing"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -44998,8 +44967,7 @@
         "id_pacchetto": "org.sufficientlysecure.ical",
         "riassunto": "Import, Export & Backup i calendari utilizzando i file ics",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.sufficientlysecure.ical/en-US/icon_r-phlVA-IBRDw3fzZgyEjPh3dWTsmiUFMyl4piufmek=.png",
@@ -45299,8 +45267,7 @@
         "id_pacchetto": "org.totschnig.myexpenses",
         "riassunto": "Easy to use personal finance manager: rich functionality and Open Source",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.totschnig.myexpenses/en-US/icon_zWawBtP0U6S03MdPDF6m-Zh9Tbt6MmuSM-w68Ug-58o=.png",
@@ -45467,7 +45434,6 @@
         "id_pacchetto": "org.veilproject.wallet",
         "riassunto": "Privacy focused VEIL coin crypto wallet",
         "categorie": [
-            "Money",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -45505,8 +45471,8 @@
         "id_pacchetto": "org.videolan.vlc",
         "riassunto": "Il miglior lettore di video e musica. Veloce e funzionale, riproduce ogni file",
         "categorie": [
-            "Local Media Player",
-            "Multimedia"
+            "Cast",
+            "Local Media Player"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.videolan.vlc/en-US/icon_yAfSvPRJukZzMMfUzvbYqwaD1XmHXNtiPBtuPVHW-6s=.png",
@@ -45583,7 +45549,6 @@
         "id_pacchetto": "org.wentura.getflow",
         "riassunto": "Productivity timer",
         "categorie": [
-            "Time",
             "Time Tracker",
             "Timer"
         ],
@@ -46089,7 +46054,6 @@
         "riassunto": "Elegant Meditation Timer",
         "categorie": [
             "Meditation",
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -46114,7 +46078,6 @@
         "id_pacchetto": "org.zephyrsoft.trackworktime",
         "riassunto": "Record your work time. Categorize it with different tasks. Generate reports.",
         "categorie": [
-            "Time",
             "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
@@ -46132,7 +46095,7 @@
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://gitlab.com/zerodogg/org.zerodogg.migraineLog",
+        "url_codice_sorgente": "https://codeberg.org/mglog/MigraineLog",
         "ultimo_aggiornamento": null
     },
     {
@@ -46284,7 +46247,7 @@
         "id_pacchetto": "pl.ascendit.onetimealarm",
         "riassunto": "Alarm reminders which delete themselves automatically after firing. ",
         "categorie": [
-            "Time"
+            "Alarm Clock"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//pl.ascendit.onetimealarm/en-US/icon_DNW3hpAiYOrONr8KTwxPSbPweuipnIGcTZ7pgLlSwaY=.png",
@@ -46611,7 +46574,7 @@
         "id_pacchetto": "protect.rentalcalc",
         "riassunto": "Valuta le prospettive di investimento di immobili in affitto",
         "categorie": [
-            "Money"
+            "Calculator"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//icons/protect.rentalcalc.6.png",
@@ -46713,7 +46676,7 @@
         "id_pacchetto": "quest.faraday.tip_calculator",
         "riassunto": "Simple tip calculator that operates on pre-tax amount",
         "categorie": [
-            "Money"
+            "Calculator"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -46842,19 +46805,6 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//ro.hume.cosmin.retrostack/en-US/icon_S10IYv5dT34sGelvD0PVh2Jeycb2T8jxnG7nUEUmww4=.png",
         "url_codice_sorgente": "https://codeberg.org/cosmin/retro-stack-gdx",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "FiSSH",
-        "id_pacchetto": "ro.ioanm.fissh",
-        "riassunto": "Autenticazione SSH tramite Fingerprint scanning via rete (TLS Sockets).",
-        "categorie": [
-            "Remote Access",
-            "Security"
-        ],
-        "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://gitlab.com/ioanm/FiSSH-App",
         "ultimo_aggiornamento": null
     },
     {
@@ -46990,7 +46940,7 @@
         "id_pacchetto": "rocks.poopjournal.vacationdays",
         "riassunto": "Scopri quando sei libero — ti aiuta a tenere traccia dei tuoi giorni di ferie.",
         "categorie": [
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//rocks.poopjournal.vacationdays/en-US/icon_7dvxFK9XXWBWDHUtXUD262xcBQuG_dapCX7Rf3SrImM=.png",
@@ -47078,8 +47028,7 @@
         "id_pacchetto": "ru.aleshin.timeplanner",
         "riassunto": "Convenient and fast task planning for the day",
         "categorie": [
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//ru.aleshin.timeplanner/en-US/icon_v2rLqxxbVIMbyGhzX7WatwBprSEAeHc_OIsCBzP8TM0=.png",
@@ -47202,7 +47151,7 @@
         "id_pacchetto": "ru.ikkui.achie",
         "riassunto": "It's a simple app for registering achievements ",
         "categorie": [
-            "Time"
+            "Time Tracker"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//ru.ikkui.achie/en-US/icon_gcqikwwx81QCZtQK8vb1dxqD-AVPtiX6Xzk1zoSbWSc=.png",
@@ -47650,7 +47599,6 @@
         "categorie": [
             "Meditation",
             "Sports & Health",
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -47663,6 +47611,7 @@
         "id_pacchetto": "sh.haven.app",
         "riassunto": "SSH terminal, Wayland desktop, VNC/RDP, cloud storage & SFTP for Android",
         "categorie": [
+            "Cast",
             "Remote Access"
         ],
         "licenza": "GPL-3.0-only",
@@ -47712,7 +47661,6 @@
         "id_pacchetto": "si.jakobkreft.ontime",
         "riassunto": "Presentation timer for speakers at live events",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -48120,6 +48068,7 @@
         "id_pacchetto": "systems.sieber.fsclock",
         "riassunto": "Fullscreen Analog- and Digital Clock with Event View",
         "categorie": [
+            "Alarm Clock",
             "Clock",
             "Graphics"
         ],
@@ -48146,7 +48095,6 @@
         "id_pacchetto": "team.swing.pendulums",
         "riassunto": "Gestisci il tempo più efficientemente con un moderno strumento di tracciamento",
         "categorie": [
-            "Time",
             "Time Tracker"
         ],
         "licenza": "GPL-3.0-only",
@@ -48183,8 +48131,7 @@
         "id_pacchetto": "tech.dongdongbh.mindwtr",
         "riassunto": "Free GTD task manager. Offline, private, local-first to-do list.",
         "categorie": [
-            "Task",
-            "Time"
+            "Task"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//tech.dongdongbh.mindwtr/en-US/icon_W7LHRoteZA4wErCIFgSeM3umsNgLIstDzsvUfPF9t9A=.png",
@@ -48318,7 +48265,7 @@
         "riassunto": "Stopwatch with current time display for long, non-interactive sessions.",
         "categorie": [
             "Meditation",
-            "Time",
+            "Stopwatch",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -48432,7 +48379,6 @@
         "riassunto": "Scalare i prezzi alle unità di base comuni",
         "categorie": [
             "Market & Price",
-            "Money",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -48497,7 +48443,8 @@
         "id_pacchetto": "top.stevezmt.calsync",
         "riassunto": "Sync notification time info to calendar automatically",
         "categorie": [
-            "Calendar & Agenda"
+            "Calendar & Agenda",
+            "Notification"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//top.stevezmt.calsync/en-US/icon_K0IQR2eeQ7usB8N8JjxXp7MTBeS22Aw65yderunE7U8=.png",
@@ -48652,7 +48599,7 @@
         "id_pacchetto": "ua.com.radiokot.lnaddr2invoice",
         "riassunto": "Allows paying to email-like Lightning addresses from unsupported wallets",
         "categorie": [
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//ua.com.radiokot.lnaddr2invoice/en-US/icon_E8f0ItDFeKIKF5NdNl9VCqEzaonb8g2REw7i9G8sAD4=.png",
@@ -48994,7 +48941,6 @@
         "id_pacchetto": "v4lpt.vpt.c016.TPC",
         "riassunto": "Distraction-free pomodoro timer",
         "categorie": [
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -49009,7 +48955,6 @@
         "categorie": [
             "Multimedia",
             "Science & Education",
-            "Time",
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
@@ -49022,8 +48967,7 @@
         "id_pacchetto": "v4lpt.vpt.f005.rsd",
         "riassunto": "Minimalistic Android app for rolling 2 dice.",
         "categorie": [
-            "Dice",
-            "Time"
+            "Dice"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//v4lpt.vpt.f005.rsd/en-US/icon_hudBghehNdlmadep0JBi1JqrsznmFih71lYq2JfxTlc=.png",
@@ -49072,8 +49016,7 @@
         "id_pacchetto": "v4lpt.vpt.f036.esw",
         "riassunto": "A mix between a calendar and a clock that makes you wait faster.",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//v4lpt.vpt.f036.esw/en-US/icon_YMJSZ1Le9dWBiEIxhwttD8JDPD0Sh1--c-bp2ga9P3M=.png",
@@ -49172,8 +49115,7 @@
         "id_pacchetto": "ws.xsoh.etar",
         "riassunto": "Etar is a material designed open source calendar, for everyone!",
         "categorie": [
-            "Calendar & Agenda",
-            "Time"
+            "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//ws.xsoh.etar/en-US/icon_MV5P0hb85YWVJIfobFH46J3yDwLvde2IRXbFLfH133s=.png",
@@ -49296,7 +49238,7 @@
         "id_pacchetto": "xyz.crucitti.friendalert",
         "riassunto": "Nurture distant friendships with timely reminders",
         "categorie": [
-            "Time"
+            "Contact"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//xyz.crucitti.friendalert/en-US/icon_-d01wWj8k202nIbtgepr6qrA3AImbsVUD0j6XMhaeg8=.png",
@@ -49344,8 +49286,7 @@
         "id_pacchetto": "xyz.hisname.fireflyiii",
         "riassunto": "Wrapper mobile per Firefly III",
         "categorie": [
-            "Finance Manager",
-            "Money"
+            "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
