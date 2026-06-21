@@ -1110,7 +1110,7 @@
             "Recorder"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/app.soundtree.10010.png",
+        "icona": "https://f-droid.org/repo//icons/app.soundtree.10012.png",
         "url_codice_sorgente": "https://github.com/CodeMarbles/SoundTree",
         "ultimo_aggiornamento": null
     },
@@ -3394,6 +3394,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.abast.homebot.12.png",
         "url_codice_sorgente": "https://github.com/s6joui/homebot",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Thirukkural Daily Widget",
+        "id_pacchetto": "com.abezb.thirukuraldaily",
+        "riassunto": "A beautiful, minimal daily Thirukkural flashcard widget.",
+        "categorie": [
+            "Reading"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.abezb.thirukuraldaily.22.png",
+        "url_codice_sorgente": "https://github.com/Abez-B/thirukkural-daily-widget-",
         "ultimo_aggiornamento": null
     },
     {
@@ -7904,7 +7916,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.dede.android_eggs/en-US/icon_13-ZRHtkwEh_aPgQpEwRBbvztACwn-oggRB-gWBI8tI=.png",
+        "icona": "https://f-droid.org/repo//com.dede.android_eggs/en-US/icon_1stcEiciWMyZbE2IZHvZ4e_Kjwf7CQJKHfatnx_hEYE=.png",
         "url_codice_sorgente": "https://github.com/hushenghao/AndroidEasterEggs",
         "ultimo_aggiornamento": null
     },
@@ -12495,7 +12507,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.103.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.133.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -14575,6 +14587,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Latarka",
+        "id_pacchetto": "com.kuniec.latarka",
+        "riassunto": "Toggle flashlight with a shake gesture",
+        "categorie": [
+            "Flashlight"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.kuniec.latarka.1.png",
+        "url_codice_sorgente": "https://github.com/SebastianKuniec/Latarka",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "KeePassDX Passkey Vault",
         "id_pacchetto": "com.kunzisoft.keepass.libre",
         "riassunto": "Manage Passkey / Password in a local and open-source vault",
@@ -14648,7 +14672,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.labnex.app/en-US/icon_qwVP-JgIQn-pF42-5cYGLV709rWjhZWvBWDsvsp6OG0=.png",
-        "url_codice_sorgente": "https://github.com/labnex/LabNex",
+        "url_codice_sorgente": "https://codeberg.org/labnex/LabNex",
         "ultimo_aggiornamento": null
     },
     {
@@ -18382,6 +18406,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ExpenseTrack",
+        "id_pacchetto": "com.pixelpen.whereitwent.stable",
+        "riassunto": "Track your personal expenses by category and month.",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.pixelpen.whereitwent.stable/en-US/icon_cE_6tekXV2Wy25Ts1aXUyOMPqTr4nk36VjOeeaUNuaU=.png",
+        "url_codice_sorgente": "https://github.com/PIXEL-PEN/Where-It-Went",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Pjuu",
         "id_pacchetto": "com.pjuu.otterdroid",
         "riassunto": "Accedi al social network Pjuu",
@@ -19812,7 +19848,7 @@
             "Internet"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.seafile.seadroid2.370.png",
+        "icona": "https://f-droid.org/repo//icons/com.seafile.seadroid2.380.png",
         "url_codice_sorgente": "https://github.com/haiwen/seadroid",
         "ultimo_aggiornamento": null
     },
@@ -22526,6 +22562,18 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.chess/en-US/icon_ggFFzY5ePxcC1bCBGmNvSt3ixfy0Xvc_7n0OWI7Fu1A=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Solitaire",
+        "id_pacchetto": "com.vayunmathur.games.solitaire",
+        "riassunto": "An open source solitaire game",
+        "categorie": [
+            "Card Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.solitaire/en-US/icon_863DrWNFuNMaUhAF9vE-VDtcFkXVXr_2zwBu5iwhbdE=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -27270,7 +27318,7 @@
             "System"
         ],
         "licenza": "ISC",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/de.szalkowski.activitylauncher.8100.png",
         "url_codice_sorgente": "https://github.com/butzist/ActivityLauncher",
         "ultimo_aggiornamento": null
     },
@@ -27560,7 +27608,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.103043.png",
+        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.103063.png",
         "url_codice_sorgente": "https://git.pabr.de/uwr/uwr_plan_app",
         "ultimo_aggiornamento": null
     },
@@ -28128,7 +28176,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.103.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.133.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -28154,7 +28202,7 @@
             "Security"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/dev.ioanm.fissh.70.png",
+        "icona": "https://f-droid.org/repo//icons/dev.ioanm.fissh.71.png",
         "url_codice_sorgente": "https://gitlab.com/ioanm/FiSSH-App",
         "ultimo_aggiornamento": null
     },
@@ -28560,7 +28608,7 @@
     {
         "nome": "Otoscope",
         "id_pacchetto": "dev.rubec.otoscope",
-        "riassunto": "Ad-free viewer for cheap WiFi otoscope cameras.",
+        "riassunto": "Ad-free viewer for WiFi otoscope cameras.",
         "categorie": [
             "Camera",
             "Connectivity",
@@ -31610,7 +31658,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/info.dvkr.screenstream.44000.png",
         "url_codice_sorgente": "https://github.com/dkrivoruchko/ScreenStream",
         "ultimo_aggiornamento": null
     },
@@ -32083,7 +32131,7 @@
             "Multimedia"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.ente.photos.fdroid/en-US/icon_xHLxwviTjXNyzuljj1BlbHeIhNZA-DE9ml_azPzRB0o=.png",
+        "icona": "https://f-droid.org/repo//io.ente.photos.fdroid/en-US/icon_l-VWkFwZxhSrDVGBtK8g_TGRD-CcmJ2EEL6UBaX8rpc=.png",
         "url_codice_sorgente": "https://github.com/ente-io/ente",
         "ultimo_aggiornamento": null
     },
@@ -44277,7 +44325,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Backup (PFA)",
+        "nome": "Backup (Privacy Friendly)",
         "id_pacchetto": "org.secuso.privacyfriendlybackup",
         "riassunto": "(SECUSO) Backup Application for Privacy Friendly Apps",
         "categorie": [
@@ -46096,6 +46144,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://codeberg.org/mglog/MigraineLog",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "maripànaTokana",
+        "id_pacchetto": "orinasa.njarasoa.maripanatokana",
+        "riassunto": "Weather app showing metric and imperial units side by side in 8 languages",
+        "categorie": [
+            "Weather"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//orinasa.njarasoa.maripanatokana/en-US/icon_hZXPQAePXYLVERcDZfaQQ-3Gid-0t12LXhjkbv5WAcU=.png",
+        "url_codice_sorgente": "https://github.com/mpilasy/maripanaTokana",
         "ultimo_aggiornamento": null
     },
     {
@@ -49463,7 +49523,7 @@
     {
         "nome": "Inner Breeze",
         "id_pacchetto": "xyz.waozi.inbe",
-        "riassunto": "A free, open-source guided breathing meditation app based on the Wim Hof method.",
+        "riassunto": "A free, open-source app for breathing, meditation, and habit tracking.",
         "categorie": [
             "Meditation"
         ],
