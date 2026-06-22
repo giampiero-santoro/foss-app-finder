@@ -1368,6 +1368,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tessella",
+        "id_pacchetto": "art.tessell.editor",
+        "riassunto": "Create and explore polygon tessellations of the plane",
+        "categorie": [
+            "Graphics"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//art.tessell.editor/en-US/icon_V75dYKdc16y7eol0d0AI3KUFx8ABiFjm_4D4aGM_cgs=.png",
+        "url_codice_sorgente": "https://github.com/tessell-art/editor",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "conto ore di lavoro",
         "id_pacchetto": "askanimus.arbeitszeiterfassung2",
         "riassunto": "Annotazione delle ore di lavoro, generazione e invio di rapporti (PDF, CSV, ICS)",
@@ -1675,6 +1687,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//axp.tool.apkextractor/en-US/icon_eLeDhwmifZaH1xEaCVqYlgIuFRkg6rNLooPdMYqpzQs=.png",
         "url_codice_sorgente": "https://github.com/axxapy/apkExtractor",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "BackgroundWorkAround",
+        "id_pacchetto": "background.work.around",
+        "riassunto": "BackgroundWorkAround: app for background survival.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "Unlicense",
+        "icona": "https://f-droid.org/repo//background.work.around/en-US/icon_YaevovlvE9Z7mnfo4DTeHwzw9fXbWFgx4NUPburHIcg=.png",
+        "url_codice_sorgente": "https://github.com/confidenseuide/BackgroundWorkAround/",
         "ultimo_aggiornamento": null
     },
     {
@@ -3844,6 +3868,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.aj.wa.contact.adder/en-us/icon_qndGIQlaPtXpdyj89D2eMhGRQNLXDa3hisMQgI5NB0Q=.png",
         "url_codice_sorgente": "https://github.com/amr-jawwad/whatsapp_contact_adder",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "aka Alarm",
+        "id_pacchetto": "com.aka.alarm",
+        "riassunto": "Wakes you within a 30-min window when you start stirring",
+        "categorie": [
+            "Alarm Clock"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.aka.alarm/en-US/icon_QJirg02vMNjYXTJdocuoyxRlY8lXWQ1yT2olbq_kf5w=.png",
+        "url_codice_sorgente": "https://github.com/seeingred/aka-alarm",
         "ultimo_aggiornamento": null
     },
     {
@@ -7162,7 +7198,7 @@
             "Weather"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.cloudbasepredictor.134.png",
+        "icona": "https://f-droid.org/repo//icons/com.cloudbasepredictor.144.png",
         "url_codice_sorgente": "https://github.com/CloudbasePredictor/CloudbasePredictor",
         "ultimo_aggiornamento": null
     },
@@ -10036,6 +10072,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FocusBuddy",
+        "id_pacchetto": "com.focusbuddy.app",
+        "riassunto": "A cute, privacy-first Pomodoro companion for Android.",
+        "categorie": [
+            "Timer"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/com.focusbuddy.app.1003.png",
+        "url_codice_sorgente": "https://github.com/toprakpt1/focusbuddy",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Librera Reader",
         "id_pacchetto": "com.foobnix.pro.pdf.reader",
         "riassunto": "Lettore di libri e PDF",
@@ -11434,6 +11482,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "tagdrop",
+        "id_pacchetto": "com.github.mofosyne.tagdrop",
+        "riassunto": "Decode data URIs in QR codes",
+        "categorie": [
+            "Multimedia",
+            "Navigation",
+            "Reading"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.github.mofosyne.tagdrop/en-US/icon_MN4Y4hmvR_hRDpnGvVzAkzqpiWU2LwSyZytyWKWyifI=.png",
+        "url_codice_sorgente": "https://github.com/mofosyne/tagdrop",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GPS Locker",
         "id_pacchetto": "com.github.mrrar.gps_locker",
         "riassunto": "Keep the GPS locked at all times on an Android device.",
@@ -12507,7 +12569,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.133.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.143.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -12672,6 +12734,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.health.openscale.sync/en-US/icon_IhF56mvTHtttPnnfyytDBJhjz0nye3QADx9_xvMmHVQ=.png",
         "url_codice_sorgente": "https://github.com/oliexdev/openScale-sync",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Hebrew Calendar",
+        "id_pacchetto": "com.hebrewcal",
+        "riassunto": "Hebrew date, holidays, zmanim and Omer count on your lockscreen",
+        "categorie": [
+            "Calendar & Agenda"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/attam5740/hebrewcal-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -13202,6 +13276,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Screen Off Timer",
+        "id_pacchetto": "com.inod.screenofftimer",
+        "riassunto": "Clean sleep timer to stop media and lock screen.",
+        "categorie": [
+            "Timer"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.inod.screenofftimer/en-US/icon_i0BGPVZgaukKux6HV9y2YMVbdhyQpLpG_titveVtrEA=.png",
+        "url_codice_sorgente": "https://github.com/doniarifin/screen-off-timer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Braincup",
         "id_pacchetto": "com.inspiredandroid.braincup",
         "riassunto": "Train your focus, memory and math skills.",
@@ -13229,7 +13315,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8562 manual pages, 30 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8581 manual pages, 30 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -13513,7 +13599,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.jarsilio.android.drowser/en-US/icon_KQ_EUeWCVCYGudzX5gNoUYaF87lbljBMOf5oPKsWh7s=.png",
         "url_codice_sorgente": "https://gitlab.com/juanitobananas/drowser/tree/HEAD",
         "ultimo_aggiornamento": null
     },
@@ -14260,14 +14346,14 @@
     {
         "nome": "Solo Forge",
         "id_pacchetto": "com.kbul.spicycrab",
-        "riassunto": "Local-first fasting, food, weight, and workout tracker",
+        "riassunto": "Local-first intermittent fasting, calorie, weight & workout tracker",
         "categorie": [
             "Diet",
             "Health Manager",
             "Workout"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.kbul.spicycrab/en-US/icon_hx_frcKCKyF7mYUCHM24Cz6AiiH9KG5xQacCVvvixPU=.png",
         "url_codice_sorgente": "https://github.com/kirilan/SoloForge",
         "ultimo_aggiornamento": null
     },
@@ -15636,12 +15722,12 @@
     {
         "nome": "Materializr",
         "id_pacchetto": "com.materializr.app",
-        "riassunto": "Parametric 3D CAD",
+        "riassunto": "Maker 3D CAD — the middle ground between Tinkercad and FreeCAD",
         "categorie": [
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.6.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.7.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -17638,7 +17724,7 @@
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.odysee.floss/en-US/icon_NBIXp1Rt-KrSIcHpLBqaaQP1vWam8MvZGRBd86skLAI=.png",
-        "url_codice_sorgente": "https://github.com/OdyseeTeam/odysee-android-floss",
+        "url_codice_sorgente": "https://github.com/OdyseeTeam/odysee-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -19235,6 +19321,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "RedTrigger",
+        "id_pacchetto": "com.redtrigger",
+        "riassunto": "System-wide shoulder triggers for Nubia Red Magic phones",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.redtrigger/en-US/icon_-fXTbunBffw--O5E_41oWEv7iAFlw0VLWMB_TfhLoQI=.png",
+        "url_codice_sorgente": "https://github.com/zampierilucas/RedTrigger",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "eSpeak",
         "id_pacchetto": "com.reecedunn.espeak",
         "riassunto": "Text-to-speech engine for Android. Based on the eSpeak engine.",
@@ -19290,7 +19388,7 @@
             "Habit Tracker"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.resurrect.grove/en-US/icon_u8-QGGTE3BFO-x8_7WM6H-9S4h2O08OpQCH_rzZy2Oo=.png",
+        "icona": "https://f-droid.org/repo//com.resurrect.grove/en-US/icon_uaVOjJ2hJC7j-Y-IR7YNw741YYTDepLDEiy1SveEmPk=.png",
         "url_codice_sorgente": "https://github.com/resurrectdev1/grove",
         "ultimo_aggiornamento": null
     },
@@ -19316,6 +19414,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.retroarch/en-US/icon_6FEcvEOeZ43Tv-CdN2TYvlEpwwyQf2IgOBc5-kXbjzc=.png",
         "url_codice_sorgente": "https://github.com/libretro/RetroArch",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Secure QR Share",
+        "id_pacchetto": "com.revold1985.secureqrshare",
+        "riassunto": "Share passwords and links securely via encrypted QR codes.",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.revold1985.secureqrshare.43.png",
+        "url_codice_sorgente": "https://github.com/Revold1985/secureqrshare",
         "ultimo_aggiornamento": null
     },
     {
@@ -19769,6 +19879,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.sapuseven.untis/en-US/icon_Mclj7_M1nfc8_GdPdVJLlYTa4tUeJcvjizA8HEiKnGc=.png",
         "url_codice_sorgente": "https://github.com/SapuSeven/BetterUntis",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Zenwell: Stop doomscrolling",
+        "id_pacchetto": "com.sarangem.zenwell",
+        "riassunto": "Block distracting apps and reduce screen time",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.sarangem.zenwell/en-US/icon_GMRvETs-xkb0hsu7Uy5cxneW_WgIaPmI8k7xoSR8lvw=.png",
+        "url_codice_sorgente": "https://github.com/sarangem/zenwell",
         "ultimo_aggiornamento": null
     },
     {
@@ -20406,6 +20528,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.slanttech.warecache/en-US/icon_kcE6cZRXPDIRN92uZyZHPo1XZAKkA0rwd6dfO5GzxyI=.png",
         "url_codice_sorgente": "https://gitlab.slant.tech/open-source/warecache/android-app",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Slate",
+        "id_pacchetto": "com.slate.launcher",
+        "riassunto": "Minimal text-only Android home screen. No icons. No analytics. Zero network.",
+        "categorie": [
+            "Launcher"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.slate.launcher.4.png",
+        "url_codice_sorgente": "https://github.com/roufsyed/Slate-Minimal-Launcher",
         "ultimo_aggiornamento": null
     },
     {
@@ -22647,6 +22781,18 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.openassistant/en-US/icon__gHORJj0klBPoQeJxev0WPvUJ7JWmrHvd9MPcY22RTk=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Passwords",
+        "id_pacchetto": "com.vayunmathur.passwords",
+        "riassunto": "A basic passwords app",
+        "categorie": [
+            "Password & 2FA"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.passwords/en-US/icon_Ngxv0wDJmBsxphGg3PeHfypHrxaNUALKtgprLdtE4gU=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -26741,14 +26887,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Voice Offline Audiobook Player",
+        "nome": "Voice Audiobook Player",
         "id_pacchetto": "de.ph1b.audiobook",
-        "riassunto": "Minimalist offline audiobook player. Free, no ads, volume boost & sleep timer.",
+        "riassunto": "A clean audiobook player for your own files, with sleep timer and bookmarks.",
         "categorie": [
             "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//de.ph1b.audiobook/en-US/icon_zcNIGHqOX4bF9UQ7N0NNPpanP5U_DYfg1PBJ5rpOV04=.png",
+        "icona": "https://f-droid.org/repo//de.ph1b.audiobook/en-US/icon_j4CDUSTa3OL4p_nTWV6ewlbjYIAtXeHMgW64UvW1iBw=.png",
         "url_codice_sorgente": "https://github.com/PaulWoitaschek/Voice",
         "ultimo_aggiornamento": null
     },
@@ -28176,7 +28322,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.133.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.223.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -32912,6 +33058,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Bluetooth Remote",
+        "id_pacchetto": "io.github.jqssun.btremote",
+        "riassunto": "Open-source universal serverless Bluetooth HID remote control for Android.",
+        "categorie": [
+            "Remote Controller"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.jqssun.btremote/en-US/icon_RWHWD_d2PpL4qv0M7sE1V_ZSfVd2w2EjwSwG_C2VpOI=.png",
+        "url_codice_sorgente": "https://github.com/jqssun/android-bt-remote",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Extend",
         "id_pacchetto": "io.github.jqssun.displayextend",
         "riassunto": "Extend is an all-purpose display manager for any physical or virtual display.",
@@ -34205,9 +34363,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Unstoppable Crypto Wallet",
+        "nome": "Unstoppable",
         "id_pacchetto": "io.horizontalsystems.bankwallet",
-        "riassunto": "Bitcoin, Ethereum, DeFi",
+        "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Wallet"
         ],
@@ -34665,7 +34823,8 @@
         "id_pacchetto": "ir.ammari.nodelook",
         "riassunto": "A general website checker for users facing internet restrictions.",
         "categorie": [
-            "Internet"
+            "Internet",
+            "Network Analyzer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//ir.ammari.nodelook/en-US/icon_GxJrgiahLXC4roegadqpMPmTz3aoSDaPcwAuJ7HzTs0=.png",
@@ -43388,6 +43547,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "scorecounter",
+        "id_pacchetto": "org.pichove.scorecounter",
+        "riassunto": "A simple score counting app",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.pichove.scorecounter/en-US/icon_IUkaJBpbl1Xku1AkHArNDsYljl60hVbl_YOTFGbKiXM=.png",
+        "url_codice_sorgente": "https://codeberg.org/sgs/scorecounter",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Gauguin",
         "id_pacchetto": "org.piepmeyer.gauguin",
         "riassunto": "A Sudoku-like logic game",
@@ -43397,6 +43568,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.piepmeyer.gauguin/en-US/icon_Pp0IthYj4RE6O_3BQcd_ApZWV8iNei9l_LspIKJIoak=.png",
         "url_codice_sorgente": "https://github.com/meikpiep/gauguin",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Pinpoint",
+        "id_pacchetto": "org.pinpoint",
+        "riassunto": "Map things/points of interest in your surroundings and across the globe",
+        "categorie": [
+            "Multimedia",
+            "Navigation"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.pinpoint/en-US/icon_UVb3Qi1EU4UKhFQcTEE09tlRbzXPukKMZZgF5XmbY2w=.png",
+        "url_codice_sorgente": "https://github.com/StrangeGirlMurph/Pinpoint",
         "ultimo_aggiornamento": null
     },
     {
@@ -49610,15 +49794,15 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Github Store",
+        "nome": "Komi Store",
         "id_pacchetto": "zed.rainxch.githubstore",
         "riassunto": "App store for GitHub releases - discover and install apps with one click",
         "categorie": [
             "App Store & Updater"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//zed.rainxch.githubstore/en-US/icon_F1DT08SYjqcwdKfqW5GvK58fB1i7ybIbe1Lo2co1V2o=.png",
-        "url_codice_sorgente": "https://github.com/rainxchzed/Github-Store",
+        "icona": "https://f-droid.org/repo//zed.rainxch.githubstore/en-US/icon_PMu-W9EJSA_l4_FVLNw-RjzT6XVZK-l7gmJANbBxzlY=.png",
+        "url_codice_sorgente": "https://github.com/kurikomi-labs/komi-store",
         "ultimo_aggiornamento": null
     }
 ]
