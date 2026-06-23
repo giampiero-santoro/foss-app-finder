@@ -1110,7 +1110,7 @@
             "Recorder"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/app.soundtree.10012.png",
+        "icona": "https://f-droid.org/repo//icons/app.soundtree.10018.png",
         "url_codice_sorgente": "https://github.com/CodeMarbles/SoundTree",
         "ultimo_aggiornamento": null
     },
@@ -3232,6 +3232,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Battery Monitor",
+        "id_pacchetto": "codes.swistak.batterymonitor",
+        "riassunto": "Monitor your device's battery status in detail in real time",
+        "categorie": [
+            "Battery",
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//codes.swistak.batterymonitor/en-US/icon_cE3MmhWsVh-VeNQQvv6tgVFb24oASyroUQi3xFs_r2k=.png",
+        "url_codice_sorgente": "https://github.com/tswistak/Battery-Monitor",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Tidy",
         "id_pacchetto": "com.Ace777.tidy",
         "riassunto": "A personal management app with all necessary features",
@@ -3428,7 +3441,7 @@
             "Reading"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.abezb.thirukuraldaily.22.png",
+        "icona": "https://f-droid.org/repo//com.abezb.thirukuraldaily/en-US/icon_AHbEAmHdGZNQAhLuVsI3WTy3cooS7obZPa0D6M0eJh8=.png",
         "url_codice_sorgente": "https://github.com/Abez-B/thirukkural-daily-widget-",
         "ultimo_aggiornamento": null
     },
@@ -4277,19 +4290,6 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.amrdeveloper.linkhub/en-US/icon_tsNcagCLW4B_TQTk6JJys8rE17TZPKPcRE1VtUyJAMg=.png",
         "url_codice_sorgente": "https://github.com/AmrDeveloper/LinkHub",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Harmony Music",
-        "id_pacchetto": "com.anandnet.harmonymusic",
-        "riassunto": "An Android App for streaming Music",
-        "categorie": [
-            "Multimedia",
-            "Radio"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.anandnet.harmonymusic/en-US/icon_CP7iWywg-B_GMclDgoDUUChCj6OTvolo1yaeONbdUEs=.png",
-        "url_codice_sorgente": "https://github.com/anandnet/Harmony-Music",
         "ultimo_aggiornamento": null
     },
     {
@@ -10325,7 +10325,7 @@
     {
         "nome": "GeoWeather",
         "id_pacchetto": "com.freetime.geoweather",
-        "riassunto": "Modern weather app with 3 to 7-day forecast for multiple cities",
+        "riassunto": "Modern weather app with 3 to 16-day forecast for multiple cities",
         "categorie": [
             "Weather"
         ],
@@ -12569,7 +12569,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.143.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.163.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -15727,7 +15727,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.7.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.8.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -18492,9 +18492,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "ExpenseTrack",
+        "nome": "Where It Went",
         "id_pacchetto": "com.pixelpen.whereitwent.stable",
-        "riassunto": "Track your personal expenses by category and month.",
+        "riassunto": "You think you know. Then you see the numbers. Track where it really went.",
         "categorie": [
             "Finance Manager"
         ],
@@ -20205,6 +20205,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Aerial",
+        "id_pacchetto": "com.shapeshed.aerial",
+        "riassunto": "Lightweight Android radio player",
+        "categorie": [
+            "Multimedia",
+            "Radio"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/shapeshed/aerial",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Shattered Pixel Dungeon",
         "id_pacchetto": "com.shatteredpixel.shatteredpixeldungeon",
         "riassunto": "Un gioco roguelike basato su Pixel Dungeon",
@@ -20328,6 +20341,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://gitlab.com/sigmarelax/doi_to_scihub",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SignalSense – Network Switch Alerts",
+        "id_pacchetto": "com.signalsense.app",
+        "riassunto": "Know the instant your network switches between 5G, 4G, 3G, or 2G",
+        "categorie": [
+            "Connectivity",
+            "Network Analyzer"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.signalsense.app/en-US/icon_hJ3ekcY9_DboG9tTsO3pEb1azEbPwC9tuMkWuE8_7YI=.png",
+        "url_codice_sorgente": "https://github.com/adithya-creation/SignalSense",
         "ultimo_aggiornamento": null
     },
     {
@@ -37781,6 +37807,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Field Survey",
+        "id_pacchetto": "net.pufstudio.fieldsurvey",
+        "riassunto": "Your field logbook, on your phone - build any survey, powered by your device.",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//net.pufstudio.fieldsurvey/en-US/icon_HyfFIOkL4vZavQJsAbJoYsT4g8oD4zOh3Ybgs8LfHUU=.png",
+        "url_codice_sorgente": "https://codeberg.org/even311379/FieldSurvey",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Noteless",
         "id_pacchetto": "net.redsolver.noteless",
         "riassunto": "A markdown note-taking app for mobile devices.",
@@ -38428,6 +38466,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.youapps.transport/en-US/icon_pu5ATZhb0sx2kZiPyU78IeM8K3vppKEYCO2fvJ8UcHM=.png",
         "url_codice_sorgente": "https://github.com/you-apps/TransportYou",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Curbox: App & Website Blocker",
+        "id_pacchetto": "neth.iecal.curbox",
+        "riassunto": "App blocker and screen time tracker. Block apps, websites, reels and shorts.",
+        "categorie": [
+            "System",
+            "Time Tracker"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//neth.iecal.curbox/en-US/icon_Gg0EN24qFAUG1l2QZiicm_78HyMi3xHfbkxTTzKYWFM=.png",
+        "url_codice_sorgente": "https://github.com/nethical6/curbox",
         "ultimo_aggiornamento": null
     },
     {
@@ -48303,7 +48354,7 @@
             "Security"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//systems.sieber.droid_scep/en-US/icon_-xHGGnhXG7H3FCwy8s1h3IIz7FPqhUFIEhJBwSVQeIE=.png",
+        "icona": "https://f-droid.org/repo//systems.sieber.droid_scep/en-US/icon_V4nEb_eK7-6JCn8L-2wsi-YnocKjZaIZYe0goKLWdC0=.png",
         "url_codice_sorgente": "https://github.com/schorschii/Droid_SCEP",
         "ultimo_aggiornamento": null
     },
