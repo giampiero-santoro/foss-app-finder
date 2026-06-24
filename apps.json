@@ -3441,7 +3441,7 @@
             "Reading"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.abezb.thirukuraldaily/en-US/icon_AHbEAmHdGZNQAhLuVsI3WTy3cooS7obZPa0D6M0eJh8=.png",
+        "icona": "https://f-droid.org/repo//com.abezb.thirukuraldaily/en-US/icon_dQAcUEav1U_6Si7KODETadoCO4IrbY48dyvcv0nQPt8=.png",
         "url_codice_sorgente": "https://github.com/Abez-B/thirukkural-daily-widget-",
         "ultimo_aggiornamento": null
     },
@@ -5460,6 +5460,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Internet Radio",
+        "id_pacchetto": "com.armanmaurya.internetradio",
+        "riassunto": "Discover and listen to thousands of free internet radio stations worldwide.",
+        "categorie": [
+            "Radio"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.armanmaurya.internetradio.6.png",
+        "url_codice_sorgente": "https://github.com/armanmaurya/InternetRadio",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ShizuWall",
         "id_pacchetto": "com.arslan.shizuwall",
         "riassunto": "Lightweight no root, no vpn firewall solution powered by Shizuku",
@@ -7198,7 +7210,7 @@
             "Weather"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.cloudbasepredictor.144.png",
+        "icona": "https://f-droid.org/repo//icons/com.cloudbasepredictor.154.png",
         "url_codice_sorgente": "https://github.com/CloudbasePredictor/CloudbasePredictor",
         "ultimo_aggiornamento": null
     },
@@ -8282,6 +8294,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.dimtion.shaarlier.33.png",
         "url_codice_sorgente": "https://github.com/dimtion/Shaarlier",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ScenePeek - TMDB & Seerr",
+        "id_pacchetto": "com.divinelink.scenepeek",
+        "riassunto": "TMDB & Seerr for Android",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.divinelink.scenepeek.51.png",
+        "url_codice_sorgente": "https://github.com/Divinelink/scenepeek-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -12338,6 +12362,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "MetroVault",
+        "id_pacchetto": "com.gorunjinian.metrovault",
+        "riassunto": "Air-gapped Bitcoin signer for offline cold storage. QR-only, no network.",
+        "categorie": [
+            "Wallet"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/gorunjinian/MetroVault",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AusweisApp",
         "id_pacchetto": "com.governikus.ausweisapp2",
         "riassunto": "Usa la carta di'identità sul telefono",
@@ -15633,6 +15669,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Marlin",
+        "id_pacchetto": "com.marlinid.marlin",
+        "riassunto": "Identify marine species on the spot and keep a personal sightings life list",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.marlinid.marlin/en-US/icon_rh8-XuPhooMzZAHdfqb0WbImMjw7tcKcsibpwhQGdCI=.png",
+        "url_codice_sorgente": "https://github.com/fwille/marlin",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CajuScan",
         "id_pacchetto": "com.marotoweb.cajuscan_app",
         "riassunto": "Record invoices in the Cashew app by scanning the QR code on Portuguese invoices",
@@ -15727,7 +15775,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.8.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.9.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -20952,6 +21000,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SSH Remote",
+        "id_pacchetto": "com.stefansundin.sshremote",
+        "riassunto": "Use your smartphone to control your computer or HTPC",
+        "categorie": [
+            "Remote Access",
+            "Remote Controller"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.stefansundin.sshremote/en-US/icon_82Gmwa5I_JiAH97h213hKOY4CBQVBrdVMxFU60PSuhk=.png",
+        "url_codice_sorgente": "https://github.com/stefansundin/SSHRemote",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Non Stop Balloons Shooter",
         "id_pacchetto": "com.stoptheballs",
         "riassunto": "Flying balloons shooting. Action. Shooter for kids and adults.",
@@ -22436,6 +22497,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.uc.caffeine/en-US/icon_7Lp02pscvc2V72uQZIdwg1Uw16jmBRyYozv3OOX4YlE=.png",
         "url_codice_sorgente": "https://github.com/ohuc/CaffeineHealth",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Boky Fivavahana Anglikana",
+        "id_pacchetto": "com.uli.bokyfivavahana2",
+        "riassunto": "Madagascar's Anglican common prayer book app",
+        "categorie": [
+            "Reading",
+            "Religion"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.uli.bokyfivavahana2.9.png",
+        "url_codice_sorgente": "https://github.com/ulightm111/boky-fivavahana-ion",
         "ultimo_aggiornamento": null
     },
     {
@@ -28348,7 +28422,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.223.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.253.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -32795,6 +32869,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Ewoc",
+        "id_pacchetto": "io.github.ewoc2026.ewoc",
+        "riassunto": "Indoor cycling workouts for FTMS smart trainers",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.ewoc2026.ewoc/en-US/icon_0R3vs93Hc1xyRA-DyYyf1pXSxIUWeceyrvMA2EuhOK8=.png",
+        "url_codice_sorgente": "https://github.com/Ewoc2026/ewoc",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "XiVPN",
         "id_pacchetto": "io.github.exclude0122.xivpn",
         "riassunto": "Proxy client based on XRAY",
@@ -33065,7 +33151,7 @@
             "Puzzle Game"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//io.github.johnathan.minesweeper/en-US/icon_w64bbni9FlmRvNy0Ydwds11cHCRz2frr0zB-g4sl15Y=.png",
         "url_codice_sorgente": "https://github.com/john-athan/minesweeper",
         "ultimo_aggiornamento": null
     },
@@ -33360,6 +33446,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.mlm_games.musicore/en-US/icon_fogTRED2JhJ2W0hVo9-etwNmT08gye6Ccefc4zZWJkA=.png",
         "url_codice_sorgente": "https://github.com/mlm-games/musicore-libre",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Feltbok",
+        "id_pacchetto": "io.github.mortenfyhn.feltbok",
+        "riassunto": "Log bird sightings in the field and export them to Artsobservasjoner",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/mortenfyhn/feltbok",
         "ultimo_aggiornamento": null
     },
     {
@@ -35233,7 +35331,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/jp.ddo.hotmist.unicodepad.73.png",
         "url_codice_sorgente": "https://github.com/Ryosuke839/UnicodePad",
         "ultimo_aggiornamento": null
     },
@@ -35279,7 +35377,7 @@
     {
         "nome": "Nori",
         "id_pacchetto": "jp.nonbili.nori",
-        "riassunto": "Gestore e avviatore di segnalibri.",
+        "riassunto": "Bookmark manager and launcher.",
         "categorie": [
             "Bookmark"
         ],
@@ -37993,7 +38091,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/net.sourceforge.kid3.35.png",
         "url_codice_sorgente": "https://invent.kde.org/multimedia/kid3.git",
         "ultimo_aggiornamento": null
     },
@@ -43394,6 +43492,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Formulus",
+        "id_pacchetto": "org.opendataensemble.formulus",
+        "riassunto": "Offline-first bespoke data collection apps from Open Data Ensemble",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//org.opendataensemble.formulus/en-US/icon_KRsuX93Yg6j6aQ1kypOv1xOWjHuQguQB1SeLLxydZIM=.png",
+        "url_codice_sorgente": "https://github.com/OpenDataEnsemble/ode",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "openHAB",
         "id_pacchetto": "org.openhab.habdroid",
         "riassunto": "Vendor and technology agnostic open source home automation",
@@ -48192,6 +48302,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Project Asteria",
+        "id_pacchetto": "space.o4bit.projectasteria.foss",
+        "riassunto": "NASA, APOD, Astronomy, Space, SpaceX, NASA Launch, Space Discovery",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//space.o4bit.projectasteria.foss/en-US/icon_Fj_E204cOi_eqe61JisZQyKGQyrR5Nu6sbv2loNger0=.png",
+        "url_codice_sorgente": "https://github.com/O4bit/Project-Asteria",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AirheadWaves",
         "id_pacchetto": "space.ring0.airheadwaves",
         "riassunto": "Stream Android audio to any Linux device over WiFi",
@@ -48242,6 +48364,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Stack Tower 3D",
+        "id_pacchetto": "stack.tower3d",
+        "riassunto": "Stack sliding blocks into the tallest tower you can. One-tap 3D arcade.",
+        "categorie": [
+            "Action Game",
+            "Casual Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//stack.tower3d/en-US/icon_NgN87UJ2rwfOlnLsC9Ay37HLImau51Ls7iqb-Q8FW5o=.png",
+        "url_codice_sorgente": "https://github.com/Eve-146T/3DStackTower",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "WebRadio",
         "id_pacchetto": "starcom.snd",
         "riassunto": "Riproduci canali radio dal web e aggiungi canali personalizzati",
@@ -48279,6 +48414,22 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//studio.okcode.open_alert_viewer/en-US/icon_37nqgbwTP9KsEML_4CjDTMwnW6fjeOnokCrHhDZ-U58=.png",
         "url_codice_sorgente": "https://codeberg.org/leaf-node/open_alert_viewer/",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "StudiPassau",
+        "id_pacchetto": "studip_uni_passau.femtopedia.de.unipassaustudip",
+        "riassunto": "Access to the Online Portal for Students at the University of Passau",
+        "categorie": [
+            "Calendar & Agenda",
+            "File Transfer",
+            "Navigation",
+            "News",
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//studip_uni_passau.femtopedia.de.unipassaustudip/en-US/icon_NvZqq8RiBH370-HpcliTq3UzGd9-1FviYr2Vyl6SjcU=.png",
+        "url_codice_sorgente": "https://github.com/ThexXTURBOXx/studipassau",
         "ultimo_aggiornamento": null
     },
     {
@@ -49406,6 +49557,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Trending AI",
+        "id_pacchetto": "whl.trending.ai",
+        "riassunto": "Global tech trends, fast-picked by AI.",
+        "categorie": [
+            "News"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//whl.trending.ai/en-US/icon_OMcBkXr0Hl2hgFFtzl1ShhzXqy2M1CCTi66I1YSoJZU=.png",
+        "url_codice_sorgente": "https://github.com/HarlonWang/TrendingAI",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Etar - OpenSource Calendar",
         "id_pacchetto": "ws.xsoh.etar",
         "riassunto": "Etar is a material designed open source calendar, for everyone!",
@@ -49758,12 +49921,12 @@
     {
         "nome": "Inner Breeze",
         "id_pacchetto": "xyz.waozi.inbe",
-        "riassunto": "A free, open-source app for breathing, meditation, and habit tracking.",
+        "riassunto": "Syncable breathing, meditation, and habit practice app.",
         "categorie": [
             "Meditation"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//xyz.waozi.inbe/en-US/icon__pw70MoF1lyhj2_81FXfJoFPa1Z8e43FoXWDN3DKuf4=.png",
+        "icona": "https://f-droid.org/repo//xyz.waozi.inbe/en-US/icon_s02WkANNHZclXFYW_Gl1T5le_Yp1bTErY0z8oWdZQfs=.png",
         "url_codice_sorgente": "https://github.com/waozixyz/inbe",
         "ultimo_aggiornamento": null
     },
