@@ -8958,7 +8958,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.eblan.launcher/en-US/icon_-YlG68JAEl12IhTZ58BKFOftjLP4gJDarxUAhMUrUrE=.png",
+        "icona": "https://f-droid.org/repo//com.eblan.launcher/en-US/icon_XX9cRpPcrV6o3Lg9QxKbzXfLbWeq4L7_n1B-gSE9MpY=.png",
         "url_codice_sorgente": "https://github.com/JackEblan/YagniLauncher",
         "ultimo_aggiornamento": null
     },
@@ -10224,6 +10224,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.foobnix.pro.pdf.reader/en-US/icon_y15Jxhzp6YrmjLC-wtc27B6XLTcArf7yK-2WlpNaoe0=.png",
         "url_codice_sorgente": "https://github.com/foobnix/LibreraReader",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "openCook",
+        "id_pacchetto": "com.food.opencook",
+        "riassunto": "Recipe manager to scan cookbook photos, plan your week and share the list",
+        "categorie": [
+            "Recipe Manager"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.food.opencook/en-US/icon_KRiyF3AkPofFSKiRwOtmpL_e7Ewm9V2sPTruwDfFhRE=.png",
+        "url_codice_sorgente": "https://github.com/oliexdev/openCook",
         "ultimo_aggiornamento": null
     },
     {
@@ -15689,7 +15701,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.31.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.32.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -15819,7 +15831,7 @@
             "Workout"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.markusborg.test.22.png",
         "url_codice_sorgente": "https://github.com/mrksbrg/RacketGhost",
         "ultimo_aggiornamento": null
     },
@@ -15930,7 +15942,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.9.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.11.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -17003,9 +17015,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Cuppa - Contaminuti infusione",
+        "nome": "Cuppa - Timer per il tuo tè",
         "id_pacchetto": "com.nathanatos.Cuppa",
-        "riassunto": "Cronometra il tuo tè mentre è in infusione",
+        "riassunto": "Cuppa è un semplice timer che puoi usare mentre il tuo tè è in infusione.",
         "categorie": [
             "Timer"
         ],
@@ -17951,7 +17963,7 @@
             "Unit Convertor"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.offlinecurrencyconverter.app/en-US/icon_ayXgnkg10EeZYJy0XCMyJgp2Uqo1q-KUdLWMR9DS8uo=.png",
         "url_codice_sorgente": "https://github.com/DavidNeurieder/offline-currency-converter",
         "ultimo_aggiornamento": null
     },
@@ -19069,7 +19081,7 @@
             "Messaging"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20003.png",
+        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20005.png",
         "url_codice_sorgente": "https://github.com/zerionproject/Zerion",
         "ultimo_aggiornamento": null
     },
@@ -20556,6 +20568,18 @@
         "licenza": "MPL-2.0",
         "icona": "https://f-droid.org/repo//com.siddarthkay.syncup/en-US/icon_PrPGUWLzXlSAmD52HwhAl6ReScrrTb9NPToV7yuZ4Ss=.png",
         "url_codice_sorgente": "https://github.com/siddarthkay/syncup",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FastLog",
+        "id_pacchetto": "com.siddharthagolu.fastlog",
+        "riassunto": "An opinionated, fast, native android app for Logseq ",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.siddharthagolu.fastlog/en-US/icon_S4pdE_bqFCRKzGM7xWx4E0TgfOUVphYnF0q0Lkey7gM=.png",
+        "url_codice_sorgente": "https://codeberg.org/siddharthagolu/fastlog",
         "ultimo_aggiornamento": null
     },
     {
@@ -24505,12 +24529,12 @@
     {
         "nome": "RecorderX",
         "id_pacchetto": "com.zygisk_enc.RecorderX",
-        "riassunto": "High-performance screen recorder with internal audio support",
+        "riassunto": "RecorderX is an application designed for high-fidelity screen capture.",
         "categorie": [
             "Recorder"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.zygisk_enc.RecorderX/metadata/icon_YFxCg2Mt6iTHwdZTgVMz6nQsiRjBAAmGQL-ptNcdpok=.png",
+        "icona": "https://f-droid.org/repo//com.zygisk_enc.RecorderX/en-US/icon_G2zx4Pfwl6BDZ9kP_OnRUzRlm_OhLne6xweALQ6olNI=.png",
         "url_codice_sorgente": "https://github.com/snap24/RecorderX",
         "ultimo_aggiornamento": null
     },
@@ -24522,7 +24546,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.zygisk_enc.volumeX/metadata/icon_fCeDzwLdbFRWIeblD42Ov7_aZQPYZpQHY0CAdCZu8SA=.png",
+        "icona": "https://f-droid.org/repo//com.zygisk_enc.volumeX/en-US/icon_uhv_5ruxGwdT_ldHq6scGMmJuSGXWEOeUJLkZZ-Ovn8=.png",
         "url_codice_sorgente": "https://github.com/snap24/volumeX",
         "ultimo_aggiornamento": null
     },
@@ -25102,7 +25126,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/de.blau.android.3406.png",
+        "icona": "https://f-droid.org/repo//icons/de.blau.android.3407.png",
         "url_codice_sorgente": "https://github.com/MarcusWolschon/osmeditor4android",
         "ultimo_aggiornamento": null
     },
@@ -28071,7 +28095,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.103073.png",
+        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.103083.png",
         "url_codice_sorgente": "https://git.pabr.de/uwr/uwr_plan_app",
         "ultimo_aggiornamento": null
     },
@@ -35214,7 +35238,7 @@
             "Network Analyzer"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//ir.ammari.nodelook/en-US/icon_GxJrgiahLXC4roegadqpMPmTz3aoSDaPcwAuJ7HzTs0=.png",
+        "icona": "https://f-droid.org/repo//ir.ammari.nodelook/android/icon_O2a8bqMS4VtdAempxE4P63pxkF2-FyBgHHcnbglNes4=.png",
         "url_codice_sorgente": "https://github.com/nodelook/android",
         "ultimo_aggiornamento": null
     },
@@ -35594,7 +35618,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/jp.ddo.hotmist.unicodepad.74.png",
+        "icona": "https://f-droid.org/repo//icons/jp.ddo.hotmist.unicodepad.75.png",
         "url_codice_sorgente": "https://github.com/Ryosuke839/UnicodePad",
         "ultimo_aggiornamento": null
     },
@@ -45512,6 +45536,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SOS Alerter",
+        "id_pacchetto": "org.sosalerter.app",
+        "riassunto": "Privacy-focused emergency app with SMS location tracking and silent recording.",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.sosalerter.app/en-US/icon_w_ZQCWNINT9vnyBSOXJZNx33HOvrR-8MOVxq-4H6mYA=.png",
+        "url_codice_sorgente": "https://github.com/dhilipmpms/SOS-alerter",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "α-Remote",
         "id_pacchetto": "org.staacks.alpharemote",
         "riassunto": "Bluetooth remote for Sony Alpha Cameras",
@@ -45990,7 +46026,7 @@
             "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/org.transdroid.full.248.png",
+        "icona": "https://f-droid.org/repo//icons/org.transdroid.full.249.png",
         "url_codice_sorgente": "https://github.com/erickok/transdroid",
         "ultimo_aggiornamento": null
     },
@@ -46003,7 +46039,7 @@
             "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/org.transdroid.lite.248.png",
+        "icona": "https://f-droid.org/repo//icons/org.transdroid.lite.249.png",
         "url_codice_sorgente": "https://github.com/erickok/transdroid",
         "ultimo_aggiornamento": null
     },
