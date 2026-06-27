@@ -2458,18 +2458,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Find Family",
-        "id_pacchetto": "cc.findfamily.app",
-        "riassunto": "Find Family is an end-to-end encrypted location sharing app",
-        "categorie": [
-            "Location Tracker & Sharer"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//cc.findfamily.app/en-US/icon_sQTMjJrWUHcp6D99Yu_WAj6pVR4py1U1fHM-AtwU7ZQ=.png",
-        "url_codice_sorgente": "https://github.com/vayun-mathur/Find-Family",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Caff",
         "id_pacchetto": "cc.goll.caff",
         "riassunto": "Quick settings tile providing caffeine mode functionality (keep display on)",
@@ -9369,6 +9357,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Controller for QLC+",
+        "id_pacchetto": "com.evanh.qlc_controller",
+        "riassunto": "An Android native 3rd party application for controlling QLC+ v4.",
+        "categorie": [
+            "Connectivity",
+            "Remote Controller"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.evanh.qlc_controller/en-UK/icon_47NN0kOpbQBmX3fuogJFFYsZ4Qgn8IQ_uIbwongbtjw=.png",
+        "url_codice_sorgente": "https://github.com/realevanhughes/qlcplus-mobile-controller",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "TTime",
         "id_pacchetto": "com.example.TTime",
         "riassunto": "Android app to calculate transfer time, data quantity and bandwidth",
@@ -11556,8 +11557,8 @@
             "Religion"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.github.meypod.al_azan/en-US/icon_jrEF25URwtdNlZAdIMESOVVq8B9shDC12bC1xpScE9M=.png",
-        "url_codice_sorgente": "https://github.com/meypod/al-azan",
+        "icona": "https://f-droid.org/repo//com.github.meypod.al_azan/en-US/icon_2xmGI8kq3HziUMYir0DjZR_e7D9AK5Nhha34SeXA1j8=.png",
+        "url_codice_sorgente": "https://github.com/meypod/al-azan-compose",
         "ultimo_aggiornamento": null
     },
     {
@@ -12487,7 +12488,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.gorunjinian.metrovault/en-US/icon_gbNizHO4pfVjDfHIlh057QxFyW6ZxOlC3wtNG07W3-o=.png",
         "url_codice_sorgente": "https://github.com/gorunjinian/MetroVault",
         "ultimo_aggiornamento": null
     },
@@ -12641,13 +12642,13 @@
     {
         "nome": "Groce",
         "id_pacchetto": "com.groce.app",
-        "riassunto": "Simple grocery, to-do, and packing lists. No ads, no tracking.",
+        "riassunto": "Grocery, to-do, and packing lists, ordered by store aisle or category. No ads.",
         "categorie": [
             "Shopping List",
             "Task"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.groce.app/en-US/icon_DDqcBn2us8BEaetHAVMvYw78Gm-VuCKqlowIB8-6G_g=.png",
         "url_codice_sorgente": "https://gitlab.com/astrosmurf/groce",
         "ultimo_aggiornamento": null
     },
@@ -12748,7 +12749,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.163.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.193.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -12773,7 +12774,7 @@
             "Workout"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.hackerapps.c2k/en-US/icon_0KGzXaVOC7pETHp_s-fYjlZOgpyb2Xg1wGQXv6NEKvk=.png",
         "url_codice_sorgente": "https://github.com/AnalogGhost/c2k",
         "ultimo_aggiornamento": null
     },
@@ -14095,6 +14096,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.johanpy.drivesoberly/en-US/icon_rFk3EsvbxtBCxvubX1g14q9R0R_xoLjwlTTvDcLSGhQ=.png",
         "url_codice_sorgente": "https://github.com/JohanPy/DriveSoberly",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Nebula",
+        "id_pacchetto": "com.jordanadema.nebula",
+        "riassunto": "GPU-accelerated HDR nebula fly-through screensaver",
+        "categorie": [
+            "Wallpaper"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.jordanadema.nebula/en-US/icon_btB1K5YMHDDf4T83gLUVrlgjsxsuLIBJcT4zd4iwPaw=.png",
+        "url_codice_sorgente": "https://github.com/jordanade/Nebula",
         "ultimo_aggiornamento": null
     },
     {
@@ -15701,7 +15714,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.32.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.33.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -15942,7 +15955,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.11.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.12.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -16259,6 +16272,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.mensinator.app/en-US/icon_jjYJH2CrfxFrJDHFYMFIr1TDFN2PTajLslNP-ByoQzU=.png",
         "url_codice_sorgente": "https://github.com/EmmaTellblom/Mensinator",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "LNCT Attendance",
+        "id_pacchetto": "com.meow.lnctattendance",
+        "riassunto": "Track classes and view timetable statistics",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/com.meow.lnctattendance.2.png",
+        "url_codice_sorgente": "https://github.com/utkarshgupta188/lnctu-app",
         "ultimo_aggiornamento": null
     },
     {
@@ -19548,6 +19573,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Readwide",
+        "id_pacchetto": "com.readwide.manager",
+        "riassunto": "Local-first reader and file browser",
+        "categorie": [
+            "Ebook Reader"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10007.png",
+        "url_codice_sorgente": "https://github.com/k1717/Readwide",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Calculate",
         "id_pacchetto": "com.rechnen.app",
         "riassunto": "train mental calculation",
@@ -20604,6 +20641,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.wallet/en-US/icon_oXOna6kCSlnrLMTaLfvM7uFTV9mK3MisW3UMcnIN_no=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/wallet",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Water Sort",
+        "id_pacchetto": "com.sidhant.watersort",
+        "riassunto": "Relaxing color-sorting puzzle. Infinite levels. Zero tracking. No ads.",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.watersort/en-US/icon_6rprG2ATyQIkj1V-TTS660ieJvua6d8ggAMESPrTCqE=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/water-sort",
         "ultimo_aggiornamento": null
     },
     {
@@ -22942,6 +22991,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Camera",
+        "id_pacchetto": "com.vayunmathur.camera",
+        "riassunto": "The best open-source Camera app",
+        "categorie": [
+            "Camera"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.camera/en-US/icon_AkLfw0vSD5bjQggc44rIayYemMI1kO3-DcVVSK9KyVc=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Clock",
         "id_pacchetto": "com.vayunmathur.clock",
         "riassunto": "A simple open-source clock app",
@@ -23783,9 +23844,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Wire",
+        "nome": "Wire • Secure Messenger",
         "id_pacchetto": "com.wire",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "Wire offers highly secure communication – anywhere and anytime.",
         "categorie": [
             "Internet",
             "Messaging",
@@ -25109,7 +25170,7 @@
     {
         "nome": "UniThen",
         "id_pacchetto": "de.bixilon.unithen",
-        "riassunto": "Course check-in for ZHS without the bloaty UniNow app",
+        "riassunto": "Unofficial course check in app for UniNow digital booking systems (DBS)",
         "categorie": [
             "Pass Wallet"
         ],
@@ -30105,7 +30166,7 @@
     {
         "nome": "Biometric Bypass",
         "id_pacchetto": "eu.rafareborn.biometricbypass",
-        "riassunto": "Xposed module to fast-forward face unlock",
+        "riassunto": "Xposed module that skips the confirm step after face unlock",
         "categorie": [
             "System"
         ],
@@ -37823,6 +37884,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "LoanPro",
+        "id_pacchetto": "net.kaltner.LoanPro",
+        "riassunto": "Fast mortgage, auto, credit, and personal loan calculations",
+        "categorie": [
+            "Calculator"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//net.kaltner.LoanPro/en-US/icon_vDifok7xX2kPAWFBNJKKr7SLf_xQG98HjDhGijjryeA=.png",
+        "url_codice_sorgente": "https://github.com/mkaltner/LoanPro",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "TrackerControl",
         "id_pacchetto": "net.kollnig.missioncontrol.fdroid",
         "riassunto": "TrackerControl allows to monitor and control hidden data collection in apps.",
@@ -43406,6 +43479,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "yadaw",
+        "id_pacchetto": "org.mlm.yadaw",
+        "riassunto": "A multiplatform sfx creator with no plugin GUI",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.mlm.yadaw/en-US/icon_fRFzd530ksZFopRs7IPFLbulK2EIqNXHvUmhUp2ueUA=.png",
+        "url_codice_sorgente": "https://github.com/mlm-games/yadaw",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Open Sudoku",
         "id_pacchetto": "org.moire.opensudoku",
         "riassunto": "Open Sudoku is an Open Source Sudoku game.",
@@ -46815,6 +46900,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://codeberg.org/mglog/MigraineLog",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "99Managers Futsal Edition",
+        "id_pacchetto": "org99managers.futsal_edition",
+        "riassunto": "A futsal management game with a 2D match engine and integrated editor.",
+        "categorie": [
+            "Sport Game"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org99managers.futsal_edition/en-US/icon_uSxdGiKKy1W4DJ5GosVIJwnaWAbQVDVVLKI5D-kWFu4=.png",
+        "url_codice_sorgente": "https://codeberg.org/dulvui/99managers-futsal-edition/",
         "ultimo_aggiornamento": null
     },
     {
