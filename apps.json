@@ -750,7 +750,7 @@
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//app.lonecloud.prism/en-US/icon_ma1CBwjT9ox_pDMFdea2NBnwMKdPfqYxv3AsaCFpmj0=.png",
-        "url_codice_sorgente": "https://github.com/lone-cloud/prism-android",
+        "url_codice_sorgente": "https://git.lonecloud.dev/lone-cloud/prism-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -5512,7 +5512,7 @@
             "Radio"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.armanmaurya.internetradio.7.png",
+        "icona": "https://f-droid.org/repo//icons/com.armanmaurya.internetradio.8.png",
         "url_codice_sorgente": "https://github.com/armanmaurya/InternetRadio",
         "ultimo_aggiornamento": null
     },
@@ -7572,7 +7572,7 @@
             "Online Media Player"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.craftworks.music/en-US/icon_Vmw98A2W2eRGLnKLOuU85ObAOA2P2JxYytLPkhlseDk=.png",
         "url_codice_sorgente": "https://github.com/CraftWorksMC/Chora",
         "ultimo_aggiornamento": null
     },
@@ -8015,14 +8015,14 @@
     {
         "nome": "Backlog Tracker",
         "id_pacchetto": "com.debojitsantra.backlogtracker",
-        "riassunto": "Calculate, track, and defeat compounding academic backlogs.",
+        "riassunto": "Track study, work, games, habits, and anything that piles up.",
         "categorie": [
             "Science & Education",
             "Task"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.debojitsantra.backlogtracker/en-US/icon_SuuXXzzyD9R5FGfWRJFhcxR92fu0kv0VHEnFMRDSoXc=.png",
-        "url_codice_sorgente": "https://github.com/debojitsantra/BacklogTracker-Android",
+        "url_codice_sorgente": "https://github.com/debojitsantra/BacklogTracker",
         "ultimo_aggiornamento": null
     },
     {
@@ -8387,7 +8387,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.divinelink.scenepeek.51.png",
+        "icona": "https://f-droid.org/repo//icons/com.divinelink.scenepeek.53.png",
         "url_codice_sorgente": "https://github.com/Divinelink/scenepeek-android",
         "ultimo_aggiornamento": null
     },
@@ -8991,7 +8991,7 @@
     {
         "nome": "DJ Edertech",
         "id_pacchetto": "com.edertech.dj_edertech",
-        "riassunto": "This app is invites you to relive the nostalgic curated sets of DJ Edertech.",
+        "riassunto": "This app invites you to relive the nostalgic curated sets of DJ Edertech.",
         "categorie": [
             "Multimedia"
         ],
@@ -9722,9 +9722,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "BatteryVoltageDisplay",
+        "nome": "Voltascano",
         "id_pacchetto": "com.example.timenotification",
-        "riassunto": "BatteryVoltageDisplay shows battery voltage in the system status bar",
+        "riassunto": "Voltascano shows battery voltage in the system status bar",
         "categorie": [
             "Battery",
             "System"
@@ -10818,6 +10818,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Gem Wallet: Bitcoin, USDT, BNB",
+        "id_pacchetto": "com.gemwallet.android",
+        "riassunto": "Secure crypto wallet for 100+ blockchains: Bitcoin, USDT, ETH, Solana, and more.",
+        "categorie": [
+            "Wallet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.793.png",
+        "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Taison",
         "id_pacchetto": "com.gent8.taison",
         "riassunto": "Manga reader for organization and clear oversight",
@@ -10833,12 +10845,12 @@
     {
         "nome": "Cardabase",
         "id_pacchetto": "com.georgeyt9769.cardabase",
-        "riassunto": "All your loyalty cards at one place.",
+        "riassunto": "Lightweight digital wallet to securely scan, store, and manage loyalty cards off",
         "categorie": [
             "Pass Wallet"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.georgeyt9769.cardabase/en-US/icon_6TpyCOoscVjnBpuQMBNSSvGDZBaMWKwniJyDib5rXKA=.png",
+        "icona": "https://f-droid.org/repo//com.georgeyt9769.cardabase/en-US/icon_ZZLlX_kSl0CeCYCTgHMajM9KMDyxcah6ybAYLvf9zJQ=.png",
         "url_codice_sorgente": "https://github.com/GeorgeYT9769/cardabase-app",
         "ultimo_aggiornamento": null
     },
@@ -11838,7 +11850,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Stocks Widget",
+        "nome": "Stock Ticker",
         "id_pacchetto": "com.github.premnirmal.tickerwidget",
         "riassunto": "Widget ticker del mercato azionario",
         "categorie": [
@@ -12786,7 +12798,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.213.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.233.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -13532,7 +13544,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8581 manual pages, 30 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8610 manual pages, 30 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -14493,7 +14505,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.kapoue.maintask.21.png",
+        "icona": "https://f-droid.org/repo//icons/com.kapoue.maintask.23.png",
         "url_codice_sorgente": "https://codeberg.org/kapoue/MainTask",
         "ultimo_aggiornamento": null
     },
@@ -15871,6 +15883,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "MarkReader - Markdown Reader",
+        "id_pacchetto": "com.markreader",
+        "riassunto": "Offline markdown and code reader with syntax highlighting",
+        "categorie": [
+            "Reading"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.markreader/en-US/icon_EHuGLxgAZ82IPcyHqgyuo5BNgVN2ZS9eRmoSxEXOjdo=.png",
+        "url_codice_sorgente": "https://github.com/usamaiqb/mark-reader",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Calculator You: Calcoli & Unità",
         "id_pacchetto": "com.marktka.calculatorYou",
         "riassunto": "Calculator You è una bellissima calcolatrice per risolvere compiti semplici.",
@@ -16016,7 +16040,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.15.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.21.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -16623,6 +16647,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.mkulesh.onpc/en-US/icon_v3Srzx05-SylWQuTXY4hHV9UEWkvRzdPStkIekp3n_E=.png",
         "url_codice_sorgente": "https://github.com/mkulesh/onpc",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Featherline: HRT Tracker",
+        "id_pacchetto": "com.mkx.hrttracker",
+        "riassunto": "Private medication tracker for HRT routines — plans, reminders, personal logs",
+        "categorie": [
+            "Health Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.mkx.hrttracker/en-US/icon_Zg1qYMdSpjB0s1fYFxwWHhuN4Vr2A7yHTS0nWsWnx80=.png",
+        "url_codice_sorgente": "https://github.com/mkx173/Featherline",
         "ultimo_aggiornamento": null
     },
     {
@@ -17292,7 +17328,7 @@
             "Navigation"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.nextgis.mobile.187.png",
         "url_codice_sorgente": "https://github.com/nextgis/android_gisapp",
         "ultimo_aggiornamento": null
     },
@@ -18219,7 +18255,7 @@
     {
         "nome": "Open Notes",
         "id_pacchetto": "com.opennotes",
-        "riassunto": "Private,Minimal note taking app.",
+        "riassunto": "A minimalist, secure, and fully offline notes app.",
         "categorie": [
             "Note",
             "Writing"
@@ -18655,12 +18691,12 @@
     {
         "nome": "PGPony",
         "id_pacchetto": "com.pgpony.android",
-        "riassunto": "OpenPGP encryption with hardware security keys and password-store support",
+        "riassunto": "Offline OpenPGP encryption with YubiKey & NFC hardware keys. GnuPG-compatible.",
         "categorie": [
             "Security"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.pgpony.android.202.png",
+        "icona": "https://f-droid.org/repo//com.pgpony.android/en-US/icon_sqMH-3yERKKtbB_2qztwEGXsY7bSYQeF3z4ogxM8vtc=.png",
         "url_codice_sorgente": "https://github.com/norsehorse-dev/PGPonyAndroid",
         "ultimo_aggiornamento": null
     },
@@ -18941,7 +18977,7 @@
             "Local Media Player"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.polonio.duwave.3.png",
+        "icona": "https://f-droid.org/repo//icons/com.polonio.duwave.7.png",
         "url_codice_sorgente": "https://github.com/POL0i/DuWave",
         "ultimo_aggiornamento": null
     },
@@ -19666,7 +19702,7 @@
             "Ebook Reader"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10008.png",
+        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10009.png",
         "url_codice_sorgente": "https://github.com/k1717/Readwide",
         "ultimo_aggiornamento": null
     },
@@ -20374,6 +20410,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Secluso",
+        "id_pacchetto": "com.secluso.mobile",
+        "riassunto": "Private home security for Raspberry Pi and Secluso hardware",
+        "categorie": [
+            "Camera"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.secluso.mobile/en-US/icon_8POX6GoILB96KjdDLhOTo0PLS_YPHrLLbN0iY9O3iVM=.png",
+        "url_codice_sorgente": "https://github.com/secluso/mobile_app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Secure File Manager Beta",
         "id_pacchetto": "com.securefilemanager.app",
         "riassunto": "File manager for keeping your files in safe",
@@ -20708,7 +20756,7 @@
     {
         "nome": "Puzzle Games",
         "id_pacchetto": "com.sidhant.puzzle",
-        "riassunto": "200+ minimalist brain games. Challenge your logic, memory & attention in game",
+        "riassunto": "270+ minimalist brain games. Challenge your logic, memory & attention in game",
         "categorie": [
             "Puzzle Game"
         ],
@@ -20725,7 +20773,7 @@
             "Pass Wallet"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.sidhant.wallet/en-US/icon_oXOna6kCSlnrLMTaLfvM7uFTV9mK3MisW3UMcnIN_no=.png",
+        "icona": "https://f-droid.org/repo//com.sidhant.wallet/en-US/icon_uv0AR_0ISqSZ_TSYPJUI00q34bjsNxCGlrLQdBDno6o=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/wallet",
         "ultimo_aggiornamento": null
     },
@@ -20737,7 +20785,7 @@
             "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.sidhant.watersort/en-US/icon_6rprG2ATyQIkj1V-TTS660ieJvua6d8ggAMESPrTCqE=.png",
+        "icona": "https://f-droid.org/repo//com.sidhant.watersort/en-US/icon__Hx3ALGVyL66fo2t2nhkM4FWsEIqqcXAaoN787StznY=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/water-sort",
         "ultimo_aggiornamento": null
     },
@@ -28254,7 +28302,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.104003.png",
+        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.104013.png",
         "url_codice_sorgente": "https://git.pabr.de/uwr/uwr_plan_app",
         "ultimo_aggiornamento": null
     },
@@ -28597,6 +28645,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ObtainX",
+        "id_pacchetto": "dev.bikram.obtainx",
+        "riassunto": "A supercharged Obtainium: get Android app updates straight from the source.",
+        "categorie": [
+            "App Store & Updater",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.bikram.obtainx/en-US/icon_MaFRLDnIuLNLuKsUgWWKuNuxaf9ok-1ZAn37iUpUDzw=.png",
+        "url_codice_sorgente": "https://github.com/bikram-agarwal/ObtainX",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Nextcloud Pantry",
         "id_pacchetto": "dev.casraf.pantry",
         "riassunto": "Manage your household — shared lists, photos & notes on your own server.",
@@ -28839,7 +28900,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.283.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.303.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -28854,6 +28915,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.imranr.obtainium.fdroid/en-US/icon_8o6Dm3kPEr-C-8U1QdRd9B6DrkXPqLJQ7or0KN7ut_4=.png",
         "url_codice_sorgente": "https://github.com/ImranR98/Obtainium",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Inkcast",
+        "id_pacchetto": "dev.inkcast.aos",
+        "riassunto": "The companion app for Xteink X4 CrossPoint Reader",
+        "categorie": [
+            "Connectivity",
+            "Reading"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//dev.inkcast.aos/en-US/icon_WpqTAwdjujGZh9f6cpi_kCBLiCiqacjciWOYGry4VVg=.png",
+        "url_codice_sorgente": "https://github.com/andrew-malitchuk/inkcast-kmp",
         "ultimo_aggiornamento": null
     },
     {
@@ -29341,6 +29415,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//dev.sebaubuntu.athena/en-US/icon_-ZocSFlcO8SmKI-yctwq8pAzikPGeNQcyCsTJfIGi7c=.png",
         "url_codice_sorgente": "https://github.com/SebaUbuntu/Athena",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Camera Silencer",
+        "id_pacchetto": "dev.serika.camerasilencer",
+        "riassunto": "Reduce camera audio only while a camera is active",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/serika12345/camera-silencer",
         "ultimo_aggiornamento": null
     },
     {
@@ -32676,6 +32762,31 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//infrared.tilematch/en-US/icon_vvUD29tQphd6MI2LUjwPggay7T1rNidLFmns0TdyZXU=.png",
         "url_codice_sorgente": "https://gitlab.com/infrared-developer/tile-match",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Remail",
+        "id_pacchetto": "ink.hifuu.rusend_next",
+        "riassunto": "A clean, high-fidelity Gmail-inspired client for Resend.com.",
+        "categorie": [
+            "Email",
+            "Internet"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//ink.hifuu.rusend_next/en-US/icon_M6CowPBAJHJThGeIglpKhyi4QmloLVwdyTnGTFDwKUQ=.png",
+        "url_codice_sorgente": "https://github.com/CGH0S7/remail",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "rsend",
+        "id_pacchetto": "invalid.lena.rsend",
+        "riassunto": "Push phone folders to a home SSH host with rsync over SSH",
+        "categorie": [
+            "Cloud Storage & File Sync"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://codeberg.org/0xlena/rsend",
         "ultimo_aggiornamento": null
     },
     {
@@ -38254,7 +38365,7 @@
             "Wallpaper"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/net.nurik.roman.muzei.370007.png",
         "url_codice_sorgente": "https://github.com/romannurik/muzei",
         "ultimo_aggiornamento": null
     },
@@ -42457,7 +42568,7 @@
             "Translation & Dictionary"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.happypeng.sumatora.android.sumatoradictionary.31.png",
+        "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/HappyPeng2x/SumatoraDictionary",
         "ultimo_aggiornamento": null
     },
@@ -44159,6 +44270,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.oxycblt.auxio/en-US/icon_aInSctATMNrr9-2-cNSj0tVsio4GDJ_dzA4ItxWQ-Fs=.png",
         "url_codice_sorgente": "https://github.com/OxygenCobalt/Auxio",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "PitchVis",
+        "id_pacchetto": "org.p1graph.pitchvis",
+        "riassunto": "Real-time visualization of musical pitches from live audio",
+        "categorie": [
+            "Multimedia",
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/org.p1graph.pitchvis.28.png",
+        "url_codice_sorgente": "https://github.com/heinzelotto/pitchvis",
         "ultimo_aggiornamento": null
     },
     {
@@ -47020,7 +47144,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.zerodogg.migraineLog.1001.png",
         "url_codice_sorgente": "https://codeberg.org/mglog/MigraineLog",
         "ultimo_aggiornamento": null
     },
@@ -48593,6 +48717,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//sh.ikl.liteshort/en-US/icon_mQPvN8duq1wtOg5-zqhG4ybBglJ7HAVAF4_TaRecsxU=.png",
         "url_codice_sorgente": "https://github.com/132ikl/liteshort-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Health Connect Shortcut",
+        "id_pacchetto": "shortcut.healthconnect",
+        "riassunto": "A shortcut to the Android Health Connect.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//shortcut.healthconnect/en-US/icon_krPznv9_VH0Y6tEhhbZb-gnN_nRwAM91xm4wqLUgel4=.png",
+        "url_codice_sorgente": "https://codeberg.org/hipgnose/health-connect-shortcut",
         "ultimo_aggiornamento": null
     },
     {
@@ -50378,7 +50514,7 @@
     {
         "nome": "Metiq",
         "id_pacchetto": "xyz.metiq",
-        "riassunto": "Colored noise for focus, sleep, and relaxation. No ads, no tracking.",
+        "riassunto": "Colored noise & ambient sounds for focus, sleep, and calm. No ads, no tracking.",
         "categorie": [
             "Multimedia"
         ],
@@ -50472,7 +50608,7 @@
             "Meditation"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//xyz.waozi.inbe/en-US/icon_CnaCrRXG-PtWJyb7XgDvGSVIrGqMGQYs8nEjH4ApCe0=.png",
+        "icona": "https://f-droid.org/repo//xyz.waozi.inbe/en-US/icon_hs0U320kOMCNQ-k4yPGDYfxK8GCW1WEMcwc9CXQ2fPs=.png",
         "url_codice_sorgente": "https://github.com/waozixyz/inbe",
         "ultimo_aggiornamento": null
     },
@@ -50573,7 +50709,7 @@
             "File Encryption & Vault"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/zip.arcanum.1.png",
+        "icona": "https://f-droid.org/repo//zip.arcanum/en-US/icon_dtWU4al2K9XV_bYhBpNfvbH4pXkIvM946MYVdSUBurQ=.png",
         "url_codice_sorgente": "https://github.com/Esdex/Arcanum",
         "ultimo_aggiornamento": null
     }
