@@ -224,19 +224,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "SUSI.AI",
-        "id_pacchetto": "ai.susi",
-        "riassunto": "Susi AI è un assistente personale intelligente",
-        "categorie": [
-            "AI Chat",
-            "Internet"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://github.com/fossasia/susi_android",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "FocusMastodon",
         "id_pacchetto": "allen.town.focus.mastodon",
         "riassunto": "FocusMastodon is a bright and colourful Mastodon client",
@@ -723,7 +710,7 @@
             "Internet"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/app.intra.74.png",
         "url_codice_sorgente": "https://github.com/Jigsaw-Code/Intra",
         "ultimo_aggiornamento": null
     },
@@ -2147,19 +2134,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/pR0Ps/LocationShare",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Disable Battery Warnings",
-        "id_pacchetto": "ca.cmetcalfe.xposed.disablebatterywarnings",
-        "riassunto": "Disattiva il fastidioso popup e il suono di avviso di batteria scarica",
-        "categorie": [
-            "Battery",
-            "System"
-        ],
-        "licenza": "MPL-2.0",
-        "icona": "https://f-droid.org/repo//icons/ca.cmetcalfe.xposed.disablebatterywarnings.3.png",
-        "url_codice_sorgente": "https://github.com/pR0Ps/DisableBatteryWarnings",
         "ultimo_aggiornamento": null
     },
     {
@@ -5310,6 +5284,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Anywherelan",
+        "id_pacchetto": "com.anywherelan.awl",
+        "riassunto": "Peer-to-peer mesh VPN to connect your devices directly, no central servers",
+        "categorie": [
+            "Connectivity",
+            "Internet",
+            "VPN & Proxy"
+        ],
+        "licenza": "MPL-2.0",
+        "icona": "https://f-droid.org/repo//com.anywherelan.awl/en-US/icon_7nq7TVlFL3fVZBJ0S1Tn-f-zPwKvVVl7Cx26NY8gT3I=.png",
+        "url_codice_sorgente": "https://github.com/anywherelan/awl",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "APK Explorer & Editor",
         "id_pacchetto": "com.apk.editor",
         "riassunto": "An open-source APK explorer/Editor & Split APK/App bundle Installer for Android!",
@@ -5655,19 +5643,6 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.asksakis.freegate/en-US/icon_Oje0h96pLEiukZaeYfRjZBBOjCW59kbJk26NSSC-P8I=.png",
         "url_codice_sorgente": "https://github.com/sfortis/phylax",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "BBS",
-        "id_pacchetto": "com.asksven.betterbatterystats",
-        "riassunto": "Monitor battery behaviour with Better Battery Stats",
-        "categorie": [
-            "Battery",
-            "System"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://github.com/asksven/BetterBatteryStats",
         "ultimo_aggiornamento": null
     },
     {
@@ -7651,6 +7626,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "CryptoSafe",
+        "id_pacchetto": "com.cryptosafe.app",
+        "riassunto": "Offline AES-256-GCM text encryption with Argon2id",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.cryptosafe.app/ar/icon_seVO2awQiFlMfsfXDM7vc2J5TjF37nVvWtIoBtFBsxs=.png",
+        "url_codice_sorgente": "https://github.com/nemoXdev/CryptoSafe",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Local Player",
         "id_pacchetto": "com.cvc953.localplayer",
         "riassunto": "Modern local music player with word-by-word synchronized lyrics support.",
@@ -8002,7 +7989,7 @@
     {
         "nome": "WallApp",
         "id_pacchetto": "com.debojit.wallapp",
-        "riassunto": "WebView wrapper for the TheWallApp wallpaper website",
+        "riassunto": "Clean & minimal wallpaper app without any ads and paywall.",
         "categorie": [
             "Internet",
             "Wallpaper"
@@ -12793,12 +12780,12 @@
     {
         "nome": "Conduit",
         "id_pacchetto": "com.gwitko.conduit",
-        "riassunto": "Local-first SSH, Mosh, and SFTP for mobile",
+        "riassunto": "SSH, Mosh, SFTP & local Linux terminal",
         "categorie": [
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.233.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.313.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -15775,7 +15762,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.36.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.37.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -16040,7 +16027,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.21.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.23.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -18740,6 +18727,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Vetro",
+        "id_pacchetto": "com.phnem.vetro",
+        "riassunto": "Minimal local-first media manager",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.phnem.vetro.328.png",
+        "url_codice_sorgente": "https://github.com/Phnem/Vetro",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "openZinkBooth",
         "id_pacchetto": "com.photo.openzinkbooth",
         "riassunto": "An easy-to-use photo booth app for capturing and printing with HP Sprocket",
@@ -19702,7 +19701,7 @@
             "Ebook Reader"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10009.png",
+        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10010.png",
         "url_codice_sorgente": "https://github.com/k1717/Readwide",
         "ultimo_aggiornamento": null
     },
@@ -20766,6 +20765,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Queens",
+        "id_pacchetto": "com.sidhant.queens",
+        "riassunto": "Challenging crown-placement logic puzzle. Infinite levels. No tracking & ads.",
+        "categorie": [
+            "Casual Game",
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.queens/en-US/icon_YR31byh1Qe3h22ESJHgL0_HcpSpqRAVgEa8JtQtAAPI=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/queens",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Wallet",
         "id_pacchetto": "com.sidhant.wallet",
         "riassunto": "Offline card vault with AES-256-GCM encryption. Zero internet, total privacy.",
@@ -21178,6 +21190,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.sobuumedia.sobuu/de/icon_rulmC3oJDmI4sg7GjW9K6LMQSu13399bokh5V8cqQvc=.png",
         "url_codice_sorgente": "https://gitlab.com/sobuu/sobuu",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Socks5 Proxy",
+        "id_pacchetto": "com.socks5",
+        "riassunto": "Socks5 client based on VPN",
+        "categorie": [
+            "VPN & Proxy"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/44114/socks5",
         "ultimo_aggiornamento": null
     },
     {
@@ -24743,6 +24767,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.zygisk_enc.RecorderX/en-US/icon_G2zx4Pfwl6BDZ9kP_OnRUzRlm_OhLne6xweALQ6olNI=.png",
         "url_codice_sorgente": "https://github.com/snap24/RecorderX",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Notification Vault",
+        "id_pacchetto": "com.zygisk_enc.notivault",
+        "riassunto": "A private, secure, open-source notification logger and history manager.",
+        "categorie": [
+            "Notification"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.zygisk_enc.notivault/en-US/icon_2pyxY8dtcst7IF6oX60E8QDktJFzpYQ_JtyS34ZQsT0=.png",
+        "url_codice_sorgente": "https://github.com/snap24/notification-vault",
         "ultimo_aggiornamento": null
     },
     {
@@ -34194,6 +34230,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Picocrypt-NG",
+        "id_pacchetto": "io.github.picocrypt_ng.picocrypt_ng",
+        "riassunto": "Paranoid, offline file encryption with XChaCha20 and Argon2id.",
+        "categorie": [
+            "File Encryption & Vault"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.picocrypt_ng.picocrypt_ng/en-US/icon_wHUijDBOuJufpIh-sayquFevNJNnvSAj_i5PIDYZv5M=.png",
+        "url_codice_sorgente": "https://github.com/Picocrypt-NG/Picocrypt-NG",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "eXch.",
         "id_pacchetto": "io.github.pitonite.exch_cx",
         "riassunto": "Automatic Cryptocurrency Swaps",
@@ -34228,18 +34276,6 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.potsdam_pnp.initiative_tracker/en-US/icon_m2frNsQgMtDkrifT8RqNUQ-Q4OUqJaEI_PTDH9l7KTg=.png",
         "url_codice_sorgente": "https://github.com/potsdam-pnp/initiative-tracker",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "SyncPlayer",
-        "id_pacchetto": "io.github.powerinside.syncplay",
-        "riassunto": "Unofficial syncplay client",
-        "categorie": [
-            "Connectivity"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/io.github.powerinside.syncplay.23.png",
-        "url_codice_sorgente": "https://github.com/mo3rfan/syncplayer",
         "ultimo_aggiornamento": null
     },
     {
@@ -34666,7 +34702,7 @@
     {
         "nome": "tiefprompt",
         "id_pacchetto": "io.github.tiefseetauchner.tiefprompt",
-        "riassunto": "The ultimate open source teleprompter application, TiefPrompt, elevates your spe",
+        "riassunto": "The ultimate open source teleprompter application, TiefPrompt",
         "categorie": [
             "Multimedia"
         ],
@@ -38232,6 +38268,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Cosmovisor",
+        "id_pacchetto": "net.millaguie.cosmovisor",
+        "riassunto": "Spot satellites overhead in augmented reality",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://codeberg.org/millaguie/cosmovisor",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Luanti",
         "id_pacchetto": "net.minetest.minetest",
         "riassunto": "Voxel-based multiplayer game platform",
@@ -40673,7 +40721,7 @@
             "Science & Education"
         ],
         "licenza": "WTFPL",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.c_base.c_beam.37.png",
         "url_codice_sorgente": "https://github.com/c-base/c-beam-droid",
         "ultimo_aggiornamento": null
     },
@@ -46885,19 +46933,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.woheller69.ttsengine/en-US/icon_ji2Av2e3APyHZFOFdkWPStN2NZF1NTj21ElU3Xwx7Lg=.png",
         "url_codice_sorgente": "https://github.com/woheller69/ttsengine",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "RadarWeather",
-        "id_pacchetto": "org.woheller69.weather",
-        "riassunto": "Lets you watch the weather for cities and locations you are interested in.",
-        "categorie": [
-            "Internet",
-            "Weather"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.woheller69.weather/de-DE/icon_0HGIX6c4w38A-r1z-Fnix1SPqQ7b4hN0j614YKJga7s=.png",
-        "url_codice_sorgente": "https://github.com/woheller69/weather",
         "ultimo_aggiornamento": null
     },
     {
