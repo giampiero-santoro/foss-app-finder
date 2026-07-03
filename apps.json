@@ -1830,6 +1830,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "YAPL — Yet Another Pilot Log",
+        "id_pacchetto": "be.moraine.yapl",
+        "riassunto": "Private, offline flight logbook with EASA/BCAA paper-logbook PDF export.",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//be.moraine.yapl/en-US/icon_WTZwz5GwFLvMkK_NmWQX41-7XiSBpChaHj7LDgutMPc=.png",
+        "url_codice_sorgente": "https://github.com/dmoraine/yapl",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "VPN Hotspot",
         "id_pacchetto": "be.mygod.vpnhotspot_foss",
         "riassunto": "tethering/Wi-Fi repeater",
@@ -8773,18 +8785,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Avare",
-        "id_pacchetto": "com.ds.avare",
-        "riassunto": "Aviation map",
-        "categorie": [
-            "Navigation"
-        ],
-        "licenza": "BSD-2-Clause",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://github.com/apps4av/avare",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Lux Alarm",
         "id_pacchetto": "com.dsalmun.luxalarm",
         "riassunto": "Wake up with light! This alarm can only be turned off when your room is bright",
@@ -9890,18 +9890,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "FairSpeed",
-        "id_pacchetto": "com.fairspeed.test",
-        "riassunto": "A lightweight, privacy-focused network performance monitor.",
-        "categorie": [
-            "Network Analyzer"
-        ],
-        "licenza": "AGPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://git.naxod.com/luca/fairspeed",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Diaguard: Diario del diabete",
         "id_pacchetto": "com.faltenreich.diaguard",
         "riassunto": "Diario del diabete e banca dati alimentare",
@@ -10812,7 +10800,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.793.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.794.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -12785,7 +12773,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.313.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.323.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -12812,19 +12800,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.hackerapps.c2k/en-US/icon_0KGzXaVOC7pETHp_s-fYjlZOgpyb2Xg1wGQXv6NEKvk=.png",
         "url_codice_sorgente": "https://github.com/AnalogGhost/c2k",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Tinte Webcoms",
-        "id_pacchetto": "com.halftough.webcomreader",
-        "riassunto": "Reader per determinati webcomics",
-        "categorie": [
-            "Ebook Reader",
-            "Reading"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.halftough.webcomreader.4.png",
-        "url_codice_sorgente": "https://gitlab.com/halftough/webcom-reader",
         "ultimo_aggiornamento": null
     },
     {
@@ -14260,6 +14235,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "OpenWOL",
+        "id_pacchetto": "com.juliencardoux.openwol",
+        "riassunto": "OpenWOL is a simple, private and efficient Wake-on-LAN app for Android.",
+        "categorie": [
+            "Connectivity",
+            "System"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.juliencardoux.openwol/en-US/icon_qT3CGF6ftVinYyxYOvnIBwa7qmJtyILSXDT9xwzljPU=.png",
+        "url_codice_sorgente": "https://gitlab.com/julien.cardoux/openwol",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Arso Vreme",
         "id_pacchetto": "com.julij.arsovreme",
         "riassunto": "Aplikacija za ARSO vreme.",
@@ -14492,7 +14480,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.kapoue.maintask.23.png",
+        "icona": "https://f-droid.org/repo//com.kapoue.maintask/en-US/icon_yyxfO6WgnGlaC02592zIzR8c8nNdwgePq3C_Gp2GzSs=.png",
         "url_codice_sorgente": "https://codeberg.org/kapoue/MainTask",
         "ultimo_aggiornamento": null
     },
@@ -14605,7 +14593,7 @@
             "System"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.keshav.capturesposed/en-US/icon_W6M--rmiIW-m3bNPTNGDM2WiFlOGfyN_RpTrVn9Y5Ak=.png",
+        "icona": "https://f-droid.org/repo//com.keshav.capturesposed/en-US/icon_8KRDr9XRlQjNUSb8Ec71zBD7z0oUNKW8PZFTFenWFPU=.png",
         "url_codice_sorgente": "https://github.com/99keshav99/CaptureSposed",
         "ultimo_aggiornamento": null
     },
@@ -15073,7 +15061,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.lcdcode.moodcairns/en-US/icon_LaW3ClklXGB-mEQ3FoB8DDzvaPhDYV8v9KvJ2WIsj38=.png",
+        "icona": "https://f-droid.org/repo//com.lcdcode.moodcairns/en-US/icon_aBpLhT11W43nsLWeevMNHIiJSrS7p3EzfqiV60_vIRk=.png",
         "url_codice_sorgente": "https://github.com/lcdcode/mood-cairns",
         "ultimo_aggiornamento": null
     },
@@ -16027,7 +16015,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.23.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.26.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -17776,19 +17764,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.noty.app/en-US/icon_fdsVAlam6YkIyaU871ZP2mM39ELtdHAu74IFPdB19VM=.png",
         "url_codice_sorgente": "https://github.com/usamaiqb/noty",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "NowiPass",
-        "id_pacchetto": "com.nowipass",
-        "riassunto": "A password manager where you are the only one who has access to your passwords",
-        "categorie": [
-            "Password & 2FA",
-            "Security"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.nowipass/en-US/icon_etmg0s2POIB_mepvIuTGMD3oerVjo-1j71QsaXav-RI=.png",
-        "url_codice_sorgente": "https://github.com/cuadratico/NowiPass",
         "ultimo_aggiornamento": null
     },
     {
@@ -20239,6 +20214,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "IPTV Mine Pro",
+        "id_pacchetto": "com.samyak.iptvminepro",
+        "riassunto": "Watch live TV channels, movies, and shows from M3U playlists.",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.samyak.iptvminepro/en-US/icon_O-Bp7RI0A6lgqJn6QygIl2mpgl4F7DzADqYgwuufRnQ=.png",
+        "url_codice_sorgente": "https://github.com/samyak2403/IPTVMine-Pro",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "RepoStore",
         "id_pacchetto": "com.samyak.repostore",
         "riassunto": "Discover, install, and update Android apps directly from GitHub releases.",
@@ -21885,7 +21872,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.tananaev.logcat.18.png",
         "url_codice_sorgente": "https://github.com/tananaev/rootless-logcat",
         "ultimo_aggiornamento": null
     },
@@ -21898,7 +21885,7 @@
             "Security"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.tananaev.passportreader.23.png",
         "url_codice_sorgente": "https://github.com/tananaev/passport-reader",
         "ultimo_aggiornamento": null
     },
@@ -27404,19 +27391,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "BikeComputer",
-        "id_pacchetto": "de.nulide.bikecomputer",
-        "riassunto": "BikeComputer",
-        "categorie": [
-            "Navigation",
-            "Sports & Health"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.nulide.bikecomputer.6.png",
-        "url_codice_sorgente": "https://gitlab.com/Nulide/BikeComputer",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "FMD",
         "id_pacchetto": "de.nulide.findmydevice",
         "riassunto": "Locate and control your device remotely",
@@ -28048,7 +28022,7 @@
             "System"
         ],
         "licenza": "ISC",
-        "icona": "https://f-droid.org/repo//icons/de.szalkowski.activitylauncher.8100.png",
+        "icona": "https://f-droid.org/repo//icons/de.szalkowski.activitylauncher.20401.png",
         "url_codice_sorgente": "https://github.com/butzist/ActivityLauncher",
         "ultimo_aggiornamento": null
     },
@@ -28929,6 +28903,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "GPXIT",
+        "id_pacchetto": "dev.gpxit.app",
+        "riassunto": "Find train connections home during your bike ride",
+        "categorie": [
+            "Navigation"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/dev.gpxit.app.2.png",
+        "url_codice_sorgente": "https://github.com/7FM/GPXIT",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CalSync",
         "id_pacchetto": "dev.henriquecouto.calsync",
         "riassunto": "Sync events across multiple local device calendars automatically.",
@@ -28936,7 +28922,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.303.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.313.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -32470,7 +32456,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/info.dvkr.screenstream.44000.png",
+        "icona": "https://f-droid.org/repo//icons/info.dvkr.screenstream.44001.png",
         "url_codice_sorgente": "https://github.com/dkrivoruchko/ScreenStream",
         "ultimo_aggiornamento": null
     },
@@ -32690,18 +32676,6 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//info.plateaukao.einkbro/en-US/icon_pjRPJTAjJQ84nl_NQRXsZemWQT1Xx8VrVDZ8XQoBo2I=.png",
         "url_codice_sorgente": "https://github.com/plateaukao/einkbro",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "10,000 sentences",
-        "id_pacchetto": "info.puzz.a10000sentences",
-        "riassunto": "Impara nuove parole in lingue straniere",
-        "categorie": [
-            "Science & Education"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/info.puzz.a10000sentences.60.png",
-        "url_codice_sorgente": "https://github.com/tkrajina/10000sentences",
         "ultimo_aggiornamento": null
     },
     {
@@ -33840,6 +33814,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "MoldQueen",
+        "id_pacchetto": "io.github.jrichter24.moldqueen",
+        "riassunto": "Drive Mould King building-block RC toys over Bluetooth",
+        "categorie": [
+            "Connectivity",
+            "Remote Controller"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/io.github.jrichter24.moldqueen.10200.png",
+        "url_codice_sorgente": "https://github.com/jrichter24/moldqueen",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Überböse",
         "id_pacchetto": "io.github.juliusd.ueberboese.app",
         "riassunto": "Control Bose SoundTouch speakers & Spotify auth",
@@ -34390,6 +34377,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.ronynn.karui/en-US/icon_XQSpDyQ_GVM88ddoHc-9tNqaO8fsMTja2VTBR3xFv1A=.png",
         "url_codice_sorgente": "https://github.com/ronynn/karui",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Rufid",
+        "id_pacchetto": "io.github.rufid",
+        "riassunto": "Write and recover bootable USB media",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.rufid/en-US/icon_KtD5Ks1DOHYhTNbpfF8fzL4VKXn1r2xAciheDE0hlvI=.png",
+        "url_codice_sorgente": "https://github.com/GPLaider/rufid",
         "ultimo_aggiornamento": null
     },
     {
@@ -38160,7 +38159,7 @@
             "Weather"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/net.justdave.nwsweatheralertswidget.29.png",
         "url_codice_sorgente": "https://github.com/justdave/nwsweatheralertswidget",
         "ultimo_aggiornamento": null
     },
@@ -39255,18 +39254,6 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//neth.iecal.curbox/en-US/icon_Gg0EN24qFAUG1l2QZiicm_78HyMi3xHfbkxTTzKYWFM=.png",
         "url_codice_sorgente": "https://github.com/nethical6/curbox",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "DigiPaws - Digital Wellbeing and App Blocker",
-        "id_pacchetto": "nethical.digipaws",
-        "riassunto": "Monitor and Cut Down Your Screen Time Effectively",
-        "categorie": [
-            "System"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//nethical.digipaws/en-US/icon_rA4IqRlBxo0D2iCv2KgFUlsKGODkdfl5DdYUH1-XSKk=.png",
-        "url_codice_sorgente": "https://github.com/nethical6/digipaws",
         "ultimo_aggiornamento": null
     },
     {
@@ -41729,6 +41716,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FairSpeed - Speed Tester",
+        "id_pacchetto": "org.fairspeed.test",
+        "riassunto": "A lightweight, privacy-focused network performance monitor.",
+        "categorie": [
+            "Network Analyzer"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.fairspeed.test/en-US/icon_zDOpL7S4P8RzCAHTmgmlprwUjknhYtykuodrquea7vk=.png",
+        "url_codice_sorgente": "https://git.naxod.com/luca/fairspeed",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Fcitx5",
         "id_pacchetto": "org.fcitx.fcitx5.android",
         "riassunto": "Fcitx5 input method framework and engines ported to Android",
@@ -42728,7 +42727,7 @@
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.hwyl.sexytopo.94.png",
         "url_codice_sorgente": "https://github.com/richsmith/sexytopo",
         "ultimo_aggiornamento": null
     },
@@ -43054,7 +43053,7 @@
             "Translation & Dictionary"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.kaqui.100.png",
         "url_codice_sorgente": "https://github.com/blastrock/kakugo",
         "ultimo_aggiornamento": null
     },
@@ -46273,18 +46272,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "mTPMS",
-        "id_pacchetto": "org.thecongers.mtpms",
-        "riassunto": "Leggere il sensore di pressione dei pneumatici",
-        "categorie": [
-            "Science & Education"
-        ],
-        "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.thecongers.mtpms.4.png",
-        "url_codice_sorgente": "https://github.com/kconger/org.thecongers.mtpms",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Therapiefinder",
         "id_pacchetto": "org.therapiefinder",
         "riassunto": "support in search of a therapy",
@@ -47219,19 +47206,6 @@
         "licenza": "BSD-4-Clause",
         "icona": "https://f-droid.org/repo//oss.krtirtho.spotube/en-US/icon_4QSSIXwcrFRF_Ng5DE6xDL2cV5QFCiKDtR6QecUrmdA=.png",
         "url_codice_sorgente": "https://github.com/KRTirtho/spotube",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "OpenLynx",
-        "id_pacchetto": "page.codeberg.jumpingpants.opentransit",
-        "riassunto": "Public transport companion providing real-time data.",
-        "categorie": [
-            "Navigation",
-            "Public Transport"
-        ],
-        "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//page.codeberg.jumpingpants.opentransit/en-US/icon_p6VAgU2M_aQwLvzUR19t3jc8GjjKsIxfmOZ0kJva2SY=.png",
-        "url_codice_sorgente": "https://codeberg.org/JumpingPants/OpenLynx",
         "ultimo_aggiornamento": null
     },
     {
