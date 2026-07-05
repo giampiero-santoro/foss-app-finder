@@ -1566,6 +1566,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Zazen Meditation Timer",
+        "id_pacchetto": "at.priv.graf.zazentimer",
+        "riassunto": "Zazen meditation timer with multi-section sessions and bell sounds.",
+        "categorie": [
+            "Meditation",
+            "Timer"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/at.priv.graf.zazentimer.3020200.png",
+        "url_codice_sorgente": "https://github.com/georgernstgraf/zazentimer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "jtx Board journals|notes|tasks",
         "id_pacchetto": "at.techbee.jtx",
         "riassunto": "Keep track of journals, notes & tasks - iCalendar compliant and syncable with yo",
@@ -2120,6 +2133,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//ca.andries.portknocker/en-US/icon_9MQWSXLetGmG8Iys-bqfPXKVYyxQrMw_1-73DxOJye8=.png",
         "url_codice_sorgente": "https://github.com/djandries/portknocker-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "BuzzKill",
+        "id_pacchetto": "ca.asmat.buzzkill",
+        "riassunto": "Powers off your phone after inactivity, only inside a nightly kill zone.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/ca.asmat.buzzkill.10008.png",
+        "url_codice_sorgente": "https://gitlab.com/sotilrac/buzz-kill",
         "ultimo_aggiornamento": null
     },
     {
@@ -3537,6 +3562,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Activity Trace",
+        "id_pacchetto": "com.activitytrace",
+        "riassunto": "Search notifications, accessibility and files on-device.",
+        "categorie": [
+            "Notification",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.activitytrace/en-US/icon_nk574CFl7X9fSkoNPx8u2o3NIgHSSGkzInzuObslaJM=.png",
+        "url_codice_sorgente": "https://github.com/DavidNeurieder/ActivityTrace",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Acutis Firewall",
         "id_pacchetto": "com.acutis.firewall",
         "riassunto": "Parental control app that blocks adult content and dangerous sites on-device.",
@@ -4320,6 +4358,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.amrdeveloper.linkhub/en-US/icon_tsNcagCLW4B_TQTk6JJys8rE17TZPKPcRE1VtUyJAMg=.png",
         "url_codice_sorgente": "https://github.com/AmrDeveloper/LinkHub",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Turtle",
+        "id_pacchetto": "com.amrdeveloper.turtle",
+        "riassunto": "A Platform with Pythonic language to practice CPU/GPU programming on mobile",
+        "categorie": [
+            "Development"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.amrdeveloper.turtle/en-US/icon_0Ql0b5wLqo1lToz8Yqebv7ii12015csiY13PyB-Y4mI=.png",
+        "url_codice_sorgente": "https://github.com/amrdeveloper/Turtle",
         "ultimo_aggiornamento": null
     },
     {
@@ -10541,6 +10591,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ChemSearch",
+        "id_pacchetto": "com.furthersecrets.chemsearch",
+        "riassunto": "Search compounds, structures, references, and chemistry tools.",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.furthersecrets.chemsearch.11307.png",
+        "url_codice_sorgente": "https://github.com/FurtherSecrets24680/chemsearch-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "MedTimer: Med & Pill Reminder",
         "id_pacchetto": "com.futsch1.medtimer",
         "riassunto": "Medication and pill reminder with log, fully offline and privacy focused",
@@ -12773,7 +12835,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.323.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.333.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -16535,19 +16597,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Minimalistic Price Converter",
-        "id_pacchetto": "com.minimalisticapps.priceconverter",
-        "riassunto": "Minimalistic app converting prices of fiat shitcoins and Bitcoin",
-        "categorie": [
-            "Market & Price",
-            "Unit Convertor"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.minimalisticapps.priceconverter/en-US/icon_3bVPMtOQ2XCc3htI8kZjv6UYGWFMkcXhLE-ZksedEOI=.png",
-        "url_codice_sorgente": "https://github.com/Minimalistic-Apps/price-converter",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "My Location",
         "id_pacchetto": "com.mirfatif.mylocation",
         "riassunto": "Know your geo coordinates using on-device GPS and Network location providers",
@@ -17002,6 +17051,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SwiftSlate",
+        "id_pacchetto": "com.musheer360.swiftslate",
+        "riassunto": "System-wide AI text assistant — type a trigger, get instant text transformation",
+        "categorie": [
+            "Writing"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.125.png",
+        "url_codice_sorgente": "https://github.com/Musheer360/SwiftSlate",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Murem",
         "id_pacchetto": "com.musicremover.app",
         "riassunto": "Strip background music from YouTube videos using AI vocal separation.",
@@ -17085,6 +17146,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.myclosetx/en-US/icon_7SgxJhW8Q-ItqPQ8op0U-96TRfOFRx13MrjN4W5oTU8=.png",
         "url_codice_sorgente": "https://github.com/bahaaTuffaha/Project-ClosetArchive",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "MyFinanceMate",
+        "id_pacchetto": "com.myfinancemate",
+        "riassunto": "Privacy-first expense tracker via SMS parsing",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.myfinancemate/en-US/icon_r4qzvBmlDSgVPnIryW8OhSeGdYrfdD7cdkWp0HhLwh0=.png",
+        "url_codice_sorgente": "https://github.com/Dave-1/MyFinanceMate",
         "ultimo_aggiornamento": null
     },
     {
@@ -18174,6 +18247,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.open_usos/en-US/icon_nsS2pN9ugvj3OcHiq6ypnHwyP3nnlq0VWB55E3Q9jVk=.png",
         "url_codice_sorgente": "https://github.com/OpenUSOS/OpenUSOS",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FinTrack - Count Every Penny",
+        "id_pacchetto": "com.openapps.fintrack",
+        "riassunto": "Keep track of your daily expenses.",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.openapps.fintrack/en-US/icon_oI1b_bETDIwW-wnJif3Movkha--AUt_KhMSvmVt0fB8=.png",
+        "url_codice_sorgente": "https://github.com/Dozzeyy/FinTrack",
         "ultimo_aggiornamento": null
     },
     {
@@ -26067,6 +26152,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Libellus Potionis",
+        "id_pacchetto": "de.godisch.potillus",
+        "riassunto": "Tracker dell'alcol attento alla privacy: limiti, tasso alcolemico, report PDF.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.godisch.potillus/en-US/icon_xLJh_8OLRT7aGHbCFLZK1rPoGz7x37lOSGXT4gsrfKs=.png",
+        "url_codice_sorgente": "https://codeberg.org/godisch/potillus",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "App Bundle Reporter",
         "id_pacchetto": "de.grobox.appbundlereporter",
         "riassunto": "View and report information about installed app bundles",
@@ -28668,6 +28765,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Remember: Notes & Reminders",
+        "id_pacchetto": "dev.bikram.remember.gh",
+        "riassunto": "Persistent recurring reminders that return if accidentally dismissed",
+        "categorie": [
+            "Note",
+            "Shopping List",
+            "Task"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.bikram.remember.gh/en-US/icon_fv5dZv5HiEpO3uIauVLPDxQiY5Jh9DeSefdsaPAWrW0=.png",
+        "url_codice_sorgente": "https://github.com/bikram-agarwal/Remember",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Nextcloud Pantry",
         "id_pacchetto": "dev.casraf.pantry",
         "riassunto": "Manage your household — shared lists, photos & notes on your own server.",
@@ -28915,6 +29026,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ShelfDroid",
+        "id_pacchetto": "dev.halim.shelfdroid",
+        "riassunto": "Audiobookshelf Android client with playback, downloads, and server management",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//dev.halim.shelfdroid/en-US/icon_SgZffFAbBzshy-mehtEyBEcBVO5C4p4tVtRNXtrZJfI=.png",
+        "url_codice_sorgente": "https://github.com/100nandoo/shelfdroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CalSync",
         "id_pacchetto": "dev.henriquecouto.calsync",
         "riassunto": "Sync events across multiple local device calendars automatically.",
@@ -28922,7 +29045,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.313.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.323.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -29563,6 +29686,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//digital.ventral.ips/en-US/icon_5baX-UYgKXh5k7zBu-MJx6kssNqv7XaBDctaIfmBo-s=.png",
         "url_codice_sorgente": "https://github.com/VentralDigital/InterProfileSharing",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Six Shooter",
+        "id_pacchetto": "dk.dustytales.sixshooter",
+        "riassunto": "Western revolver drum spinner — pick a winner among up to six players",
+        "categorie": [
+            "Dice"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/PedePedersen/sixshooter-apk",
         "ultimo_aggiornamento": null
     },
     {
@@ -31882,6 +32017,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//gq.kirmanak.mealient/en-US/icon_P4IaVAi4K9LE64_hbAb6jPWtE2Gi8-S7WD1bgxHeS8k=.png",
         "url_codice_sorgente": "https://github.com/kirmanak/Mealient",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Granular Volume: Quiet Dial",
+        "id_pacchetto": "granularvolume.com",
+        "riassunto": "Make any app quieter than your phone's minimum. A floating fine volume dial.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//granularvolume.com/en-US/icon_AK0Sfm7qCgxMjyNOA3w5AnW8JfOHjzx3QVBI1p2yUmw=.png",
+        "url_codice_sorgente": "https://github.com/Rzuss/granular-volume",
         "ultimo_aggiornamento": null
     },
     {
@@ -34392,6 +34539,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Offline Web Search",
+        "id_pacchetto": "io.github.rumcajs.offlinewebsearch",
+        "riassunto": "Search curated websites, blogs, and RSS feeds completely offline and privately.",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/io.github.rumcajs.offlinewebsearch.2.png",
+        "url_codice_sorgente": "https://github.com/rumca-js/OfflineWebSearch",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Pixel 5G",
         "id_pacchetto": "io.github.saeeddev94.pixelnr",
         "riassunto": "Config pixel modem NR mode ",
@@ -35051,6 +35210,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.gitlab.selosh.gametrader/en-US/icon_AyqWBS8bMYKkw94IZNJo9sZnDVKDEV3cH4ZaNPpeXkI=.png",
         "url_codice_sorgente": "https://github.com/saladinalep/gametrader",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Whisper Noise",
+        "id_pacchetto": "io.gitlab.the_phoenix_project0.whisper_noise",
+        "riassunto": "A calming white noise generator for better sleep and focus",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/io.gitlab.the_phoenix_project0.whisper_noise.13.png",
+        "url_codice_sorgente": "https://gitlab.com/the-phoenix-project0/whisper-noise",
         "ultimo_aggiornamento": null
     },
     {
@@ -36774,7 +36945,7 @@
             "Online Media Player"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//me.knighthat.kreate/en-US/icon_Cda6Z-jISXHZzgFgFuRKUauWI2ohdHXgux_5hNU6lG4=.png",
+        "icona": "https://f-droid.org/repo//me.knighthat.kreate/en-US/icon_NWttaK8CNM1rVdrB9EHGRTFe2zdVHjChvGWfYKbJh4s=.png",
         "url_codice_sorgente": "https://github.com/knighthat/Kreate",
         "ultimo_aggiornamento": null
     },
