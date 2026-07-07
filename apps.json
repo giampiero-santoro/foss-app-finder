@@ -10008,6 +10008,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tabata Xtreme",
+        "id_pacchetto": "com.fiveseven.tabataxtreme",
+        "riassunto": "Tabata-style workout timer with a sneaky little twist - a variable time base!",
+        "categorie": [
+            "Timer",
+            "Workout"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.fiveseven.tabataxtreme.9.png",
+        "url_codice_sorgente": "https://github.com/shorttw/TabataXtreme",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "FixupXer - URL Enhancer",
         "id_pacchetto": "com.fixupxer",
         "riassunto": "Clean tracking from URLs and fix embeds (Instagram, Twitter/X, Facebook)",
@@ -14607,6 +14620,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.kin.easynotes/en-US/icon_H6h46QXWMcqgOjxjPjSN4_nk2P-Epu0hNSB5loaqOaU=.png",
         "url_codice_sorgente": "https://github.com/Kin69/EasyNotes",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ShizuCallRecorder",
+        "id_pacchetto": "com.kitsumed.shizucallrecorder",
+        "riassunto": "Empowers ADB through Shizuku to record phone calls on non-rooted device! ",
+        "categorie": [
+            "Recorder"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.kitsumed.shizucallrecorder/en-US/icon_LsCkHRsBHBzl6DhsdqjKhvXL2VmJxkE-4vqL8R6UGoE=.png",
+        "url_codice_sorgente": "https://github.com/kitsumed/ShizuCallRecorder",
         "ultimo_aggiornamento": null
     },
     {
@@ -23131,6 +23156,18 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.vayunmathur.games.chess/en-US/icon_ggFFzY5ePxcC1bCBGmNvSt3ixfy0Xvc_7n0OWI7Fu1A=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Pipes",
+        "id_pacchetto": "com.vayunmathur.games.pipes",
+        "riassunto": "A numberlink-style game",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.pipes/en-US/icon_VEQkiK9YFgtIh17MnM6ezy7HZsPnIPuK_n1uHd4S0Pk=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
