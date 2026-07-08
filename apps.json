@@ -5523,7 +5523,7 @@
             "Radio"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.armanmaurya.internetradio.8.png",
+        "icona": "https://f-droid.org/repo//icons/com.armanmaurya.internetradio.9.png",
         "url_codice_sorgente": "https://github.com/armanmaurya/InternetRadio",
         "ultimo_aggiornamento": null
     },
@@ -10786,7 +10786,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.796.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.798.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -12746,7 +12746,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.343.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.363.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -20128,6 +20128,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.saiga.find.messagefinder/en-US/icon_X3g5oXpq-ylsg_Cj8ZWtDuPQw3wXhu5P8LBiO-ZsrUc=.png",
         "url_codice_sorgente": "https://github.com/saiga006/message-finder",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "My Sensor",
+        "id_pacchetto": "com.saionji.mysensor",
+        "riassunto": "Air quality monitoring from public sensor.community data",
+        "categorie": [
+            "Science & Education",
+            "Weather"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.saionji.mysensor.2.png",
+        "url_codice_sorgente": "https://github.com/saiinc/MySensorAirData",
         "ultimo_aggiornamento": null
     },
     {
@@ -28875,7 +28888,7 @@
             "Navigation"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.gpxit.app.2.png",
+        "icona": "https://f-droid.org/repo//icons/dev.gpxit.app.3.png",
         "url_codice_sorgente": "https://github.com/7FM/GPXIT",
         "ultimo_aggiornamento": null
     },
@@ -34876,7 +34889,7 @@
     {
         "nome": "freeDictionaryApp",
         "id_pacchetto": "io.github.yamin8000.owl",
-        "riassunto": "a simple app for Free Dictionary API",
+        "riassunto": "a dictionary app for Free Dictionary API and Wiktionary API",
         "categorie": [
             "Reading",
             "Translation & Dictionary"
@@ -35072,7 +35085,7 @@
             "Multimedia"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/io.gitlab.the_phoenix_project0.whisper_noise.13.png",
+        "icona": "https://f-droid.org/repo//icons/io.gitlab.the_phoenix_project0.whisper_noise.23.png",
         "url_codice_sorgente": "https://gitlab.com/the-phoenix-project0/whisper-noise",
         "ultimo_aggiornamento": null
     },
@@ -50454,7 +50467,7 @@
     {
         "nome": "Metiq",
         "id_pacchetto": "xyz.metiq",
-        "riassunto": "Colored noise & ambient sounds for focus, sleep, and calm. No ads, no tracking.",
+        "riassunto": "Colored noise & mixable ambient sounds for focus and sleep. No ads, no tracking.",
         "categorie": [
             "Multimedia"
         ],
