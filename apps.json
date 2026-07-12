@@ -3914,6 +3914,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "maCat",
+        "id_pacchetto": "com.ahad.macat",
+        "riassunto": "Catalogue your wardrobe and browse it with a full-screen swipe feed",
+        "categorie": [
+            "Inventory"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.ahad.macat.3.png",
+        "url_codice_sorgente": "https://github.com/ItsAhadun/maCat",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Ahorcado",
         "id_pacchetto": "com.ahorcado",
         "riassunto": "Gioco dell'impiccato in spagnolo",
@@ -9966,7 +9978,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Fauxx - Privacy Through Noise",
+        "nome": "Fauxx - Privacy Through Deception",
         "id_pacchetto": "com.fauxx.full",
         "riassunto": "Poison data collection profiles by generating decoy signals.",
         "categorie": [
@@ -10847,7 +10859,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.798.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.799.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -16389,14 +16401,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "LNCT Attendance",
+        "nome": "LNCTU Attendance",
         "id_pacchetto": "com.meow.lnctattendance",
         "riassunto": "Track classes and view timetable statistics",
         "categorie": [
             "Internet"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.meow.lnctattendance.2.png",
+        "icona": "https://f-droid.org/repo//com.meow.lnctattendance/en-US/icon_X6_aPbwg6c3CXx5hl3Zm3OqBTZUUEZv-rlQw7q8CR9w=.png",
         "url_codice_sorgente": "https://github.com/utkarshgupta188/lnctu-app",
         "ultimo_aggiornamento": null
     },
@@ -16858,7 +16870,7 @@
             "Casual Game"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.mostafa.brickblast/en-US/icon_15WUYofI0by7mrOkfl8AH5Vi6i1_1ULI1HKV6qx2IXo=.png",
         "url_codice_sorgente": "https://github.com/ashrafimostafa/Brick-Blast",
         "ultimo_aggiornamento": null
     },
@@ -19767,7 +19779,7 @@
             "Ebook Reader"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10013.png",
+        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10014.png",
         "url_codice_sorgente": "https://github.com/k1717/Readwide",
         "ultimo_aggiornamento": null
     },
@@ -20716,13 +20728,13 @@
     {
         "nome": "Aerial",
         "id_pacchetto": "com.shapeshed.aerial",
-        "riassunto": "Lightweight Android radio player",
+        "riassunto": "Just radio.",
         "categorie": [
             "Multimedia",
             "Radio"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.shapeshed.aerial/en-US/icon_vyniUC6J4SPzVLcikechlDgCFXNfso2_66bzEYNWcWw=.png",
+        "icona": "https://f-droid.org/repo//com.shapeshed.aerial/en-US/icon_JwwwaxsGEP14L4cxua82DT2tlxniihUoGoY90w89Duc=.png",
         "url_codice_sorgente": "https://github.com/shapeshed/aerial",
         "ultimo_aggiornamento": null
     },
@@ -21545,6 +21557,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.stoutner.privacycell/en-US/icon_CYRP5iIa6JXiWvOGv8rpiXKZR-e1DKf7Sp2IBTcmPjA=.png",
         "url_codice_sorgente": "https://gitweb.stoutner.com/?p=PrivacyCell.git;a=summary",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Streak",
+        "id_pacchetto": "com.streak.app",
+        "riassunto": "A minimal, private, ad-free habit tracker. One tap to log, watch streaks grow.",
+        "categorie": [
+            "Habit Tracker"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.streak.app/en-US/icon_wR3kcq_MsNCb7y7dqQzCQLsaw1gfUj84X5qvX5IKv_A=.png",
+        "url_codice_sorgente": "https://github.com/InlitX/streak",
         "ultimo_aggiornamento": null
     },
     {
@@ -23504,12 +23528,12 @@
     {
         "nome": "Ventoid",
         "id_pacchetto": "com.ventoid.app",
-        "riassunto": "Install Ventoy-style bootable USB drives from Android without root.",
+        "riassunto": "Prepare Ventoy-style bootable USB drives from Android without root.",
         "categorie": [
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.ventoid.app/en-US/icon_3HgB4Rr-4-3wIu2EaWiL5avFE_bE_yh93jxIPJcAgt4=.png",
         "url_codice_sorgente": "https://github.com/GPLaider/Ventoid",
         "ultimo_aggiornamento": null
     },
@@ -27921,6 +27945,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.simon.dankelmann.bluetoothlespam/en-US/icon_SilFWWMwzjmSiL2WRgxI-tS7vvAqK1lMpsePtLWXqh8=.png",
         "url_codice_sorgente": "https://github.com/simondankelmann/Bluetooth-LE-Spam",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Rubber Ring",
+        "id_pacchetto": "de.singular.looper",
+        "riassunto": "Loop a section of any song, gapless, snapped to an auto-detected beat grid.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//de.singular.looper/en-US/icon_YZmyokwt9rjCDURp9LypbEIAlX26IeWkMmrY6aQADvI=.png",
+        "url_codice_sorgente": "https://github.com/mkay/RubberRing",
         "ultimo_aggiornamento": null
     },
     {
@@ -33772,6 +33808,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Bubble Notice",
+        "id_pacchetto": "io.github.gracethings.bubblenotice",
+        "riassunto": "Lightweight Multitasking 'Bubbles' and unified message console, no Root needed.",
+        "categorie": [
+            "Notification"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.gracethings.bubblenotice/en-US/icon_domZ2FKYagSKnKd7vmGxGC8FK521hwDN0N-dP2wxPXM=.png",
+        "url_codice_sorgente": "https://github.com/GraceThings/bubble-notice-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "MemeTastic",
         "id_pacchetto": "io.github.gsantner.memetastic",
         "riassunto": "Meme Creator - Simple and Ad-Free",
@@ -35629,6 +35677,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.perfice.app/en-US/icon_kntLjoUb_3Yzg1gc-4kr3WgLFk-ayoFs_aku0LwXBTA=.png",
         "url_codice_sorgente": "https://github.com/p0lloc/perfice",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Keep: FROST Nostr Signer",
+        "id_pacchetto": "io.privkey.keep",
+        "riassunto": "FROST threshold signer and Nostr event signer for Android",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.privkey.keep/en-US/icon_sz2ulLvX0pB_4DN50FSJ4oxEI_TJ6C-Z6TTXyODOgII=.png",
+        "url_codice_sorgente": "https://github.com/privkeyio/keep-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -41452,6 +41512,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Usagi",
+        "id_pacchetto": "org.draken.usagi",
+        "riassunto": "Open-source manga reader for Android",
+        "categorie": [
+            "Ebook Reader",
+            "Reading"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.draken.usagi/en-US/icon_Xeaj2eA035ca1BmhCoUN65rxjc7ghnuMhVf1-cX3ATU=.png",
+        "url_codice_sorgente": "https://github.com/UsagiApp/Usagi",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "DroidTR IME",
         "id_pacchetto": "org.droidtr.keyboard",
         "riassunto": "DroidTR IME (Tastiera turca F/Q)",
@@ -42892,7 +42965,7 @@
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/org.hwyl.sexytopo.95.png",
+        "icona": "https://f-droid.org/repo//icons/org.hwyl.sexytopo.96.png",
         "url_codice_sorgente": "https://github.com/richsmith/sexytopo",
         "ultimo_aggiornamento": null
     },
@@ -49702,6 +49775,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//tn.creativeteam.newyoutubelistingapp/en-US/icon_JU-xUr3BpL97EdDssij796cdThwA2A5mfXXaRJKuWd0=.png",
         "url_codice_sorgente": "https://github.com/mohamedbelhassen/YoutubeListingApp",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "LCDPet",
+        "id_pacchetto": "today.notfeelingit.lcdpet",
+        "riassunto": "Tiny offline LCD-style virtual pet for Android",
+        "categorie": [
+            "Casual Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/today.notfeelingit.lcdpet.1.png",
+        "url_codice_sorgente": "https://codeberg.org/KrisKS/LCDPet",
         "ultimo_aggiornamento": null
     },
     {
