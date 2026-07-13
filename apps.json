@@ -2505,7 +2505,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Moshidon",
+        "nome": "occm",
         "id_pacchetto": "cc.occm.app",
         "riassunto": "Mastodon for Android but it's Material You and has more features",
         "categorie": [
@@ -5596,7 +5596,7 @@
             "Radio"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.armanmaurya.internetradio.10.png",
+        "icona": "https://f-droid.org/repo//icons/com.armanmaurya.internetradio.11.png",
         "url_codice_sorgente": "https://github.com/armanmaurya/InternetRadio",
         "ultimo_aggiornamento": null
     },
@@ -8841,7 +8841,7 @@
             "Firewall"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.dt.opnsense_manager.143.png",
+        "icona": "https://f-droid.org/repo//icons/com.dt.opnsense_manager.153.png",
         "url_codice_sorgente": "https://github.com/Etregin/OPNsense_Manager",
         "ultimo_aggiornamento": null
     },
@@ -10590,12 +10590,12 @@
     {
         "nome": "ChemSearch",
         "id_pacchetto": "com.furthersecrets.chemsearch",
-        "riassunto": "Search compounds, structures, references, and chemistry tools.",
+        "riassunto": "Search compounds, structures, reference and use practical chemistry tools.",
         "categorie": [
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.furthersecrets.chemsearch.11307.png",
+        "icona": "https://f-droid.org/repo//icons/com.furthersecrets.chemsearch.11308.png",
         "url_codice_sorgente": "https://github.com/FurtherSecrets24680/chemsearch-android",
         "ultimo_aggiornamento": null
     },
@@ -10859,7 +10859,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.799.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.800.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -12831,7 +12831,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.373.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.383.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -15816,7 +15816,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.50.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.51.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -32900,7 +32900,7 @@
     {
         "nome": "EinkBro",
         "id_pacchetto": "info.plateaukao.einkbro",
-        "riassunto": "lightweight, fast, but powerful browser designed for Eink devices.",
+        "riassunto": "Lightweight, fast, and powerful browser designed for E-Ink devices",
         "categorie": [
             "Browser",
             "Ebook Reader",
@@ -34413,7 +34413,7 @@
     {
         "nome": "PadConnect",
         "id_pacchetto": "io.github.padconnect",
-        "riassunto": "Turn your phone into a PC game controller (Windows only)",
+        "riassunto": "Turn your phone into a PC game controller",
         "categorie": [
             "Connectivity"
         ],
@@ -39442,7 +39442,7 @@
             "VPN & Proxy"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//net.yukh.xui/en-US/icon_Kg5dcJmF193W1kO5GsFU_fTeMHluUapLEDqjr3y5Qsk=.png",
         "url_codice_sorgente": "https://github.com/yukh975/3X-UI-Manager",
         "ultimo_aggiornamento": null
     },
@@ -41829,6 +41829,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.equeim.tremotesf/en-US/icon_vMlOCw2hTrM2qE7knTmEB_rO11iIZ2DOonzNjY2N6io=.png",
         "url_codice_sorgente": "https://github.com/equeim/tremotesf-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "PicoStreamingApp",
+        "id_pacchetto": "org.esiliati.repo.picostreaming.app",
+        "riassunto": "Minimal RTMP streaming app.",
+        "categorie": [
+            "Cast"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/org.esiliati.repo.picostreaming.app.1.png",
+        "url_codice_sorgente": "https://repo.esiliati.org/pie/pico-streaming",
         "ultimo_aggiornamento": null
     },
     {
