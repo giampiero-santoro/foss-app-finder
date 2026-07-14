@@ -10076,7 +10076,7 @@
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.fitforge.fitforge.13.png",
+        "icona": "https://f-droid.org/repo//icons/com.fitforge.fitforge.23.png",
         "url_codice_sorgente": "https://github.com/mnkkhan77/fitforge",
         "ultimo_aggiornamento": null
     },
@@ -14733,6 +14733,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "King Pong",
+        "id_pacchetto": "com.kingalex.kingpong",
+        "riassunto": "Retro Pong campaign with multiplayer and a secret ending",
+        "categorie": [
+            "Casual Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.kingalex.kingpong/en-US/icon_oiE60LOk6NiANSunMMf2HtsQ5AWm-jwzds9iqBFXQ98=.png",
+        "url_codice_sorgente": "https://github.com/KingAlexGilbert/king-pong",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ShizuCallRecorder",
         "id_pacchetto": "com.kitsumed.shizucallrecorder",
         "riassunto": "Empowers ADB through Shizuku to record phone calls on non-rooted device! ",
@@ -15516,7 +15528,7 @@
         "categorie": [
             "Clock"
         ],
-        "licenza": "MIT",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.ltrademark.hourly/en-US/icon_QHYB1qv1_9iFjM-fPAXOH9p3N0czsFiYJPhuphmWovg=.png",
         "url_codice_sorgente": "https://github.com/ltrademark/HRLY",
         "ultimo_aggiornamento": null
@@ -18281,9 +18293,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "FinTrack - Count Every Penny",
+        "nome": "FinTrack - Expense manager (Money)",
         "id_pacchetto": "com.openapps.fintrack",
-        "riassunto": "Robust and Privacy-focused Money Manager",
+        "riassunto": "Secure and Privacy-focused Money Manager",
         "categorie": [
             "Finance Manager"
         ],
@@ -19056,6 +19068,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.polonio.duwave.7.png",
         "url_codice_sorgente": "https://github.com/POL0i/DuWave",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "PolyAlerts",
+        "id_pacchetto": "com.polyalerts",
+        "riassunto": "Price & % alerts for Polymarket prediction markets. Unofficial. No account.",
+        "categorie": [
+            "Market & Price"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.polyalerts/en-US/icon_PInmFLlcS0FhlsFr2Sxb8-uadGK1o94le47907hBEcw=.png",
+        "url_codice_sorgente": "https://github.com/privanindivan/polyalerts",
         "ultimo_aggiornamento": null
     },
     {
@@ -21125,6 +21149,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.slavabarkov.tidy/en-US/icon_ZY7Yl3BAEDP52Wd1LjYqxdtCOGQBlDncvntdS6O06ao=.png",
         "url_codice_sorgente": "https://github.com/slavabarkov/tidy",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SleepGuard",
+        "id_pacchetto": "com.sleepguard",
+        "riassunto": "Locks your phone when you fall asleep watching videos. No ads, open source.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.sleepguard/de-DE/icon_NFiXDCpR0pbGs67i2ci10vELGrpMRmYtxlO86OYb4Ug=.png",
+        "url_codice_sorgente": "https://github.com/OlafDrechsler/SleepGuard",
         "ultimo_aggiornamento": null
     },
     {
@@ -26300,6 +26336,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Quest Log",
+        "id_pacchetto": "de.huppke.questlog",
+        "riassunto": "Balance life's Main and Side Quests in a private, offline game-themed to-do app",
+        "categorie": [
+            "Habit Tracker",
+            "Task"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/de.huppke.questlog.3.png",
+        "url_codice_sorgente": "https://gitlab.com/THuppke/questlog",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "IdiomReplaceX Browser App",
         "id_pacchetto": "de.idiomreplacex.browser_app",
         "riassunto": "A browser app by IdiomReplaceX that modifies web pages with literary filters.",
@@ -27952,7 +28001,9 @@
         "id_pacchetto": "de.singular.looper",
         "riassunto": "Loop a section of any song, gapless, snapped to an auto-detected beat grid.",
         "categorie": [
-            "Multimedia"
+            "Local Media Player",
+            "Multimedia",
+            "Music Practice Tool"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.singular.looper/en-US/icon_YZmyokwt9rjCDURp9LypbEIAlX26IeWkMmrY6aQADvI=.png",
@@ -29727,6 +29778,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Spectre",
+        "id_pacchetto": "dev.thomasbuilds.spectre",
+        "riassunto": "Radio frequency scanner with recon and offensive capabilities",
+        "categorie": [
+            "Network Analyzer",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.thomasbuilds.spectre/en-US/icon_8NF7zZF3_pwnlTNk0QEeTTZhzQYULEMJDL9ZlDbkwfw=.png",
+        "url_codice_sorgente": "https://github.com/thomasbuilds/Spectre",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AFWall+",
         "id_pacchetto": "dev.ukanth.ufirewall",
         "riassunto": "Controlla il traffico di rete",
@@ -29750,6 +29814,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//dev.wceng.sufei/en-US/icon_jhUDRXwh48D9o-tUvWTk8Yx9Wz8fkvvGcALbjuVmtBw=.png",
         "url_codice_sorgente": "https://github.com/wceng/SuFei",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "SleepTimer",
+        "id_pacchetto": "dev.xitee.sleeptimer",
+        "riassunto": "Audio fade-out and screen lock at the end of a countdown. No ads, no internet.",
+        "categorie": [
+            "Multimedia",
+            "Timer"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//dev.xitee.sleeptimer/en-US/icon_KCu8eI0MxVozRkp9MqixTL4H8vmIF4XZlYIAGE2rzMA=.png",
+        "url_codice_sorgente": "https://github.com/Xitee1/sleep-timer",
         "ultimo_aggiornamento": null
     },
     {
@@ -33681,6 +33758,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "TunnelForge",
+        "id_pacchetto": "io.github.evokelektrique.tunnelforge",
+        "riassunto": "L2TP/IPsec VPN client for modern Android",
+        "categorie": [
+            "VPN & Proxy"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.evokelektrique.tunnelforge/en-US/icon_a6ktn8oU9WPtkgFAZrrmap0jb85fP8rCibfus0MNLC8=.png",
+        "url_codice_sorgente": "https://github.com/evokelektrique/tunnel-forge",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Ewoc",
         "id_pacchetto": "io.github.ewoc2026.ewoc",
         "riassunto": "Indoor cycling workouts for FTMS smart trainers",
@@ -35040,6 +35129,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.vendelin8.elements/en-US/icon_NQUG1k12xYuw9LTzb90CLB9tcd188os5IFYY8NI8S_8=.png",
         "url_codice_sorgente": "https://github.com/vendelin8/elements-flutter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Mobapp Game",
+        "id_pacchetto": "io.github.vipaol.mobapp.game",
+        "riassunto": "Minimalist physics arcade: speed, flips, built-in editor",
+        "categorie": [
+            "Action Game"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/io.github.vipaol.mobapp.game.23.png",
+        "url_codice_sorgente": "https://github.com/vipaoL/mobapp-game",
         "ultimo_aggiornamento": null
     },
     {
@@ -37999,7 +38100,6 @@
         "id_pacchetto": "net.clench.wallet",
         "riassunto": "Bitcoin-only non-custodial on-chain wallet",
         "categorie": [
-            "Wallet",
             "Wallet"
         ],
         "licenza": "MIT",
@@ -39447,7 +39547,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Curbox: App & Website Blocker",
+        "nome": "App Blocker: Curbox Detox",
         "id_pacchetto": "neth.iecal.curbox",
         "riassunto": "App blocker and screen time tracker. Block apps, websites, reels and shorts.",
         "categorie": [
@@ -43303,7 +43403,7 @@
             "Translation & Dictionary"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.kaqui.100.png",
+        "icona": "https://f-droid.org/repo//icons/org.kaqui.101.png",
         "url_codice_sorgente": "https://github.com/blastrock/kakugo",
         "ultimo_aggiornamento": null
     },
@@ -44575,10 +44675,11 @@
         "riassunto": "Real-time visualization of musical pitches from live audio",
         "categorie": [
             "Multimedia",
+            "Music Practice Tool",
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/org.p1graph.pitchvis.28.png",
+        "icona": "https://f-droid.org/repo//icons/org.p1graph.pitchvis.29.png",
         "url_codice_sorgente": "https://github.com/heinzelotto/pitchvis",
         "ultimo_aggiornamento": null
     },
@@ -45569,6 +45670,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/scoutant/rpn",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Scrib",
+        "id_pacchetto": "org.scrib.transcriber",
+        "riassunto": "Da voce a testo sul dispositivo. Il tuo audio non lascia mai il telefono.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/23rd/Scrib",
         "ultimo_aggiornamento": null
     },
     {
