@@ -102,7 +102,7 @@
     {
         "nome": "sub rosa by naiveHA",
         "id_pacchetto": "acab.naiveha.subrosa",
-        "riassunto": "Program (over USB or NFC) the static password of your YubiKey",
+        "riassunto": "Program the static password and/or OpenPGP keys to your YubiKey or Nitrokey 3",
         "categorie": [
             "Security"
         ],
@@ -2507,7 +2507,7 @@
     {
         "nome": "occm",
         "id_pacchetto": "cc.occm.app",
-        "riassunto": "Mastodon for Android but it's Material You and has more features",
+        "riassunto": "A Mastodon client built specifically for the occm server",
         "categorie": [
             "Social Network"
         ],
@@ -3834,7 +3834,7 @@
             "Phone & SMS"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.afkanerd.deku/en-US/icon_iWxcMGMDcN_rJ0xzXTDE38pRU-U5N5AtXGwz-fZNgJ0=.png",
+        "icona": "https://f-droid.org/repo//com.afkanerd.deku/en-US/icon_8a-RhsUX4jbLr4A8v4NyjTnqkNsv6OrYGIL7Il415UY=.png",
         "url_codice_sorgente": "https://github.com/deku-messaging/DekuSMS-Android",
         "ultimo_aggiornamento": null
     },
@@ -5632,7 +5632,7 @@
             "Online Media Player"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.arslandaim.playtube.2.png",
+        "icona": "https://f-droid.org/repo//com.arslandaim.playtube/en-US/icon_KJvv82M99UBJpg5R9Brn8pgrP0OUx5Dt4acAAc9hsqs=.png",
         "url_codice_sorgente": "https://github.com/arslandaim-hub/PlayTube",
         "ultimo_aggiornamento": null
     },
@@ -6186,7 +6186,7 @@
     {
         "nome": "Let Me Downgrade",
         "id_pacchetto": "com.berdik.letmedowngrade",
-        "riassunto": "Add support for downgrading apps on Android 12 through 16 QPR2.",
+        "riassunto": "Add support for downgrading apps on Android 12 through 17.",
         "categorie": [
             "System"
         ],
@@ -10096,12 +10096,12 @@
     {
         "nome": "FixupXer - URL Enhancer",
         "id_pacchetto": "com.fixupxer",
-        "riassunto": "Clean tracking from URLs and fix embeds (Instagram, Twitter/X, Facebook)",
+        "riassunto": "Clean tracking from URLs and fix embeds (Instagram, X, Facebook, TikTok)",
         "categorie": [
             "Internet"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.fixupxer/en-US/icon_PuiFbm79wvRZn3xyqVxk0KwRTRcXzlXZqEkNvzKOgGc=.png",
+        "icona": "https://f-droid.org/repo//com.fixupxer/en-US/icon_2jYJIM-2DrT24oOFBAkXsMOGHDtm5U_dRQes1KQaodc=.png",
         "url_codice_sorgente": "https://github.com/NeatCode-Labs/fixupxer",
         "ultimo_aggiornamento": null
     },
@@ -10199,7 +10199,7 @@
     {
         "nome": "Flux",
         "id_pacchetto": "com.flux",
-        "riassunto": "Minimalistic, Material UI, Productivity Application",
+        "riassunto": "Flow Through Your Workspace with Ease\n\nOrganize notes, tasks, journals, habits, ",
         "categorie": [
             "Calendar & Agenda",
             "Note",
@@ -13033,6 +13033,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.helddertierwelt.mentalmath/de/icon_i6DGGQFiYojEBVQjZTl6ISj7dHjXqk0SPrVBpn1pFaQ=.png",
         "url_codice_sorgente": "https://codeberg.org/Mental-Math/MentalMath",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Live Wallpaper Dino Game",
+        "id_pacchetto": "com.helloworld3003.livewallpaperdinogame",
+        "riassunto": "A fully playable, retro Chrome Dino runner game on your home screen.",
+        "categorie": [
+            "Casual Game",
+            "Wallpaper"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.helloworld3003.livewallpaperdinogame/en-US/icon_GlMQ1tGUIbKw5u2UQ33IS19XM-hLFkD1yvbmMCNpNTs=.png",
+        "url_codice_sorgente": "https://github.com/helloworld3003/Live-Wallpaper-Dino-game",
         "ultimo_aggiornamento": null
     },
     {
@@ -18715,6 +18728,21 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Global Send",
+        "id_pacchetto": "com.peer.topeer.global_send",
+        "riassunto": "Anonymous messaging with encryption & direct connection",
+        "categorie": [
+            "Connectivity",
+            "File Transfer",
+            "Internet",
+            "Messaging"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.peer.topeer.global_send/en-US/icon_RhF6qKgRSk2cUjwcsfxhxXzkJ6UndQb-6MwdoBbaPUU=.png",
+        "url_codice_sorgente": "https://codeberg.org/quandang/global_send",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "PennyWise AI - Expense Tracker",
         "id_pacchetto": "com.pennywiseai.tracker",
         "riassunto": "Private expense tracker & budget app — auto-reads bank SMS, on-device AI.",
@@ -18837,7 +18865,7 @@
             "Multimedia"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.phnem.vetro.328.png",
+        "icona": "https://f-droid.org/repo//icons/com.phnem.vetro.331.png",
         "url_codice_sorgente": "https://github.com/Phnem/Vetro",
         "ultimo_aggiornamento": null
     },
@@ -23051,7 +23079,7 @@
             "Religion"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.uli.bokyfivavahana2.9.png",
+        "icona": "https://f-droid.org/repo//icons/com.uli.bokyfivavahana2.10.png",
         "url_codice_sorgente": "https://github.com/ulightm111/boky-fivavahana-ion",
         "ultimo_aggiornamento": null
     },
@@ -23654,13 +23682,13 @@
     },
     {
         "nome": "Kords ",
-        "id_pacchetto": "com.vipedev.kords",
+        "id_pacchetto": "com.vipedev.kords2",
         "riassunto": "A ukulele chords dictionnary and songbook.",
         "categorie": [
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vipedev.kords/en-US/icon_RygyMS5tf8nmJam1h-4n17iGIJgaZPT5Q15-JhmYZEw=.png",
+        "icona": "https://f-droid.org/repo//com.vipedev.kords2/en-US/icon_RygyMS5tf8nmJam1h-4n17iGIJgaZPT5Q15-JhmYZEw=.png",
         "url_codice_sorgente": "https://github.com/vipe1375/Kords",
         "ultimo_aggiornamento": null
     },
@@ -29142,6 +29170,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Glyfen",
+        "id_pacchetto": "dev.glyfen.app",
+        "riassunto": "Offline OCR for Android. Search your photos by text, entirely on-device.",
+        "categorie": [
+            "OCR"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://codeberg.org/talixodev/glyfen",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GPXIT",
         "id_pacchetto": "dev.gpxit.app",
         "riassunto": "Find train connections home during your bike ride",
@@ -29273,7 +29313,7 @@
             "Phone & SMS"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//dev.kerballone.spamblocker/en-US/icon_NvpPfzS3J8Gx5PNIZUjNWQwk8ECPl6nVjaQ_6-8FsxY=.png",
+        "icona": "https://f-droid.org/repo//dev.kerballone.spamblocker/en-US/icon_stmdJEW42uDa9rE_cyF3lHagQehLvORR_PSqx5Wft4g=.png",
         "url_codice_sorgente": "https://github.com/KerballOne/SpamBlocker-Extended",
         "ultimo_aggiornamento": null
     },
@@ -31148,7 +31188,7 @@
             "Development"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/exa.lnx.a.675.png",
         "url_codice_sorgente": "https://github.com/EXALAB/AnLinux-Adfree",
         "ultimo_aggiornamento": null
     },
@@ -38098,7 +38138,7 @@
     {
         "nome": "Clench Wallet",
         "id_pacchetto": "net.clench.wallet",
-        "riassunto": "Bitcoin-only non-custodial on-chain wallet",
+        "riassunto": "Secure non-custodial Bitcoin wallet with multisig support",
         "categorie": [
             "Wallet"
         ],
@@ -46181,7 +46221,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.smc.inputmethod.indic.161.png",
         "url_codice_sorgente": "https://gitlab.com/indicproject/Indic-Keyboard",
         "ultimo_aggiornamento": null
     },
@@ -49568,9 +49608,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Clock Screensaver",
+        "nome": "Clock Screensaver & Widget",
         "id_pacchetto": "systems.sieber.fsclock",
-        "riassunto": "Fullscreen Analog- and Digital Clock with Event View",
+        "riassunto": "Fullscreen Analog- and Digital Clock with Alarm, Event & Battery View",
         "categorie": [
             "Alarm Clock",
             "Clock",
@@ -49632,7 +49672,7 @@
     {
         "nome": "Mindwtr - GTD Task Manager",
         "id_pacchetto": "tech.dongdongbh.mindwtr",
-        "riassunto": "Free GTD task manager. Offline, private, local-first to-do list.",
+        "riassunto": "Clear your head: capture tasks fast, see your next step. Offline, free, GTD.",
         "categorie": [
             "Task"
         ],
