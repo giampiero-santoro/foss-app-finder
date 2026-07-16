@@ -855,6 +855,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "OpenKuma",
+        "id_pacchetto": "app.openkuma",
+        "riassunto": "Read-only viewer for your Uptime Kuma monitors. Private, no ads, no tracking.",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//app.openkuma/en-US/icon_YI0Mlogi1AG4VFEpWCLhXVtRCR-EwAlRv_X2XIDa1E0=.png",
+        "url_codice_sorgente": "https://codeberg.org/emon/openkuma",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Organic Maps・Offline Map & GPS",
         "id_pacchetto": "app.organicmaps",
         "riassunto": "Get reliable offline maps with GPS navigation for hiking, cycling, and travel.",
@@ -2023,9 +2035,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Petals",
+        "nome": "Petals: Cannabis Use Tracker",
         "id_pacchetto": "br.com.colman.petals",
-        "riassunto": "Take control of your weed consumption",
+        "riassunto": "Weed tracker to quit, cut down or understand your cannabis use. Open source.",
         "categorie": [
             "Habit Tracker"
         ],
@@ -5514,15 +5526,15 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Goodtime - Minimalist Pomodoro Timer",
+        "nome": "Goodtime: Pomodoro Timer",
         "id_pacchetto": "com.apps.adrcotfas.goodtime",
         "riassunto": "Timer di produttività progettato per tenervi sulla buona strada e non distrarvi",
         "categorie": [
             "Timer"
         ],
-        "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://github.com/goodtime-productivity/Goodtime",
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.apps.adrcotfas.goodtime/en-US/icon_Uibf3jxiv5pqM9TBugE1JkAfKUyTXEKqcXbLL6nevas=.png",
+        "url_codice_sorgente": "https://github.com/adrcotfas/goodtime",
         "ultimo_aggiornamento": null
     },
     {
@@ -7965,7 +7977,7 @@
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.darkrockstudios.apps.hammer.android/en-US/icon_wncje5LnqyH8M0d5GWh2VxLdtdnkYYiCW-ZmiGVRaUM=.png",
-        "url_codice_sorgente": "https://github.com/Wavesonics/hammer-editor",
+        "url_codice_sorgente": "https://github.com/Darkrock-Studios/hammer-editor",
         "ultimo_aggiornamento": null
     },
     {
@@ -8993,7 +9005,7 @@
             "Reading"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.econverter.app/en-US/icon_s27bPt7vt9Nm5xIe291l_bBOPYx7cgazQ_QjWTdAThY=.png",
         "url_codice_sorgente": "https://github.com/bilec/econverter",
         "ultimo_aggiornamento": null
     },
@@ -10073,7 +10085,9 @@
         "id_pacchetto": "com.fitforge.fitforge",
         "riassunto": "Offline fitness & nutrition tracker with optional AI coaching",
         "categorie": [
-            "Sports & Health"
+            "Diet",
+            "Health Manager",
+            "Workout"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.fitforge.fitforge.23.png",
@@ -10859,7 +10873,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.800.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.801.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -15841,7 +15855,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.51.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.52.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -25531,7 +25545,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/de.blau.android.3407.png",
+        "icona": "https://f-droid.org/repo//icons/de.blau.android.3408.png",
         "url_codice_sorgente": "https://github.com/MarcusWolschon/osmeditor4android",
         "ultimo_aggiornamento": null
     },
@@ -26372,7 +26386,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/de.huppke.questlog.3.png",
+        "icona": "https://f-droid.org/repo//de.huppke.questlog/en-US/icon_b06Dl22HaJAcfTBXOvqNRRxfGib-f-CB6gjyZDy1RMc=.png",
         "url_codice_sorgente": "https://gitlab.com/THuppke/questlog",
         "ultimo_aggiornamento": null
     },
@@ -28027,7 +28041,7 @@
     {
         "nome": "Rubber Ring",
         "id_pacchetto": "de.singular.looper",
-        "riassunto": "Loop a section of any song, gapless, snapped to an auto-detected beat grid.",
+        "riassunto": "A looper for practicing song parts.",
         "categorie": [
             "Local Media Player",
             "Multimedia",
@@ -28740,13 +28754,13 @@
     {
         "nome": "Captain qBit",
         "id_pacchetto": "dev.acamol.qbit",
-        "riassunto": "Modern qBittorrent WebUI Client",
+        "riassunto": "Control your qBittorrent server from your phone",
         "categorie": [
             "Download",
             "Remote Controller"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//dev.acamol.qbit/en-US/icon_4AJT9aciQsDYVCuzWNYjfjYmMvSF_orDXiCWMcpNKQQ=.png",
+        "icona": "https://f-droid.org/repo//dev.acamol.qbit/en-US/icon_Ae1ep7WjGdIWk7eVwXX9Zk9zwfqKDG8oM_PCDv63tE4=.png",
         "url_codice_sorgente": "https://github.com/Acamol/Captain-qBit",
         "ultimo_aggiornamento": null
     },
@@ -28911,7 +28925,7 @@
     {
         "nome": "Remember: Notes & Reminders",
         "id_pacchetto": "dev.bikram.remember.gh",
-        "riassunto": "Persistent recurring reminders that return if accidentally dismissed",
+        "riassunto": "Notes, tasks, and reminders that keep coming back until they are done.",
         "categorie": [
             "Note",
             "Shopping List",
@@ -33939,7 +33953,7 @@
     {
         "nome": "Bubble Notice",
         "id_pacchetto": "io.github.gracethings.bubblenotice",
-        "riassunto": "Lightweight Multitasking 'Bubbles' and unified message console, no Root needed.",
+        "riassunto": "A lightweight bubble notice tool, providing more intuitive notifications for the",
         "categorie": [
             "Notification"
         ],
@@ -37007,7 +37021,7 @@
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//me.diamondforge.tokn/en-US/icon_0srAz6NdcZiYAMrDAeTGGkVhkeRfDogTT-o6AKP5-RU=.png",
-        "url_codice_sorgente": "https://github.com/fthomys/tokn",
+        "url_codice_sorgente": "https://github.com/tokn-authenticator/tokn",
         "ultimo_aggiornamento": null
     },
     {
@@ -38749,7 +38763,7 @@
     {
         "nome": "NymVPN – Anonymous No-Log VPN",
         "id_pacchetto": "net.nymtech.nymvpn",
-        "riassunto": "VPN suisse, privé et sécurisé. WireGuard, mixnet, proxy décentralisé, sans email",
+        "riassunto": "Private, secure Swiss dVPN. WireGuard, mixnet, decentralized proxy, no email.",
         "categorie": [
             "Connectivity",
             "Internet",
@@ -38758,7 +38772,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//net.nymtech.nymvpn/en-US/icon_9rc_VocqpEaJL9qLLEh96b_gHy_649lyg7_rFjoLiVE=.png",
+        "icona": "https://f-droid.org/repo//net.nymtech.nymvpn/en-US/icon_XDkPfgwZ_TxYG2XKFiUPy-DxYlqhO5TpKXvenzLLsrs=.png",
         "url_codice_sorgente": "https://github.com/nymtech/nym-vpn-client",
         "ultimo_aggiornamento": null
     },
@@ -40986,7 +41000,7 @@
             "Security"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.briarproject.briar.android.10519.png",
         "url_codice_sorgente": "https://code.briarproject.org/briar/briar",
         "ultimo_aggiornamento": null
     },
@@ -49706,7 +49720,7 @@
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//tech.mmarca.openvitals/en-US/icon_18a8_ECKrN70frlXygRdmVUBJafEDbeDaVe-8jw2dKw=.png",
-        "url_codice_sorgente": "https://codeberg.org/mmarca-tech/OpenVitals",
+        "url_codice_sorgente": "https://codeberg.org/OpenVitals/mobile-app",
         "ultimo_aggiornamento": null
     },
     {
@@ -49950,7 +49964,7 @@
             "Casual Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/today.notfeelingit.lcdpet.1.png",
+        "icona": "https://f-droid.org/repo//icons/today.notfeelingit.lcdpet.2.png",
         "url_codice_sorgente": "https://codeberg.org/KrisKS/LCDPet",
         "ultimo_aggiornamento": null
     },
@@ -50353,6 +50367,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//uk.org.ngo.squeezer/en-US/icon_aV_5RzYdJ8B3aNOFEkDGCgT2rySswXrmsjrCl-Bc_ek=.png",
         "url_codice_sorgente": "https://github.com/kaaholst/android-squeezer",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ClayModeller",
+        "id_pacchetto": "uk.org.retallack.claymodeler",
+        "riassunto": "Create 3D models for clay printing with intuitive touch sculpting",
+        "categorie": [
+            "Graphics"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//uk.org.retallack.claymodeler/en-US/icon_GkWmKbRMOgw9UGZOxjp-U1cNzU-7q4WgfluTBJd5Bbs=.png",
+        "url_codice_sorgente": "https://github.com/mretallack/ClayModeller",
         "ultimo_aggiornamento": null
     },
     {
@@ -50939,9 +50965,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Metiq",
+        "nome": "Metiq: noise & ambient sounds",
         "id_pacchetto": "xyz.metiq",
-        "riassunto": "Colored noise & mixable ambient sounds for focus and sleep. No ads, no tracking.",
+        "riassunto": "White, pink & brown noise + relaxing ambient sounds for sleep, study and focus.",
         "categorie": [
             "Multimedia"
         ],
