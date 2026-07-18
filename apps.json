@@ -3926,6 +3926,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "TapLock",
+        "id_pacchetto": "com.ah.taplock",
+        "riassunto": "Lock your screen instantly with a double tap.",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.ah.taplock/en-US/icon_Knsf9gbYWR2hTkNUfbkno9bwRB4y4LVt5neyLSmUE1Q=.png",
+        "url_codice_sorgente": "https://github.com/modelorona/TapLock",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "maCat",
         "id_pacchetto": "com.ahad.macat",
         "riassunto": "Catalogue your wardrobe and browse it with a full-screen swipe feed",
@@ -12845,7 +12858,7 @@
             "Remote Access"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.383.png",
+        "icona": "https://f-droid.org/repo//icons/com.gwitko.conduit.393.png",
         "url_codice_sorgente": "https://github.com/gwitko/Conduit",
         "ultimo_aggiornamento": null
     },
@@ -12870,7 +12883,7 @@
             "Workout"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.hackerapps.c2k/en-US/icon_0KGzXaVOC7pETHp_s-fYjlZOgpyb2Xg1wGQXv6NEKvk=.png",
+        "icona": "https://f-droid.org/repo//com.hackerapps.c2k/de-DE/icon_0KGzXaVOC7pETHp_s-fYjlZOgpyb2Xg1wGQXv6NEKvk=.png",
         "url_codice_sorgente": "https://github.com/AnalogGhost/c2k",
         "ultimo_aggiornamento": null
     },
@@ -13589,7 +13602,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8610 manual pages, 30 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8678 manual pages, 30 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -14402,7 +14415,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.k2040.geojoystick/en-US/icon_erRUHDEtqun3aRV2eIN2q-WvJ_dgGhRpM8JqXzZBXFM=.png",
+        "icona": "https://f-droid.org/repo//com.k2040.geojoystick/en-US/icon_rphogCMvTF0taNw39Ly7kUwpvqdE5fZMPIlicX7Z20M=.png",
         "url_codice_sorgente": "https://github.com/Kamui2040/K2040-GeoJoystick",
         "ultimo_aggiornamento": null
     },
@@ -15078,7 +15091,7 @@
             "Game Helper"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.l5rcm.companion/en-US/icon_0RrLkBPpHYBakbou2XDwBSyQ8BJGByLftn0U9KHKXaw=.png",
         "url_codice_sorgente": "https://github.com/OpenNingia/l5rcm-player-app",
         "ultimo_aggiornamento": null
     },
@@ -17113,7 +17126,7 @@
             "Writing"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.139.png",
+        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.144.png",
         "url_codice_sorgente": "https://github.com/Musheer360/SwiftSlate",
         "ultimo_aggiornamento": null
     },
@@ -18184,7 +18197,7 @@
     {
         "nome": "Offline Currency Converter",
         "id_pacchetto": "com.offlinecurrencyconverter.app",
-        "riassunto": "Convert currencies offline with support for 160+ currencies",
+        "riassunto": "Offline currency converter with favorites, charts, and widget",
         "categorie": [
             "Market & Price",
             "Unit Convertor"
@@ -19845,7 +19858,7 @@
             "Ebook Reader"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10014.png",
+        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10015.png",
         "url_codice_sorgente": "https://github.com/k1717/Readwide",
         "ultimo_aggiornamento": null
     },
@@ -19911,6 +19924,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "RelayPony",
+        "id_pacchetto": "com.relaypony.android",
+        "riassunto": "Encrypted file transfer, phone to phone. Offline, no account, no cloud.",
+        "categorie": [
+            "File Transfer"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.relaypony.android/en-US/icon_OBBPk7A3EnPVPirjRz_ZfOsu3vuDT9VUZ-3UUTJhCkk=.png",
+        "url_codice_sorgente": "https://github.com/norsehorse-dev/RelayPonyAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Reloado Auth - 2FA Authenticator",
         "id_pacchetto": "com.reloado.auth",
         "riassunto": "Secure, Free and Open Source 2FA TOTP Authenticator App with Sync and Web Access",
@@ -19932,6 +19957,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/Reminimalism/MaterialsLiveWallpaper",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Resonance",
+        "id_pacchetto": "com.resonance.music",
+        "riassunto": "Stream music from your Subsonic or Navidrome server",
+        "categorie": [
+            "Online Media Player"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.resonance.music/en-US/icon_kAMnwh8R_AaFHMY_fVA19Uy9o7V7spltsj4cn12Dbb0=.png",
+        "url_codice_sorgente": "https://github.com/AlanHuang99/resonance",
         "ultimo_aggiornamento": null
     },
     {
@@ -22414,7 +22451,7 @@
     {
         "nome": "Min Time",
         "id_pacchetto": "com.thomaskuenneth.mintime",
-        "riassunto": "A minimalistic countdown app to help structure your talks and presentations.",
+        "riassunto": "A minimalistic talk timer to help structure your talks and presentations.",
         "categorie": [
             "Timer"
         ],
@@ -23080,7 +23117,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.uc.caffeine/en-US/icon_7Lp02pscvc2V72uQZIdwg1Uw16jmBRyYozv3OOX4YlE=.png",
+        "icona": "https://f-droid.org/repo//com.uc.caffeine/en-US/icon_WcELiKWOUmYIAamcCOi7Xg0vlYeOhIsVQkeRjc7R9jU=.png",
         "url_codice_sorgente": "https://github.com/ohuc/CaffeineHealth",
         "ultimo_aggiornamento": null
     },
@@ -32563,6 +32600,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Axichat",
+        "id_pacchetto": "im.axi.axichat",
+        "riassunto": "Replace your email, messenger, and calendar with one app.",
+        "categorie": [
+            "Calendar & Agenda",
+            "Email",
+            "Messaging"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//im.axi.axichat/en-US/icon_EN-vbVNtRw-qNhUrTG3pKSj61l1sUQn0b7gSQtSMKME=.png",
+        "url_codice_sorgente": "https://github.com/axichat/axichat",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "V2EX",
         "id_pacchetto": "im.fdx.v2ex",
         "riassunto": "Nessuna descrizione disponibile.",
@@ -32708,6 +32759,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//in.hridayan.ashell/en-US/icon_2SxCr_DxKj163Hyln2cNnEohMnPpisaF4erg_MZrWOw=.png",
         "url_codice_sorgente": "https://github.com/DP-Hridayan/aShellYou",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Journal Multilingual",
+        "id_pacchetto": "in.kawaiis.journal",
+        "riassunto": "Open-source drug use tracker with interaction checker and multilingual support.",
+        "categorie": [
+            "Science & Education",
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//in.kawaiis.journal/en-US/icon_mPArullU-JoeSvjm6m31Adx21qJZ7o5w-Gc1eWdU9Yk=.png",
+        "url_codice_sorgente": "https://github.com/LoliLin/journal-android-multilingual",
         "ultimo_aggiornamento": null
     },
     {
@@ -44498,7 +44562,7 @@
     {
         "nome": "PAIesque",
         "id_pacchetto": "org.ojrandom.paiesque",
-        "riassunto": "Fitness tracker and analyzer based on published scientific papers",
+        "riassunto": "Privacy-first fitness analyzer with built-in BLE/GPS recording and group sharing",
         "categorie": [
             "Connectivity",
             "Health Manager",
@@ -45734,7 +45798,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//org.scrib.transcriber/en-US/icon_uZE9vUpwLCGdl1g0GqRFUCfW4OTo0zPzVTKaRTqjYe4=.png",
         "url_codice_sorgente": "https://github.com/23rd/Scrib",
         "ultimo_aggiornamento": null
     },
