@@ -4298,6 +4298,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Goregram",
+        "id_pacchetto": "com.amanoteam.flonne",
+        "riassunto": "A Telegram fork with minimal extra features",
+        "categorie": [
+            "Internet",
+            "Messaging"
+        ],
+        "licenza": "GPL-2.0-or-later",
+        "icona": "https://f-droid.org/repo//com.amanoteam.flonne/en-US/icon_ULoTZyuxAT-60V0xlbPSLkD870S4hYBh-O-BDcdvgXY=.png",
+        "url_codice_sorgente": "https://github.com/AmanoTeam/Goregram",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Kahon",
         "id_pacchetto": "com.amanoteam.kahon",
         "riassunto": "A fork of Mihon with some annoying restrictions removed",
@@ -6082,6 +6095,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Baluchon",
+        "id_pacchetto": "com.baluchon.app",
+        "riassunto": "Easily manage shared expenses with friends on your trip",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.baluchon.app/fr-FR/icon__AlEI5TtrLdRmoPOsLOCrAUni0Qg3lOPIqq9rH7Ftqw=.png",
+        "url_codice_sorgente": "https://framagit.org/android1/baluchon",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "MESH",
         "id_pacchetto": "com.barghest.mesh",
         "riassunto": "Censorship-resisting overlay network for digital forensics",
@@ -7355,6 +7380,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "CBG -- Clavierhaus BackGammon",
+        "id_pacchetto": "com.clavierhaus.gnubg",
+        "riassunto": "Play, train and analyse -- powered by the GNU Backgammon engine",
+        "categorie": [
+            "Board Game"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.clavierhaus.gnubg/en-US/icon_WQx4T65yXW22y-Ymqky8xRpccvAJJD3dZWqeoCMR-Nc=.png",
+        "url_codice_sorgente": "https://github.com/clavierhaus/gnubg-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Easy Noise",
         "id_pacchetto": "com.cliambrown.easynoise",
         "riassunto": "A simple Android app to play white noise.",
@@ -8531,7 +8568,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.divinelink.scenepeek.53.png",
+        "icona": "https://f-droid.org/repo//icons/com.divinelink.scenepeek.54.png",
         "url_codice_sorgente": "https://github.com/Divinelink/scenepeek-android",
         "ultimo_aggiornamento": null
     },
@@ -9073,7 +9110,7 @@
     {
         "nome": "EbookConverter",
         "id_pacchetto": "com.econverter.app",
-        "riassunto": "Android ebook converter — 20+ input, 18 output formats. No Calibre needed.",
+        "riassunto": "Android ebook converter — epub, mobi, azw3, docx and more. No Calibre needed.",
         "categorie": [
             "Reading"
         ],
@@ -9414,6 +9451,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.ensoft.imgurviewer/en-US/icon_CQztkeWIavH0r45lIAWQ7gMQYXSXLxSN-xvSo7FfsP4=.png",
         "url_codice_sorgente": "https://github.com/SpartanJ/ImgurViewer",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Épione",
+        "id_pacchetto": "com.epione.app",
+        "riassunto": "Offline directory of French health facilities (FINESS open data).",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.epione.app.9.png",
+        "url_codice_sorgente": "https://codeberg.org/kapoue/Epione",
         "ultimo_aggiornamento": null
     },
     {
@@ -10183,7 +10232,7 @@
     {
         "nome": "FixupXer - URL Enhancer",
         "id_pacchetto": "com.fixupxer",
-        "riassunto": "Clean tracking from URLs and fix embeds (Instagram, X, Facebook, TikTok)",
+        "riassunto": "Clean URL tracking, fix embeds (X, IG, FB, TikTok, Bluesky), catch link leaks",
         "categorie": [
             "Internet"
         ],
@@ -11198,6 +11247,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.github.aba2l.taswast.1.png",
         "url_codice_sorgente": "https://gitlab.com/AbA2L/Taswast",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "crocson",
+        "id_pacchetto": "com.github.abakum.crocson",
+        "riassunto": "Easily and securely send things from one computer to another",
+        "categorie": [
+            "File Transfer"
+        ],
+        "licenza": "ISC",
+        "icona": "https://f-droid.org/repo//icons/com.github.abakum.crocson.2009.png",
+        "url_codice_sorgente": "https://github.com/abakum/crocson",
         "ultimo_aggiornamento": null
     },
     {
@@ -15329,7 +15390,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.lembra.app/en-US/icon_MJ_Bni1hE2z0sqgQ8PmtWwQ7R7cjWKLyi2OWsidDj6c=.png",
         "url_codice_sorgente": "https://github.com/tizzenn/lembra",
         "ultimo_aggiornamento": null
     },
@@ -15605,7 +15666,7 @@
             "Online Media Player"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.lostf1sh.pixelplayeross.1.png",
+        "icona": "https://f-droid.org/repo//icons/com.lostf1sh.pixelplayeross.2.png",
         "url_codice_sorgente": "https://github.com/lostf1sh/PixelPlayerOSS",
         "ultimo_aggiornamento": null
     },
@@ -18429,7 +18490,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "FinTrack - Expense manager (Money)",
+        "nome": "FinTrack - Expense, Money & Finance manager",
         "id_pacchetto": "com.openapps.fintrack",
         "riassunto": "Secure and Privacy-focused Money Manager",
         "categorie": [
@@ -24450,6 +24511,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Bruno's Meditation Timer",
+        "id_pacchetto": "com.wordpress.brunoloff.meditationtimer",
+        "riassunto": "Meditation and pranayama timer with streak tracking and other statistics.",
+        "categorie": [
+            "Meditation",
+            "Timer"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.wordpress.brunoloff.meditationtimer/en-US/icon_dfmqjE9qbsCo8SGEq6e8UJmikxT5oID93bbIso84C5s=.png",
+        "url_codice_sorgente": "https://github.com/bloff/meditation-timer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Word Tracer",
         "id_pacchetto": "com.wordtracer.app",
         "riassunto": "A crossword-like puzzle game",
@@ -28431,7 +28505,7 @@
             "System"
         ],
         "licenza": "ISC",
-        "icona": "https://f-droid.org/repo//icons/de.szalkowski.activitylauncher.20406.png",
+        "icona": "https://f-droid.org/repo//icons/de.szalkowski.activitylauncher.20500.png",
         "url_codice_sorgente": "https://github.com/butzist/ActivityLauncher",
         "ultimo_aggiornamento": null
     },
@@ -32967,7 +33041,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//in.kawaiis.journal/en-US/icon_mPArullU-JoeSvjm6m31Adx21qJZ7o5w-Gc1eWdU9Yk=.png",
+        "icona": "https://f-droid.org/repo//in.kawaiis.journal/en-US/icon_1QJ_HSK95i-dyJN9QtaoccQHf6LIV5Ykhwq4lbXk1V4=.png",
         "url_codice_sorgente": "https://github.com/LoliLin/journal-android-multilingual",
         "ultimo_aggiornamento": null
     },
@@ -34721,7 +34795,7 @@
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.github.mortenfyhn.feltbok/en-US/icon_RxN7xRdJQroW2DsaXLFjdgsGYHvavWwZjC9F1XEoFzQ=.png",
+        "icona": "https://f-droid.org/repo//io.github.mortenfyhn.feltbok/en-US/icon_aOV7Yx7AAv3Zbrk0F-KBZlgbV5VzQOdPda8axFUZtnQ=.png",
         "url_codice_sorgente": "https://github.com/mortenfyhn/feltbok",
         "ultimo_aggiornamento": null
     },
@@ -39225,6 +39299,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Quiet Rebellion",
+        "id_pacchetto": "net.quietrebellion",
+        "riassunto": "Control your Bose QC Ultra 2 directly — no Bose app, no cloud, no account.",
+        "categorie": [
+            "Multimedia",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/MadEyez/quietrebellion",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Noteless",
         "id_pacchetto": "net.redsolver.noteless",
         "riassunto": "A markdown note-taking app for mobile devices.",
@@ -41173,6 +41260,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "StudFinder - Stud Finder for Android",
+        "id_pacchetto": "org.bitanon.studfinder",
+        "riassunto": "Find wall studs with your Android's built-in magnetometer. Free, no ads.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//org.bitanon.studfinder/en-US/icon_Pwntz3Aqi3549EH4NXp-HIOSFV2Yk9cUTm4EyrRdKKw=.png",
+        "url_codice_sorgente": "https://github.com/toadlyBroodle/StudFinderAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "WiFiScanner",
         "id_pacchetto": "org.bitbatzen.wlanscanner",
         "riassunto": "Analyse the WiFi networks in range.",
@@ -42159,7 +42258,7 @@
             "Word Game"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.eehouse.android.xw4.204.png",
         "url_codice_sorgente": "http://xwords.sourceforge.net/source.php",
         "ultimo_aggiornamento": null
     },
@@ -42598,6 +42697,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.fdroid.nearby/en-US/icon_GDtOoGGei-dYWqwfU9DyWu4aJxkvp_ezutgSEBuxgh4=.png",
         "url_codice_sorgente": "https://gitlab.com/fdroid/fdroid-nearby",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FediSuite",
+        "id_pacchetto": "org.fedisuite.mobile",
+        "riassunto": "Manage and analyze Fediverse accounts on hosted or self-hosted FediSuite",
+        "categorie": [
+            "Social Network"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.fedisuite.mobile/en-US/icon_iK_QG27x-u4SZBIaA4sJMa6mZ3LTfq_lgKMMc0YEIII=.png",
+        "url_codice_sorgente": "https://forge.chrislo.de/FediSuite/FediSuite-Android-App",
         "ultimo_aggiornamento": null
     },
     {
@@ -45214,20 +45325,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Tubular",
-        "id_pacchetto": "org.polymorphicshade.tubular",
-        "riassunto": "A fork of NewPipe, a free lightweight YouTube frontend for Android.",
-        "categorie": [
-            "Internet",
-            "Multimedia",
-            "Online Media Player"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//org.polymorphicshade.tubular/en-US/icon_RCehgxuJKnJcUJrvdZisIC2qLVZowPpH47K9CiOYklA=.png",
-        "url_codice_sorgente": "https://github.com/polymorphicshade/Tubular",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "POuL BITS",
         "id_pacchetto": "org.poul.bits.android",
         "riassunto": "Get POuL headquarters status in realtime",
@@ -46546,7 +46643,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/org.smc.inputmethod.indic.161.png",
+        "icona": "https://f-droid.org/repo//icons/org.smc.inputmethod.indic.181.png",
         "url_codice_sorgente": "https://gitlab.com/indicproject/Indic-Keyboard",
         "ultimo_aggiornamento": null
     },
@@ -46824,9 +46921,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Notifications for FB",
+        "nome": "Notifiche per FB",
         "id_pacchetto": "org.surrel.facebooknotifications",
-        "riassunto": "Privacy-friendly Facebook notifications app.",
+        "riassunto": "App di notifiche Facebook che rispetta la privacy.",
         "categorie": [
             "Social Network"
         ],
