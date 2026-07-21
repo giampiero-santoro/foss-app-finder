@@ -3081,6 +3081,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ClaviRom",
+        "id_pacchetto": "clavirom.keyboard",
+        "riassunto": "Customizable open-source keyboard with a flavour of Swiss-Romansh",
+        "categorie": [
+            "Keyboard & IME"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//clavirom.keyboard/en-US/icon_-nkf9NO4Zp7Y0YX1AOcQdZMf32R_bPt8AZC2Ycn2v1I=.png",
+        "url_codice_sorgente": "https://github.com/mhuberch/clavirom",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "YidKey KD",
         "id_pacchetto": "click.dummer.yidkey",
         "riassunto": "Tastiera Yiddish (Decomposizione Compatibilità)",
@@ -5724,6 +5736,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Arcade",
+        "id_pacchetto": "com.arthur.arcade",
+        "riassunto": " A minimal game launcher with a twist",
+        "categorie": [
+            "App Manager",
+            "Firewall",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.arthur.arcade/en-US/icon_z4mobC1jGenW3acCL89mtd0bqfzRsxufLr1ePXxbMTg=.png",
+        "url_codice_sorgente": "https://github.com/fattdonki/Arcade/",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "MuPDF mini",
         "id_pacchetto": "com.artifex.mupdf.mini.app",
         "riassunto": "Visualizzatore minimalista per PDF, XPS, CBZ, EPUB non protetti e documenti FB2",
@@ -6582,7 +6608,7 @@
             "Remote Controller"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.bluesound.bluesoundplayer/en-US/icon_8VDIegCb1a_SHhrHKU9NteSA7nyju0-IrwV5K2IS-7A=.png",
         "url_codice_sorgente": "https://github.com/rdOxalis/bluesoundplayer",
         "ultimo_aggiornamento": null
     },
@@ -7991,7 +8017,7 @@
     {
         "nome": "Pixelix",
         "id_pacchetto": "com.daniebeler.pfpixelix",
-        "riassunto": "Pixelix: a user-friendly Pixelfed client for photo uploads, browsing, & sharing.",
+        "riassunto": "A mobile client for Pixelfed and Vernissage",
         "categorie": [
             "Connectivity",
             "Social Network"
@@ -11777,7 +11803,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.github.metacubex.clash.meta.211030.png",
+        "icona": "https://f-droid.org/repo//icons/com.github.metacubex.clash.meta.211031.png",
         "url_codice_sorgente": "https://github.com/MetaCubeX/ClashMetaForAndroid",
         "ultimo_aggiornamento": null
     },
@@ -16266,7 +16292,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.28.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.40.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -21740,7 +21766,7 @@
             "Writing"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005221.png",
+        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005223.png",
         "url_codice_sorgente": "https://github.com/standardnotes/app",
         "ultimo_aggiornamento": null
     },
@@ -22070,7 +22096,7 @@
             "File Transfer"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.swap.app.5.png",
         "url_codice_sorgente": "https://github.com/Mobinshahidi/swap",
         "ultimo_aggiornamento": null
     },
