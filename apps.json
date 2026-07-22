@@ -15895,7 +15895,7 @@
             "Market & Price"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.mablanco.pricegrab/en-US/icon_zhHhcklUGdaaACPzJ7A0HOVKr-yZEXB1q_bo-K2qEpE=.png",
+        "icona": "https://f-droid.org/repo//com.mablanco.pricegrab/en-US/icon_TErrLrCI1XfuAp51WXzFceW4prlRM9LGGOqvEUNvtA0=.png",
         "url_codice_sorgente": "https://github.com/mablanco/pricegrab",
         "ultimo_aggiornamento": null
     },
@@ -16027,7 +16027,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.52.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.53.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -42733,7 +42733,7 @@
             "Social Network"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.fedisuite.mobile/en-US/icon_iK_QG27x-u4SZBIaA4sJMa6mZ3LTfq_lgKMMc0YEIII=.png",
+        "icona": "https://f-droid.org/repo//org.fedisuite.mobile/de-DE/icon_iK_QG27x-u4SZBIaA4sJMa6mZ3LTfq_lgKMMc0YEIII=.png",
         "url_codice_sorgente": "https://forge.chrislo.de/FediSuite/FediSuite-Android-App",
         "ultimo_aggiornamento": null
     },
@@ -49696,6 +49696,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//site.leos.setter/en-US/icon__3FXP1CM3G4DB-4Pop3Si6k3KXs4g6tEgBAhq6QLa8g=.png",
         "url_codice_sorgente": "https://github.com/scubajeff/Setter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Snowdrop",
+        "id_pacchetto": "site.remlit.snowdrop",
+        "riassunto": "Multiplatform Mastodon API client using Compose",
+        "categorie": [
+            "Social Network"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/site.remlit.snowdrop.4.png",
+        "url_codice_sorgente": "https://github.com/ihateblueb/snowdrop",
         "ultimo_aggiornamento": null
     },
     {
