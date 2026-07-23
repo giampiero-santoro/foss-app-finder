@@ -9146,6 +9146,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tempus",
+        "id_pacchetto": "com.eddyizm.degoogled.tempus",
+        "riassunto": "An open-source and privacy focused music client for Subsonic",
+        "categorie": [
+            "Online Media Player",
+            "Podcast",
+            "Radio"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.eddyizm.degoogled.tempus/en-US/icon_8oX7DQ9CaE4P_klaYh-XdwqiqTlaR5cyQQtYGNXfG-0=.png",
+        "url_codice_sorgente": "https://github.com/eddyizm/tempus",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Transport Widgets",
         "id_pacchetto": "com.eden.livewidget",
         "riassunto": "Live arrival times widget for London.",
@@ -9489,6 +9503,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.epione.app.9.png",
         "url_codice_sorgente": "https://codeberg.org/kapoue/Epione",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "DNS Toggle",
+        "id_pacchetto": "com.ericlowry.dnstoggle",
+        "riassunto": "Easily toggle and automate Private DNS through the Quick Settings panel.",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.ericlowry.dnstoggle/en-US/icon_2hn9unRkyVlDNZFk6lJlyagULvI4zrDjEGALd-BUfM8=.png",
+        "url_codice_sorgente": "https://github.com/ELowry/DNSToggle",
         "ultimo_aggiornamento": null
     },
     {
@@ -10361,7 +10388,7 @@
     {
         "nome": "Flux",
         "id_pacchetto": "com.flux",
-        "riassunto": "Flow Through Your Workspace with Ease\n\nOrganize notes, tasks, journals, habits, ",
+        "riassunto": "Stay organized. Stay focused. Stay in Flux.",
         "categorie": [
             "Calendar & Agenda",
             "Note",
@@ -13036,7 +13063,7 @@
     {
         "nome": "C2K — Couch to 5K & 10K",
         "id_pacchetto": "com.hackerapps.c2k",
-        "riassunto": "Free, open-source C25K/C210K running trainer. No Google, no tracking.",
+        "riassunto": "Open-source C25K/C210K running trainer. No ads, no tracking.",
         "categorie": [
             "Timer",
             "Workout"
@@ -13761,7 +13788,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8678 manual pages, 30 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8817 manual pages, 30 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -16027,7 +16054,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.53.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.55.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -16946,7 +16973,7 @@
             "Sports & Health"
         ],
         "licenza": "MPL-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.mmazzarolo.breathly.3145748.png",
         "url_codice_sorgente": "https://github.com/mmazzarolo/breathly-app",
         "ultimo_aggiornamento": null
     },
@@ -17267,7 +17294,7 @@
     {
         "nome": "MBCompass",
         "id_pacchetto": "com.mubarak.mbcompass",
-        "riassunto": "Your modern, lightweight compass and navigation",
+        "riassunto": "Compass, GPS tracker & offline maps. No ads, no tracking.",
         "categorie": [
             "Navigation"
         ],
@@ -19568,7 +19595,7 @@
             "Messaging"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20006.png",
+        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20007.png",
         "url_codice_sorgente": "https://github.com/zerionproject/Zerion",
         "ultimo_aggiornamento": null
     },
@@ -21766,7 +21793,7 @@
             "Writing"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005223.png",
+        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005224.png",
         "url_codice_sorgente": "https://github.com/standardnotes/app",
         "ultimo_aggiornamento": null
     },
@@ -31932,6 +31959,18 @@
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//fr.kanis.foldio/en-US/icon_bzPW5cYIY_VLZCFCOos9mj0rh54alLnqwlVw7VwA36Y=.png",
         "url_codice_sorgente": "https://gitlab.com/ivankanis/foldio-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Drill Press Assistant",
+        "id_pacchetto": "fr.mgth.drillpress",
+        "riassunto": "Spindle speed calculator and belt position advisor for drill presses",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//fr.mgth.drillpress/en-US/icon_OVNDWTaASL2O4uWwXQcWqnxG8BB__eFjTSsOL0zni4Q=.png",
+        "url_codice_sorgente": "https://github.com/mgth/drill-press-assistant-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -42728,7 +42767,7 @@
     {
         "nome": "FediSuite",
         "id_pacchetto": "org.fedisuite.mobile",
-        "riassunto": "Manage and analyze Fediverse accounts on hosted or self-hosted FediSuite",
+        "riassunto": "Schedule, manage and analyze Fediverse accounts on any FediSuite instance",
         "categorie": [
             "Social Network"
         ],
