@@ -100,18 +100,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "sub rosa by naiveHA",
-        "id_pacchetto": "acab.naiveha.subrosa",
-        "riassunto": "Program the static password and/or OpenPGP keys to your YubiKey or Nitrokey 3",
-        "categorie": [
-            "Security"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//acab.naiveha.subrosa/en-US/icon_oM4UnrkcqN_eNQOmDmHQgoIN_LQBoz6ffNK0G1XyDQE=.png",
-        "url_codice_sorgente": "https://github.com/naive-HA/subrosa",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Stims",
         "id_pacchetto": "acidburn.stims",
         "riassunto": "Keep your screen awake while specific apps are in the foreground.",
@@ -8164,7 +8152,7 @@
             "Habit Tracker"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.david.waterreminder.2.png",
+        "icona": "https://f-droid.org/repo//com.david.waterreminder/en-US/icon_SaUVixLgoaF1soQD4RqWcrj3GAdc_8igU-yPEdKGk00=.png",
         "url_codice_sorgente": "https://codeberg.org/DavidCRicardo/WaterReminder",
         "ultimo_aggiornamento": null
     },
@@ -20833,7 +20821,7 @@
             "Internet"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.seafile.seadroid2.380.png",
+        "icona": "https://f-droid.org/repo//icons/com.seafile.seadroid2.390.png",
         "url_codice_sorgente": "https://github.com/haiwen/seadroid",
         "ultimo_aggiornamento": null
     },
@@ -23581,7 +23569,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.calendar/en-US/icon_zZZUEcmbqdmmhih5AHrRioGHiGWEcq8pGppJHq5yXQ8=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.calendar/en-US/icon_4_4EKAgOLs6J_f_Ju-FDB3owXu-ITJvkwwFuj3QJqoY=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23593,7 +23581,7 @@
             "Camera"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.camera/en-US/icon_AkLfw0vSD5bjQggc44rIayYemMI1kO3-DcVVSK9KyVc=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.camera/en-US/icon_IAgZNL63cjugKMqpx4k2PbI2Agr-Cjtu-i-VXuRWEA4=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23605,7 +23593,7 @@
             "Clock"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.clock/en-US/icon_Y7QPSr4p6G4rjWGyajPh21tI4OvWeBC0mcrtoQHvqBM=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.clock/en-US/icon_375dzckj6z6IIKMohlDGBXu4uaYfkzvIqNA-UYg_OZg=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23617,7 +23605,7 @@
             "Phone & SMS"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.contacts/en-US/icon_UKNFba8g1nE5M6NtEUgesc1pJzoCrtzNLMLqqURH9OQ=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.contacts/en-US/icon_C9DtQCFbSymGZIIq2BYaLsvHudihdgJMDct8-uwcRcI=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23629,7 +23617,7 @@
             "Email"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.email/en-US/icon_R2oTIRijPxcI8_9Kij7RW9kgJCuaAD3xhJU5gRc2ERQ=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.email/en-US/icon_FG2U7q2AYhSw8avfYb6jjiC2MMJuQFjJlHsDgAHEWtg=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23641,7 +23629,7 @@
             "Location Tracker & Sharer"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.findfamily/en-US/icon_kM9GWWX6fDP-kntoj3ImRh91eBwq_mvnPmX3nuksyq8=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.findfamily/en-US/icon_FnvrJSbmlpguLAOISOCiz96-IngqefCJifEIhAjzOV4=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23653,7 +23641,7 @@
             "Casual Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.games.alchemist/en-US/icon_JejiCNWjsGeRvImFNEztiZNljzISbzaDJT05rN3Tut0=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.alchemist/en-US/icon_U_p1nXM3OuJNXYiu7kltLNnJw1X5OnrPg7wMlst0MjA=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23665,7 +23653,7 @@
             "Board Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.games.chess/en-US/icon_WbsCJ_gI_sz6wtKzlUkJRyQ9Aq3j73rOslgMhg-5F6I=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.chess/en-US/icon_-Qd46kVjqWYD97vXN9brKucUNJcGOiB0L7HAc4SH7Mo=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23677,7 +23665,7 @@
             "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.games.pipes/en-US/icon_VEQkiK9YFgtIh17MnM6ezy7HZsPnIPuK_n1uHd4S0Pk=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.pipes/en-US/icon_5MqQrqRMUB2iRqziWTzxeOvSONvyYdqvyeD55jh8Icw=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23689,7 +23677,7 @@
             "Card Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.games.solitaire/en-US/icon_863DrWNFuNMaUhAF9vE-VDtcFkXVXr_2zwBu5iwhbdE=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.solitaire/en-US/icon_HzdIBFDk4QOvUplkecGd8f5DfQkG7nsfnOGzRnYymoU=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23701,7 +23689,7 @@
             "Board Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.games.unblockjam/en-US/icon_Up6zlkty5SSZSbuKdpbeqG1RpUaC3WsKo7q8mEfyiC4=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.unblockjam/en-US/icon_PHXIS7SMObSuT-xzvtq0rqhRd7_MgmSXHE6vu2dSXlg=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23713,7 +23701,7 @@
             "Word Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.games.wordmaker/en-US/icon_sftPsIAh1bCWYdBivks8Z2yAu_ae01UNhbzHoNtmvjs=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.games.wordmaker/en-US/icon_Lx9WW20JbW6hO5sXjmUJsIe6hoQBQLQ97Sm3GQsl7Uw=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23726,7 +23714,7 @@
             "Health Manager"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.health/en-US/icon_ZacXjNI93U5-eOTIk1o9eWf9ps3DdX7_LcCZzSC4YKI=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.health/en-US/icon_VMAG0KWdrwDK7u4vofBCavirb0znbTbaKndnbOs4BkQ=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23738,7 +23726,7 @@
             "Local Media Player"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.music/en-US/icon_HBsxfLO6ONWRn3ztOJDixqTk9eLX4XBFEirRoQfrLKQ=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.music/en-US/icon_xqTPgMdAodppAKZ85730xKPWZ4oxcGX4G3LRakHdrE4=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23750,7 +23738,7 @@
             "Note"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.notes/en-US/icon_sSoaKhMbtU7GNAC8YyC4NY4XDcNwIVtS4Ix8eug62SQ=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.notes/en-US/icon_AJa_rq98E5cg0al8Bb_sWi_HbsoJDORmDUjeg_LDWc8=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23762,7 +23750,7 @@
             "Text Editor"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.office/en-US/icon_oeBLtAqfcgD8CfuhyqUAJAUp49P8mdb1PyHLWOt0b6E=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.office/en-US/icon_YBmXgPP7ghlp3sX5I1x--51hXf9Ra8APVnXyKsM8Qpw=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23774,7 +23762,7 @@
             "AI Chat"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.openassistant/en-US/icon__gHORJj0klBPoQeJxev0WPvUJ7JWmrHvd9MPcY22RTk=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.openassistant/en-US/icon_HNj61KYPnQMloDws0M_QD-f8DHxwUqhAiqUpgeWwyd8=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23786,7 +23774,7 @@
             "Password & 2FA"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.passwords/en-US/icon_Ngxv0wDJmBsxphGg3PeHfypHrxaNUALKtgprLdtE4gU=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.passwords/en-US/icon_u6muJGmNB54VwexDMO8_hfBAKBeH5_YyiZYeBnz-UTQ=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23798,7 +23786,7 @@
             "Ebook Reader"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.pdf/en-US/icon_XAi40QkOPOlBn6t5N0SWvVsfPLm67llo4BC7HbckUMI=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.pdf/en-US/icon_-6-Yixo3wf5zNCiAOfHEfIUMKhZINbpfJDHfgqsJtMo=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23810,7 +23798,7 @@
             "Gallery"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.photos/en-US/icon_6afFCot8Z4IrumZfljk2982x2clvx4w9ZbFR8rs1c70=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.photos/en-US/icon_71UGMZtzsS1ONryvHSiQ5GU63dNrturW5NlHStLMky0=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -23834,7 +23822,7 @@
             "Online Media Player"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.vayunmathur.youpipe/en-US/icon_TobGNvhMk1sayjAkbIy32jWlVmMoQcAEv3h-LZUPd-Y=.png",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.youpipe/en-US/icon_dPRu8COjMLlV1ELhdu5VIKa207jg46u20yu1Ks5QWxA=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
@@ -29499,6 +29487,7 @@
         "id_pacchetto": "dev.encgallery",
         "riassunto": "Encrypted, offline photo & video vault with a comfortable gallery",
         "categorie": [
+            "File Encryption & Vault",
             "Gallery"
         ],
         "licenza": "GPL-3.0-only",
