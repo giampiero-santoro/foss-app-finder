@@ -9923,6 +9923,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ReSearch",
+        "id_pacchetto": "com.example.research",
+        "riassunto": "DSL dictionary reader with fast search and DictZip support",
+        "categorie": [
+            "Translation & Dictionary"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://git.oneway.asia/OneWay/ReSearch",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Sekreto",
         "id_pacchetto": "com.example.sekreto",
         "riassunto": "Nessuna descrizione disponibile.",
@@ -16410,7 +16422,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.40.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.41.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -17064,7 +17076,7 @@
             "Sports & Health"
         ],
         "licenza": "MPL-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.mmazzarolo.breathly.3145748.png",
+        "icona": "https://f-droid.org/repo//icons/com.mmazzarolo.breathly.3145750.png",
         "url_codice_sorgente": "https://github.com/mmazzarolo/breathly-app",
         "ultimo_aggiornamento": null
     },
@@ -17415,7 +17427,7 @@
             "Writing"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.167.png",
+        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.170.png",
         "url_codice_sorgente": "https://github.com/Musheer360/SwiftSlate",
         "ultimo_aggiornamento": null
     },
@@ -18141,9 +18153,9 @@
             "Alarm Clock",
             "Religion"
         ],
-        "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://github.com/darkmaster0345/Noor-connect",
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.noorconnect.app/en-US/icon_ofMN_JlLUU6Wm49W2vsvWs4fy23fW3uJcaYQT29VSWg=.png",
+        "url_codice_sorgente": "https://gitlab.com/theredhacker0345/Noor-connect",
         "ultimo_aggiornamento": null
     },
     {
@@ -18536,7 +18548,7 @@
     {
         "nome": "reReminder",
         "id_pacchetto": "com.olaf.rereminder",
-        "riassunto": "A simple, open-source app for setting recurring reminders throughout your day.",
+        "riassunto": "Open-source recurring reminders, many timers, own schedules, no tracking.",
         "categorie": [
             "Alarm Clock"
         ],
@@ -21332,6 +21344,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Arrow Escape: Infinite Puzzle",
+        "id_pacchetto": "com.sidhant.arrowescape",
+        "riassunto": "Minimalist arrow puzzle game with infinite levels, zero ads, and total privacy",
+        "categorie": [
+            "Casual Game",
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.arrowescape/en-US/icon_nR3BXi7hyQDKPax3xKpmW7ytBQxsTCyo8_Olzw7q5uA=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/ArrowEscape",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Hue Spill",
         "id_pacchetto": "com.sidhant.huespill",
         "riassunto": "Fill the entire board with a single color.",
@@ -23351,7 +23376,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.trougnouf.cfait/en-US/icon_hdNMiO51CtxeOJbf2fF1k__Xpapk8VRo-fLC7y5cGWo=.png",
-        "url_codice_sorgente": "https://codeberg.org/trougnouf/cfait",
+        "url_codice_sorgente": "https://git.disroot.org/trougnouf/cfait",
         "ultimo_aggiornamento": null
     },
     {
@@ -26322,7 +26347,7 @@
     {
         "nome": "ShockAlarm",
         "id_pacchetto": "de.computerelite.shockalarm",
-        "riassunto": "Material3 app for controlling OpenShock shockers",
+        "riassunto": "Full featured Cross Platform OpenShock Client optimized for Mobile usage ",
         "categorie": [
             "Alarm Clock",
             "Connectivity",
@@ -26418,7 +26443,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/de.cyberit.wasgeht.17.png",
         "url_codice_sorgente": "https://github.com/cyberbeat/wasgeht-android",
         "ultimo_aggiornamento": null
     },
@@ -39668,7 +39693,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//net.quietrebellion/en-US/icon_2P6L1lJc35SVQBaqBDC1gDZyYn2bqu3w4gBorGGOI_w=.png",
         "url_codice_sorgente": "https://github.com/MadEyez/quietrebellion",
         "ultimo_aggiornamento": null
     },
@@ -41877,7 +41902,7 @@
             "Graphics"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.catrobat.paintroid.53.png",
         "url_codice_sorgente": "https://github.com/Catrobat/Paintroid",
         "ultimo_aggiornamento": null
     },
@@ -42986,7 +43011,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Fcitx5 (That Plugin)",
+        "nome": "Fcitx5 (Thai Plugin)",
         "id_pacchetto": "org.fcitx.fcitx5.android.plugin.thai",
         "riassunto": "Thai input method for Fcitx5",
         "categorie": [
@@ -44930,7 +44955,7 @@
             "Messaging"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.mlm.mages/en-US/icon_JU2ZYWVBRsUNv7AE4x176v6RjmY_qRreLiEWOipiB9g=.png",
+        "icona": "https://f-droid.org/repo//org.mlm.mages/en-US/icon_cQYgbDro2SmLgWoJKoRYzqwceK9CuKbdHtNDS2hj_L4=.png",
         "url_codice_sorgente": "https://github.com/mlm-games/mages",
         "ultimo_aggiornamento": null
     },
