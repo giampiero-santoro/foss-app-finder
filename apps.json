@@ -1185,7 +1185,7 @@
     {
         "nome": "Sterna Mail",
         "id_pacchetto": "app.sterna",
-        "riassunto": "Private, modern Android email client for JMAP — with full IMAP/SMTP support.",
+        "riassunto": "Client email privato per JMAP e IMAP/SMTP. Senza Google, senza tracciamento.",
         "categorie": [
             "Email"
         ],
@@ -3468,7 +3468,7 @@
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.13.png",
+        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.15.png",
         "url_codice_sorgente": "https://github.com/Limekana/StudyDesk",
         "ultimo_aggiornamento": null
     },
@@ -4307,7 +4307,7 @@
             "Messaging"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//com.amanoteam.flonne/en-US/icon_ULoTZyuxAT-60V0xlbPSLkD870S4hYBh-O-BDcdvgXY=.png",
+        "icona": "https://f-droid.org/repo//com.amanoteam.flonne/en-US/icon_pFfWyQJZkEi02nyPRQKv6LpqYUooIBsbWiOh31HmP_c=.png",
         "url_codice_sorgente": "https://github.com/AmanoTeam/Goregram",
         "ultimo_aggiornamento": null
     },
@@ -6903,6 +6903,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BurnPony",
+        "id_pacchetto": "com.burnpony.android",
+        "riassunto": "Self-destructing encrypted notes. The recipient just opens a link.",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/com.burnpony.android.2.png",
+        "url_codice_sorgente": "https://github.com/norsehorse-dev/BurnPonyAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Klick'r - Smart AutoClicker",
         "id_pacchetto": "com.buzbuz.smartautoclicker",
         "riassunto": "Automating clicks based on what is displayed",
@@ -8564,6 +8576,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "NetToggle",
+        "id_pacchetto": "com.dhangofa.networktoggle",
+        "riassunto": "Quick Settings network mode switcher",
+        "categorie": [
+            "Connectivity",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.dhangofa.networktoggle/en-US/icon_seyQBYv3nIlkPEzKeXcLjjxIIkgTBntWnvjWAHtFXVo=.png",
+        "url_codice_sorgente": "https://github.com/Dhangofa/NetToggle",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Full colemak",
         "id_pacchetto": "com.diblui.fullcolemak",
         "riassunto": "Layout Colemak Internazionale",
@@ -9555,7 +9580,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.epione.app.10.png",
+        "icona": "https://f-droid.org/repo//icons/com.epione.app.11.png",
         "url_codice_sorgente": "https://codeberg.org/kapoue/Epione",
         "ultimo_aggiornamento": null
     },
@@ -10825,7 +10850,7 @@
             "Habit Tracker"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.frequent.habits/en-US/icon_tQIgCDdf73V2w1x5ZzUdMd_ieVE-6Y1osxA44KVYR7Q=.png",
+        "icona": "https://f-droid.org/repo//com.frequent.habits/en-US/icon_KEMYUmmcAO56VKM3J8xbW1VPnYitiZcNSFaBoZ_CDxY=.png",
         "url_codice_sorgente": "https://github.com/FrequeNCy144/Frequent-Habits",
         "ultimo_aggiornamento": null
     },
@@ -11138,7 +11163,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.809.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.813.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -11608,7 +11633,7 @@
     {
         "nome": "Android IP Camera",
         "id_pacchetto": "com.github.digitallyrefined.androidipcamera",
-        "riassunto": "An Android MJPEG / H.264 IP Camera app",
+        "riassunto": "An Android H.264 / MJPEG IP Camera app",
         "categorie": [
             "Camera",
             "Connectivity",
@@ -16182,7 +16207,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.56.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.57.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -17260,7 +17285,7 @@
             "Casual Game"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.mostafa.brickblast/en-US/icon_15WUYofI0by7mrOkfl8AH5Vi6i1_1ULI1HKV6qx2IXo=.png",
+        "icona": "https://f-droid.org/repo//com.mostafa.brickblast/en-US/icon_RcK-aOIApQ5AAaq0X9Y5cGwvvQu0i8vDieK03mJFob0=.png",
         "url_codice_sorgente": "https://github.com/ashrafimostafa/Brick-Blast",
         "ultimo_aggiornamento": null
     },
@@ -17797,7 +17822,7 @@
             "Navigation"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.nextgis.mobile.196.png",
+        "icona": "https://f-droid.org/repo//icons/com.nextgis.mobile.197.png",
         "url_codice_sorgente": "https://github.com/nextgis/android_gisapp",
         "ultimo_aggiornamento": null
     },
@@ -19552,6 +19577,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "TV Remote",
+        "id_pacchetto": "com.porter.tvremote",
+        "riassunto": "Web remote control for Android TV — no cloud, no account, LAN only",
+        "categorie": [
+            "Remote Controller"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.porter.tvremote.5.png",
+        "url_codice_sorgente": "https://github.com/Legvan/tv-remote",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Portio",
         "id_pacchetto": "com.portio",
         "riassunto": "Optimize batch cooking! Weigh meals and split portions based on each participant",
@@ -20697,7 +20734,7 @@
             "Bookmark"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.ruizlenato.karabau.6.png",
+        "icona": "https://f-droid.org/repo//icons/com.ruizlenato.karabau.8.png",
         "url_codice_sorgente": "https://github.com/ruizlenato/Karabau",
         "ultimo_aggiornamento": null
     },
@@ -21019,7 +21056,7 @@
             "Internet"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.seafile.seadroid2.390.png",
+        "icona": "https://f-droid.org/repo//icons/com.seafile.seadroid2.400.png",
         "url_codice_sorgente": "https://github.com/haiwen/seadroid",
         "ultimo_aggiornamento": null
     },
@@ -21400,6 +21437,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.huespill/en-US/icon_RVPXKX3Cm46Ta2V3Ulrq7fbuPefQN4HUp2K8OsWu7B8=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/HueSpill",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Nonogram",
+        "id_pacchetto": "com.sidhant.nonogram",
+        "riassunto": "A free, open-source picture logic puzzle game with no ads or tracking",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.nonogram/en-US/icon_ouCF5pxS59RVlQC_k_q1kzz8TaVu4mCdnSaYnpzopt0=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Nonogram",
         "ultimo_aggiornamento": null
     },
     {
@@ -22106,6 +22155,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.stefansundin.sshremote/en-US/icon_82Gmwa5I_JiAH97h213hKOY4CBQVBrdVMxFU60PSuhk=.png",
         "url_codice_sorgente": "https://github.com/stefansundin/SSHRemote",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Zipline",
+        "id_pacchetto": "com.stefdp.zipline",
+        "riassunto": "Un'app per gestire la tua instanza self-hosted di Zipline.",
+        "categorie": [
+            "Cloud Storage & File Sync"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.stefdp.zipline/en-US/icon_bc9cUYyGReVaSGb-yBPktjcZ5_qbslytu2TvS7BdVXM=.png",
+        "url_codice_sorgente": "https://git.stefdp.com/Stef/Zipline-Android-App",
         "ultimo_aggiornamento": null
     },
     {
@@ -23867,6 +23928,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.vayun.files/en-US/icon_gx4EyKQhxiX9J3nYsQUZT7H-pF4JyFMZexQfRjCQowk=.png",
         "url_codice_sorgente": "https://github.com/vayun-mathur/Omni-Files",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "MA Astronomy",
+        "id_pacchetto": "com.vayunmathur.astronomy",
+        "riassunto": "An AR night sky viewer",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vayunmathur.astronomy/en-US/icon_Ce-N35UziU00hOnaMKvwE5X0K3Jk27ZxDc-breE6mM4=.png",
+        "url_codice_sorgente": "https://github.com/vayun-mathur/Modern-Apps",
         "ultimo_aggiornamento": null
     },
     {
@@ -33664,6 +33737,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FrOSCon 2026 Schedule",
+        "id_pacchetto": "info.metadude.android.froscon.schedule",
+        "riassunto": "Nessuna descrizione disponibile.",
+        "categorie": [
+            "Schedule"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/info.metadude.android.froscon.schedule.121.png",
+        "url_codice_sorgente": "https://github.com/johnjohndoe/CampFahrplan",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GPN 2026 Schedule",
         "id_pacchetto": "info.metadude.android.gpn.schedule",
         "riassunto": "GPN Schedule",
@@ -37903,6 +37988,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "RPG NPC Generator",
+        "id_pacchetto": "me.kerooker.rpgcharactergenerator",
+        "riassunto": "Generate random D&D-style NPCs for your tabletop RPG sessions.",
+        "categorie": [
+            "Game Helper",
+            "Role-Playing Game"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/me.kerooker.rpgcharactergenerator.51103.png",
+        "url_codice_sorgente": "https://github.com/LeoColman/rpg-npc-generator",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Kreate",
         "id_pacchetto": "me.knighthat.kreate",
         "riassunto": "A multilingual YouTube Music frontend for Android, prioritize performance.",
@@ -41922,7 +42020,7 @@
             "Graphics"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.catrobat.paintroid.53.png",
+        "icona": "https://f-droid.org/repo//icons/org.catrobat.paintroid.54.png",
         "url_codice_sorgente": "https://github.com/Catrobat/Paintroid",
         "ultimo_aggiornamento": null
     },
@@ -43488,7 +43586,7 @@
             "Reading"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/org.ftena.openshelf.2001.png",
+        "icona": "https://f-droid.org/repo//org.ftena.openshelf/en-US/icon_AyPo6JA1nvSnAagIyRtes46JPkAceW8xcCxQd4Pw12s=.png",
         "url_codice_sorgente": "https://github.com/Swappppy/Openshelf",
         "ultimo_aggiornamento": null
     },
@@ -43671,7 +43769,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.gnu.emacs.310090003.png",
+        "icona": "https://f-droid.org/repo//icons/org.gnu.emacs.310091003.png",
         "url_codice_sorgente": "https://git.savannah.gnu.org/cgit/emacs.git/tree/",
         "ultimo_aggiornamento": null
     },
@@ -44202,6 +44300,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FeedTV",
+        "id_pacchetto": "org.juanro.feedtv",
+        "riassunto": "TV, radio and RSS news. Supports custom M3U lists.",
+        "categorie": [
+            "Multimedia",
+            "News"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//org.juanro.feedtv/en-US/icon_-C7oJvmEjcdCQK7DCSUF6OP4qU-TXW6s1SQL5xTK0DE=.png",
+        "url_codice_sorgente": "https://github.com/juanro49/FeedTV",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "XScreenSaver",
         "id_pacchetto": "org.jwz.xscreensaver",
         "riassunto": "Collezione standard di salvaschermo distribuiti con i sistemi Linux e Unix",
@@ -44275,7 +44386,7 @@
             "Translation & Dictionary"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.kaqui.101.png",
+        "icona": "https://f-droid.org/repo//icons/org.kaqui.102.png",
         "url_codice_sorgente": "https://github.com/blastrock/kakugo",
         "ultimo_aggiornamento": null
     },
