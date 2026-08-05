@@ -2377,7 +2377,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/ca.rmen.android.poetassistant.113200.png",
         "url_codice_sorgente": "https://github.com/caarmen/poet-assistant",
         "ultimo_aggiornamento": null
     },
@@ -4063,6 +4063,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Snore Detector",
+        "id_pacchetto": "com.aistudio.snoredetector.afkwd",
+        "riassunto": "Detects snoring during sleep and records snore events.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.aistudio.snoredetector.afkwd/en-US/icon_3O2EbDooNUAVSG2iV95eeMu7ZCTpq5c3_sgBjxDiWcE=.jpg",
+        "url_codice_sorgente": "https://github.com/elgrande73/FOSS-snore-detector-android-app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "WA Adder",
         "id_pacchetto": "com.aj.wa.contact.adder",
         "riassunto": "Nessuna descrizione disponibile.",
@@ -4731,6 +4743,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.anthonyla.paperize/en-US/icon_3rPxpSan5IXdJQsMi8n6Ax1-XKI2_q7cwFGHFrzOX8w=.png",
         "url_codice_sorgente": "https://github.com/Anthonyy232/Paperize",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Anti-Vocale",
+        "id_pacchetto": "com.antivocale.app",
+        "riassunto": "Offline voice-message transcription, fully on-device",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.antivocale.app/en-US/icon_XMhKcGSWJauRgpBaaKJtXDFF-QFvG48aCwDjOWBMnAM=.png",
+        "url_codice_sorgente": "https://github.com/RisorseArtificiali/anti-vocale",
         "ultimo_aggiornamento": null
     },
     {
@@ -6732,7 +6756,7 @@
     {
         "nome": "Metronome",
         "id_pacchetto": "com.bobek.metronome",
-        "riassunto": "Simple and beautiful metronome",
+        "riassunto": "A simple and elegant metronome",
         "categorie": [
             "Multimedia",
             "Music Practice Tool"
@@ -6765,6 +6789,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.boldwallet/en-US/phoneScreenshots/icon_FPYhj7CdusrtcSVTtdBmCOvSfxKTcX8BjLUIPmhedGQ=.png",
         "url_codice_sorgente": "https://github.com/BoldBitcoinWallet/BoldWallet",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Bote",
+        "id_pacchetto": "com.bote.app",
+        "riassunto": "Split shared group expenses and settle up with minimal transfers",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/tizzenn/bote",
         "ultimo_aggiornamento": null
     },
     {
@@ -8712,7 +8748,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.divinelink.scenepeek.55.png",
-        "url_codice_sorgente": "https://github.com/Divinelink/scenepeek-android",
+        "url_codice_sorgente": "https://codeberg.org/Divinelink/scenepeek",
         "ultimo_aggiornamento": null
     },
     {
@@ -10679,9 +10715,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Acode editor - Android code editor",
+        "nome": "Acode IDE: Terminal & AI Code",
         "id_pacchetto": "com.foxdebug.acode",
-        "riassunto": "A lightweight but powerful text/code editor.",
+        "riassunto": "Code editor for Android with Linux terminal, Git, plugins and AI tools.",
         "categorie": [
             "Development",
             "Text Editor"
@@ -11201,7 +11237,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.816.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.817.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -13964,7 +14000,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8817 manual pages, 30 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8887 manual pages, 30 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -14528,6 +14564,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.jmstudios.redmoon/en-US/icon_OopDB8V1yMtnFsnQg3yeVCzjf3gvLa540T_m9fj0uFs=.png",
         "url_codice_sorgente": "https://github.com/LibreShift/red-moon",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Minesweeper",
+        "id_pacchetto": "com.joeld.minesweeper",
+        "riassunto": "Configurable offline Minesweeper for Android.",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/JoelDankert/Minesweeper-for-Android",
         "ultimo_aggiornamento": null
     },
     {
@@ -15746,6 +15794,18 @@
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.limbo.emu.main.60001.png",
         "url_codice_sorgente": "https://github.com/limboemu/limbo",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Nexus Command Center",
+        "id_pacchetto": "com.limecore.nexus",
+        "riassunto": "One Life Score for finance, fitness, study, work and habits",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.26.png",
+        "url_codice_sorgente": "https://github.com/Limekana/nexus-command-center",
         "ultimo_aggiornamento": null
     },
     {
@@ -17564,7 +17624,7 @@
             "Writing"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.172.png",
+        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.187.png",
         "url_codice_sorgente": "https://github.com/Musheer360/SwiftSlate",
         "ultimo_aggiornamento": null
     },
@@ -17897,7 +17957,7 @@
             "Navigation"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.nextgis.mobile.197.png",
+        "icona": "https://f-droid.org/repo//icons/com.nextgis.mobile.199.png",
         "url_codice_sorgente": "https://github.com/nextgis/android_gisapp",
         "ultimo_aggiornamento": null
     },
@@ -18214,6 +18274,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.noahjutz.gymroutines/en-US/icon_p3DYyF0JNliUam3HdOhF7R_9NgAqn7c-OjOFdvqGMnc=.png",
         "url_codice_sorgente": "https://codeberg.org/noahjutz/GymRoutines",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Noir Gym",
+        "id_pacchetto": "com.noirgym.app",
+        "riassunto": "Log workouts, chase PRs, and grow your Fitness Score with every rep.",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.noirgym.app/en-US/icon_QvXXDOnFWHr-_hJicpauGvyJcPmBridfYLLABzVtEqA=.png",
+        "url_codice_sorgente": "https://gitlab.com/xabdulrahmanahmedx7/noir-gym",
         "ultimo_aggiornamento": null
     },
     {
@@ -20653,6 +20725,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Miroji",
+        "id_pacchetto": "com.rogeriodocarmo.miroji",
+        "riassunto": "A fast, simple, private front-camera mirror",
+        "categorie": [
+            "Camera"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.rogeriodocarmo.miroji.10303.png",
+        "url_codice_sorgente": "https://github.com/RogerioDoCarmo/mirror_app",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "HyperRogue",
         "id_pacchetto": "com.roguetemple.hyperroid",
         "riassunto": "Top-down rogue-like adventure",
@@ -21425,6 +21509,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "kiFOSSk",
+        "id_pacchetto": "com.shinydiscoballsdev.kifossk",
+        "riassunto": "Lightweight FOSS kiosk browser for dashboards. Zero Google services.",
+        "categorie": [
+            "Internet",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.shinydiscoballsdev.kifossk.1.png",
+        "url_codice_sorgente": "https://github.com/ShinyDiscoBallsDev/kiFOSSk",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Dharmik Online",
         "id_pacchetto": "com.shub39.dharmik.online",
         "riassunto": "Browse Bhagavad Gita",
@@ -21515,6 +21612,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Block Blast",
+        "id_pacchetto": "com.sidhant.blockblast",
+        "riassunto": "A minimal, privacy-focused block puzzle game",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.blockblast/en-US/icon_mhpFy2pGYuVF1cxgp2P1ko5M32SpO_ktTdO1H-W_kdA=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/BlockBlast",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Hue Spill",
         "id_pacchetto": "com.sidhant.huespill",
         "riassunto": "Fill the entire board with a single color.",
@@ -21524,6 +21633,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.huespill/en-US/icon_RVPXKX3Cm46Ta2V3Ulrq7fbuPefQN4HUp2K8OsWu7B8=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/HueSpill",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Mahjong Solitaire",
+        "id_pacchetto": "com.sidhant.mahjong",
+        "riassunto": "Classic tile-matching puzzles without interruptions, tracking, or ads.",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.mahjong/en-US/icon_Tw2w167fo0Ukd-tT9cEa4r6w5rl91rzdvImY_cri95w=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Mahjong",
         "ultimo_aggiornamento": null
     },
     {
@@ -23126,7 +23247,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.tideo.autobrightness/en-US/icon_rOLm-VJAEO85qcn-deHLSsJekUkwa7BQMr7yy_OgRTY=.png",
         "url_codice_sorgente": "https://github.com/faded-penguin021/Tideo-Auto-Brightness",
         "ultimo_aggiornamento": null
     },
@@ -28262,6 +28383,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tankblick",
+        "id_pacchetto": "de.mymiggi.tankblick",
+        "riassunto": "German fuel prices — data-frugal and without tracking",
+        "categorie": [
+            "Market & Price",
+            "Navigation"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.mymiggi.tankblick/de-DE/icon_VR6RXU9twxkSG7s_1U0SLxCP5teKCFlfvvNCEvuAgkU=.png",
+        "url_codice_sorgente": "https://code.mymiggi.de/Miggi/tankblick",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Office Break",
         "id_pacchetto": "de.mysportsmate.officebreak",
         "riassunto": "Active break timer with exercises - reminds you to move at the office.",
@@ -29947,6 +30081,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "DeBurrow",
+        "id_pacchetto": "dev.debene.gopher",
+        "riassunto": "A modern Gopher protocol client for Android.",
+        "categorie": [
+            "Browser"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//dev.debene.gopher/en-US/icon_ywBfhbR5CIebptMhzRCt0Iu8Y1ZAsncjQW6RCku-TiY=.png",
+        "url_codice_sorgente": "https://github.com/felipedbene/deburrow",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Simple Notes Sync",
         "id_pacchetto": "dev.dettmer.simplenotes",
         "riassunto": "Offline notes & checklists, self-hosted sync. Under 5 MB, no ads, no tracking.",
@@ -31085,7 +31231,7 @@
         "id_pacchetto": "es.pile",
         "riassunto": "Organize your documents with tags. Private, offline, and built for you.",
         "categorie": [
-            "Security"
+            "File Manager"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//es.pile/en-US/icon_FG3GgGudkALjtih5MAWm9-CMenCeYAdPZ7TPgW7HAuU=.png",
@@ -32757,6 +32903,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BinClockWidget",
+        "id_pacchetto": "fr.shiningcat.binclockwidget",
+        "riassunto": "AMOLED-black monochrome binary-clock home-screen widget",
+        "categorie": [
+            "Clock"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/shining-cat/binary-clock-widget",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SimpleHIIT",
         "id_pacchetto": "fr.shiningcat.simplehiit",
         "riassunto": "Customisable HIIT timer with animated exercises",
@@ -33000,6 +33158,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//geddit.buzl.uk/en-US/icon_Qmp8V94GImrODIf4dtvGTblCyJkSG3_qja4zE2UnFzY=.png",
         "url_codice_sorgente": "https://github.com/kaangiray26/geddit-app",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ForgetMeNot",
+        "id_pacchetto": "git.gay.gloocannon.forgetmenot",
+        "riassunto": "A simple todo app with reminders and obsidian integration",
+        "categorie": [
+            "Task"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//git.gay.gloocannon.forgetmenot/en-US/icon_QNgxorZcfR77YD9_ds74DGHo0pyqbh4jj__Y_OZUiCM=.png",
+        "url_codice_sorgente": "https://git.gay/GloocannonPIPI/ForgetMeNot",
         "ultimo_aggiornamento": null
     },
     {
@@ -49425,6 +49595,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "xlog2",
+        "id_pacchetto": "ro.scripca.xlog2",
+        "riassunto": "Peer-to-peer amateur-radio field logbook that syncs with the xlog2 desktop",
+        "categorie": [
+            "Connectivity"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/ro.scripca.xlog2.60900.png",
+        "url_codice_sorgente": "https://github.com/yo6ssw/xlog2",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SubSonicSter",
         "id_pacchetto": "rocks.langhaarschneider.subsonicster",
         "riassunto": "Play Hitster card game with your own SubSonic music server",
@@ -49630,7 +49812,7 @@
     {
         "nome": "TimePlanner",
         "id_pacchetto": "ru.aleshin.timeplanner",
-        "riassunto": "Convenient and fast task planning for the day",
+        "riassunto": "TimePlanner - plan your day with ease, speed, and pleasure!",
         "categorie": [
             "Task"
         ],
