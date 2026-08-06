@@ -5734,7 +5734,7 @@
             "Radio"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.armanmaurya.internetradio.13.png",
+        "icona": "https://f-droid.org/repo//com.armanmaurya.internetradio/en-US/icon_KtKqNTQP8Da-PmCGFh5EGCgDWu41psQ-zyvmcJquo1U=.png",
         "url_codice_sorgente": "https://github.com/armanmaurya/InternetRadio",
         "ultimo_aggiornamento": null
     },
@@ -5922,6 +5922,7 @@
         "id_pacchetto": "com.astroloop.game",
         "riassunto": "Open-source roguelike shooter. Simple to play, no ads, no tracking, offline.",
         "categorie": [
+            "Action Game",
             "Shooter Game"
         ],
         "licenza": "GPL-3.0-only",
@@ -8652,7 +8653,7 @@
     {
         "nome": "NetToggle",
         "id_pacchetto": "com.dhangofa.networktoggle",
-        "riassunto": "Quick Settings network mode switcher",
+        "riassunto": "QS tile to force 5G/4G Only or preferred modes using Root or Shizuku",
         "categorie": [
             "Connectivity",
             "System"
@@ -11237,7 +11238,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.817.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.818.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -12299,7 +12300,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Stock Ticker",
+        "nome": "Today Stocks",
         "id_pacchetto": "com.github.premnirmal.tickerwidget",
         "riassunto": "Widget ticker del mercato azionario",
         "categorie": [
@@ -15383,7 +15384,7 @@
     {
         "nome": "Kryptos",
         "id_pacchetto": "com.kryptos.android",
-        "riassunto": "End-to-end encryption for any messenger, over any channel",
+        "riassunto": "Encrypt inside any messenger: the keyboard encrypts, the screen decrypts",
         "categorie": [
             "Messaging",
             "Security"
@@ -19426,7 +19427,7 @@
             "Multimedia"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.phnem.vetro.333.png",
+        "icona": "https://f-droid.org/repo//icons/com.phnem.vetro.334.png",
         "url_codice_sorgente": "https://github.com/Phnem/Vetro",
         "ultimo_aggiornamento": null
     },
@@ -21517,7 +21518,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.shinydiscoballsdev.kifossk.1.png",
+        "icona": "https://f-droid.org/repo//icons/com.shinydiscoballsdev.kifossk.2.png",
         "url_codice_sorgente": "https://github.com/ShinyDiscoBallsDev/kiFOSSk",
         "ultimo_aggiornamento": null
     },
@@ -24079,7 +24080,7 @@
     {
         "nome": "InstaDownload",
         "id_pacchetto": "com.vakarux.instadownload",
-        "riassunto": "Download Instagram reels and photos to your device",
+        "riassunto": "Download Instagram media to your device",
         "categorie": [
             "Download",
             "Internet"
@@ -36978,7 +36979,7 @@
             "Remote Access"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//io.paperterm.app/en-US/icon_wMAGZ_vPvtCCM6m-DYjrHLxxNla7E0-M4c_VKSFRUVc=.png",
         "url_codice_sorgente": "https://gitlab.com/paperterm/paperterm",
         "ultimo_aggiornamento": null
     },
@@ -37656,7 +37657,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/jp.takke.cpustats.29.png",
+        "icona": "https://f-droid.org/repo//icons/jp.takke.cpustats.30.png",
         "url_codice_sorgente": "https://github.com/takke/cpustats",
         "ultimo_aggiornamento": null
     },
@@ -37668,7 +37669,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/jp.takke.datastats.37.png",
         "url_codice_sorgente": "https://github.com/takke/DataStats",
         "ultimo_aggiornamento": null
     },
@@ -47493,7 +47494,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/org.smc.inputmethod.indic.181.png",
+        "icona": "https://f-droid.org/repo//icons/org.smc.inputmethod.indic.191.png",
         "url_codice_sorgente": "https://gitlab.com/indicproject/Indic-Keyboard",
         "ultimo_aggiornamento": null
     },
