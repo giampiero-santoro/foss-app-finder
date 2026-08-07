@@ -2888,7 +2888,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "ProtonVPN - Secure and Free VPN",
+        "nome": "Proton VPN - Secure and Free VPN",
         "id_pacchetto": "ch.protonvpn.android",
         "riassunto": "Free Swiss VPN with advanced security and privacy features.",
         "categorie": [
@@ -6745,7 +6745,7 @@
     {
         "nome": "Compass",
         "id_pacchetto": "com.bobek.compass",
-        "riassunto": "Simple and beautiful compass",
+        "riassunto": "A simple and clean compass",
         "categorie": [
             "Navigation"
         ],
@@ -11238,7 +11238,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.818.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.819.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -15805,7 +15805,7 @@
             "Finance Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.26.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.27.png",
         "url_codice_sorgente": "https://github.com/Limekana/nexus-command-center",
         "ultimo_aggiornamento": null
     },
@@ -16330,7 +16330,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.57.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.58.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -22422,7 +22422,7 @@
         "categorie": [
             "Habit Tracker"
         ],
-        "licenza": "MIT",
+        "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.streak.app/en-US/icon_wR3kcq_MsNCb7y7dqQzCQLsaw1gfUj84X5qvX5IKv_A=.png",
         "url_codice_sorgente": "https://github.com/InlitX/streak",
         "ultimo_aggiornamento": null
@@ -26457,7 +26457,7 @@
             "Navigation"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/de.blau.android.3408.png",
+        "icona": "https://f-droid.org/repo//icons/de.blau.android.3409.png",
         "url_codice_sorgente": "https://github.com/MarcusWolschon/osmeditor4android",
         "ultimo_aggiornamento": null
     },
@@ -30242,7 +30242,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.403.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.413.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -51369,14 +51369,14 @@
     {
         "nome": "Trailence",
         "id_pacchetto": "trailence.org",
-        "riassunto": "Hiking app to organize tracks, record new ones, search, edit, and much more...",
+        "riassunto": "Il tuo compagno di escursioni e gestore di tracce GPS. Libero, senza tracker.",
         "categorie": [
             "Location Tracker & Sharer",
             "Navigation",
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//trailence.org/en-US/icon_947IHV2Y18QeBKUqLlt7zIryzKi6FiV4BF_oBpsH-aM=.png",
+        "icona": "https://f-droid.org/repo//trailence.org/de-DE/icon_947IHV2Y18QeBKUqLlt7zIryzKi6FiV4BF_oBpsH-aM=.png",
         "url_codice_sorgente": "https://github.com/trailence/trailence-front",
         "ultimo_aggiornamento": null
     },
@@ -52273,12 +52273,12 @@
     {
         "nome": "Metiq: noise & ambient sounds",
         "id_pacchetto": "xyz.metiq",
-        "riassunto": "White, pink & brown noise + relaxing ambient sounds for sleep, study and focus.",
+        "riassunto": "Colored noise, binaural beats & ambient sounds for sleep, study and focus.",
         "categorie": [
             "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//xyz.metiq/en-US/icon_NMWjmSGdvSskRwHDs4kJhPQNAqdfLO22-TytJnPtcvI=.png",
+        "icona": "https://f-droid.org/repo//xyz.metiq/en-US/icon_YysJn4IRWWOqrhhrwNG2DA9TsTFpmS9KSZ5QSkQ0Kik=.png",
         "url_codice_sorgente": "https://github.com/metiq-xyz/android-app",
         "ultimo_aggiornamento": null
     },
