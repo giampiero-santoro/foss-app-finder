@@ -18286,7 +18286,7 @@
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.noirgym.app/en-US/icon_QvXXDOnFWHr-_hJicpauGvyJcPmBridfYLLABzVtEqA=.png",
-        "url_codice_sorgente": "https://gitlab.com/xabdulrahmanahmedx7/noir-gym",
+        "url_codice_sorgente": "https://gitlab.com/noir-group7/noir-gym",
         "ultimo_aggiornamento": null
     },
     {
@@ -20947,6 +20947,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sadellie.unitto/en-US/icon_WLNMzzRfYIAWGdkvW6CYs79VKZ4YJggg6a2V0aCV27I=.png",
         "url_codice_sorgente": "https://github.com/sadellie/unitto",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Track Exploder",
+        "id_pacchetto": "com.safrone.trackexploder",
+        "riassunto": "Extract, remix, and practise with barbershop learning tracks",
+        "categorie": [
+            "Multimedia",
+            "Music Practice Tool"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.safrone.trackexploder/en-US/icon_VcN9lL-QKgiuecA9M4bFb5i-ay2kolNgsv1waIlIvts=.png",
+        "url_codice_sorgente": "https://github.com/Safrone/track-exploder",
         "ultimo_aggiornamento": null
     },
     {
@@ -34056,14 +34069,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "HOPE_16",
+        "nome": "HOPE 26",
         "id_pacchetto": "info.metadude.android.hope.schedule",
         "riassunto": "Program app for the HOPE conference",
         "categorie": [
             "Schedule"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/info.metadude.android.hope.schedule.121.png",
         "url_codice_sorgente": "https://github.com/johnjohndoe/CampFahrplan",
         "ultimo_aggiornamento": null
     },
@@ -37492,7 +37505,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.119.png",
         "url_codice_sorgente": "https://github.com/rignaneseleo/SlimSocial-for-Facebook",
         "ultimo_aggiornamento": null
     },
@@ -44502,7 +44515,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Jellyfin - I tuoi contenuti, nelle tue mani!",
+        "nome": "Jellyfin",
         "id_pacchetto": "org.jellyfin.mobile",
         "riassunto": "Client mobile per Jellyfin, il sistema multimediale gratuito",
         "categorie": [
