@@ -1024,7 +1024,7 @@
     {
         "nome": "Prav",
         "id_pacchetto": "app.prav.client",
-        "riassunto": "A user-friendly messenger for everyone with a focus on privacy and freedom (powe",
+        "riassunto": "Messaging for everyone, delivering privacy and freedom (powered by XMPP)!",
         "categorie": [
             "Internet",
             "Messaging",
@@ -6489,6 +6489,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BikeTrackd",
+        "id_pacchetto": "com.biketrackd.app",
+        "riassunto": "A cycling speedometer and GPS tracker with offline maps and bike maintenance",
+        "categorie": [
+            "Navigation"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.biketrackd.app/en-US/icon_zwEpnIOavoofPpkuMpErGLjQhRS6c6Uvj_-UQqDbwgk=.png",
+        "url_codice_sorgente": "https://github.com/higorslva/biketrackd",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Bily",
         "id_pacchetto": "com.bily",
         "riassunto": "Aids in splitting shared receipts fairly",
@@ -11188,6 +11200,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.gdf.hema_timer/en-US/icon_7P8iqYxjwx8TXvqEunLowLWJuCtzkJVrRvhj0EXnDWk=.png",
         "url_codice_sorgente": "https://github.com/kstepanovdev/gdf_hema_timer",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "GeauxWeather",
+        "id_pacchetto": "com.geauxweather.app",
+        "riassunto": "Clean, fast, no-ads weather with radar, storms, and places",
+        "categorie": [
+            "Weather"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.geauxweather.app/en-US/icon_6OcPBLNwig6101HHaUNnJvApjPAGaiJs68h-nfnxYNY=.png",
+        "url_codice_sorgente": "https://gitlab.com/tunefriend/geauxweather",
         "ultimo_aggiornamento": null
     },
     {
@@ -16335,6 +16359,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Malarm",
+        "id_pacchetto": "com.malarm",
+        "riassunto": "Flexible no-frills alarm scheduler, free and open source",
+        "categorie": [
+            "Alarm Clock"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.malarm/en-US/icon_-o-TFia6agsY5V_NN1tFH3hS8Ea7ERR_sqgGDQ0Zz5E=.png",
+        "url_codice_sorgente": "https://github.com/adriablo/malarm",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Another notes app",
         "id_pacchetto": "com.maltaisn.notes.sync",
         "riassunto": "Another notes app, like there have been tens of thousands before.",
@@ -17933,7 +17969,7 @@
     {
         "nome": "N-Zik",
         "id_pacchetto": "com.nevar.nzik.foss",
-        "riassunto": "A multilingual YouTube Music frontend for Android, prioritize performance.",
+        "riassunto": "A modern, multilingual YouTube Music client for Android with offline support.",
         "categorie": [
             "Internet",
             "Multimedia",
@@ -20654,6 +20690,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ReteKey",
+        "id_pacchetto": "com.retekey",
+        "riassunto": "Hangul keyboard with Esc, Tab, Ctrl and F-keys. 470 KB, one permission.",
+        "categorie": [
+            "Keyboard & IME",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.retekey/en-US/icon_NzTFfQz5QbbrCATxGOZg9CxCTYUgsAc6uLn_RnTWUD0=.png",
+        "url_codice_sorgente": "https://github.com/rubidus-api/retekey_apk",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "RetroArch",
         "id_pacchetto": "com.retroarch",
         "riassunto": "Retro games and emulators on your device!",
@@ -20854,7 +20903,7 @@
     {
         "nome": "Filester",
         "id_pacchetto": "com.roozbehzarei.filester",
-        "riassunto": "A secure, accessible cloud storage app for android",
+        "riassunto": "Temporary cloud storage for fast, private file sharing",
         "categorie": [
             "Cloud Storage & File Sync",
             "Internet"
@@ -22114,6 +22163,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SmokingYou",
+        "id_pacchetto": "com.smokingtracker",
+        "riassunto": "Minimalist, data-oriented smoking tracker with analytics, widgets, and themes.",
+        "categorie": [
+            "Habit Tracker",
+            "Health Manager",
+            "Time Tracker"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.smokingtracker/en-US/icon_mxiZxxeUKY5FBLQOY_BW0yga6g8b5bF0SfjiIdyQtlM=.png",
+        "url_codice_sorgente": "https://github.com/bodyaant/SmokingYou",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "WADBS",
         "id_pacchetto": "com.smoothie.wirelessDebuggingSwitch",
         "riassunto": "Switch Android's Wireless Debugging feature on and off quickly",
@@ -22908,6 +22971,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.tananaev.passportreader.23.png",
         "url_codice_sorgente": "https://github.com/tananaev/passport-reader",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Personal Health Records",
+        "id_pacchetto": "com.taotao.healthtracker",
+        "riassunto": "Record personal health measurements and view trends locally.",
+        "categorie": [
+            "Health Manager"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.taotao.healthtracker/en-US/icon_dldiZwvjyrB-ZFEXAKeineclta3cpvwAcWhWenytPyw=.png",
+        "url_codice_sorgente": "https://github.com/zengtao227/health-tracker-app",
         "ultimo_aggiornamento": null
     },
     {
@@ -27912,6 +27987,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "meine Gleitzeit - my flextime",
+        "id_pacchetto": "de.leverbursche.meinegleitzeitapp",
+        "riassunto": "A simple local app to track your working hours and flexitime.",
+        "categorie": [
+            "Time Tracker"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/de.leverbursche.meinegleitzeitapp.19.png",
+        "url_codice_sorgente": "https://github.com/leverbursche/meine-gleitzeit",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "pixelflood",
         "id_pacchetto": "de.lihotzki.pixelflood",
         "riassunto": "Server Pixelflut",
@@ -31844,7 +31931,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/eu.pretix.pretixprint.84.png",
         "url_codice_sorgente": "https://github.com/pretix/pretixprint-android",
         "ultimo_aggiornamento": null
     },
@@ -36044,7 +36131,7 @@
     {
         "nome": "Karui ToDo",
         "id_pacchetto": "io.github.ronynn.karui",
-        "riassunto": "An open source, privacy focussed, 64kB aesthetic todo list app.",
+        "riassunto": "An open source, privacy focussed, 90kB aesthetic todo list app with easter eggs.",
         "categorie": [
             "Note",
             "Task",
@@ -40215,6 +40302,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Battery Tile",
+        "id_pacchetto": "net.pgaskin.batterytile",
+        "riassunto": "QS tile with detailed battery information.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/pgaskin/batterytile",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "cmus music player (android)",
         "id_pacchetto": "net.pgaskin.cmus.android",
         "riassunto": "Lightweight music player with touch-friendly controls and system integration.",
@@ -41733,6 +41832,21 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.andstatus.todoagenda/en-US/icon_I_i6pvWvqfWkNrC91-kUMeeMY0-Xbgcb8F4JENmFzfU=.png",
         "url_codice_sorgente": "https://github.com/andstatus/todoagenda",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Anonomi Messenger",
+        "id_pacchetto": "org.anonomi.android",
+        "riassunto": "Decentralized messaging for high-threat environments",
+        "categorie": [
+            "Connectivity",
+            "Internet",
+            "Messaging",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.anonomi.android/en-US/icon_e1WvGK7wBcbPGjg9QjrScD42nrs70kZETuBf8mnSjw0=.png",
+        "url_codice_sorgente": "https://github.com/anonomi-org/anonomi-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -47696,7 +47810,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/org.smc.inputmethod.indic.191.png",
+        "icona": "https://f-droid.org/repo//icons/org.smc.inputmethod.indic.201.png",
         "url_codice_sorgente": "https://gitlab.com/indicproject/Indic-Keyboard",
         "ultimo_aggiornamento": null
     },
@@ -50742,6 +50856,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//simple.reboot.com/en-US/icon_xgDOXGqpmuBGxw-_prA-MY-SP6vvfGSyZZCpgjgey1A=.png",
         "url_codice_sorgente": "https://github.com/franciscofranco/Simple-Reboot-app",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Seenema: Movie Tracker",
+        "id_pacchetto": "sitavi.seenema",
+        "riassunto": "Track and rate the films and series you have watched. No account, no ads.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Sitavi/Seenema-movie-tracker",
         "ultimo_aggiornamento": null
     },
     {
