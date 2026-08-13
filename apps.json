@@ -3978,6 +3978,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "AgePony: Encrypt & Sign",
+        "id_pacchetto": "com.agepony.app",
+        "riassunto": "Post-quantum file & message encryption with age. On-device, private, no ads.",
+        "categorie": [
+            "File Encryption & Vault"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.agepony.app/en-US/icon_hP3AgSBoB1d5_uH4dEUk2DZXmXkJ9cOFY4p9IjvMxwA=.png",
+        "url_codice_sorgente": "https://github.com/norsehorse-dev/AgePonyAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "TapLock",
         "id_pacchetto": "com.ah.taplock",
         "riassunto": "Lock your screen instantly with a double tap.",
@@ -7472,6 +7484,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Liseur",
+        "id_pacchetto": "com.chmouel.liseur",
+        "riassunto": "An open-source EPUB reader and calibre-web or Komga client",
+        "categorie": [
+            "Ebook Reader",
+            "Reading"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.chmouel.liseur/en-US/icon_Aqswtw77Vh5HM-661ecONSv1ntf7S75zsUHqrd8MeM8=.png",
+        "url_codice_sorgente": "https://github.com/chmouel/liseur",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Noise Timer",
         "id_pacchetto": "com.chmouel.noisetimer",
         "riassunto": "Calming white, pink, and brown noise with a sleep timer",
@@ -9341,7 +9366,7 @@
     {
         "nome": "Transport Widgets",
         "id_pacchetto": "com.eden.livewidget",
-        "riassunto": "Live arrival times widget for London.",
+        "riassunto": "Live arrival times widget.",
         "categorie": [
             "Internet",
             "Public Transport"
@@ -11053,6 +11078,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BroadBoard",
+        "id_pacchetto": "com.galagidae.broadboard",
+        "riassunto": "Tastiera a schermo grande e ad alto contrasto progettata per persone ipovedenti",
+        "categorie": [
+            "Keyboard & IME"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.galagidae.broadboard/en-US/icon_1mI9uXRY-qtWSQDn5dAwf8dvztIQ_rg0NMjbbYai8bg=.png",
+        "url_codice_sorgente": "https://github.com/galagidae/broadboard",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Cascada",
         "id_pacchetto": "com.game.Cascada",
         "riassunto": "Casual logic game with marbles for two players",
@@ -11891,7 +11928,7 @@
             "Health Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.github.heartratemonitor_compose.39.png",
+        "icona": "https://f-droid.org/repo//icons/com.github.heartratemonitor_compose.40.png",
         "url_codice_sorgente": "https://github.com/XiaochangXu/HeartRateMonitor-composeui",
         "ultimo_aggiornamento": null
     },
@@ -20236,6 +20273,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Quiet Grid",
+        "id_pacchetto": "com.quietgrid.app",
+        "riassunto": "Privacy-first logic puzzles. No ads, no internet, no account required.",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.quietgrid.app/en-US/icon_1hm589j9F5Qr0i55witmVKv1mScAkewkZdzd798Nk_Y=.png",
+        "url_codice_sorgente": "https://github.com/lendl/quiet-grid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Paperless Share",
         "id_pacchetto": "com.quinncasey.paperless_share",
         "riassunto": "Share your documents with your Paperless server",
@@ -23058,6 +23107,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.tengu.sharetoclipboard/en-US/icon_9Mczb_s6TpB4vMHhJuF0SvlVGDIdJAQuQZWORJ3NldA=.png",
         "url_codice_sorgente": "https://github.com/tengusw/share_to_clipboard",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Terminator",
+        "id_pacchetto": "com.terminator.app",
+        "riassunto": "Multi-session terminal emulator with Material UI theming and root support",
+        "categorie": [
+            "Development",
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.terminator.app/en-US/icon_RcNSQQqE3o-wxe8MfjdmV30rfqdQkPq_PGQztH7HhTU=.png",
+        "url_codice_sorgente": "https://github.com/8dmusichannels-star/terminator",
         "ultimo_aggiornamento": null
     },
     {
@@ -30807,6 +30869,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Cyclauncher",
+        "id_pacchetto": "dev.msbs.cyclauncher",
+        "riassunto": "Fast, accessible launcher focused on speed and one-handed use",
+        "categorie": [
+            "Launcher"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.msbs.cyclauncher/en-US/icon_ya_2-SA4vVp4fVpGZ7ww-srq_i5Ry9gWR7ocg5X0jA8=.png",
+        "url_codice_sorgente": "https://github.com/msbluesnow/Cyclauncher",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "sms2call",
         "id_pacchetto": "dev.n4n5.sms2call",
         "riassunto": "Make a call when receiving a defined SMS",
@@ -31743,7 +31817,7 @@
             "Internet"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/eu.heili.wormhole.7943.png",
+        "icona": "https://f-droid.org/repo//icons/eu.heili.wormhole.8423.png",
         "url_codice_sorgente": "https://github.com/wormhole-app/wormhole",
         "ultimo_aggiornamento": null
     },
@@ -31806,6 +31880,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//eu.hydrologis.smash/en-US/icon_hPJtgVFMQSUELKJAQPYWMMeaCLXH2NuiIbPk58wHgLg=.png",
         "url_codice_sorgente": "https://github.com/geopaparazzi/smash",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Hupl",
+        "id_pacchetto": "eu.imouto.hupl",
+        "riassunto": "Upload files to any HTTP server from Android's share menu.",
+        "categorie": [
+            "File Transfer"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//eu.imouto.hupl/en-US/icon_W1Vw0ELodWzxUDLExDNeL_E2ytbuRGy5RhplxX9xLxk=.png",
+        "url_codice_sorgente": "https://github.com/Rouji/Hupl",
         "ultimo_aggiornamento": null
     },
     {
@@ -32447,6 +32533,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//eu.zimbelstern.tournant/en-US/icon_YMhRcgjyhnLoZspcVyaXl0Nw0kYMQ_jeaIaNbUvoFWQ=.png",
         "url_codice_sorgente": "https://github.com/zimbelstern/Tournant",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Eve Game Tracker",
+        "id_pacchetto": "eve.game.tracker",
+        "riassunto": "Track card game results.",
+        "categorie": [
+            "Card Game",
+            "Game Helper"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//eve.game.tracker/en-US/icon_lAYv7AL-jSfQ0oF00_Go9xoyiBlX1BIn5YSbssk-NmQ=.png",
+        "url_codice_sorgente": "https://github.com/Eve-146T/eve-game-tracker",
         "ultimo_aggiornamento": null
     },
     {
@@ -35357,7 +35456,7 @@
             "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.80.png",
+        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.81.png",
         "url_codice_sorgente": "https://github.com/herrerad85/moneywallet",
         "ultimo_aggiornamento": null
     },
@@ -35576,6 +35675,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.karino2.texttl/en-US/icon_ZAkKE27D_D1ZjmJQSZCXEizv1WW2Bsh5Ovn90Z6oM8g=.png",
         "url_codice_sorgente": "https://github.com/karino2/TextTL",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Clockwork",
+        "id_pacchetto": "io.github.keco216.clockwork",
+        "riassunto": "TOTP codes without a network permission. Offline by design, nothing stored.",
+        "categorie": [
+            "Password & 2FA"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.keco216.clockwork/en-US/icon_6gworKSWFMgbyIMv8Kj1_NB_7JUVPOcH7wWRVeFjdvc=.png",
+        "url_codice_sorgente": "https://github.com/keco216/clockwork",
         "ultimo_aggiornamento": null
     },
     {
@@ -37807,7 +37918,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/jp.ddo.hotmist.unicodepad.75.png",
+        "icona": "https://f-droid.org/repo//icons/jp.ddo.hotmist.unicodepad.79.png",
         "url_codice_sorgente": "https://github.com/Ryosuke839/UnicodePad",
         "ultimo_aggiornamento": null
     },
@@ -37960,6 +38071,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/kaba.yucata.envoy.503.png",
         "url_codice_sorgente": "https://github.com/ka-ba/yucata.envoy",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Hestia",
+        "id_pacchetto": "kapoue.hestia",
+        "riassunto": "Local control of Shelly devices — no cloud, no account, no tracking.",
+        "categorie": [
+            "Remote Controller"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//kapoue.hestia/en-US/icon_i3Xkc2r39NQ_vyabg-Ev1c9ztJpTbHGOB7HhWd10PNk=.png",
+        "url_codice_sorgente": "https://codeberg.org/kapoue/Hestia",
         "ultimo_aggiornamento": null
     },
     {
@@ -40323,6 +40446,18 @@
         "licenza": "GPL-2.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/pgaskin/cmus-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Windy Live Wallpaper",
+        "id_pacchetto": "net.pgaskin.windy",
+        "riassunto": "Android live wallpaper visualizing local wind patterns",
+        "categorie": [
+            "Wallpaper"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//net.pgaskin.windy/en-US/icon_9Cpi2jjzI9gxQXcJ0JH2EeQtOxrMe-zejBv1OGMKlG0=.png",
+        "url_codice_sorgente": "https://github.com/pgaskin/windy",
         "ultimo_aggiornamento": null
     },
     {
@@ -43496,7 +43631,7 @@
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.epstudios.morbidmeter.31.png",
         "url_codice_sorgente": "https://github.com/mannd/morbidmeter-android",
         "ultimo_aggiornamento": null
     },
