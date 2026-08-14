@@ -8013,7 +8013,7 @@
     {
         "nome": "CryptoSafe",
         "id_pacchetto": "com.cryptosafe.app",
-        "riassunto": "Offline AES-256-GCM text encryption with Argon2id",
+        "riassunto": "Offline AES-256-GCM text encryption with Argon2id, no internet permission",
         "categorie": [
             "Security"
         ],
@@ -8816,6 +8816,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SayWhen",
+        "id_pacchetto": "com.dmi3dmi3.saywhen",
+        "riassunto": "One phrase — and it's on your calendar. No forms, no fields.",
+        "categorie": [
+            "Calendar & Agenda"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.dmi3dmi3.saywhen/en-US/icon_7DyQdUXB3FaAWg5ZdYrtxDAGreW--fX7CLHACrIDaTY=.png",
+        "url_codice_sorgente": "https://github.com/dmi3dmi3/saywhen",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "My Quran - قرآني",
         "id_pacchetto": "com.dmouayad.my_quran",
         "riassunto": "A lightweight, offline Quran with search",
@@ -9169,6 +9181,18 @@
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//icons/com.drodin.tuxrider.15.png",
         "url_codice_sorgente": "https://github.com/drodin/TuxRider",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Droidrops",
+        "id_pacchetto": "com.droidrops.app",
+        "riassunto": "Droidrops RSS client",
+        "categorie": [
+            "News"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.droidrops.app/en-US/icon_146-cCazb2WYkElIE3vXGbr0CUtBgxb8iAKVi2vbD2Y=.png",
+        "url_codice_sorgente": "https://github.com/thekester/Droidrops",
         "ultimo_aggiornamento": null
     },
     {
@@ -16239,6 +16263,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Hermes Mobile",
+        "id_pacchetto": "com.m57.hermescontrol",
+        "riassunto": "Remote control for your Hermes AI agent",
+        "categorie": [
+            "AI Chat"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Hy4ri/hermes-mobile",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Tehran Metro",
         "id_pacchetto": "com.ma.tehro",
         "riassunto": "An app to facilitate using tehran metro",
@@ -16681,7 +16717,7 @@
             "Online Media Player"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.matelsky.coppelia.213.png",
+        "icona": "https://f-droid.org/repo//icons/com.matelsky.coppelia.223.png",
         "url_codice_sorgente": "https://github.com/j6k4m8/coppelia",
         "ultimo_aggiornamento": null
     },
@@ -17475,6 +17511,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Harbor",
+        "id_pacchetto": "com.monstera.harbor",
+        "riassunto": "Local, FOSS work-profile isolation and app management",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Stem0794/harbor",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Nope Remote",
         "id_pacchetto": "com.monuk7735.nope.remote",
         "riassunto": "IR remote control with customizable automation macros.",
@@ -17736,7 +17784,7 @@
             "Writing"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.207.png",
+        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.218.png",
         "url_codice_sorgente": "https://github.com/Musheer360/SwiftSlate",
         "ultimo_aggiornamento": null
     },
@@ -18006,7 +18054,7 @@
     {
         "nome": "N-Zik",
         "id_pacchetto": "com.nevar.nzik.foss",
-        "riassunto": "A modern, multilingual YouTube Music client for Android with offline support.",
+        "riassunto": "Un client YouTube Music moderno e multilingue per Android con supporto offline.",
         "categorie": [
             "Internet",
             "Multimedia",
@@ -20093,7 +20141,7 @@
             "Messaging"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.20007.png",
+        "icona": "https://f-droid.org/repo//icons/com.professor.zerion.30100.png",
         "url_codice_sorgente": "https://github.com/zerionproject/Zerion",
         "ultimo_aggiornamento": null
     },
@@ -21408,6 +21456,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SearchLauncher",
+        "id_pacchetto": "com.searchlauncher.app",
+        "riassunto": "Search apps, contacts and the web, and open results in an ad-free browser",
+        "categorie": [
+            "Launcher",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/ontola/searchlauncher",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GlyphPort",
         "id_pacchetto": "com.sebiai.glyphport",
         "riassunto": "Port Nothing® Glyph Compositions between phones",
@@ -21821,6 +21882,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.mahjong/en-US/icon_Tw2w167fo0Ukd-tT9cEa4r6w5rl91rzdvImY_cri95w=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/Mahjong",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Match 3",
+        "id_pacchetto": "com.sidhant.match3",
+        "riassunto": "Minimal and open-source Match-3 puzzle game",
+        "categorie": [
+            "Casual Game",
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.match3/en-US/icon_FYpym4krqhvJmrD6CkI9Wo-ByibTSm_2XBtE-6nbpDc=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Match3",
         "ultimo_aggiornamento": null
     },
     {
@@ -24060,6 +24134,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.twoeightnine.root.xvii/en-US/icon_YDl9CM7-qHIVNAlpCIkjo7ktCseRmKwXykaw2WjcecA=.png",
         "url_codice_sorgente": "https://github.com/TwoEightNine/XVII",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "TypeAssist",
+        "id_pacchetto": "com.typeassist.app",
+        "riassunto": "AI-powered accessibility assistant for intelligent text transformations.",
+        "categorie": [
+            "AI Chat"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.typeassist.app/en-US/icon_PaXd7K4X1uRFoX3pJkp4RQcG_gagUwxoNjeOIwP7pT4=.png",
+        "url_codice_sorgente": "https://github.com/estiaksoyeb/TypeAssist",
         "ultimo_aggiornamento": null
     },
     {
@@ -38872,6 +38958,21 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Nightbell",
+        "id_pacchetto": "me.river.nightbell",
+        "riassunto": "Uptime monitoring that runs on your phone. No server, no account.",
+        "categorie": [
+            "Development",
+            "Network Analyzer",
+            "Notification",
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//me.river.nightbell/en-US/icon_4mvG_pXF8RkauX9LuCQ8t8-g6wHeITNYqbS8y11jKxQ=.png",
+        "url_codice_sorgente": "https://github.com/riveerxd/nightbell",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "folder launcher",
         "id_pacchetto": "me.robbyblue.mylauncher",
         "riassunto": "A file structure inspired launcher",
@@ -43619,7 +43720,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/org.epstudios.epmobile.95.png",
         "url_codice_sorgente": "https://github.com/mannd/epmobile",
         "ultimo_aggiornamento": null
     },
@@ -46167,7 +46268,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/org.nutritionfacts.dailydozen.94.png",
+        "icona": "https://f-droid.org/repo//icons/org.nutritionfacts.dailydozen.95.png",
         "url_codice_sorgente": "https://github.com/nutritionfactsorg/daily-dozen-android",
         "ultimo_aggiornamento": null
     },
@@ -51001,7 +51102,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//sitavi.seenema/en-US/icon_qmTHoNPuokDJVmqtioB6aodpAg7hViUkytNlaRgFEnY=.png",
         "url_codice_sorgente": "https://github.com/Sitavi/Seenema-movie-tracker",
         "ultimo_aggiornamento": null
     },
@@ -51557,6 +51658,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/tech.ula.7438725.png",
         "url_codice_sorgente": "https://github.com/CypherpunkArmory/UserLAnd",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FreeProxy",
+        "id_pacchetto": "tech.xvanturing.freeproxy",
+        "riassunto": "Route your traffic through a SOCKS5 or HTTP proxy, per app.",
+        "categorie": [
+            "Internet",
+            "VPN & Proxy"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//tech.xvanturing.freeproxy/en-US/icon_cPUwyhHJWQK3czabVT8cTcOgZ2TAPKKe2Dvd_4vkzCo=.png",
+        "url_codice_sorgente": "https://github.com/xVanTuring/free-proxy",
         "ultimo_aggiornamento": null
     },
     {
@@ -52473,9 +52587,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Trending AI",
+        "nome": "GitHub Trending & Hacker News",
         "id_pacchetto": "whl.trending.ai",
-        "riassunto": "Global tech trends, fast-picked by AI.",
+        "riassunto": "Daily AI picks from GitHub Trending, Hacker News & Product Hunt.",
         "categorie": [
             "News"
         ],
