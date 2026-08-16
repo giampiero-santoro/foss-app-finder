@@ -8798,8 +8798,8 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.divinelink.scenepeek.55.png",
-        "url_codice_sorgente": "https://codeberg.org/Divinelink/scenepeek",
+        "icona": "https://f-droid.org/repo//icons/com.divinelink.scenepeek.56.png",
+        "url_codice_sorgente": "https://codeberg.org/Divinelink/scenepeek-tmdb",
         "ultimo_aggiornamento": null
     },
     {
@@ -11336,7 +11336,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.819.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.820.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -12976,6 +12976,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.gokadzev.musify.fdroid/en-US/icon_ruBgK4a5depu6_TrF8PW1_y1sJYeQQFW97ZdAF6hgEU=.png",
         "url_codice_sorgente": "https://github.com/gokadzev/Musify",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "IM2SMS",
+        "id_pacchetto": "com.goldmaster.im2sms",
+        "riassunto": "A simple app to import IM chat histories into Android’s SMS storage.",
+        "categorie": [
+            "Phone & SMS"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.goldmaster.im2sms/en-US/icon_EnrMQscbArcaNPln8p0wMcf9Z0v_RIq6oNMjWxcTRek=.png",
+        "url_codice_sorgente": "https://gitlab.com/Goldmaster/im2sms",
         "ultimo_aggiornamento": null
     },
     {
@@ -15915,7 +15927,7 @@
             "Finance Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.28.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.29.png",
         "url_codice_sorgente": "https://github.com/Limekana/nexus-command-center",
         "ultimo_aggiornamento": null
     },
@@ -19490,9 +19502,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "PennyWise AI - Expense Tracker",
+        "nome": "PennyWise: SMS Expense Tracker",
         "id_pacchetto": "com.pennywiseai.tracker",
-        "riassunto": "Private expense tracker & budget app — auto-reads bank SMS, on-device AI.",
+        "riassunto": "Auto-track UPI & bank SMS. Private expense tracker and budget app, no sign-up.",
         "categorie": [
             "AI Chat",
             "Finance Manager"
@@ -21709,6 +21721,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Kiosk",
+        "id_pacchetto": "com.shapeshed.kiosk",
+        "riassunto": "A Hacker News reader for Android.",
+        "categorie": [
+            "Forum",
+            "News"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.shapeshed.kiosk/en-US/icon_S42fHW3CFCVCqb5dqefqJHGOM7sBfvKyRZuy32N-Oy0=.png",
+        "url_codice_sorgente": "https://github.com/shapeshed/kiosk",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Shattered Pixel Dungeon",
         "id_pacchetto": "com.shatteredpixel.shatteredpixeldungeon",
         "riassunto": "Un gioco roguelike basato su Pixel Dungeon",
@@ -21858,6 +21883,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.blockblast/en-US/icon_mhpFy2pGYuVF1cxgp2P1ko5M32SpO_ktTdO1H-W_kdA=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/BlockBlast",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Einstein's Riddle",
+        "id_pacchetto": "com.sidhant.einsteinriddle",
+        "riassunto": "Einstein's Riddle (also known as the Zebra Puzzle)",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.einsteinriddle/en-US/icon_6jLT0U-KqdGb84Xm8ShDgGpcnXEchkHwUBUDPSqOOYc=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Einstein-Riddle",
         "ultimo_aggiornamento": null
     },
     {
@@ -24248,6 +24285,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.unitstool/en-US/icon_43Pt21DrEULPXFrGr5i6SwaxdXFdvRf-q0Ojmrxg6n0=.png",
         "url_codice_sorgente": "https://github.com/ThiBsc/UnitsTool",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Unmark",
+        "id_pacchetto": "com.unmark.app",
+        "riassunto": "Remove watermarks and unwanted objects from photos, entirely on-device",
+        "categorie": [
+            "Graphics"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/com.unmark.app.7.png",
+        "url_codice_sorgente": "https://github.com/EmreO33/unmark",
         "ultimo_aggiornamento": null
     },
     {
@@ -31976,7 +32025,7 @@
             "File Transfer"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//eu.imouto.hupl/en-US/icon_W1Vw0ELodWzxUDLExDNeL_E2ytbuRGy5RhplxX9xLxk=.png",
+        "icona": "https://f-droid.org/repo//eu.imouto.hupl/en-US/icon_IyOebOBBc9xfYbJjdPovTvSg0Er_KILcyPWKzWnJmZc=.png",
         "url_codice_sorgente": "https://github.com/Rouji/Hupl",
         "ultimo_aggiornamento": null
     },
@@ -34660,6 +34709,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//invalid.lena.rsend/en-US/icon_jEo5zZrZP80LVt-oI6G1gsIaxyaZMh1NPJvPvNb_5ws=.png",
         "url_codice_sorgente": "https://gitlab.com/0xlena/rsend",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "scrcpy",
+        "id_pacchetto": "invalid.lena.scrcpy",
+        "riassunto": "Mirror a second Android device over wireless ADB. No root required.",
+        "categorie": [
+            "Connectivity",
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//invalid.lena.scrcpy/en-US/icon_8CCv1yFjr7yD0QOpgFwDK6dTqKSXQr_fzHhZFKNSOiM=.png",
+        "url_codice_sorgente": "https://gitlab.com/0xlena/scrcpy-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -37839,6 +37901,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//it.diab/en-US/icon_xBdeBlYjLsq5MzIPuUxuNGe4sFWPyJGcR3btzLTEF1Q=.png",
         "url_codice_sorgente": "https://github.com/bvlj/diab",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ylih - your life in headphones",
+        "id_pacchetto": "it.eldavo.ylih",
+        "riassunto": "Track how many hours each pair of headphones lasts. Offline, forever, private",
+        "categorie": [
+            "Multimedia",
+            "Time Tracker"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//it.eldavo.ylih/en-US/icon__H4UM0-5iuvQgnFZ3XVFDcaXKLOZXg2yyoS3j-Itoaw=.png",
+        "url_codice_sorgente": "https://github.com/ElDavoo/ylih",
         "ultimo_aggiornamento": null
     },
     {
@@ -41455,6 +41530,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Backgammon Clock",
+        "id_pacchetto": "nl.hansdezwart.bgclock",
+        "riassunto": "A flexible two-player backgammon match clock and scorekeeper.",
+        "categorie": [
+            "Game Helper",
+            "Timer"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//nl.hansdezwart.bgclock/en-US/icon_zp7ks0U9OQNnKU7dvXKu_-ZaeidX38DocdfxrejUFqs=.png",
+        "url_codice_sorgente": "https://source.hansdezwart.nl/hansdezwart/bgclock",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Fintunes",
         "id_pacchetto": "nl.moeilijkedingen.jellyfinaudioplayer",
         "riassunto": "Streaming audio player for Jellyfin",
@@ -41700,6 +41788,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//nz.eloque.foss_wallet/en-US/icon_Y5K0WbuAdzu0c71iufB3qFhukxECnzwg4Dz1YC3iAGs=.png",
         "url_codice_sorgente": "https://github.com/SeineEloquenz/fosswallet",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Quits",
+        "id_pacchetto": "nz.eloque.quits",
+        "riassunto": "Quits is a privacy-preserving expense splitting application",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//nz.eloque.quits/en-US/icon_koELiCrC0xBGndqHsqg2Ay14SYdIHZtpxIJtvGKAdcQ=.png",
+        "url_codice_sorgente": "https://github.com/SeineEloquenz/quits",
         "ultimo_aggiornamento": null
     },
     {
@@ -42299,7 +42399,7 @@
     {
         "nome": "SiYuan",
         "id_pacchetto": "org.b3log.siyuan",
-        "riassunto": "A privacy-first, self-hosted knowledge management app",
+        "riassunto": "Open-source knowledge workspace for humans and AI agents",
         "categorie": [
             "Note",
             "Writing"
@@ -43055,7 +43155,7 @@
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.comunes.tane.183.png",
+        "icona": "https://f-droid.org/repo//icons/org.comunes.tane.193.png",
         "url_codice_sorgente": "https://git.comunes.org/comunes/tane",
         "ultimo_aggiornamento": null
     },
@@ -49473,6 +49573,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Debate Timer",
+        "id_pacchetto": "page.cynosure.timer",
+        "riassunto": "A minimalist timer, so you can focus on speaking.",
+        "categorie": [
+            "Timer"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//page.cynosure.timer/en-US/icon_Onnf2uULNGBw_nsjI9YdVtEnyQVPR9b1w-VS-6-9TLE=.png",
+        "url_codice_sorgente": "https://github.com/Cynosure-North/Debate_Timer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GeoShare: Jump Between Maps",
         "id_pacchetto": "page.ooooo.geoshare",
         "riassunto": "Open map links in other map apps and copy coordinates",
@@ -51143,7 +51255,7 @@
             "Social Network"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/site.remlit.snowdrop.5.png",
+        "icona": "https://f-droid.org/repo//icons/site.remlit.snowdrop.6.png",
         "url_codice_sorgente": "https://github.com/ihateblueb/snowdrop",
         "ultimo_aggiornamento": null
     },
