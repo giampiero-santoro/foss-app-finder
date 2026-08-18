@@ -1625,6 +1625,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Håck mas Castle 2026 Fahrplan",
+        "id_pacchetto": "at.hackmas.android.schedule",
+        "riassunto": "Eine Fahrplan-App für Håck ma’s Castle 2026",
+        "categorie": [
+            "Schedule"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/at.hackmas.android.schedule.120.png",
+        "url_codice_sorgente": "https://github.com/EventFahrplan/EventFahrplan",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "RxDroid",
         "id_pacchetto": "at.jclehner.rxdroid",
         "riassunto": "Ti ricorda gli orari dei tuoi farmaci",
@@ -4712,7 +4724,7 @@
     {
         "nome": "AirLyrics",
         "id_pacchetto": "com.andsi.airlyrics",
-        "riassunto": "Floating synced lyrics for Android",
+        "riassunto": "Synced floating lyrics: online search, local imports, and word-by-word support",
         "categorie": [
             "Lyrics"
         ],
@@ -6160,6 +6172,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "AutoPie",
+        "id_pacchetto": "com.autopi",
+        "riassunto": "Swiss Army Knife For Linux on Android Automation.",
+        "categorie": [
+            "System",
+            "Task"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.autopi/en-US/icon_0rwD3BI7MWHXOt-a5C2BynnG92lPjzGj9nX2M-ipT3I=.png",
+        "url_codice_sorgente": "https://github.com/cryptrr/AutoPie",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "World Scribe",
         "id_pacchetto": "com.averi.worldscribe",
         "riassunto": "Aiutare gli scrittori di storie con la costruzione del mondo narrativo",
@@ -6282,7 +6307,7 @@
             "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.baluchon.app/fr-FR/icon__AlEI5TtrLdRmoPOsLOCrAUni0Qg3lOPIqq9rH7Ftqw=.png",
+        "icona": "https://f-droid.org/repo//com.baluchon.app/de-DE/icon__AlEI5TtrLdRmoPOsLOCrAUni0Qg3lOPIqq9rH7Ftqw=.png",
         "url_codice_sorgente": "https://framagit.org/android1/baluchon",
         "ultimo_aggiornamento": null
     },
@@ -7562,7 +7587,7 @@
     {
         "nome": "Liseur",
         "id_pacchetto": "com.chmouel.liseur",
-        "riassunto": "An open-source EPUB reader and calibre-web or Komga client",
+        "riassunto": "EPUB and ebook reader for local libraries, Komga, and calibre-web",
         "categorie": [
             "Ebook Reader",
             "Reading"
@@ -9306,7 +9331,7 @@
             "Time Tracker"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.dtsykunov.pause.15.png",
+        "icona": "https://f-droid.org/repo//icons/com.dtsykunov.pause.19.png",
         "url_codice_sorgente": "https://github.com/dtsykunov/pause-app",
         "ultimo_aggiornamento": null
     },
@@ -11162,7 +11187,7 @@
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.furthersecrets.chemsearch.11308.png",
+        "icona": "https://f-droid.org/repo//icons/com.furthersecrets.chemsearch.11400.png",
         "url_codice_sorgente": "https://github.com/FurtherSecrets24680/chemsearch-android",
         "ultimo_aggiornamento": null
     },
@@ -15116,6 +15141,21 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Lavender Photos",
+        "id_pacchetto": "com.kaii.photos",
+        "riassunto": "A no non-sense, stylish, and performant gallery app",
+        "categorie": [
+            "Cloud Storage & File Sync",
+            "File Encryption & Vault",
+            "Gallery",
+            "Graphics"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.kaii.photos/en-US/icon_ypl1TAlPTxeybWpKHsf6b31WW6yMHVeuT0980lUYuu0=.png",
+        "url_codice_sorgente": "https://github.com/kaii-lb/LavenderPhotos",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Khushu",
         "id_pacchetto": "com.kaizen.khushu",
         "riassunto": "Private Muslim app for prayer, tasbih, study, and gentle reminders",
@@ -15208,7 +15248,7 @@
     {
         "nome": "MainTask",
         "id_pacchetto": "com.kapoue.maintask",
-        "riassunto": "Reminders for your recurring tasks: oil change, insurance, filters…",
+        "riassunto": "Reminders for your recurring tasks: filters, plants, backups, car checks…",
         "categorie": [
             "Task"
         ],
@@ -16071,6 +16111,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "LimeLog",
+        "id_pacchetto": "com.limecore.workouttracker",
+        "riassunto": "Track your lifts and beat your personal records",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.19.png",
+        "url_codice_sorgente": "https://github.com/Limekana/limelog",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Moonlight Game Streaming",
         "id_pacchetto": "com.limelight",
         "riassunto": "Play games from your PC on Android",
@@ -16256,7 +16308,7 @@
             "Online Media Player"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.lostf1sh.pixelplayeross.2.png",
+        "icona": "https://f-droid.org/repo//com.lostf1sh.pixelplayeross/en-US/icon_iYz3WLJdr6ooiIcTDHpWkdO67gwQCt12kEpFOgVo3do=.png",
         "url_codice_sorgente": "https://github.com/lostf1sh/PixelPlayerOSS",
         "ultimo_aggiornamento": null
     },
@@ -17308,22 +17360,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.metromusic/en-US/icon_ayBRxBmrlTwq5N2jPG8E9W8EBZDfQYB5HTjbsS2GJIw=.png",
         "url_codice_sorgente": "https://github.com/Diffechento/MetroMusic",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "My Brain",
-        "id_pacchetto": "com.mhss.app.mybrain",
-        "riassunto": "Productivity app for Tasks, Notes, Calendar, Diary, Bookmarks and more",
-        "categorie": [
-            "AI Chat",
-            "Bookmark",
-            "Note",
-            "Task",
-            "Writing"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.mhss.app.mybrain/en-US/icon_LHASregXQE-J-DJ9ub6K-4AQYAqXs9Rj1iwzT6s5B_E=.png",
-        "url_codice_sorgente": "https://github.com/mhss1/MyBrain",
         "ultimo_aggiornamento": null
     },
     {
@@ -27329,9 +27365,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "AntennaPod - Podcast Player",
+        "nome": "AntennaPod",
         "id_pacchetto": "de.danoeh.antennapod",
-        "riassunto": "Easy-to-use, flexible and open-source podcast manager and player",
+        "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
             "Multimedia",
             "News",
@@ -30784,7 +30820,7 @@
             "Navigation"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.gpxit.app.3.png",
+        "icona": "https://f-droid.org/repo//icons/dev.gpxit.app.4.png",
         "url_codice_sorgente": "https://github.com/7FM/GPXIT",
         "ultimo_aggiornamento": null
     },
@@ -31748,6 +31784,30 @@
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/Kaljurand/K6nele",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Diadem",
+        "id_pacchetto": "ee.malt.diadem",
+        "riassunto": "Connect to any Diadem Map",
+        "categorie": [
+            "Game Helper"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//ee.malt.diadem/en-US/icon_YFQk1fd3GLdVb1sIWeJf1K52YQYPs_fu_wYSGuN2wK0=.png",
+        "url_codice_sorgente": "https://github.com/ccev/diadem",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ekklesia — Direct Democracy",
+        "id_pacchetto": "ekklesia.gr",
+        "riassunto": "Anonymous civic participation for Greek citizens",
+        "categorie": [
+            "Connectivity"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/ekklesia.gr.584.png",
+        "url_codice_sorgente": "https://github.com/NeaBouli/pnyx",
         "ultimo_aggiornamento": null
     },
     {
@@ -36963,14 +37023,14 @@
     {
         "nome": "LaBLEr",
         "id_pacchetto": "io.github.toolicious.labler",
-        "riassunto": "Design labels and print them on a P15/P12/L13 Bluetooth thermal printer",
+        "riassunto": "Progetta e stampa etichette su una stampante termica Bluetooth P15/P12/L13",
         "categorie": [
             "Connectivity",
             "Graphics",
             "Inventory"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//io.github.toolicious.labler/en-US/icon_rIDh-je4dyR6upxFGZ3KfxTqIxZJGgqhmgq_gVRyoms=.png",
         "url_codice_sorgente": "https://github.com/toolicious/labler",
         "ultimo_aggiornamento": null
     },
@@ -38000,7 +38060,7 @@
             "Strategy Game"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/is.xyz.vcmi.17502.png",
         "url_codice_sorgente": "https://github.com/vcmi/vcmi",
         "ultimo_aggiornamento": null
     },
@@ -45352,7 +45412,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.jarsi.devicewatch.16.png",
+        "icona": "https://f-droid.org/repo//icons/org.jarsi.devicewatch.17.png",
         "url_codice_sorgente": "https://github.com/jrs8205/Device-Watch",
         "ultimo_aggiornamento": null
     },
@@ -48686,6 +48746,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/org.t2.synconwifi.3.png",
         "url_codice_sorgente": "https://github.com/Kadabash/SyncOnWifi",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "T2DECODE",
+        "id_pacchetto": "org.t2decode.app",
+        "riassunto": "Offline interactive learning platform for IT, Cybersecurity, and Networking.",
+        "categorie": [
+            "Science & Education",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.t2decode.app/en-US/icon_FakQkUfoGzm059ihZrv6obmbvmctHmQ4Xf8UPGT0XCs=.png",
+        "url_codice_sorgente": "https://gitlab.com/tutodecode-org/T2DECODE",
         "ultimo_aggiornamento": null
     },
     {
