@@ -1738,7 +1738,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "OpenDocument Reader - view ODT",
+        "nome": "OpenDocument Reader",
         "id_pacchetto": "at.tomtasche.reader",
         "riassunto": "Document reader & file editor for Libreoffice & OpenOffice | ODF: ODT, ODS +more",
         "categorie": [
@@ -2008,7 +2008,7 @@
             "Connectivity"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30100.png",
+        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30202.png",
         "url_codice_sorgente": "https://github.com/ppareit/swiftp",
         "ultimo_aggiornamento": null
     },
@@ -3949,7 +3949,7 @@
             "File Encryption & Vault"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.aeidolon.vaultexplorer/en-US/icon_H5SK-yswqNGEImd9nA5fnAnmZ5r14xwF1shBiwrx5Rg=.png",
+        "icona": "https://f-droid.org/repo//com.aeidolon.vaultexplorer/en-US/icon_bKAmpqSJImRcllnpYPfAZk7qQb4HhRUrgdxEvTAKAHM=.png",
         "url_codice_sorgente": "https://github.com/R0b0To/VaultExplorer",
         "ultimo_aggiornamento": null
     },
@@ -7612,13 +7612,13 @@
     {
         "nome": "Liseur",
         "id_pacchetto": "com.chmouel.liseur",
-        "riassunto": "EPUB and ebook reader for local libraries, Komga, and calibre-web",
+        "riassunto": "Ebook reader: EPUB on your phone, in sync with your own book server",
         "categorie": [
             "Ebook Reader",
             "Reading"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.chmouel.liseur/en-US/icon_Aqswtw77Vh5HM-661ecONSv1ntf7S75zsUHqrd8MeM8=.png",
+        "icona": "https://f-droid.org/repo//com.chmouel.liseur/en-US/icon_ecFkBwUJ1XKgqHgLb4uibNAxJmBYnfRYSRT2Rqiuy0o=.png",
         "url_codice_sorgente": "https://github.com/chmouel/liseur",
         "ultimo_aggiornamento": null
     },
@@ -9368,7 +9368,7 @@
             "Time Tracker"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.dtsykunov.pause.19.png",
+        "icona": "https://f-droid.org/repo//icons/com.dtsykunov.pause.20.png",
         "url_codice_sorgente": "https://github.com/dtsykunov/pause-app",
         "ultimo_aggiornamento": null
     },
@@ -11526,7 +11526,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.821.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.822.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -13500,6 +13500,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Bati — Fitness RPG",
+        "id_pacchetto": "com.guiforge.bati",
+        "riassunto": "Turn workouts into quests, boss fights and a village built by your training.",
+        "categorie": [
+            "Role-Playing Game",
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.guiforge.bati/en-US/icon_2yUxMAqWJSWncbEQytCu6o34VKihA6O_rYTd_B5h8Eg=.png",
+        "url_codice_sorgente": "https://github.com/Guiforge/bati",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Remote Numpad",
         "id_pacchetto": "com.guillaumepayet.remotenumpad",
         "riassunto": "This application transforms your smartphone into a numpad for your computer.",
@@ -14306,7 +14319,7 @@
             "Science & Education"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.inspiredandroid.braincup/en-US/icon_F5DscL61kI8IIfZw0utoQi6GSKtX-TvA3enMKxwnLxU=.png",
+        "icona": "https://f-droid.org/repo//com.inspiredandroid.braincup/en-US/icon_ztWvt7sbgVZVcq8e_YkBfgSc3BFjvKwEGZRyGwgtAQk=.png",
         "url_codice_sorgente": "https://github.com/SimonSchubert/Braincup",
         "ultimo_aggiornamento": null
     },
@@ -15370,7 +15383,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "MinkLauncher Open",
+        "nome": "MinkLauncher OpenSource",
         "id_pacchetto": "com.katoaapps.openminilaunch",
         "riassunto": "A minimal, keyboard-first Android home-screen launcher",
         "categorie": [
@@ -16206,7 +16219,7 @@
             "Sports & Health"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.19.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.20.png",
         "url_codice_sorgente": "https://github.com/Limekana/limelog",
         "ultimo_aggiornamento": null
     },
@@ -21096,7 +21109,7 @@
             "Clock"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.reteclock/en-US/icon_SJO_swTNanO7b5Oh9LVfQvwncn_0POte6cizmDToXkQ=.png",
+        "icona": "https://f-droid.org/repo//com.reteclock/en-US/icon_amEk0cHgO1j1PZ_2Q2MrXai2K3J40RGJEGfscI0DleQ=.png",
         "url_codice_sorgente": "https://github.com/rubidus-api/reteclock_apk",
         "ultimo_aggiornamento": null
     },
@@ -21803,7 +21816,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.searchlauncher.app/en-US/icon_gLMGU_F-0n43_Sz10c8CW6DYbrLte1GjzhJVukS2wgI=.png",
         "url_codice_sorgente": "https://github.com/ontola/searchlauncher",
         "ultimo_aggiornamento": null
     },
@@ -22913,7 +22926,7 @@
             "Writing"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005224.png",
+        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005225.png",
         "url_codice_sorgente": "https://github.com/standardnotes/app",
         "ultimo_aggiornamento": null
     },
@@ -24443,6 +24456,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.tuntori.mightieramp/en-US/icon_t9TfUp-RppjWWeTb0NtwoRwlkLXZbGQBq8jyIv9_Fgc=.png",
         "url_codice_sorgente": "https://github.com/tuntorius/mightier_amp",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Void Player",
+        "id_pacchetto": "com.tushar.voidplayer",
+        "riassunto": "﻿Modern, high-performance music player with dynamic UI",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.tushar.voidplayer/en-US/icon_WmVusXgvZW2RYsKF92VBDDKIa3SydGiBMz0NeR1lFgY=.png",
+        "url_codice_sorgente": "https://github.com/TUSHAR91316/Void-Player",
         "ultimo_aggiornamento": null
     },
     {
@@ -29522,7 +29547,7 @@
             "Translation & Dictionary"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/de.reimardoeffinger.quickdic.132.png",
         "url_codice_sorgente": "https://github.com/rdoeffinger/Dictionary",
         "ultimo_aggiornamento": null
     },
@@ -30521,6 +30546,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Argus",
+        "id_pacchetto": "dev.argus",
+        "riassunto": "Un LLM compila automazioni; un motore deterministico le esegue.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.argus/en-US/icon_k3GG2X78W-zE003t6yQWouKDPjL6P4Xxzdm6Fys_7ao=.png",
+        "url_codice_sorgente": "https://github.com/JackRushante/argus",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Bluke",
         "id_pacchetto": "dev.arnv.bluke",
         "riassunto": "Use your phone as a Bluetooth mechanical keyboard, gamepad, and trackpad",
@@ -30609,6 +30646,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.bg.jetbird/en-US/icon_zrFmhHT-oXLB17byCI8yFcplbyDd2j9VIlp0JCtE4nQ=.png",
         "url_codice_sorgente": "https://codeberg.org/bg443/JetBird",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Skylib",
+        "id_pacchetto": "dev.bg.skylib",
+        "riassunto": "An alternative Bluesky frontend",
+        "categorie": [
+            "Internet",
+            "Social Network"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//dev.bg.skylib/en-US/icon_dpgm30D2XJyPAoBGeYgEKyRtyigMapoulGnnvGP0RrM=.png",
+        "url_codice_sorgente": "https://codeberg.org/bg443/Skylib",
         "ultimo_aggiornamento": null
     },
     {
@@ -32013,6 +32063,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//es.ideotec.workouttime/de-DE/icon_GmCBd-0I_HjZNdIMk10t7ceQ5yMtFnn_SrHYgnEsKvI=.png",
         "url_codice_sorgente": "https://gitlab.com/ideotec/workouttime",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Bike Radar",
+        "id_pacchetto": "es.jjrh.bikeradar",
+        "riassunto": "Overlay and audio alerts for BLE bike radars. Offline, no account, no cloud.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//es.jjrh.bikeradar/en-US/icon_ryPPr3_rzoKkjCtZHU91jcH7qegWDV3mxUQKwzKEL9o=.png",
+        "url_codice_sorgente": "https://github.com/partymola/android-bike-radar-overlay",
         "ultimo_aggiornamento": null
     },
     {
@@ -35556,6 +35618,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BayesianBahn",
+        "id_pacchetto": "io.github.derweh.bayesianbahn",
+        "riassunto": "Empirical arrival-time distributions for Deutsche Bahn trains",
+        "categorie": [
+            "Public Transport"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/DerWeh/BayesianBahn",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Open Video Editor",
         "id_pacchetto": "io.github.devhyper.openvideoeditor",
         "riassunto": "Open source Android video editor, built with Media3 and Jetpack Compose.",
@@ -37625,9 +37699,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Unstoppable",
+        "nome": "Unstoppable Crypto Wallet",
         "id_pacchetto": "io.horizontalsystems.bankwallet",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "Bitcoin, Ethereum, DeFi",
         "categorie": [
             "Wallet"
         ],
@@ -38431,6 +38505,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//it.reyboz.bustorino/en-US/icon_7e3NYV9X_Ae1QqkO5nHvxIv7hNTTD7DazKlXsjQAGNs=.png",
         "url_codice_sorgente": "https://gitpull.it/source/libre-busto/",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Denaro",
+        "id_pacchetto": "it.rfmariano.denaro",
+        "riassunto": "Private, offline personal finance with accounts, categories and insights.",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//it.rfmariano.denaro/en-US/icon_W6UgJBOLwNIBZjjXQ25fhJlmayLdIHsUysCmlOHTbQ4=.png",
+        "url_codice_sorgente": "https://github.com/Biri0/denaro",
         "ultimo_aggiornamento": null
     },
     {
@@ -42033,6 +42119,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Emborg",
+        "id_pacchetto": "nl.renzit.emborg",
+        "riassunto": "Org-mode viewer and task manager",
+        "categorie": [
+            "Note",
+            "Task"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.102.png",
+        "url_codice_sorgente": "https://gitlab.com/JohnRenz/emborg",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Stream Player",
         "id_pacchetto": "nl.sonck.streamplayer",
         "riassunto": "A simple HTTP stream player",
@@ -43605,7 +43704,7 @@
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.comunes.tane.193.png",
+        "icona": "https://f-droid.org/repo//icons/org.comunes.tane.203.png",
         "url_codice_sorgente": "https://git.comunes.org/comunes/tane",
         "ultimo_aggiornamento": null
     },
@@ -45233,7 +45332,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Godot Engine 4",
+        "nome": "Godot Engine 4 (release)",
         "id_pacchetto": "org.godotengine.editor.v4",
         "riassunto": "All-in-one, cross-platform game engine",
         "categorie": [
@@ -45758,6 +45857,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//org.juanro.feedtv/en-US/icon_-C7oJvmEjcdCQK7DCSUF6OP4qU-TXW6s1SQL5xTK0DE=.png",
         "url_codice_sorgente": "https://github.com/juanro49/FeedTV",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "FilmFlip",
+        "id_pacchetto": "org.jumascola.filmflip",
+        "riassunto": "Film negative photo recovery app",
+        "categorie": [
+            "Camera"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Jumas-Cola/FilmFlip",
         "ultimo_aggiornamento": null
     },
     {
@@ -50096,6 +50207,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//page.ooooo.geoshare/en-US/icon_QX93Ia_zIcFjF3eFSHT9kQQjVCElwS4f9-6h7f6-GTc=.png",
         "url_codice_sorgente": "https://github.com/jakubvalenta/geoshare",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Tine",
+        "id_pacchetto": "page.tine.app",
+        "riassunto": "Fast local-first Logseq-compatible outliner",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/page.tine.app.6093.png",
+        "url_codice_sorgente": "https://github.com/martinkoutecky/tine",
         "ultimo_aggiornamento": null
     },
     {
