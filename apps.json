@@ -2032,7 +2032,7 @@
             "Connectivity"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30203.png",
+        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30300.png",
         "url_codice_sorgente": "https://github.com/ppareit/swiftp",
         "ultimo_aggiornamento": null
     },
@@ -5903,7 +5903,7 @@
     {
         "nome": "PlayTube",
         "id_pacchetto": "com.arslandaim.playtube",
-        "riassunto": "Feature-rich YouTube client, fast and secure with Material 3 design",
+        "riassunto": "Feature-rich YouTube client, simple fast and secure.",
         "categorie": [
             "Online Media Player"
         ],
@@ -12228,7 +12228,7 @@
             "Health Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.github.heartratemonitor_compose.51.png",
+        "icona": "https://f-droid.org/repo//icons/com.github.heartratemonitor_compose.52.png",
         "url_codice_sorgente": "https://github.com/XiaochangXu/HeartRateMonitor-composeui",
         "ultimo_aggiornamento": null
     },
@@ -13884,6 +13884,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.helddertierwelt.mentalmath/de/icon_i6DGGQFiYojEBVQjZTl6ISj7dHjXqk0SPrVBpn1pFaQ=.png",
         "url_codice_sorgente": "https://codeberg.org/Mental-Math/MentalMath",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "随机姓名",
+        "id_pacchetto": "com.hello.randomname",
+        "riassunto": "随机中文姓名生成器",
+        "categorie": [
+            "Dice"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/com.hello.randomname.1.png",
+        "url_codice_sorgente": "https://github.com/qux-bbb/random-name-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -24684,7 +24696,7 @@
     {
         "nome": "baresip",
         "id_pacchetto": "com.tutpro.baresip",
-        "riassunto": "SIP and mobile calling and messaging User Agent for Android based on baresip lib",
+        "riassunto": "VoIP and mobile calling and messaging app for Android based on baresip library",
         "categorie": [
             "Internet",
             "Phone & SMS",
@@ -24698,7 +24710,7 @@
     {
         "nome": "baresip+",
         "id_pacchetto": "com.tutpro.baresip.plus",
-        "riassunto": "SIP and mobile calling and messaging User Agent for Android based on baresip lib",
+        "riassunto": "VoIP and mobile calling and messaging app for Android based on baresip library",
         "categorie": [
             "Internet",
             "Phone & SMS",
@@ -25404,7 +25416,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "LCTerm",
+        "nome": "LCTerm (Lucky Cat Terminal)",
         "id_pacchetto": "com.vermont.possin",
         "riassunto": "Bitcoin and Crypto point of sale payment system for merchants",
         "categorie": [
@@ -31819,6 +31831,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Renkin",
+        "id_pacchetto": "dev.renkinProject.renkin",
+        "riassunto": "Make your own icon pack, on your phone",
+        "categorie": [
+            "Icon Pack"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.renkinProject.renkin/en-US/icon_QdTn_cwfWwT4PQWIuTMMIxPigLHQ0GQJ5_Hav46uYAw=.png",
+        "url_codice_sorgente": "https://github.com/renkindevbugs/Renkin",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Flip 2 DND",
         "id_pacchetto": "dev.robin.flip_2_dnd",
         "riassunto": "Toggle Do Not Disturb mode by flipping your phone face down",
@@ -35800,6 +35824,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Shopping List Calculator",
+        "id_pacchetto": "io.github.buildsbyben.shoppinglistcalc",
+        "riassunto": "Plan grocery trips and track the total as you shop.",
+        "categorie": [
+            "Shopping List"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.buildsbyben.shoppinglistcalc/en-US/icon_-GmoAJFAYz-qiL1ZAN4_jjJ05E5AiWXVIZrOQUtdvos=.png",
+        "url_codice_sorgente": "https://github.com/buildsbyben/shopping-list-calc",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Quick Ball",
         "id_pacchetto": "io.github.chayanforyou.quickball",
         "riassunto": "A Quick Action Ball that gives fast access to controls —volume, brightness, lock",
@@ -37159,6 +37195,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.randomfilemaker/en-US/icon_4YGlUGYrK1Yl6VK_Gic_3n8u7yu8QQlaXuL364tBa2g=.png",
         "url_codice_sorgente": "https://github.com/seoulcodingcafe/RandomFileMaker",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "just open links in a browser",
+        "id_pacchetto": "io.github.rastislavpapp.justopenlinksinabrowser",
+        "riassunto": "Sends links to your real browser instead of an app's built-in one",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.rastislavpapp.justopenlinksinabrowser/en-US/icon_ftbdlq2t1WgI1d5ae2mdNymbs53SXqp_gTLRAf5MVCQ=.png",
+        "url_codice_sorgente": "https://github.com/rastislavpapp/just-open-links-in-a-browser",
         "ultimo_aggiornamento": null
     },
     {
