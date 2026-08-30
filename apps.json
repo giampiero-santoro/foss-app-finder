@@ -4110,7 +4110,7 @@
             "Inventory"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.ahad.macat.6.png",
+        "icona": "https://f-droid.org/repo//icons/com.ahad.macat.7.png",
         "url_codice_sorgente": "https://github.com/ItsAhadun/maCat",
         "ultimo_aggiornamento": null
     },
@@ -8218,7 +8218,7 @@
             "Weather"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.crome.forecastpoint/en-US/icon_OkKPZBsB4zk7ntve0l9RG4oLVxm5WWsBru9uJTxnoF4=.png",
         "url_codice_sorgente": "https://github.com/crome1394/point-forecast",
         "ultimo_aggiornamento": null
     },
@@ -8535,7 +8535,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Water Reminder",
+        "nome": "FillMeUp!",
         "id_pacchetto": "com.david.waterreminder",
         "riassunto": "Track your daily water intake and stay hydrated with reminders.",
         "categorie": [
@@ -8543,7 +8543,7 @@
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.david.waterreminder/en-US/icon_SaUVixLgoaF1soQD4RqWcrj3GAdc_8igU-yPEdKGk00=.png",
-        "url_codice_sorgente": "https://codeberg.org/DavidCRicardo/WaterReminder",
+        "url_codice_sorgente": "https://codeberg.org/DavidCRicardo/FillMeUp",
         "ultimo_aggiornamento": null
     },
     {
@@ -9621,7 +9621,7 @@
             "Public Transport"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.eden.livewidget/en-US/icon_EFZZuXRD1rDsATT1Ypgbs1I8TcyK4C8n3ahVLM6log8=.png",
+        "icona": "https://f-droid.org/repo//com.eden.livewidget/en-US/icon_IKnFk4UIVcbwkBWulUfc-uAtcSzz8ippSZjC4de6GsY=.png",
         "url_codice_sorgente": "https://github.com/someone-s/transport-widget",
         "ultimo_aggiornamento": null
     },
@@ -20832,9 +20832,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Quitter",
+        "nome": "Quitter: Habit Tracker",
         "id_pacchetto": "com.quitter.app",
-        "riassunto": "Science-backed milestones to help you quit for good",
+        "riassunto": "Track quitting progress, milestones, journals, and recovery reminders.",
         "categorie": [
             "Habit Tracker",
             "Sports & Health"
@@ -21430,7 +21430,7 @@
             "Camera"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.rogeriodocarmo.miroji.10303.png",
+        "icona": "https://f-droid.org/repo//icons/com.rogeriodocarmo.miroji.10304.png",
         "url_codice_sorgente": "https://github.com/RogerioDoCarmo/mirror_app",
         "ultimo_aggiornamento": null
     },
@@ -31237,6 +31237,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Vibe - Music Player",
+        "id_pacchetto": "dev.fiedri.vibe",
+        "riassunto": "Fast, minimalist local music player, 100% offline.",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//dev.fiedri.vibe/en-US/icon_CsAfnSVsXN0WAMTYi_mFimQBPFPyKA1laZE3p0ERIqA=.png",
+        "url_codice_sorgente": "https://github.com/fiedri/vibe-player",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Glyfen",
         "id_pacchetto": "dev.glyfen.app",
         "riassunto": "Offline OCR for Android. Search your photos by text, entirely on-device.",
@@ -34926,7 +34938,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Status: Ethereum Crypto Wallet",
+        "nome": "Status IM - Legacy",
         "id_pacchetto": "im.status.ethereum",
         "riassunto": "Connect Private Finance & Web3",
         "categorie": [
@@ -36820,6 +36832,19 @@
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//io.github.martinschneider.juvavum/en-US/icon_F0TaGlDySsnfmxIkowZsPgP7lUv3goZEOAVk4ors1CI=.png",
         "url_codice_sorgente": "https://github.com/martinschneider/juvavum-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Roue Libre",
+        "id_pacchetto": "io.github.mgdx.rouelibre",
+        "riassunto": "Bike sharing: mappa offline e itinerari porta a porta, senza tracker.",
+        "categorie": [
+            "Navigation",
+            "Public Transport"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.mgdx.rouelibre/en-US/icon_KFzlZUyzdHMTKwGbAWRhNO6roALoHe8lKQBg-773atU=.png",
+        "url_codice_sorgente": "https://github.com/mgdx/RoueLibre",
         "ultimo_aggiornamento": null
     },
     {
@@ -38897,7 +38922,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.119.png",
+        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.122.png",
         "url_codice_sorgente": "https://github.com/rignaneseleo/SlimSocial-for-Facebook",
         "ultimo_aggiornamento": null
     },
@@ -46804,7 +46829,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.maegley.megrim.63.png",
+        "icona": "https://f-droid.org/repo//icons/org.maegley.megrim.73.png",
         "url_codice_sorgente": "https://github.com/smaegley/megrim",
         "ultimo_aggiornamento": null
     },
@@ -50637,7 +50662,7 @@
             "Note"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/page.tine.app.6096.png",
+        "icona": "https://f-droid.org/repo//icons/page.tine.app.6098.png",
         "url_codice_sorgente": "https://github.com/martinkoutecky/tine",
         "ultimo_aggiornamento": null
     },
