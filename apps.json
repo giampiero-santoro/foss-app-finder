@@ -1074,7 +1074,7 @@
     {
         "nome": "Universal Installer",
         "id_pacchetto": "app.pwhs.universalinstaller",
-        "riassunto": "Premium APK/XAPK installer with expressive animations, Shizuku & URL downloads.",
+        "riassunto": "APK/XAPK installer with silent installs via Shizuku, Root or Dhizuku.",
         "categorie": [
             "App Manager",
             "System"
@@ -9576,7 +9576,7 @@
     {
         "nome": "Yagni Launcher",
         "id_pacchetto": "com.eblan.launcher",
-        "riassunto": "Only 2 MB Android Launcher, total control, zero bloat, zero tracking",
+        "riassunto": "Stock Android Launcher From Scratch",
         "categorie": [
             "Launcher",
             "System"
@@ -16369,7 +16369,7 @@
             "Finance Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.31.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.32.png",
         "url_codice_sorgente": "https://github.com/Limekana/nexus-command-center",
         "ultimo_aggiornamento": null
     },
@@ -16381,7 +16381,7 @@
             "Sports & Health"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.21.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.22.png",
         "url_codice_sorgente": "https://github.com/Limekana/limelog",
         "ultimo_aggiornamento": null
     },
@@ -21532,7 +21532,7 @@
             "Workout"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.rouf.saht.2.png",
+        "icona": "https://f-droid.org/repo//icons/com.rouf.saht.3.png",
         "url_codice_sorgente": "https://github.com/roufsyed/Sehat",
         "ultimo_aggiornamento": null
     },
@@ -21668,7 +21668,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.5.png",
+        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.6.png",
         "url_codice_sorgente": "https://github.com/saad-ibra/gray-matter",
         "ultimo_aggiornamento": null
     },
@@ -24319,12 +24319,12 @@
     {
         "nome": "5G Proxy Pro",
         "id_pacchetto": "com.tokyoxpa3.androidproxy",
-        "riassunto": "Locks your phone to the cellular (5G/4G) network and exposes a SOCKS5 proxy serv",
+        "riassunto": "Share your phone's 5G/4G over Wi-Fi via SOCKS5 proxy. No root, TCP/UDP, LAN-only",
         "categorie": [
             "VPN & Proxy"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.tokyoxpa3.androidproxy/en-US/icon_7hrh0KSJ07bXQEheP54Q8HvJ3aJFXEzXblYx-xR3g7U=.png",
         "url_codice_sorgente": "https://github.com/tokyoxpa3/5G-Proxy-Pro",
         "ultimo_aggiornamento": null
     },
@@ -32704,9 +32704,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Discover Ads Filter",
+        "nome": "Discover Feed Filter",
         "id_pacchetto": "eu.hxreborn.discoveradsfilter",
-        "riassunto": "Xposed module that hides sponsored cards in Google Discover feed",
+        "riassunto": "Hides ads, sponsored cards and clickbait in Google Discover",
         "categorie": [
             "System"
         ],
@@ -35243,6 +35243,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FediDay 2026",
+        "id_pacchetto": "info.metadude.android.fediday.schedule",
+        "riassunto": "Nessuna descrizione disponibile.",
+        "categorie": [
+            "Schedule"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/info.metadude.android.fediday.schedule.121.png",
+        "url_codice_sorgente": "https://github.com/johnjohndoe/CampFahrplan",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "FOSDEM 2026 Schedule",
         "id_pacchetto": "info.metadude.android.fosdem.schedule",
         "riassunto": "Conference program app for the FOSDEM conference",
@@ -37375,7 +37387,7 @@
     {
         "nome": "PlayOnDlna",
         "id_pacchetto": "io.github.scovillo.playondlna",
-        "riassunto": "Play Youtube videos ad-free on DLNA players (e.g. Kodi) in your local network!",
+        "riassunto": "Play your media ad-free on DLNA players in your local network!",
         "categorie": [
             "Cast",
             "Remote Controller"
@@ -38922,7 +38934,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.122.png",
+        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.124.png",
         "url_codice_sorgente": "https://github.com/rignaneseleo/SlimSocial-for-Facebook",
         "ultimo_aggiornamento": null
     },
