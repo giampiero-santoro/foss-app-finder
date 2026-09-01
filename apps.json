@@ -15301,7 +15301,7 @@
             "Health Manager"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.k2040.escaagnellis.40.png",
+        "icona": "https://f-droid.org/repo//icons/com.k2040.escaagnellis.41.png",
         "url_codice_sorgente": "https://github.com/Kamui2040/Esca-Agnellis-Android",
         "ultimo_aggiornamento": null
     },
@@ -17233,7 +17233,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.44.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.45.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -33902,7 +33902,7 @@
     {
         "nome": "Luteal",
         "id_pacchetto": "fr.luteal.app",
-        "riassunto": "Private, offline-first cycle tracker separating facts from estimates.",
+        "riassunto": "Private, offline-first cycle tracker separating facts from estimates",
         "categorie": [
             "Health Manager"
         ],
@@ -44099,7 +44099,7 @@
             "Casual Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.codeberg.scovillo.bubble/de-DE/icon_RxVcF1IPvHhCbfbFLAtrSGLEnSd01oq30RQZRqn7CuM=.png",
+        "icona": "https://f-droid.org/repo//org.codeberg.scovillo.bubble/de-DE/icon_GCIPoBEJtXRvroQb1BK3dcx5IE8RoxDraq9okavGpZM=.png",
         "url_codice_sorgente": "https://codeberg.org/scovillo/bubble-penetration",
         "ultimo_aggiornamento": null
     },
@@ -47524,7 +47524,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//org.onekash.kashcal/en-US/icon_al_9rP3z4Y0r6p22lyHQlq_1Jp6BqCNirE2u53RqvKM=.png",
+        "icona": "https://f-droid.org/repo//org.onekash.kashcal/en-US/icon_BgwgTjGwd50n0t9YhMGl8sTrR3UN6isZ24VZusQW1IU=.png",
         "url_codice_sorgente": "https://github.com/KashCal/KashCal",
         "ultimo_aggiornamento": null
     },
@@ -47652,6 +47652,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/osmdroid/osmdroid",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Bugbane Beta",
+        "id_pacchetto": "org.osservatorionessuno.bugbane.beta",
+        "riassunto": "Beta channel of Bugbane, a guided forensic self-triage tool for Android",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.osservatorionessuno.bugbane.beta/en-US/icon_1LA8Oi3fLUFUMl8fCGRP0N6rVs00bfJ9sP6d_7MVcBg=.png",
+        "url_codice_sorgente": "https://github.com/osservatorionessuno/bugbane",
         "ultimo_aggiornamento": null
     },
     {
