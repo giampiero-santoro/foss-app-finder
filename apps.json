@@ -449,6 +449,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Clear SMS",
+        "id_pacchetto": "app.clearsms",
+        "riassunto": "Privacy-first SMS app with smart inbox, finance dashboard and bill reminders",
+        "categorie": [
+            "Finance Manager",
+            "Phone & SMS"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//app.clearsms/en-US/icon_yDa7ipVqwAcNgqBV7iXys-TEcfF_9qDlKHtzfjiApWY=.png",
+        "url_codice_sorgente": "https://github.com/itsluminous/ClearSMS",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Trayzero",
         "id_pacchetto": "app.cleartray",
         "riassunto": "A Getting Things Done inbox — capture, clarify, engage. On-device, no account.",
@@ -1196,6 +1209,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Reverb",
+        "id_pacchetto": "app.smallthingz.reverb",
+        "riassunto": "Rolling audio recorder for Android",
+        "categorie": [
+            "Recorder"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.smallthingz.reverb/en-US/icon_kV9NAgDXdn-yfNj29LqPyqdsvKyJ5cALEGVGDv_4yJQ=.png",
+        "url_codice_sorgente": "https://github.com/SmallThingz/reverb",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SmartTube F-Droid",
         "id_pacchetto": "app.smarttube.fdroid",
         "riassunto": "Browse media content with your own rules on Android TV",
@@ -1658,6 +1683,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/at.hackmas.android.schedule.120.png",
         "url_codice_sorgente": "https://github.com/EventFahrplan/EventFahrplan",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Fechtkarte",
+        "id_pacchetto": "at.j0s.meyercard.app",
+        "riassunto": "Warm-up drill card generator using notation credited to Joachim Meyer",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//at.j0s.meyercard.app/en-US/icon_KQu8npo506NKPcWupF5fe72d3rJcWF7p1ZDpRNgTlNs=.png",
+        "url_codice_sorgente": "https://github.com/J0s3f/Fechtkarte",
         "ultimo_aggiornamento": null
     },
     {
@@ -6382,6 +6419,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.baluchon.app/de-DE/icon__AlEI5TtrLdRmoPOsLOCrAUni0Qg3lOPIqq9rH7Ftqw=.png",
         "url_codice_sorgente": "https://framagit.org/android1/baluchon",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Baly Groceries Tracker",
+        "id_pacchetto": "com.baly_groceries_tracker.app",
+        "riassunto": "monitor stock levels, and never worry about running out",
+        "categorie": [
+            "Shopping List"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.baly_groceries_tracker.app/ar/icon_Ox4zvd1J_FjmuC3uB2tUG1pgXJgjJzvheVWWYIWuKUc=.png",
+        "url_codice_sorgente": "https://github.com/rw-account/baly_groceries_tracker",
         "ultimo_aggiornamento": null
     },
     {
@@ -14449,7 +14498,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "8966 manual pages, 30 basic categories and a bunch of general terminal tips.",
+        "riassunto": "8992 manual pages, 30 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -16369,7 +16418,7 @@
             "Finance Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.32.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.33.png",
         "url_codice_sorgente": "https://github.com/Limekana/nexus-command-center",
         "ultimo_aggiornamento": null
     },
@@ -16381,7 +16430,7 @@
             "Sports & Health"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.22.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.23.png",
         "url_codice_sorgente": "https://github.com/Limekana/limelog",
         "ultimo_aggiornamento": null
     },
@@ -16761,7 +16810,7 @@
             "AI Chat"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.m57.hermescontrol/en-US/icon_AHiFxrodqQSP0-iCjvSLtMkbsQj1gBxxTh5scTGkLDY=.png",
         "url_codice_sorgente": "https://github.com/Hy4ri/hermes-mobile",
         "ultimo_aggiornamento": null
     },
@@ -22488,7 +22537,7 @@
     {
         "nome": "Puzzle Games",
         "id_pacchetto": "com.sidhant.puzzle",
-        "riassunto": "270+ minimalist brain games. Challenge your logic, memory & attention in game",
+        "riassunto": "300+ minimalist brain games. Challenge your logic, memory & attention in game",
         "categorie": [
             "Puzzle Game"
         ],
@@ -27763,9 +27812,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "AntennaPod",
+        "nome": "AntennaPod - Podcast Player",
         "id_pacchetto": "de.danoeh.antennapod",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "Easy-to-use, flexible and open-source podcast manager and player",
         "categorie": [
             "Multimedia",
             "News",
@@ -33418,9 +33467,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Ordunte: Karrantza valley weather",
+        "nome": "Ordunte: Karrantza weather",
         "id_pacchetto": "eus.ordunte.app",
-        "riassunto": "Hyperlocal weather for the Karrantza/Ordunte valley and hunting season info",
+        "riassunto": "Weather at your location and four hyperlocal Karrantza/Ordunte sections",
         "categorie": [
             "Science & Education",
             "Weather"
@@ -33463,7 +33512,7 @@
             "Development"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/exa.lnx.a.675.png",
+        "icona": "https://f-droid.org/repo//icons/exa.lnx.a.676.png",
         "url_codice_sorgente": "https://github.com/EXALAB/AnLinux-Adfree",
         "ultimo_aggiornamento": null
     },
@@ -36450,7 +36499,7 @@
             "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.84.png",
+        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.85.png",
         "url_codice_sorgente": "https://github.com/herrerad85/moneywallet",
         "ultimo_aggiornamento": null
     },
@@ -45324,6 +45373,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Fossify Documents Beta",
+        "id_pacchetto": "org.fossify.documents",
+        "riassunto": "Read PDF, DOCX, text, Markdown, CSV and HTML files privately and offline.",
+        "categorie": [
+            "Ebook Reader",
+            "Text Editor",
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.fossify.documents/en-US/icon_LWY7_HxIgSZ4TmqABJaYjUqXk-PZzpt_J3dC50An-Vg=.png",
+        "url_codice_sorgente": "https://github.com/FossifyOrg/Documents",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Fossify File Manager",
         "id_pacchetto": "org.fossify.filemanager",
         "riassunto": "Handy, lightweight, open-source file explorer with essential features.",
@@ -47114,7 +47177,7 @@
             "Multimedia"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//org.mlm.yadaw/en-US/icon_fRFzd530ksZFopRs7IPFLbulK2EIqNXHvUmhUp2ueUA=.png",
+        "icona": "https://f-droid.org/repo//org.mlm.yadaw/en-US/icon_Tv75rXXS5DwGoGipfJKZ0si6HABKrTxRoMxGeWayjyA=.png",
         "url_codice_sorgente": "https://github.com/mlm-games/yadaw",
         "ultimo_aggiornamento": null
     },
