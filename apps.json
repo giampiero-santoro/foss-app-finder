@@ -12277,7 +12277,7 @@
             "Health Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.github.heartratemonitor_compose.52.png",
+        "icona": "https://f-droid.org/repo//icons/com.github.heartratemonitor_compose.54.png",
         "url_codice_sorgente": "https://github.com/XiaochangXu/HeartRateMonitor-composeui",
         "ultimo_aggiornamento": null
     },
@@ -16602,7 +16602,7 @@
     {
         "nome": "SOS Ring",
         "id_pacchetto": "com.lorenzomarci.sosring",
-        "riassunto": "Force ringtone for VIP contacts even in Silent/DND mode",
+        "riassunto": "Make VIP calls and messages audible even in Silent/DND",
         "categorie": [
             "Phone & SMS"
         ],
@@ -20453,7 +20453,7 @@
             "Remote Controller"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.porter.tvremote.5.png",
+        "icona": "https://f-droid.org/repo//icons/com.porter.tvremote.6.png",
         "url_codice_sorgente": "https://github.com/Legvan/tv-remote",
         "ultimo_aggiornamento": null
     },
@@ -20539,7 +20539,7 @@
             "Podcast"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.prangesoftwaresolutions.audioanchor.32.png",
+        "icona": "https://f-droid.org/repo//icons/com.prangesoftwaresolutions.audioanchor.33.png",
         "url_codice_sorgente": "https://github.com/flackbash/AudioAnchor",
         "ultimo_aggiornamento": null
     },
@@ -24895,7 +24895,7 @@
         ],
         "licenza": "MPL-2.0",
         "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://github.com/jmshrv/finamp",
+        "url_codice_sorgente": "https://github.com/finamp-app/finamp",
         "ultimo_aggiornamento": null
     },
     {
@@ -28290,6 +28290,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "AudioLex",
+        "id_pacchetto": "de.hexenwoche.audiolex",
+        "riassunto": "Hearing training for word recognition: listen, identify, repeat. Fully offline.",
+        "categorie": [
+            "Science & Education",
+            "Sports & Health"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//de.hexenwoche.audiolex/de-DE/icon_k5Dn9TWqrpn2AsLg03r8G6W8qpDKOiqqebwL20z15_g=.png",
+        "url_codice_sorgente": "https://github.com/bois1616/audiolex",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "LnkShortener",
         "id_pacchetto": "de.hirtenstrasse.michael.lnkshortener",
         "riassunto": "Accorcia gli URL utilizzando l'API Polr",
@@ -31354,7 +31367,7 @@
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//dev.hloth.zaragoza_tarjeta_bus/en-US/icon_l_QwO0IOxBh-R1pnORVcwVhnhMlPhI0sDpogIJJRtV8=.png",
-        "url_codice_sorgente": "https://git.hloth.dev/hloth/zgz-avanza-card-android",
+        "url_codice_sorgente": "https://git.hloth.dev/hloth/zaragoza-tarjeta-bus-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -31505,6 +31518,20 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//dev.leonlatsch.photok/en-US/icon_z0ghH0i7JJPHFbfTCy9gsqT62-NlBB9yfPlAD1BK5cw=.png",
         "url_codice_sorgente": "https://github.com/leonlatsch/Photok",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Adaptive Theme",
+        "id_pacchetto": "dev.lexip.hecate",
+        "riassunto": "Cambia automaticamente tema scuro e sfondi col sensore di luce ambientale",
+        "categorie": [
+            "System",
+            "Theming",
+            "Wallpaper"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/xLexip/Adaptive-Theme",
         "ultimo_aggiornamento": null
     },
     {
@@ -32406,7 +32433,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//es.jjrh.bikeradar/en-US/icon_ryPPr3_rzoKkjCtZHU91jcH7qegWDV3mxUQKwzKEL9o=.png",
+        "icona": "https://f-droid.org/repo//es.jjrh.bikeradar/en-US/icon_OiDeb3dTLRIHIenTcbP0xSxWX_1R9DRlEfEgNFQ7-Js=.png",
         "url_codice_sorgente": "https://github.com/partymola/android-bike-radar-overlay",
         "ultimo_aggiornamento": null
     },
@@ -35268,14 +35295,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Datenspuren 2025",
+        "nome": "Datenspuren 2026 Schedule",
         "id_pacchetto": "info.metadude.android.datenspuren.schedule",
         "riassunto": "Programma della conferenza Datenspuren al Zentralwerk Dresden",
         "categorie": [
             "Schedule"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//info.metadude.android.datenspuren.schedule/en-US/icon_bZT_DotEMl-aUrHrPM76RaMXyU0PHf4sgpH7xToeUdQ=.png",
         "url_codice_sorgente": "https://github.com/johnjohndoe/CampFahrplan",
         "ultimo_aggiornamento": null
     },
@@ -43767,6 +43794,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Schussel",
+        "id_pacchetto": "org.bitsrc.schussel",
+        "riassunto": "Bluetooth-triggered checklists that remind you of what you forgot.",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//org.bitsrc.schussel/en-US/icon_xZVbNVqVATDqAyPjxQBGgcgAwpEch2rP_OpAH9I506A=.png",
+        "url_codice_sorgente": "https://github.com/fmayer/schussel",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "BlackCandy",
         "id_pacchetto": "org.blackcandy.androidApp",
         "riassunto": " Black Candy for Android",
@@ -45758,7 +45797,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/org.glpi.inventory.agent.39471.png",
+        "icona": "https://f-droid.org/repo//icons/org.glpi.inventory.agent.39481.png",
         "url_codice_sorgente": "https://github.com/glpi-project/android-inventory-agent",
         "ultimo_aggiornamento": null
     },
