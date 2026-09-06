@@ -1717,7 +1717,7 @@
             "Sports & Health"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//at.j0s.meyercard.app/en-US/icon_KQu8npo506NKPcWupF5fe72d3rJcWF7p1ZDpRNgTlNs=.png",
+        "icona": "https://f-droid.org/repo//at.j0s.meyercard.app/en-US/icon_PnlVJrNHmsJHlCrg0B0M99Qru255zdcFGDPoW73yfk4=.png",
         "url_codice_sorgente": "https://github.com/J0s3f/Fechtkarte",
         "ultimo_aggiornamento": null
     },
@@ -4722,7 +4722,7 @@
     {
         "nome": "FitBuddy",
         "id_pacchetto": "com.anant.fitbuddy",
-        "riassunto": "AI-powered calorie & workout tracker with region-aware diets — log by photo or t",
+        "riassunto": "AI calorie & workout tracker with region-aware diets — log by photo or text",
         "categorie": [
             "Diet",
             "Workout"
@@ -6498,7 +6498,7 @@
     {
         "nome": "Baly Groceries Tracker",
         "id_pacchetto": "com.baly_groceries_tracker.app",
-        "riassunto": "monitor stock levels, and never worry about running out",
+        "riassunto": "Track your groceries, without worrying about running out.",
         "categorie": [
             "Shopping List"
         ],
@@ -10934,6 +10934,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Flashbyte",
+        "id_pacchetto": "com.flashbyte",
+        "riassunto": "Share files directly between your devices — no cloud, no accounts, no limits.",
+        "categorie": [
+            "Connectivity",
+            "File Transfer"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.flashbyte/en-US/icon_TvHjitIUescILnvuIl4OuxDCrA7IPzgCalV70HAwfq4=.png",
+        "url_codice_sorgente": "https://github.com/iamsami101/Flashbyte",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Compete",
         "id_pacchetto": "com.flasskamp.compete",
         "riassunto": "Challenge everyone!",
@@ -13721,7 +13734,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Bati — Fitness RPG",
+        "nome": "Bati: Fitness RPG",
         "id_pacchetto": "com.guiforge.bati",
         "riassunto": "Turn workouts into quests, boss fights and a village built by your training.",
         "categorie": [
@@ -14557,7 +14570,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Braincup",
+        "nome": "Braincup - Brain Training",
         "id_pacchetto": "com.inspiredandroid.braincup",
         "riassunto": "Train your focus, memory and math skills.",
         "categorie": [
@@ -18420,7 +18433,7 @@
             "Writing"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.247.png",
+        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.264.png",
         "url_codice_sorgente": "https://github.com/Musheer360/SwiftSlate",
         "ultimo_aggiornamento": null
     },
@@ -20341,7 +20354,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Markdown Reader — Pilcrow",
+        "nome": "Markdown Reader — PilcrowMD",
         "id_pacchetto": "com.pilcrowmd",
         "riassunto": "Read & edit Markdown beautifully. No ads, no account, open source.",
         "categorie": [
@@ -21370,7 +21383,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.remotephone/en-US/icon_VxsFLSW9fV8254uoTjL4UJT5lQXwVa5HpBjjoAnJh9E=.png",
         "url_codice_sorgente": "https://github.com/dpk404/remote-phone",
         "ultimo_aggiornamento": null
     },
@@ -22151,7 +22164,7 @@
             "Internet"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.seafile.seadroid2.410.png",
+        "icona": "https://f-droid.org/repo//icons/com.seafile.seadroid2.422.png",
         "url_codice_sorgente": "https://github.com/haiwen/seadroid",
         "ultimo_aggiornamento": null
     },
@@ -23402,6 +23415,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.stefdp.zipline/en-US/icon_bc9cUYyGReVaSGb-yBPktjcZ5_qbslytu2TvS7BdVXM=.png",
         "url_codice_sorgente": "https://git.stefdp.com/Stef/Zipline-Android-App",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Tsacdop - Podcast Player",
+        "id_pacchetto": "com.stonegate.tsacdop",
+        "riassunto": "Enjoy podcasts with Tsacdop! An open source podcast player built with flutter.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.stonegate.tsacdop/en-US/icon_IEGDJbxFaHpEoxB_wVVI0KFSMSp-Q0YwIJKc3JmtrNs=.png",
+        "url_codice_sorgente": "https://github.com/tsacdop/tsacdop",
         "ultimo_aggiornamento": null
     },
     {
@@ -34012,6 +34037,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Étagère",
+        "id_pacchetto": "fr.framagit.jeromeo.etagere",
+        "riassunto": "Browse a Calibre library on your Nextcloud and download EPUBs",
+        "categorie": [
+            "Reading"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//fr.framagit.jeromeo.etagere/de-DE/icon_0QTNjUKpk4HMQT7OhuDcvkj9njh8572OxcoJaH2HSqU=.png",
+        "url_codice_sorgente": "https://framagit.org/android1/etagere",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Commons",
         "id_pacchetto": "fr.free.nrw.commons",
         "riassunto": "Carica immagini su wikimedia.org",
@@ -35632,14 +35669,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "MRMCD 2025 Schedule",
+        "nome": "MRMCD 2026 Schedule",
         "id_pacchetto": "info.metadude.android.mrmcd.schedule",
         "riassunto": "Programma della conferenza MRMCD",
         "categorie": [
             "Schedule"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//info.metadude.android.mrmcd.schedule/en-US/icon_947GAQOQOOI6r2t6besz2rARxbLmJ5dNreEMQA4FmJc=.png",
         "url_codice_sorgente": "https://github.com/johnjohndoe/CampFahrplan",
         "ultimo_aggiornamento": null
     },
@@ -39215,7 +39252,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.124.png",
+        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.128.png",
         "url_codice_sorgente": "https://github.com/rignaneseleo/SlimSocial-for-Facebook",
         "ultimo_aggiornamento": null
     },
@@ -42872,6 +42909,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tjoeke",
+        "id_pacchetto": "nl.tjoeke.android",
+        "riassunto": "Quick Dutch train departures for your daily route",
+        "categorie": [
+            "Public Transport"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//nl.tjoeke.android/en-US/icon_ei-JjYEpaObGaGFXmCV9by-GY-Z1UgiPcUWv3PaOE5c=.png",
+        "url_codice_sorgente": "https://git.pondr.nl/douwe/Tjoeke-Android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "TodoTree",
         "id_pacchetto": "nl.tsmeets.todotree",
         "riassunto": "The tree based todo and note taking app",
@@ -44457,7 +44506,7 @@
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.comunes.tane.323.png",
+        "icona": "https://f-droid.org/repo//icons/org.comunes.tane.333.png",
         "url_codice_sorgente": "https://git.comunes.org/comunes/tane",
         "ultimo_aggiornamento": null
     },
@@ -50860,7 +50909,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//org.y20k.voxscribe/en-US/icon_SbSD6sxNe1SMAYBYr7oYbq2VnahiGMOKsz7u88IhHnM=.png",
+        "icona": "https://f-droid.org/repo//org.y20k.voxscribe/en-US/icon__SHucbtS8Lcd9o94BAnClKcbpIOOwpo6gzleTqn4OxE=.png",
         "url_codice_sorgente": "https://codeberg.org/y20k/voxscribe",
         "ultimo_aggiornamento": null
     },
