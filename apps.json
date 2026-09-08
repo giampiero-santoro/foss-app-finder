@@ -204,7 +204,8 @@
         "id_pacchetto": "ai.privatebydesign.albi",
         "riassunto": "A health tracking app that respects your privacy",
         "categorie": [
-            "Health Manager"
+            "Health Manager",
+            "Mental Health"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//ai.privatebydesign.albi/en-US/icon_pRfoNlFSHF9GENFncV3zNDHCufjoYcLArvULef0NUMM=.png",
@@ -1366,6 +1367,7 @@
         "id_pacchetto": "app.tryst",
         "riassunto": "Private, offline, encrypted tracker for your intimate life.",
         "categorie": [
+            "Mental Health",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -1726,7 +1728,7 @@
         "id_pacchetto": "at.jclehner.rxdroid",
         "riassunto": "Ti ricorda gli orari dei tuoi farmaci",
         "categorie": [
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -2166,7 +2168,7 @@
         "riassunto": "Find out how mindful you are on a scale of 1 to 6",
         "categorie": [
             "Meditation",
-            "Sports & Health"
+            "Mental Health"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//biz.binarysolutions.mindfulscale/en-US/icon_Ec2dEai5LMklEW_C33_BnWwJunbYN_IoVVccTZiENQw=.png",
@@ -2254,7 +2256,7 @@
         "id_pacchetto": "br.com.gualandi.dailypill",
         "riassunto": "Reminder app for your daily medication. Easy to use and respects your privacy.",
         "categorie": [
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//br.com.gualandi.dailypill/en-US/icon_j7ZIpvRfGStylJtFr9myoEP3k3NuvteDo5jFK3sRWmI=.png",
@@ -2945,7 +2947,7 @@
             "Educational Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/ch.cryptobit.letterbox.3.png",
+        "icona": "https://f-droid.org/repo//ch.cryptobit.letterbox/en-US/icon_zoGHBNEY5CWnViAJjPbeT-CQf9folgBwdJyKN7nzpFw=.png",
         "url_codice_sorgente": "https://gitlab.com/muelli/letterbox",
         "ultimo_aggiornamento": null
     },
@@ -3857,7 +3859,7 @@
             "Firewall"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.acutis.firewall/en-US/icon_LZbsaBKi1Z2i-ERfTZVFTYzOTu9jJufsHnpIxLeyd9M=.png",
         "url_codice_sorgente": "https://github.com/phasnox/acutis_firewall_android",
         "ultimo_aggiornamento": null
     },
@@ -4181,7 +4183,8 @@
         "id_pacchetto": "com.agepony.app",
         "riassunto": "Post-quantum file & message encryption with age. On-device, private, no ads.",
         "categorie": [
-            "File Encryption & Vault"
+            "File Encryption & Vault",
+            "Text Encryption"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.agepony.app/en-US/icon_hP3AgSBoB1d5_uH4dEUk2DZXmXkJ9cOFY4p9IjvMxwA=.png",
@@ -4230,7 +4233,7 @@
         "id_pacchetto": "com.aidinhut.simpletextcrypt",
         "riassunto": "Crittografa il testo in chiaro usando AES256",
         "categorie": [
-            "Security"
+            "Text Encryption"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.aidinhut.simpletextcrypt/en-US/icon_Jr4EKBA_Uz48cSVN4fCIzjlFiP7c0rsqiFRPvZIHP1o=.png",
@@ -4686,8 +4689,7 @@
         "riassunto": "Keyboard for secure E2EE communication through signal protocol in any messenger",
         "categorie": [
             "Keyboard & IME",
-            "Security",
-            "System"
+            "Text Encryption"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.amnesica.kryptey/en-US/icon_Wgb4KFa6xS3h1p62fHQ81Vs0En0edcbKE7cfFr9ulqM=.png",
@@ -5769,19 +5771,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Diario dei Contatti",
-        "id_pacchetto": "com.apozas.contactdiary",
-        "riassunto": "Tiene un registro delle persone con cui sei stato di recente",
-        "categorie": [
-            "Sports & Health",
-            "Writing"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.apozas.contactdiary/en-US/icon_z5tlyJSFkJGxPEza7RRB1dylFigMbBtSlF1jsb8aBX0=.png",
-        "url_codice_sorgente": "https://github.com/apozas/contactdiary",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "DailyLog",
         "id_pacchetto": "com.app.dailylog",
         "riassunto": "A quick-logging notes app with customizable shortcut buttons.",
@@ -5905,7 +5894,8 @@
         "id_pacchetto": "com.aradar.vibecheck",
         "riassunto": "Private, local-first mood and symptom tracker. No account, no cloud.",
         "categorie": [
-            "Health Manager"
+            "Health Manager",
+            "Mental Health"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.aradar.vibecheck.2.png",
@@ -6814,7 +6804,7 @@
         "id_pacchetto": "com.binauralbeat",
         "riassunto": "Binaural beat generator with the classic SBaGen engine and ambient backgrounds",
         "categorie": [
-            "Multimedia"
+            "Ambient Sound"
         ],
         "licenza": "GPL-2.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -7536,7 +7526,7 @@
         "id_pacchetto": "com.catalin.rivia",
         "riassunto": "Rivia is the ultimate encryption tool",
         "categorie": [
-            "Security"
+            "Text Encryption"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.catalin.rivia/en-US/icon_OOF0E_V007sMmmgd2s4iJsM4C47Tm_xz7P8IcbKq3Gg=.png",
@@ -7823,8 +7813,7 @@
         "id_pacchetto": "com.chmouel.noisetimer",
         "riassunto": "Calming white, pink, and brown noise with a sleep timer",
         "categorie": [
-            "Meditation",
-            "Multimedia",
+            "Ambient Sound",
             "Timer"
         ],
         "licenza": "MIT",
@@ -7885,8 +7874,7 @@
         "id_pacchetto": "com.cliambrown.easynoise",
         "riassunto": "A simple Android app to play white noise.",
         "categorie": [
-            "Multimedia",
-            "Sports & Health"
+            "Ambient Sound"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.cliambrown.easynoise/en-CA/icon_GEUkXR-qWHinKxSYCSNOn1RaZQqfZirFLtuiJxdcnRA=.png",
@@ -7898,7 +7886,7 @@
         "id_pacchetto": "com.cliambrown.pilltime",
         "riassunto": "Keep track of meds that can be taken as needed (not at a specific time)",
         "categorie": [
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.cliambrown.pilltime/en-US/icon_IszWnkURJO16saLIByuD4UuE-wL0ZSoA-9w8un4aRp4=.png",
@@ -7922,8 +7910,8 @@
         "id_pacchetto": "com.cliffracertech.soundaura",
         "riassunto": "A background audio player for studying / working.",
         "categorie": [
-            "Local Media Player",
-            "Multimedia"
+            "Ambient Sound",
+            "Local Media Player"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.cliffracertech.soundaura/en-US/icon_E9RRMQu8a70nYVTTIqy2OamhM0q0aLgZLJJgZyx7xbE=.png",
@@ -8362,7 +8350,7 @@
         "id_pacchetto": "com.cryptosafe.app",
         "riassunto": "Offline AES-256-GCM text encryption with Argon2id, no internet permission",
         "categorie": [
-            "Security"
+            "Text Encryption"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.cryptosafe.app/ar/icon_seVO2awQiFlMfsfXDM7vc2J5TjF37nVvWtIoBtFBsxs=.png",
@@ -8826,6 +8814,7 @@
         "id_pacchetto": "com.demizo.daily_you",
         "riassunto": "Every day is worth remembering…",
         "categorie": [
+            "Mental Health",
             "Multimedia",
             "Note",
             "Writing"
@@ -9577,7 +9566,7 @@
             "Time Tracker"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.dtsykunov.pause.21.png",
+        "icona": "https://f-droid.org/repo//icons/com.dtsykunov.pause.24.png",
         "url_codice_sorgente": "https://github.com/dtsykunov/pause-app",
         "ultimo_aggiornamento": null
     },
@@ -10024,7 +10013,8 @@
         "riassunto": "Text & File Encryption/Decryption with new OverlayTechnology",
         "categorie": [
             "File Encryption & Vault",
-            "Security"
+            "Security",
+            "Text Encryption"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.encrypt.bwt/en-US/icon_v-Ut-ck4VIR2MBhN6WWeKZKgNaQOLQDK7_gBuGDglRs=.png",
@@ -10101,7 +10091,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.epione.app.11.png",
+        "icona": "https://f-droid.org/repo//icons/com.epione.app.15.png",
         "url_codice_sorgente": "https://codeberg.org/kapoue/Epione",
         "ultimo_aggiornamento": null
     },
@@ -10821,8 +10811,7 @@
         "id_pacchetto": "com.feels.feelingsApp.feels_app",
         "riassunto": "App for writing notes and associating them with emotions.",
         "categorie": [
-            "Sports & Health",
-            "Writing"
+            "Mental Health"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.feels.feelingsApp.feels_app/en-US/icon_pgoKoPsIdOJtFivBJhPhbnWYAw0THliyWk83QkyED8M=.png",
@@ -11469,7 +11458,7 @@
         "id_pacchetto": "com.futsch1.medtimer",
         "riassunto": "Medication and pill reminder with log, fully offline and privacy focused",
         "categorie": [
-            "Sports & Health",
+            "Medication",
             "Timer"
         ],
         "licenza": "MIT",
@@ -11760,7 +11749,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.824.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.827.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -12068,9 +12057,8 @@
         "id_pacchetto": "com.github.ashutoshgngwr.noice",
         "riassunto": "Focus, meditate and relax with natural calming noise.",
         "categorie": [
-            "Meditation",
-            "Multimedia",
-            "Sports & Health"
+            "Ambient Sound",
+            "Meditation"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.ashutoshgngwr.noice/en-US/icon_chhTvuAsgmlKLFfgkMK1mUbJ7F0F2a8D6MKZK1f90Rw=.png",
@@ -12376,7 +12364,7 @@
             "Health Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.github.heartratemonitor_compose.55.png",
+        "icona": "https://f-droid.org/repo//icons/com.github.heartratemonitor_compose.56.png",
         "url_codice_sorgente": "https://github.com/XiaochangXu/HeartRateMonitor-composeui",
         "ultimo_aggiornamento": null
     },
@@ -12969,7 +12957,7 @@
         "id_pacchetto": "com.github.soundpod",
         "riassunto": "A minimalist music streaming app",
         "categorie": [
-            "Multimedia",
+            "Ambient Sound",
             "Online Media Player"
         ],
         "licenza": "GPL-3.0-only",
@@ -13810,6 +13798,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "GymMane",
+        "id_pacchetto": "com.gymmane.app",
+        "riassunto": "Dark, offline gym log. Tap the muscle, log your sets, watch your numbers move.",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.gymmane.app/en-US/icon_ce_NtWH4KDZ11zN7TxmGuthD1EW4l48BZffQUtX46zk=.png",
+        "url_codice_sorgente": "https://github.com/InlitX/GymMane",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "PolyCal",
         "id_pacchetto": "com.gyorog.polycal",
         "riassunto": "colorful, text-based calendar widget",
@@ -14181,7 +14181,7 @@
             "Security"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.hmdm.launcher.15390.png",
         "url_codice_sorgente": "https://github.com/h-mdm/hmdm-android",
         "ultimo_aggiornamento": null
     },
@@ -14664,8 +14664,7 @@
         "id_pacchetto": "com.isaakhanimann.journal",
         "riassunto": "Keep track of substance usage to gain insights on consumption patterns",
         "categorie": [
-            "Science & Education",
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.isaakhanimann.journal/en-US/icon_mPArullU-JoeSvjm6m31Adx21qJZ7o5w-Gc1eWdU9Yk=.png",
@@ -14978,7 +14977,7 @@
         "id_pacchetto": "com.jbgsoft.ambio",
         "riassunto": "Blend up to 3 of 12 ambient sounds into a focus soundscape you build yourself",
         "categorie": [
-            "Multimedia",
+            "Ambient Sound",
             "Timer"
         ],
         "licenza": "MIT",
@@ -15462,7 +15461,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.k2040.geojoystick/en-US/icon_rphogCMvTF0taNw39Ly7kUwpvqdE5fZMPIlicX7Z20M=.png",
+        "icona": "https://f-droid.org/repo//com.k2040.geojoystick/en-US/icon_166BcF0FUEp9kmdvPsUdUAN8c0WcBGoJWSLWusGlTfM=.png",
         "url_codice_sorgente": "https://github.com/Kamui2040/K2040-GeoJoystick",
         "ultimo_aggiornamento": null
     },
@@ -16100,7 +16099,7 @@
         "riassunto": "Encrypt inside any messenger: the keyboard encrypts, the screen decrypts",
         "categorie": [
             "Messaging",
-            "Security"
+            "Text Encryption"
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.kryptos.android/en-US/icon_6R-qRbAEhtCl_lSSh3pZ-1UiJa69BtUe9xPFmEpnIIE=.png",
@@ -16326,7 +16325,7 @@
         "id_pacchetto": "com.lcdcode.moodcairns",
         "riassunto": "Private, fully offline mood tracker. No network access. Your data's yours..",
         "categorie": [
-            "Sports & Health"
+            "Mental Health"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.lcdcode.moodcairns/en-US/icon_aBpLhT11W43nsLWeevMNHIiJSrS7p3EzfqiV60_vIRk=.png",
@@ -16530,7 +16529,7 @@
             "Finance Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.33.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.34.png",
         "url_codice_sorgente": "https://github.com/Limekana/nexus-command-center",
         "ultimo_aggiornamento": null
     },
@@ -18016,7 +18015,8 @@
         "id_pacchetto": "com.mkx.hrttracker",
         "riassunto": "Private medication tracker for HRT routines — plans, reminders, personal logs",
         "categorie": [
-            "Health Manager"
+            "Health Manager",
+            "Medication"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mkx.hrttracker/en-US/icon_Zg1qYMdSpjB0s1fYFxwWHhuN4Vr2A7yHTS0nWsWnx80=.png",
@@ -18201,7 +18201,8 @@
         "id_pacchetto": "com.mooneva.app",
         "riassunto": "Private period & cycle tracker. Offline, encrypted, no account, no ads.",
         "categorie": [
-            "Health Manager"
+            "Health Manager",
+            "Medication"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.mooneva.app/en-US/icon_61cN2z5l37qsKlxT02Y-BUaq9O6zJ6616ORBBiy0uLo=.png",
@@ -18327,7 +18328,8 @@
         "id_pacchetto": "com.msb.bluecheese",
         "riassunto": "Offline text encryption-fast, local, no trackers.",
         "categorie": [
-            "Security"
+            "Security",
+            "Text Encryption"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.msb.bluecheese/en-US/icon_tM-Vm92ZXlpUOeCE6a95YVDC6d67NLzU0U38s9seFS4=.png",
@@ -18433,7 +18435,7 @@
             "Writing"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.264.png",
+        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.267.png",
         "url_codice_sorgente": "https://github.com/Musheer360/SwiftSlate",
         "ultimo_aggiornamento": null
     },
@@ -18641,7 +18643,8 @@
         "riassunto": "A file and text encryption tool for Android",
         "categorie": [
             "File Encryption & Vault",
-            "Security"
+            "Security",
+            "Text Encryption"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.nemesis.droidcrypt/en-US/icon_lxTPz14APG0tFn5E4u0ZUTGUL1obGjTQr_l3XA3Jtnc=.png",
@@ -18826,8 +18829,8 @@
         "id_pacchetto": "com.nfcarchiver.banana_split",
         "riassunto": "Split secrets into QR-code shards using Shamir's Secret Sharing",
         "categorie": [
-            "Security",
-            "System"
+            "System",
+            "Text Encryption"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.nfcarchiver.banana_split/en-US/icon_u5aAB9xsZBGtbfFf2NWlTepKWr5VJ7cHSkpQX7xzZbw=.png",
@@ -18976,8 +18979,7 @@
         "id_pacchetto": "com.nima.mymood",
         "riassunto": "Simple and minimalistic app to track your daily mood with.",
         "categorie": [
-            "Sports & Health",
-            "Writing"
+            "Mental Health"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.nima.mymood/en-US/icon_HtalLW_a81rOmr0fBUwpKgt68pfe1-eOOBe17CYHAl8=.png",
@@ -19987,7 +19989,8 @@
             "File Encryption & Vault",
             "Password & 2FA",
             "Security",
-            "System"
+            "System",
+            "Text Encryption"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.paranoiaworks.unicus.android.sse/en-US/icon_Aot0rOWfO3KhzjSiCjuf89YoKLSxNCJFoCedDc5Src4=.png",
@@ -20207,7 +20210,8 @@
         "id_pacchetto": "com.personx.cryptx",
         "riassunto": "Simple Android Cryptography Toolkit",
         "categorie": [
-            "Security"
+            "Security",
+            "Text Encryption"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.personx.cryptx/en-US/icon_TvmQteGfeCBOFUlA3yE94UOBHVPv2AxL2ZCr2Ui-etA=.png",
@@ -20219,7 +20223,8 @@
         "id_pacchetto": "com.pgpony.android",
         "riassunto": "OpenPGP encryption with hardware security keys and password-store support",
         "categorie": [
-            "Security"
+            "Password & 2FA",
+            "Text Encryption"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.pgpony.android/en-US/icon_sqMH-3yERKKtbB_2qztwEGXsY7bSYQeF3z4ogxM8vtc=.png",
@@ -20482,6 +20487,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Yahora",
+        "id_pacchetto": "com.podxboq.yahora",
+        "riassunto": "One tap records that something happened. There is nothing else to fill in",
+        "categorie": [
+            "Habit Tracker"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.podxboq.yahora/en-US/icon_MfuIb-LmN-yflcwLLh0ej5VFJEbjwMvkvyzDb9LLRts=.png",
+        "url_codice_sorgente": "https://github.com/podxboq/yahora",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Mirror",
         "id_pacchetto": "com.polar.mirror",
         "riassunto": "Simple Android application turning your device into a pocket mirror🪞",
@@ -20676,7 +20693,7 @@
             "Religion"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.prayer_times/en-US/icon_6RDjllfYkcMiwoE-hKkYWHHKwRTCnNbuxWyIra-sZ2I=.png",
+        "icona": "https://f-droid.org/repo//com.prayer_times/en-US/icon_sfJSGlR4HZXhltyTaYj85NDwX7ub5k5pMOLi2PjP9Ys=.png",
         "url_codice_sorgente": "https://github.com/Hassan-PS/Mihrab",
         "ultimo_aggiornamento": null
     },
@@ -21477,7 +21494,8 @@
         "id_pacchetto": "com.revold1985.secureqrshare",
         "riassunto": "Share passwords and links securely via encrypted QR codes.",
         "categorie": [
-            "Security"
+            "Security",
+            "Text Encryption"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.revold1985.secureqrshare.43.png",
@@ -22480,7 +22498,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.shinydiscoballsdev.kifossk.5.png",
+        "icona": "https://f-droid.org/repo//icons/com.shinydiscoballsdev.kifossk.6.png",
         "url_codice_sorgente": "https://github.com/ShinyDiscoBallsDev/kiFOSSk",
         "ultimo_aggiornamento": null
     },
@@ -22608,6 +22626,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.huespill/en-US/icon_RVPXKX3Cm46Ta2V3Ulrq7fbuPefQN4HUp2K8OsWu7B8=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/HueSpill",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Learn Math",
+        "id_pacchetto": "com.sidhant.learnmath",
+        "riassunto": "A modern, fast, and tactile mental math training game",
+        "categorie": [
+            "Educational Game",
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.learnmath/en-US/icon_rps6U5XbvKUro9GAiVgA5VTZ1BHfu69jhzXVaZoY8HU=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/LearnMath",
         "ultimo_aggiornamento": null
     },
     {
@@ -23191,6 +23222,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "IMD - It's My Device (supercharged fork of Geto)",
+        "id_pacchetto": "com.soul_99.suIMD",
+        "riassunto": "Settings manager/ hide settings from apps",
+        "categorie": [
+            "Security",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.soul_99.suIMD/en-US/icon_dAbW9L9G20yeY4AKsKnDmkTo3syEwZJkcS-mcsKkQ1I=.png",
+        "url_codice_sorgente": "https://github.com/soul-99/SU_IMD",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Plutus - Investment Tracker",
         "id_pacchetto": "com.soumikshah.investmenttracker",
         "riassunto": "We're here to track money going out of your checking account into different type",
@@ -23325,7 +23369,7 @@
             "Writing"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005226.png",
+        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005228.png",
         "url_codice_sorgente": "https://github.com/standardnotes/app",
         "ultimo_aggiornamento": null
     },
@@ -23839,7 +23883,7 @@
         "id_pacchetto": "com.takasu.motivational_app.direct",
         "riassunto": "A tiny joke app that gives you brutally direct motivation in one tap.",
         "categorie": [
-            "Casual Game"
+            "Mental Health"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.takasu.motivational_app.direct/en-US/icon_SR-nKqewFM2fj42qP1BcnCkHBhrxqv4IU3YERT9Oc2s=.png",
@@ -24245,8 +24289,7 @@
         "id_pacchetto": "com.theworld.help.cbtandroid",
         "riassunto": "Diario di pensiero CBT a sette colonne",
         "categorie": [
-            "Sports & Health",
-            "Writing"
+            "Mental Health"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/com.theworld.help.cbtandroid.4.png",
@@ -25033,7 +25076,7 @@
             "Religion"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.uli.bokyfivavahana2.10.png",
+        "icona": "https://f-droid.org/repo//icons/com.uli.bokyfivavahana2.11.png",
         "url_codice_sorgente": "https://github.com/ulightm111/boky-fivavahana-ion",
         "ultimo_aggiornamento": null
     },
@@ -25282,7 +25325,7 @@
         "id_pacchetto": "com.vauth.salty",
         "riassunto": "A secure, offline-first message encryption tool for Android.",
         "categorie": [
-            "Security"
+            "Text Encryption"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.vauth.salty/en-US/icon__VnBWaEcJCvrATt1Y5A9L6wwe3ycreirNypb7j7J0MQ=.png",
@@ -26219,7 +26262,7 @@
         "id_pacchetto": "com.winston69.simpill",
         "riassunto": "Easily set reminders for your medications.",
         "categorie": [
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.winston69.simpill/en-US/icon_Ii9CBRfEROnd0oKRfIXwe2ndt_erc8B5K2qXD3V8ykw=.png",
@@ -26824,7 +26867,7 @@
         "riassunto": "Log health metrics such as blood pressure, weight and quite a few others",
         "categorie": [
             "Health Manager",
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.zell_mbc.medilog/en-US/icon_rqVrdmXofMz6pGK5vsZAoy9-564djb-O82xYTeQn8z0=.png",
@@ -27706,6 +27749,7 @@
         "id_pacchetto": "de.bloosberg.basti.childresuscalc",
         "riassunto": "Nessuna descrizione disponibile.",
         "categorie": [
+            "Medication",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -29341,7 +29385,7 @@
     {
         "nome": "Chord Progression Helper",
         "id_pacchetto": "de.metaviewsoft.chordprogressionhelper",
-        "riassunto": "A music app to write chord progressions, add simple drum beats and some little m",
+        "riassunto": "Write chord progressions with drums and melody to play and sing along",
         "categorie": [
             "Multimedia",
             "Music Practice Tool"
@@ -29771,7 +29815,7 @@
         "riassunto": "Privacy-focused medical event tracking using your device's calendar system",
         "categorie": [
             "Health Manager",
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.ntdote.medicalcalendarlog/en-US/icon_UQmOgZL2TyW23MjgktXTDSEAovKap3jQijHtq7VzeNI=.png",
@@ -30005,7 +30049,7 @@
             "Radio"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.radiozeit.freiesradio.fdroid.213.png",
+        "icona": "https://f-droid.org/repo//icons/de.radiozeit.freiesradio.fdroid.233.png",
         "url_codice_sorgente": "https://github.com/mixdtv/freies-radio-app",
         "ultimo_aggiornamento": null
     },
@@ -30059,7 +30103,7 @@
             "Translation & Dictionary"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/de.reimardoeffinger.quickdic.133.png",
+        "icona": "https://f-droid.org/repo//icons/de.reimardoeffinger.quickdic.134.png",
         "url_codice_sorgente": "https://github.com/rdoeffinger/Dictionary",
         "ultimo_aggiornamento": null
     },
@@ -30793,7 +30837,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.105013.png",
+        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.106023.png",
         "url_codice_sorgente": "https://git.pabr.de/uwr/uwr_plan_app",
         "ultimo_aggiornamento": null
     },
@@ -30932,6 +30976,7 @@
         "riassunto": "A motivation app with journaling",
         "categorie": [
             "Habit Tracker",
+            "Mental Health",
             "Sports & Health",
             "Writing"
         ],
@@ -31290,7 +31335,8 @@
         "id_pacchetto": "dev.corruptedark.diditakemymeds",
         "riassunto": "An app to manage and track medication doses",
         "categorie": [
-            "Calendar & Agenda"
+            "Calendar & Agenda",
+            "Medication"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.corruptedark.diditakemymeds/en-US/icon_QfrOjWg0N9ZwGdsLgt0XDdq8ZKH5OYj7P5hPf-pRQeQ=.png",
@@ -31871,7 +31917,7 @@
         "id_pacchetto": "dev.mariinkys.OpenPillReminder",
         "riassunto": "Open source lady pill (birth control) tracker",
         "categorie": [
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.mariinkys.OpenPillReminder/en-US/icon_exoHcYaVnotCp2glWIqEb5XLK7aBswqL3c_FaVvTnDM=.png",
@@ -32325,18 +32371,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Lucia App",
-        "id_pacchetto": "digital.selfdefense.lucia",
-        "riassunto": "Lucia allows you to anonymously check in at events using QR code based tracing.",
-        "categorie": [
-            "Connectivity"
-        ],
-        "licenza": "EUPL-1.2",
-        "icona": "https://f-droid.org/repo//digital.selfdefense.lucia/en-US/icon_ssrzLNa-Tl_lVoOjIDyv5AeBw7U20j93ghOjJpLjyq4=.png",
-        "url_codice_sorgente": "https://archive.softwareheritage.org/browse/origin/https://codeberg.org/errhammr/Lucia-App/directory/",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Inter Profile Sharing",
         "id_pacchetto": "digital.ventral.ips",
         "riassunto": "Easily share media and text between Android user profiles",
@@ -32378,7 +32412,7 @@
         "id_pacchetto": "dk.meznik.jan.encrypttext",
         "riassunto": "Minimalistic application to encrypt plain text using AES 256.",
         "categorie": [
-            "Security"
+            "Text Encryption"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//dk.meznik.jan.encrypttext/en-US/icon_rL1-k6iYN0ev_cLktasXVVkeSVOQkiIifMjwhBUoiPQ=.png",
@@ -32557,7 +32591,7 @@
             "Connectivity"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/ekklesia.gr.584.png",
+        "icona": "https://f-droid.org/repo//icons/ekklesia.gr.604.png",
         "url_codice_sorgente": "https://github.com/NeaBouli/pnyx",
         "ultimo_aggiornamento": null
     },
@@ -34088,7 +34122,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Tchap",
+        "nome": "Tchap Classique",
         "id_pacchetto": "fr.gouv.tchap.a",
         "riassunto": "Tchap is the instant messaging service of the French administration",
         "categorie": [
@@ -35168,8 +35202,7 @@
         "id_pacchetto": "ie.delilahsthings.soothingloop",
         "riassunto": "Play soothing sound effects to help you relax and drown out background noise.",
         "categorie": [
-            "Multimedia",
-            "Sports & Health"
+            "Ambient Sound"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//ie.delilahsthings.soothingloop/en-US/icon_5mJUGlHhSuLkAcObqHHnXMxxxrRKqGOLWW7hGEZ5W9o=.png",
@@ -35342,8 +35375,7 @@
         "id_pacchetto": "in.kawaiis.journal",
         "riassunto": "Open-source drug use tracker with interaction checker and multilingual support.",
         "categorie": [
-            "Science & Education",
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//in.kawaiis.journal/en-US/icon_1QJ_HSK95i-dyJN9QtaoccQHf6LIV5Ykhwq4lbXk1V4=.png",
@@ -35457,7 +35489,8 @@
         "id_pacchetto": "info.guardianproject.pixelknot",
         "riassunto": "Have a secret that you want to share? Why not hide it in a picture?",
         "categorie": [
-            "Security"
+            "Security",
+            "Text Encryption"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//info.guardianproject.pixelknot/en-US/icon_xvdwiCXWYRYFGzkEg2NCLK3CM5U_6q1EGbMnZnp-pOo=.png",
@@ -36037,6 +36070,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "The Last Carrot",
+        "id_pacchetto": "io.github.acidefluorhydrique.carrot",
+        "riassunto": "A cheerful tower defence game with no ads, no trackers and no permissions",
+        "categorie": [
+            "Strategy Game"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.acidefluorhydrique.carrot/en-US/icon_vcQ1JGDrC6FfBfRkj_IS0WquQ-P629AFBEG7LnKS4T8=.png",
+        "url_codice_sorgente": "https://github.com/AcideFluorhydrique/carrot",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "geminiAssist",
         "id_pacchetto": "io.github.acidefluorhydrique.geminiassist",
         "riassunto": "WebView wrapper for Google Gemini",
@@ -36063,13 +36108,26 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tumblr Downloader",
+        "id_pacchetto": "io.github.akarimarisa.tumblrdownloader",
+        "riassunto": "Download images and videos from Tumblr posts",
+        "categorie": [
+            "Download"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.akarimarisa.tumblrdownloader/en-US/icon_uTlnJ3hErl2x8XOXsrg8R0ewaTh-3LsZMlC5_iu7vl8=.png",
+        "url_codice_sorgente": "https://github.com/AkariMarisa/Tumblr-Downloader",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Baseline",
         "id_pacchetto": "io.github.anrinion.baseline",
         "riassunto": "Gentle self-care for depression, disability, chronic illness, or burnout",
         "categorie": [
             "Diet",
             "Health Manager",
-            "Sports & Health"
+            "Medication",
+            "Mental Health"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.anrinion.baseline/en-US/icon_05GuAyIPNYbN-Q-UsnKZno2DI9jwBIAh7-5E-SDrrtA=.png",
@@ -37404,6 +37462,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Veilleuse",
+        "id_pacchetto": "io.github.pic38.veilleuse",
+        "riassunto": "Minimal OLED night light, flash or screen, scheduled shutdown.",
+        "categorie": [
+            "Flashlight"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/pic38/Veilleuse",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Picocrypt-NG",
         "id_pacchetto": "io.github.picocrypt_ng.picocrypt_ng",
         "riassunto": "Paranoid, offline file encryption with XChaCha20 and Argon2id.",
@@ -37469,7 +37539,7 @@
         "id_pacchetto": "io.github.probably_oxy.drift",
         "riassunto": "Ambient sound mixer for sleep and focus on long nights and long flights",
         "categorie": [
-            "Multimedia"
+            "Ambient Sound"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.probably_oxy.drift/en-US/phoneScreenshots/icon_T72BPaFL0b5FDc3iHMdrad0SBEjsovFHPrs-CO-uB2s=.png",
@@ -38355,10 +38425,10 @@
         "id_pacchetto": "io.gitlab.the_phoenix_project0.whisper_noise",
         "riassunto": "A calming white noise generator for better sleep and focus",
         "categorie": [
-            "Multimedia"
+            "Ambient Sound"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/io.gitlab.the_phoenix_project0.whisper_noise.23.png",
+        "icona": "https://f-droid.org/repo//icons/io.gitlab.the_phoenix_project0.whisper_noise.33.png",
         "url_codice_sorgente": "https://gitlab.com/the-phoenix-project0/whisper-noise",
         "ultimo_aggiornamento": null
     },
@@ -38686,7 +38756,7 @@
         "id_pacchetto": "io.oversec.one",
         "riassunto": "Privacy for All Apps! Encrypt and Disguise Messages in All Your Apps!",
         "categorie": [
-            "Security"
+            "Text Encryption"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.oversec.one/en-US/icon_ZtcJR11x1eXhAt7yq_Rqta2RIrcgzwRDn8YUJ7VeWGs=.png",
@@ -38723,8 +38793,9 @@
         "id_pacchetto": "io.perfice.app",
         "riassunto": "Track anything, find the patterns that shape your life",
         "categorie": [
-            "Connectivity",
-            "Sports & Health"
+            "Diet",
+            "Mental Health",
+            "Workout"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.perfice.app/en-US/icon_kntLjoUb_3Yzg1gc-4kr3WgLFk-ayoFs_aku0LwXBTA=.png",
@@ -39358,6 +39429,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Meron",
+        "id_pacchetto": "jp.nonbili.meron",
+        "riassunto": "Mail app that sparks joy",
+        "categorie": [
+            "Email"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/jp.nonbili.meron.31.png",
+        "url_codice_sorgente": "https://github.com/nonbili/meron",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Nora",
         "id_pacchetto": "jp.nonbili.nora",
         "riassunto": "Browser per social network. Facebook, Instagram, Reddit, Threads, X e altri in u",
@@ -39806,7 +39889,7 @@
         "id_pacchetto": "m.co.rh.id.a_medic_log",
         "riassunto": "A simple and easy to use personal medical notes",
         "categorie": [
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//m.co.rh.id.a_medic_log/de-DE/icon_VzHOXxh1tQfDWdX7yygA4918_B65nt8uVwGfmf8XV-s=.png",
@@ -41345,7 +41428,7 @@
         "id_pacchetto": "net.foucry.pilldroid",
         "riassunto": "Pilldroid is a theoretical medication stock manager.\n<em>It's in french and uses",
         "categorie": [
-            "Sports & Health"
+            "Medication"
         ],
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//net.foucry.pilldroid/en-US/icon_20ZA-nNVCZ9WNR2mGyzoT_7ZGavlrCd2vmTiFU4MTxs=.png",
@@ -41942,7 +42025,7 @@
         "id_pacchetto": "net.pmarks.chromadoze",
         "riassunto": "Generatore di rumore",
         "categorie": [
-            "Multimedia"
+            "Ambient Sound"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
@@ -45168,6 +45251,7 @@
         "id_pacchetto": "org.epstudios.epmobile",
         "riassunto": "Strumenti medici",
         "categorie": [
+            "Medication",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -47345,7 +47429,7 @@
         "id_pacchetto": "org.mcxa.softsound",
         "riassunto": "Riproduci suoni rilassanti",
         "categorie": [
-            "Multimedia"
+            "Ambient Sound"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/org.mcxa.softsound.1.png",
@@ -49843,7 +49927,8 @@
         "id_pacchetto": "org.sufficientlysecure.keychain",
         "riassunto": "Crittografare i file e delle comunicazioni. Compatibile con la OpenPGP standard.",
         "categorie": [
-            "Security"
+            "Security",
+            "Text Encryption"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.sufficientlysecure.keychain/en-US/icon_7CVWLf-lztDVEl2HY_TnF0d98nwq__xr05Yu8lLZoV4=.png",
@@ -50044,7 +50129,7 @@
         "id_pacchetto": "org.therapiefinder",
         "riassunto": "support in search of a therapy",
         "categorie": [
-            "Sports & Health"
+            "Mental Health"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
@@ -50062,6 +50147,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.thosp.yourlocalweather/en-GB/icon_MDOwAe8lWtZFZoy1TzN-d8U-luyz9qiV9VtCU30_Z_0=.png",
         "url_codice_sorgente": "https://github.com/thuryn/your-local-weather",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Telegram X FOSS",
+        "id_pacchetto": "org.thunderdog.challegram",
+        "riassunto": "An unofficial FOSS-friendly fork of Telegram X",
+        "categorie": [
+            "Internet",
+            "Messaging"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.thunderdog.challegram/en-US/icon_I0hmfnVlonL6mcORt6DWUcyx3dJVLlETipYG8SfheM8=.png",
+        "url_codice_sorgente": "https://github.com/AmanoTeam/Telegram-X-FOSS",
         "ultimo_aggiornamento": null
     },
     {
@@ -51070,7 +51168,7 @@
             "Note"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/page.tine.app.6981.png",
+        "icona": "https://f-droid.org/repo//icons/page.tine.app.6982.png",
         "url_codice_sorgente": "https://github.com/martinkoutecky/tine",
         "ultimo_aggiornamento": null
     },
@@ -51843,7 +51941,7 @@
         "id_pacchetto": "rocks.poopjournal.fucksgiven",
         "riassunto": "﻿Self-love is the greatest middle finger of all time.",
         "categorie": [
-            "Sports & Health"
+            "Mental Health"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//rocks.poopjournal.fucksgiven/en-US/icon_YCIwKb3mPGmMcdm6gDvkfFC7wyL6Wn7oxvJZTWmUtWA=.png",
@@ -51994,7 +52092,8 @@
         "id_pacchetto": "ru.application.homemedkit",
         "riassunto": "Home Medkit — medicine storage and intake reminders.",
         "categorie": [
-            "Sports & Health"
+            "Inventory",
+            "Medication"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//ru.application.homemedkit/en-US/icon_iovqY9udFrhYrR1IagT07RG7VqJtaMn7K-C3KExyr9U=.png",
@@ -52649,7 +52748,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "OnTime",
+        "nome": "OnTime - Presentation Timer",
         "id_pacchetto": "si.jakobkreft.ontime",
         "riassunto": "Presentation timer for speakers at live events",
         "categorie": [
@@ -53159,6 +53258,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Monica F-Droid",
+        "id_pacchetto": "takagi.ru.monica.fdroid",
+        "riassunto": "Open-source password manager: local encryption, autofill, TOTP, Passkey",
+        "categorie": [
+            "Password & 2FA",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//takagi.ru.monica.fdroid/en-US/icon_2R3EQE1MLu2hCQhnfk-fEXImQkk2AzzbfNS_yu-p3xo=.png",
+        "url_codice_sorgente": "https://github.com/Monica-Pass/Monica-Fdroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Pendulums",
         "id_pacchetto": "team.swing.pendulums",
         "riassunto": "Gestisci il tempo più efficientemente con un moderno strumento di tracciamento",
@@ -53227,6 +53339,7 @@
         "riassunto": "Private Health Connect dashboard",
         "categorie": [
             "Health Manager",
+            "Mental Health",
             "Workout"
         ],
         "licenza": "AGPL-3.0-or-later",
@@ -54480,10 +54593,10 @@
         "id_pacchetto": "xyz.metiq",
         "riassunto": "Colored noise, binaural beats & ambient sounds for sleep, study and focus.",
         "categorie": [
-            "Multimedia"
+            "Ambient Sound"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//xyz.metiq/en-US/icon_YysJn4IRWWOqrhhrwNG2DA9TsTFpmS9KSZ5QSkQ0Kik=.png",
+        "icona": "https://f-droid.org/repo//xyz.metiq/ar/icon_YysJn4IRWWOqrhhrwNG2DA9TsTFpmS9KSZ5QSkQ0Kik=.png",
         "url_codice_sorgente": "https://github.com/metiq-xyz/android-app",
         "ultimo_aggiornamento": null
     },
