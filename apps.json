@@ -4963,6 +4963,7 @@
         "riassunto": "A de-googled, hardened fork of the Pebble companion app for de-googled phones",
         "categorie": [
             "Connectivity",
+            "Speech Recognizer",
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
@@ -5001,7 +5002,7 @@
         "id_pacchetto": "com.antivocale.app",
         "riassunto": "Offline voice-message transcription, fully on-device",
         "categorie": [
-            "Multimedia"
+            "Speech Recognizer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.antivocale.app/en-US/icon_XMhKcGSWJauRgpBaaKJtXDFF-QFvG48aCwDjOWBMnAM=.png",
@@ -6362,8 +6363,8 @@
         "id_pacchetto": "com.autopi",
         "riassunto": "Turn Linux commands into Android apps.",
         "categorie": [
-            "System",
-            "Task"
+            "Development",
+            "System"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.autopi/en-US/icon_0rwD3BI7MWHXOt-a5C2BynnG92lPjzGj9nX2M-ipT3I=.png",
@@ -6478,6 +6479,7 @@
         "id_pacchetto": "com.bald.uriah.baldphone",
         "riassunto": "Replace your phone's interface with a big, simple and friendly one",
         "categorie": [
+            "Emergency Action",
             "System"
         ],
         "licenza": "Apache-2.0",
@@ -6958,7 +6960,7 @@
             "Connectivity"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.blogspot.developersu.ns_usbloader.8.png",
+        "icona": "https://f-droid.org/repo//icons/com.blogspot.developersu.ns_usbloader.9.png",
         "url_codice_sorgente": "https://github.com/developersu/ns-usbloader-mobile",
         "ultimo_aggiornamento": null
     },
@@ -7305,6 +7307,7 @@
         "id_pacchetto": "com.bunqr.prepapp.fdroid",
         "riassunto": "Preparedness toolkit, survival guide, emergency info, weather and more.",
         "categorie": [
+            "Emergency Action",
             "Internet",
             "Science & Education"
         ],
@@ -9421,7 +9424,7 @@
     {
         "nome": "Cards With Cats",
         "id_pacchetto": "com.dozingcatsoftware.cardswithcats",
-        "riassunto": "Play Hearts and Spades against computer-controlled cats.",
+        "riassunto": "Play Hearts, Spades, and duplicate bridge with cat opponents and partners",
         "categorie": [
             "Card Game"
         ],
@@ -9950,7 +9953,7 @@
         "riassunto": "An open-source on-device voice IME (keyboard) for Android using the Vosk library",
         "categorie": [
             "Keyboard & IME",
-            "System"
+            "Speech Recognizer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.elishaazaria.sayboard/en-US/icon_jy0WiLDIMsKQAbPoltcmOehOGf6nf1TFejBfVyf27lk=.png",
@@ -10151,7 +10154,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.epione.app.15.png",
+        "icona": "https://f-droid.org/repo//icons/com.epione.app.16.png",
         "url_codice_sorgente": "https://codeberg.org/kapoue/Epione",
         "ultimo_aggiornamento": null
     },
@@ -10985,7 +10988,7 @@
     {
         "nome": "Flashbyte",
         "id_pacchetto": "com.flashbyte",
-        "riassunto": "Share files directly between your devices — no cloud, no accounts, no limits.",
+        "riassunto": "A fast cross-platform file sharing app. ",
         "categorie": [
             "Connectivity",
             "File Transfer"
@@ -11104,7 +11107,7 @@
     {
         "nome": "DetoxDroid: Digital Detox by Default",
         "id_pacchetto": "com.flx_apps.digitaldetox",
-        "riassunto": "Grayscale, doomscrolling breaker & app blocker — healthy phone use by default",
+        "riassunto": "Grayscale, doomscrolling breaker, app blocker: a boring phone by default",
         "categorie": [
             "Sports & Health"
         ],
@@ -11809,7 +11812,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.829.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.831.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -11831,7 +11834,7 @@
         "id_pacchetto": "com.georgernstgraf.polishedrecognition",
         "riassunto": "Voice input for any keyboard — transcribe with your own API endpoints",
         "categorie": [
-            "System"
+            "Speech Recognizer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/com.georgernstgraf.polishedrecognition.10201.png",
@@ -16423,6 +16426,7 @@
         "riassunto": "Voice control for Pebble watches — on-device by default, no account.",
         "categorie": [
             "Phone & SMS",
+            "Speech Recognizer",
             "System"
         ],
         "licenza": "AGPL-3.0-only",
@@ -16839,6 +16843,7 @@
         "id_pacchetto": "com.lorenzomarci.sosring",
         "riassunto": "Make VIP calls and messages audible even in Silent/DND",
         "categorie": [
+            "Emergency Action",
             "Phone & SMS"
         ],
         "licenza": "GPL-3.0-or-later",
@@ -16930,6 +16935,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.lucao.limpazap/en-US/icon_kRpNM1oezKBixIgvXXH_8eKYgyXZztUxxu7xS5eQqnk=.png",
         "url_codice_sorgente": "https://github.com/lucasew/limpazap",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Flybook",
+        "id_pacchetto": "com.luchowl.flybook",
+        "riassunto": "Private offline flight logbook for aviation enthusiasts",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.luchowl.flybook/en-US/icon_QAyE9_RIfw_eC5M564KWr5l_5L9TcRTothLjvWo4q5Q=.png",
+        "url_codice_sorgente": "https://github.com/Luchowl/flybook",
         "ultimo_aggiornamento": null
     },
     {
@@ -17329,7 +17346,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.mardous.booming/en-US/icon_y6bsp8zIoIZKDPLrGx0EGMszSZzKGyVAa0VyQHMLj_E=.png",
+        "icona": "https://f-droid.org/repo//com.mardous.booming/en-US/icon_FT8onlalmK_f-Y_Cgc134QYSg5SX_EMR_5pOx6W-A-M=.png",
         "url_codice_sorgente": "https://github.com/mardous/BoomingMusic",
         "ultimo_aggiornamento": null
     },
@@ -18224,9 +18241,10 @@
     {
         "nome": "Hermes Agent Fork",
         "id_pacchetto": "com.mobilefork.hermesagent",
-        "riassunto": "Run local AI models with chat, files, voice, and Android tools",
+        "riassunto": "Independent fork for local AI chat and Android workflows",
         "categorie": [
-            "AI Chat"
+            "AI Chat",
+            "Speech Recognizer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.mobilefork.hermesagent/en-US/icon_Vmt_ZSB-ZYViuznDexWlEyDokVjl4UhagHw7RtdIDpo=.png",
@@ -18251,7 +18269,8 @@
         "riassunto": "A Notes and AI Voice Transcription app",
         "categorie": [
             "Note",
-            "Recorder"
+            "Recorder",
+            "Speech Recognizer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.module.notelycompose.android/en-US/icon_uImCiN3K1gp3Bscpdzng0vQkq7jigui01BLeFmeoVRw=.png",
@@ -18583,7 +18602,7 @@
             "Writing"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.267.png",
+        "icona": "https://f-droid.org/repo//icons/com.musheer360.swiftslate.283.png",
         "url_codice_sorgente": "https://github.com/Musheer360/SwiftSlate",
         "ultimo_aggiornamento": null
     },
@@ -19508,7 +19527,7 @@
     {
         "nome": "Piggsy",
         "id_pacchetto": "com.nvllz.piggsy",
-        "riassunto": "Piggy banks for saving and tracking your goals",
+        "riassunto": "Piggy banks for tracking your goals",
         "categorie": [
             "Finance Manager"
         ],
@@ -20150,8 +20169,7 @@
         "id_pacchetto": "com.paranoid.privacylock",
         "riassunto": "Unlock Privacy, Secure Your World",
         "categorie": [
-            "Security",
-            "System"
+            "Emergency Action"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.paranoid.privacylock/en-US/icon_0hxjUaIglXNwYsZ2ctIcTb8Eo-3E2tQEcQa7-F2nKNw=.png",
@@ -21613,6 +21631,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BlowTorch 2",
+        "id_pacchetto": "com.resurrection.blowtorch2",
+        "riassunto": "MUD client with triggers, aliases, timers, and Lua plugins",
+        "categorie": [
+            "Game Helper",
+            "Internet"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.resurrection.blowtorch2/en-US/icon_6HiWMWJ-92petqK1bni9sr-I34Py-r_MHA4mwInvoVs=.png",
+        "url_codice_sorgente": "https://github.com/Taracair/BlowTorch2",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ReteClock",
         "id_pacchetto": "com.reteclock",
         "riassunto": "Full-screen digital clock and dock screensaver for old Android phones.",
@@ -22455,7 +22486,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.seiko.keystoreviewer/en-US/icon_KaEmEibJiTtNbI-kq-3vXPNrslvR0-KXoHNpuRBaz4I=.png",
+        "icona": "https://f-droid.org/repo//com.seiko.keystoreviewer/en-US/icon_TBqQdKR9l_zLhwAi-MxRBxQ6gaAntkjXOr3aMYZQ5rA=.png",
         "url_codice_sorgente": "https://github.com/qdsfdhvh/KeyStoreViewer",
         "ultimo_aggiornamento": null
     },
@@ -22923,6 +22954,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.screwjam/en-US/icon_SWrwmaCGyW-Y9EYM5MEL356XBZdlFEM7qXSk-lQIAsY=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/ScrewJam",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Triple Match",
+        "id_pacchetto": "com.sidhant.triplematch",
+        "riassunto": "A minimal, open-source 3D tile-matching puzzle game.",
+        "categorie": [
+            "Casual Game",
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.triplematch/en-US/icon_p1-aopVPOOgiy9ZH2Ove5ezCaD_esKBBz-UHgk5xTjQ=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/TripleMatch",
         "ultimo_aggiornamento": null
     },
     {
@@ -23566,7 +23610,7 @@
             "Writing"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005228.png",
+        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005229.png",
         "url_codice_sorgente": "https://github.com/standardnotes/app",
         "ultimo_aggiornamento": null
     },
@@ -25000,6 +25044,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Salmon Tracker",
+        "id_pacchetto": "com.tripperdee.salmontracker",
+        "riassunto": "Track official Alaska salmon counts and receive local update alerts",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.tripperdee.salmontracker/en-US/icon_3okDRQ37KkgkmdQ9i-vdNAVPC1YDxLevqeJtNUWeHYA=.png",
+        "url_codice_sorgente": "https://github.com/jtripppiie/salmon-tracker",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "De Fide",
         "id_pacchetto": "com.tristinbaker.defide",
         "riassunto": "Offline Catholic app for prayer, Scripture, novenas, and the Rosary.",
@@ -26192,7 +26248,7 @@
             "Development"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.vsmartcard.acardemulator.8.png",
+        "icona": "https://f-droid.org/repo//icons/com.vsmartcard.acardemulator.9.png",
         "url_codice_sorgente": "https://github.com/frankmorgner/vsmartcard/tree/HEAD/ACardEmulator",
         "ultimo_aggiornamento": null
     },
@@ -26380,8 +26436,7 @@
         "id_pacchetto": "com.wesaphzt.privatelock",
         "riassunto": "Lock your phone from its movement force",
         "categorie": [
-            "Security",
-            "System"
+            "Emergency Action"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.wesaphzt.privatelock/en-US/icon_OXYL4zPM7m_x9uGup20Ho44fxLBq7Zgtm2NSSUWxt3U=.png",
@@ -27924,7 +27979,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/de.blinkt.openvpn.220.png",
         "url_codice_sorgente": "https://github.com/schwabe/ics-openvpn",
         "ultimo_aggiornamento": null
     },
@@ -30024,6 +30079,7 @@
         "id_pacchetto": "de.nucleus.foss_warn",
         "riassunto": "Receive emergency alerts worldwide",
         "categorie": [
+            "Emergency Action",
             "Internet",
             "Sports & Health"
         ],
@@ -30037,6 +30093,7 @@
         "id_pacchetto": "de.nulide.findmydevice",
         "riassunto": "Locate and control your device remotely",
         "categorie": [
+            "Emergency Action",
             "Location Tracker & Sharer",
             "Security",
             "System"
@@ -30051,6 +30108,7 @@
         "id_pacchetto": "de.nulide.findmydevice.edge",
         "riassunto": "Locate and control your device remotely",
         "categorie": [
+            "Emergency Action",
             "Location Tracker & Sharer",
             "Security",
             "System"
@@ -30071,6 +30129,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.nulide.shiftcal/en-US/icon_EZNqtCGRrh3KC_4VOmglcIgzDG86Gx2k1utWPx1UWXg=.png",
         "url_codice_sorgente": "https://gitlab.com/Nulide/ShiftCal",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "HostLookup",
+        "id_pacchetto": "de.obsp.hostlookup",
+        "riassunto": "Explore DNS records and network information across public resolvers",
+        "categorie": [
+            "Connectivity"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//de.obsp.hostlookup/en-US/icon_Fw5UkS1loDfxuQ1dsb3OBD34dkxiZWumzHxjTJTXVtw=.png",
+        "url_codice_sorgente": "https://github.com/devkamiki/hostlookup",
         "ultimo_aggiornamento": null
     },
     {
@@ -30331,7 +30401,7 @@
     {
         "nome": "phyphox",
         "id_pacchetto": "de.rwth_aachen.phyphox",
-        "riassunto": "eseguire esperimenti di fisica con il tuo telefono (copyright del Politecnico di",
+        "riassunto": "eseguire esperimenti di fisica con il tuo telefono",
         "categorie": [
             "Science & Education"
         ],
@@ -30876,7 +30946,7 @@
     {
         "nome": "MorphCook",
         "id_pacchetto": "de.themorpheus.morphcook",
-        "riassunto": "Offline recipes that morph to your diet — one cookbook for every body.",
+        "riassunto": "every diet gets the whole cookbook. vegan döner included. works offline.",
         "categorie": [
             "Diet",
             "Recipe Manager",
@@ -31047,7 +31117,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.106023.png",
+        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.106033.png",
         "url_codice_sorgente": "https://git.pabr.de/uwr/uwr_plan_app",
         "ultimo_aggiornamento": null
     },
@@ -31486,7 +31556,7 @@
     {
         "nome": "Nextcloud Pantry",
         "id_pacchetto": "dev.casraf.pantry",
-        "riassunto": "Manage your household — shared lists, photos & notes on your own server.",
+        "riassunto": "Shared household lists, photos & notes on your own server — and on your watch.",
         "categorie": [
             "Cloud Storage & File Sync",
             "Note",
@@ -32748,7 +32818,7 @@
         "id_pacchetto": "duress.keyboard",
         "riassunto": "Keyboard that reacts to triggers and performs security actions",
         "categorie": [
-            "System"
+            "Emergency Action"
         ],
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//duress.keyboard/en-US/icon_5i5gWHSJE_aBhzYGneHzKysVUDk7-3k8b0MoqDFwd3s=.png",
@@ -32760,8 +32830,7 @@
         "id_pacchetto": "duress.keyboard.lite",
         "riassunto": "Keyboard with DuressPassword feature.",
         "categorie": [
-            "Security",
-            "System"
+            "Emergency Action"
         ],
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//duress.keyboard.lite/en-US/icon_5i5gWHSJE_aBhzYGneHzKysVUDk7-3k8b0MoqDFwd3s=.png",
@@ -32811,7 +32880,7 @@
         "riassunto": "Provider di sintesi vocale",
         "categorie": [
             "Keyboard & IME",
-            "Multimedia"
+            "Speech Recognizer"
         ],
         "licenza": "Apache-2.0",
         "icona": "https://via.placeholder.com/64",
@@ -35734,7 +35803,7 @@
         "id_pacchetto": "info.guardianproject.ripple",
         "riassunto": "Trigger apps to protect your privacy when in anxious or panic situations",
         "categorie": [
-            "Security"
+            "Emergency Action"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//info.guardianproject.ripple/en-US/icon_5rahRVWTJvv7v4UOm0Gde0t88Xh_N4m3wdI-6RTyZ3o=.png",
@@ -35814,14 +35883,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "FediDay 2026",
+        "nome": "FediDay Schedule",
         "id_pacchetto": "info.metadude.android.fediday.schedule",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "A schedule app for the FediDay 2026.",
         "categorie": [
             "Schedule"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/info.metadude.android.fediday.schedule.121.png",
+        "icona": "https://f-droid.org/repo//info.metadude.android.fediday.schedule/en-US/icon_NFfembvThjaOKSF0cLKeG9di6xWuJR_IJJK7Y5JizZI=.png",
         "url_codice_sorgente": "https://github.com/johnjohndoe/CampFahrplan",
         "ultimo_aggiornamento": null
     },
@@ -36209,6 +36278,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Slooop",
+        "id_pacchetto": "io.dashchan2",
+        "riassunto": "Imageboard client for Android 11+",
+        "categorie": [
+            "Forum",
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.dashchan2/en-US/icon_uSXGzVzfQ76bozMkGKWRTzfzm_BHkQ1_JyavSYIogHA=.png",
+        "url_codice_sorgente": "https://github.com/andrewpozdnakov7-jpg/Dashchan_2",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Fabularium",
         "id_pacchetto": "io.davidar.fabularium",
         "riassunto": "Nessuna descrizione disponibile.",
@@ -36549,7 +36631,7 @@
     {
         "nome": "werewolves_game",
         "id_pacchetto": "io.github.davidchilin.werewolves_game",
-        "riassunto": "Multiplayer server for classic Mafia game Werewolves. Plays in browser on WiFi",
+        "riassunto": "Multiplayer server for Mafia party game Werewolves. Plays in webbrowser on WiFi.",
         "categorie": [
             "Party Game"
         ],
@@ -38780,6 +38862,7 @@
         "id_pacchetto": "io.keepalive.android",
         "riassunto": "Notify others if you haven't used your device in a given period of time",
         "categorie": [
+            "Emergency Action",
             "Phone & SMS",
             "Sports & Health"
         ],
@@ -38793,6 +38876,7 @@
         "id_pacchetto": "io.keepalive.lite.android",
         "riassunto": "Notify others if you haven't used your device in a given period of time",
         "categorie": [
+            "Emergency Action",
             "Phone & SMS",
             "Sports & Health"
         ],
@@ -40475,7 +40559,7 @@
         "id_pacchetto": "me.lucky.duress",
         "riassunto": "Duress password trigger",
         "categorie": [
-            "Security"
+            "Emergency Action"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//me.lucky.duress/en-US/icon_anMZovOqqVTBJjR2iaXdMllA1lACjc8CJX7M_fnh23c=.png",
@@ -40523,7 +40607,7 @@
         "id_pacchetto": "me.lucky.wasted",
         "riassunto": "Lock a device and wipe its data on emergency",
         "categorie": [
-            "Security"
+            "Emergency Action"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//me.lucky.wasted/en-US/icon_zI1Ep9MmMspFomDbJlYTqYpi1lOHDhDt3WHKDWpCuW8=.png",
@@ -40733,7 +40817,7 @@
         "riassunto": "Offline Android keyboard with QWERTY typing and on-device speech dictation",
         "categorie": [
             "Keyboard & IME",
-            "System"
+            "Speech Recognizer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//me.trion.whispertype/en-US/icon_0d2aMv9u2tRTywh9F_tHoE772ZFtHmR1WcnFlZiXnRA=.png",
@@ -42135,8 +42219,7 @@
         "id_pacchetto": "net.oblivion.wipe",
         "riassunto": "Remote lock and wipe triggers for compromised or unattended devices.",
         "categorie": [
-            "Security",
-            "System"
+            "Emergency Action"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.oblivion.wipe/en-US/icon_HOMjW3BIvdYNgUd5LHwVW2ZVhvdvspPTS1KhyteoXxY=.png",
@@ -43232,7 +43315,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.601.png",
+        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.700.png",
         "url_codice_sorgente": "https://gitlab.com/JohnRenz/emborg",
         "ultimo_aggiornamento": null
     },
@@ -44858,7 +44941,7 @@
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.comunes.tane.353.png",
+        "icona": "https://f-droid.org/repo//icons/org.comunes.tane.423.png",
         "url_codice_sorgente": "https://git.comunes.org/comunes/tane",
         "ultimo_aggiornamento": null
     },
@@ -49447,7 +49530,7 @@
         "id_pacchetto": "org.scrib.transcriber",
         "riassunto": "Da voce a testo sul dispositivo. Il tuo audio non lascia mai il telefono.",
         "categorie": [
-            "Multimedia"
+            "Speech Recognizer"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.scrib.transcriber/en-US/icon_uZE9vUpwLCGdl1g0GqRFUCfW4OTo0zPzVTKaRTqjYe4=.png",
@@ -50159,6 +50242,7 @@
         "riassunto": "Voice assistant: multilanguage, configurable and libre",
         "categorie": [
             "Internet",
+            "Speech Recognizer",
             "System"
         ],
         "licenza": "GPL-3.0-only",
@@ -51011,7 +51095,7 @@
         "id_pacchetto": "org.woheller69.seemless",
         "riassunto": "Offline speech to text translator",
         "categorie": [
-            "Science & Education",
+            "Speech Recognizer",
             "Translation & Dictionary"
         ],
         "licenza": "MIT",
@@ -51063,7 +51147,7 @@
         "riassunto": "Voice recognition based on Whisper",
         "categorie": [
             "Keyboard & IME",
-            "System"
+            "Speech Recognizer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.woheller69.whisper/en-US/icon_py2oEetDqe6GxETL393Wd0wGu8iH-W39KrMSryoFj1s=.png",
@@ -51076,7 +51160,7 @@
         "riassunto": "Voice recognition based on Whisper",
         "categorie": [
             "Keyboard & IME",
-            "System"
+            "Speech Recognizer"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.woheller69.whisperplus/en-US/icon_xLveSUqDRbetVVfKsLHU8sUv-Wuvumlb7yTAvmIi3qk=.png",
@@ -51273,7 +51357,8 @@
         "id_pacchetto": "org.y20k.voxscribe",
         "riassunto": "Voxscribe is an offline voice keyboard that transcribes speech on-device.",
         "categorie": [
-            "System"
+            "Keyboard & IME",
+            "Speech Recognizer"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.y20k.voxscribe/en-US/icon__SHucbtS8Lcd9o94BAnClKcbpIOOwpo6gzleTqn4OxE=.png",
@@ -54402,7 +54487,7 @@
         "id_pacchetto": "us.spotco.motionlock",
         "riassunto": "Keeps your device locked",
         "categorie": [
-            "Security"
+            "Emergency Action"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//us.spotco.motionlock/en-US/icon_a50q8Z6L7-NNThEcrEy_j5KfSWirF0H-O_dxkXGAv34=.png",
@@ -54796,7 +54881,7 @@
         "id_pacchetto": "xyz.iridiumion.plucklockex",
         "riassunto": "Blocca il tuo telefono quando strappato dalle mani",
         "categorie": [
-            "Security"
+            "Emergency Action"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/xyz.iridiumion.plucklockex.4.png",
