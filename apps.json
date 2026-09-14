@@ -3717,7 +3717,7 @@
     {
         "nome": "invoice, quote, delivery note",
         "id_pacchetto": "com.a4a.g8invoicing",
-        "riassunto": "Create your invoices, quotes & delivery notes in 10 seconds - easy",
+        "riassunto": "Invoice in 10 seconds — bundle quotes and delivery notes into invoices!",
         "categorie": [
             "Finance Manager"
         ],
@@ -9604,7 +9604,7 @@
             "Firewall"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.dt.opnsense_manager.153.png",
+        "icona": "https://f-droid.org/repo//icons/com.dt.opnsense_manager.163.png",
         "url_codice_sorgente": "https://github.com/Etregin/OPNsense_Manager",
         "ultimo_aggiornamento": null
     },
@@ -9987,7 +9987,7 @@
     {
         "nome": "PCAPdroid",
         "id_pacchetto": "com.emanuelef.remote_capture",
-        "riassunto": "Monitora e cattura il traffico di dispositivi Android senza root",
+        "riassunto": "Monitor di rete, firewall e dump PCAP per Android, senza root",
         "categorie": [
             "Internet",
             "Network Analyzer",
@@ -11438,7 +11438,7 @@
             "Weather"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.freetime.geoweather/en-US/icon_Z3wmMqDxGO20EQLv4Kkt0Voqv7xZ8ixF4EJZvm9J3uw=.png",
+        "icona": "https://f-droid.org/repo//com.freetime.geoweather/en-US/icon_gMVPFW5a0RYLMrVigsfRnDmgsWlQCpyCUT6_waoOMyw=.png",
         "url_codice_sorgente": "https://github.com/FreetimeMaker/GeoWeather",
         "ultimo_aggiornamento": null
     },
@@ -11812,7 +11812,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.831.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.834.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -16008,7 +16008,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "曦码输入法",
+        "nome": "Xime IME",
         "id_pacchetto": "com.kingzcheung.xime",
         "riassunto": "A Rime-based Chinese IME for Wubi and Pinyin input",
         "categorie": [
@@ -16016,7 +16016,7 @@
             "Writing"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.kingzcheung.xime.20260828.png",
+        "icona": "https://f-droid.org/repo//com.kingzcheung.xime/en-US/icon_HP39r4s1__qnRhAuLvDEaGRSTTTxjJDNBZ3X7E-pQMA=.png",
         "url_codice_sorgente": "https://github.com/ximeiorg/Xime",
         "ultimo_aggiornamento": null
     },
@@ -16548,6 +16548,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.lembra.app/en-US/icon_MJ_Bni1hE2z0sqgQ8PmtWwQ7R7cjWKLyi2OWsidDj6c=.png",
         "url_codice_sorgente": "https://github.com/tizzenn/lembra",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Lens HRV",
+        "id_pacchetto": "com.lenshrv.foss",
+        "riassunto": "Measure heart-rate variability with your phone camera, no extra sensors",
+        "categorie": [
+            "Health Manager",
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.lenshrv.foss/en-US/icon_aTwP8VkkgfOh70xOR8QHSHqJH-zMrDPNpRsHaSSJzy0=.png",
+        "url_codice_sorgente": "https://github.com/LensHRV/lenshrv-app",
         "ultimo_aggiornamento": null
     },
     {
@@ -22035,7 +22048,8 @@
         "id_pacchetto": "com.saad2134.dosezy",
         "riassunto": "Simple medicine tracker & reminders. Enter details, we'll handle the rest.",
         "categorie": [
-            "Health Manager"
+            "Health Manager",
+            "Medication"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.saad2134.dosezy/en-US/icon_T6-nCZ560htvbAtlNrXJVAsygCgl3x3hbz9_IbUP2Yc=.png",
@@ -22063,7 +22077,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.6.png",
+        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.8.png",
         "url_codice_sorgente": "https://github.com/saad-ibra/gray-matter",
         "ultimo_aggiornamento": null
     },
@@ -22663,7 +22677,7 @@
             "Role-Playing Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.shatteredpixel.shatteredpixeldungeon/en-US/icon_sGrA1aakL86yLytAeV0fds7P_nAq5FZvoABR78V9p0Y=.png",
         "url_codice_sorgente": "https://github.com/00-Evan/shattered-pixel-dungeon",
         "ultimo_aggiornamento": null
     },
@@ -22852,7 +22866,7 @@
             "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.sidhant.huespill/en-US/icon_RVPXKX3Cm46Ta2V3Ulrq7fbuPefQN4HUp2K8OsWu7B8=.png",
+        "icona": "https://f-droid.org/repo//com.sidhant.huespill/en-US/icon_NiuiaUFYQcnqu9FdSFKujDwWgljWToPr0i6TP2bmsmw=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/HueSpill",
         "ultimo_aggiornamento": null
     },
@@ -32625,6 +32639,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ReadBear",
+        "id_pacchetto": "dev.tulis.readbear",
+        "riassunto": "A cute&chill CBZ, PDF, EPUB reader that's ridiculously configurable!",
+        "categorie": [
+            "Ebook Reader",
+            "Reading"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/dev.tulis.readbear.15.png",
+        "url_codice_sorgente": "https://github.com/Tulis12/ReadBear",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AFWall+",
         "id_pacchetto": "dev.ukanth.ufirewall",
         "riassunto": "Controlla il traffico di rete",
@@ -32698,6 +32725,20 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//digital.ventral.ips/en-US/icon_5baX-UYgKXh5k7zBu-MJx6kssNqv7XaBDctaIfmBo-s=.png",
         "url_codice_sorgente": "https://github.com/VentralDigital/InterProfileSharing",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "DeltaSync",
+        "id_pacchetto": "dk.bjoerckbraun.deltasync",
+        "riassunto": "Encrypted KeePass sync — requires your own self-hosted server.",
+        "categorie": [
+            "Cloud Storage & File Sync",
+            "Password & 2FA",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://gitlab.com/Star95/keepass-deltasync",
         "ultimo_aggiornamento": null
     },
     {
@@ -37140,8 +37181,8 @@
             "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.85.png",
-        "url_codice_sorgente": "https://github.com/herrerad85/moneywallet",
+        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.86.png",
+        "url_codice_sorgente": "https://github.com/herrerad85/tallybook",
         "ultimo_aggiornamento": null
     },
     {
@@ -50694,18 +50735,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "NoProvider2Push",
-        "id_pacchetto": "org.unifiedpush.distributor.noprovider2push",
-        "riassunto": "UP-distributor without provider",
-        "categorie": [
-            "Push"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
-        "url_codice_sorgente": "https://github.com/NoProvider2Push/android",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Sunup",
         "id_pacchetto": "org.unifiedpush.distributor.sunup",
         "riassunto": "UnifiedPush distributor using Mozilla's push server",
@@ -53212,7 +53241,7 @@
             "Social Network"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/site.remlit.snowdrop.7.png",
+        "icona": "https://f-droid.org/repo//icons/site.remlit.snowdrop.8.png",
         "url_codice_sorgente": "https://github.com/ihateblueb/snowdrop",
         "ultimo_aggiornamento": null
     },
@@ -54406,6 +54435,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//universe.constellation.orion.viewer/en-US/icon_50TdyV15TecKdXGXkgKPxr2U41WpwxbaBevZZ0lMnjE=.png",
         "url_codice_sorgente": "https://github.com/max-kammerer/orion-viewer",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "UnlicenseLauncher",
+        "id_pacchetto": "unlicense.launcher",
+        "riassunto": "Simple and secure FOSS launcher with fully FREE🐍 license",
+        "categorie": [
+            "Launcher"
+        ],
+        "licenza": "Unlicense",
+        "icona": "https://f-droid.org/repo//unlicense.launcher/en-US/icon_bk3BgkgNTOQVVMdl3m7ncHnEFl9Y3-CLO1bvzP9xWx4=.png",
+        "url_codice_sorgente": "https://github.com/sirdeepsleep/UnlicenseLauncher",
         "ultimo_aggiornamento": null
     },
     {
