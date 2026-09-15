@@ -398,9 +398,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Bag",
+        "nome": "Bag: Bitcoin Portfolio Monitor",
         "id_pacchetto": "app.bitbag",
-        "riassunto": "Bitcoin price tracker & net worth dashboard. No ads, no accounts, privacy-first.",
+        "riassunto": "Watch-only Bitcoin tracker: xpub, Bitkey multisig, widget. Private, no ads.",
         "categorie": [
             "Market & Price"
         ],
@@ -2095,7 +2095,7 @@
             "Connectivity"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30300.png",
+        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30400.png",
         "url_codice_sorgente": "https://github.com/ppareit/swiftp",
         "ultimo_aggiornamento": null
     },
@@ -3853,7 +3853,7 @@
     {
         "nome": "Activity Trace",
         "id_pacchetto": "com.activitytrace",
-        "riassunto": "Search notifications, accessibility and files on-device.",
+        "riassunto": "Find something you saw on your phone — privately and on-device.",
         "categorie": [
             "Notification",
             "System"
@@ -11812,7 +11812,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.834.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.836.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -11837,7 +11837,7 @@
             "Speech Recognizer"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.georgernstgraf.polishedrecognition.10201.png",
+        "icona": "https://f-droid.org/repo//icons/com.georgernstgraf.polishedrecognition.10202.png",
         "url_codice_sorgente": "https://github.com/georgernstgraf/polished-recognition",
         "ultimo_aggiornamento": null
     },
@@ -13899,7 +13899,7 @@
     {
         "nome": "C2K — Couch to 5K & 10K",
         "id_pacchetto": "com.hackerapps.c2k",
-        "riassunto": "Open-source C25K/C210K running trainer. No ads, no tracking.",
+        "riassunto": "Offline C25K & C210K trainer with voice coaching. No ads, no tracking.",
         "categorie": [
             "Timer",
             "Workout"
@@ -16934,7 +16934,7 @@
             "Online Media Player"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.luc4n3x.levyra/en-US/icon_g7r2gPCDPoTbVJjEPn2DAFFll2VcEMOSQtO7gsih9DU=.png",
+        "icona": "https://f-droid.org/repo//com.luc4n3x.levyra/en-US/icon_aPMWpNBuTQyQkcoMqOkV3t-YTK5gPUU0t2yqvLz2-tY=.png",
         "url_codice_sorgente": "https://github.com/LUC4N3X/Levyra-deepsound",
         "ultimo_aggiornamento": null
     },
@@ -18847,14 +18847,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Network Scanner",
+        "nome": "Network Scanner - WiFi & IP",
         "id_pacchetto": "com.networkscanner.app",
-        "riassunto": "Fast, privacy-focused network scanner to discover devices on your local network",
+        "riassunto": "Who's on your WiFi? Find every device, with IP address, hostname & open ports.",
         "categorie": [
             "Network Analyzer"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.networkscanner.app/en-US/icon_yp8qa5YzW6pv_F2bfW41My4b7DEscmbsVWRSdSrzHTk=.png",
+        "icona": "https://f-droid.org/repo//com.networkscanner.app/en-US/icon_OhnDT419eHKHAm0XhcxWZEhDrgt2icWC6e-lr81xXdA=.png",
         "url_codice_sorgente": "https://github.com/usamaiqb/network-scanner",
         "ultimo_aggiornamento": null
     },
@@ -19075,7 +19075,7 @@
             "Game Helper"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.nicue.onetwo.41.png",
+        "icona": "https://f-droid.org/repo//icons/com.nicue.onetwo.42.png",
         "url_codice_sorgente": "https://github.com/ndleyton/OneTwo",
         "ultimo_aggiornamento": null
     },
@@ -19746,9 +19746,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Offline Currency Converter",
+        "nome": "Convertitore di valuta offline",
         "id_pacchetto": "com.offlinecurrencyconverter.app",
-        "riassunto": "Offline currency converter with favorites, charts, and widget",
+        "riassunto": "Convertitore di valuta offline con tassi di cambio, grafici e widget",
         "categorie": [
             "Market & Price",
             "Unit Convertor"
@@ -21481,7 +21481,7 @@
             "Ebook Reader"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10017.png",
+        "icona": "https://f-droid.org/repo//icons/com.readwide.manager.10018.png",
         "url_codice_sorgente": "https://github.com/k1717/Readwide",
         "ultimo_aggiornamento": null
     },
@@ -21646,7 +21646,7 @@
     {
         "nome": "BlowTorch 2",
         "id_pacchetto": "com.resurrection.blowtorch2",
-        "riassunto": "MUD client with triggers, aliases, timers, and Lua plugins",
+        "riassunto": "BlowTorch 2 — a versatile mobile MUD client",
         "categorie": [
             "Game Helper",
             "Internet"
@@ -22046,7 +22046,7 @@
     {
         "nome": "Dosezy",
         "id_pacchetto": "com.saad2134.dosezy",
-        "riassunto": "Simple medicine tracker & reminders. Enter details, we'll handle the rest.",
+        "riassunto": "Simple medicine (meds) tracker & reminder app. Enter the details, we'll remind y",
         "categorie": [
             "Health Manager",
             "Medication"
@@ -22077,7 +22077,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.8.png",
+        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.9.png",
         "url_codice_sorgente": "https://github.com/saad-ibra/gray-matter",
         "ultimo_aggiornamento": null
     },
@@ -24146,6 +24146,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Orion Master",
+        "id_pacchetto": "com.tallydigital.oomdroid",
+        "riassunto": "Native 1oom port of Master of Orion (1993). Requires your own LBX files",
+        "categorie": [
+            "Strategy Game"
+        ],
+        "licenza": "GPL-2.0-only",
+        "icona": "https://f-droid.org/repo//com.tallydigital.oomdroid/en-US/icon_ZMOD4cYFa3jmkO305yBxljfAXEn1YZvCNdBbTjnt7Ww=.png",
+        "url_codice_sorgente": "https://github.com/JamesSmartCell/android-1oom",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Amadz - Calling App",
         "id_pacchetto": "com.talsk.amadz",
         "riassunto": "Clean & intuitive Phone Dialer app following Material Design principles.",
@@ -24950,6 +24962,18 @@
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//com.tortel.syslog/en-US/icon_7kCEV0aEbQE3R2BqYp3IU13d-2c93rxwKFYufDA2_Kc=.png",
         "url_codice_sorgente": "https://github.com/Tortel/SysLog",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Abstract Dots and Lines",
+        "id_pacchetto": "com.towerillusion.abdal",
+        "riassunto": "Abstract Dots and Lines is a libre implementation of a pen-and-paper game.",
+        "categorie": [
+            "Board Game"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.towerillusion.abdal/en-US/icon_DaekbZ53_sEBUv9JbgyDa1HQ8UZxF3nuZdzoYm7yYZk=.png",
+        "url_codice_sorgente": "https://github.com/towerillusionii/Abstract-Dots-and-Lines",
         "ultimo_aggiornamento": null
     },
     {
@@ -26369,6 +26393,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.wangjinli.carvita/en-US/icon_EDFqi91dZuGHdKghXDxTybZy-jMVciAw9Jo6SVk1T18=.jpg",
         "url_codice_sorgente": "https://github.com/JeziL/carvita",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "WM Keyboard",
+        "id_pacchetto": "com.wasimaster.wmkeyboard",
+        "riassunto": "A private, offline keyboard: 350+ languages, smart typing, themes, and tools.",
+        "categorie": [
+            "Keyboard & IME"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.wasimaster.wmkeyboard/en-US/icon_cJ2X_VyhTia9OidsZwowEXQxdvziL36yea8412S-TAc=.png",
+        "url_codice_sorgente": "https://github.com/wasi-master/wmkeyboard",
         "ultimo_aggiornamento": null
     },
     {
@@ -28791,6 +28827,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "KFZ-A",
+        "id_pacchetto": "de.herk.kfza",
+        "riassunto": "Offline lookup of Austrian vehicle registration identifiers",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//de.herk.kfza/de-DE/icon_g7fiY_EuEzzRNvRvMJLj4fO7UPZxhuKn5slL3734iX0=.png",
+        "url_codice_sorgente": "https://github.com/HerkDev/KFZ-A",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Really Basic Vocab",
         "id_pacchetto": "de.herrmann_engel.rbv",
         "riassunto": "simple flashcard app",
@@ -28938,7 +28986,7 @@
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.jeanlucmakiola.calendula/de-DE/icon__V7IAREbQ2MjV43nZiaCtqxST9PHlo7vaZ_bJmS6Png=.png",
-        "url_codice_sorgente": "https://gitea.jeanlucmakiola.de/makiolaj/calendula",
+        "url_codice_sorgente": "https://codeberg.org/jlmakiola/calendula",
         "ultimo_aggiornamento": null
     },
     {
@@ -30470,7 +30518,7 @@
             "Public Transport"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140008.png",
+        "icona": "https://f-droid.org/repo//icons/de.schildbach.oeffi.140009.png",
         "url_codice_sorgente": "https://gitlab.com/oeffi/oeffi",
         "ultimo_aggiornamento": null
     },
@@ -31131,7 +31179,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.106033.png",
+        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.106043.png",
         "url_codice_sorgente": "https://git.pabr.de/uwr/uwr_plan_app",
         "ultimo_aggiornamento": null
     },
@@ -31609,6 +31657,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.clombardo.dnsnet/en-US/icon_fhCVKoWU7Pt7LRWLY1AnhB0NBR0Xu-rHlqxruXIJ9Us=.png",
         "url_codice_sorgente": "https://github.com/t895/DNSNet",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "508.dev Soundboard",
+        "id_pacchetto": "dev.co508.soundboard",
+        "riassunto": "Mix looping ambient sounds, each at its own volume. Offline, free, no ads.",
+        "categorie": [
+            "Ambient Sound"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/508-dev/soundboard",
         "ultimo_aggiornamento": null
     },
     {
@@ -34463,6 +34523,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/wallabag/android-app",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "PanOSP",
+        "id_pacchetto": "fr.gibinot.panosp",
+        "riassunto": "Lightweight, configurable AOSP-style quick settings panel for Android.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//fr.gibinot.panosp/en-US/icon_Kfd9AxN74XaAO64k_4mwj6bB4JhFF1ZNq0qsxfY38Vg=.png",
+        "url_codice_sorgente": "https://gitlab.com/gibdev-group/panosp",
         "ultimo_aggiornamento": null
     },
     {
@@ -37728,6 +37800,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Magpie",
+        "id_pacchetto": "io.github.munzzyy.magpie",
+        "riassunto": "Tamper-evident incident journal with encrypted, self-proving exports",
+        "categorie": [
+            "Security",
+            "Writing"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.munzzyy.magpie/en-US/icon_b2Df-r11qbWCyxImRxn_n4Urcg1IH-6F9uwSAII0Nss=.png",
+        "url_codice_sorgente": "https://github.com/munzzyy/magpie",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Everest",
         "id_pacchetto": "io.github.mwageringel.everest",
         "riassunto": "Un gioco di enigmi matematici",
@@ -37849,7 +37934,7 @@
             "Flashlight"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//io.github.pic38.veilleuse/en-US/icon_ck9zTsiGRndyKi7DCJBzcWRBK3v4W6-onio5WbHIrhA=.png",
         "url_codice_sorgente": "https://github.com/pic38/Veilleuse",
         "ultimo_aggiornamento": null
     },
@@ -39818,7 +39903,7 @@
             "Email"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/jp.nonbili.meron.31.png",
+        "icona": "https://f-droid.org/repo//icons/jp.nonbili.meron.32.png",
         "url_codice_sorgente": "https://github.com/nonbili/meron",
         "ultimo_aggiornamento": null
     },
@@ -40831,6 +40916,8 @@
         "categorie": [
             "Calendar & Agenda",
             "Habit Tracker",
+            "Stopwatch",
+            "Task",
             "Time Tracker",
             "Timer"
         ],
@@ -45207,18 +45294,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "duckAssist",
-        "id_pacchetto": "org.diekaiju.duckassist",
-        "riassunto": "Lightweight, privacy-focused WebView wrapper for Duck.ai",
-        "categorie": [
-            "AI Chat"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.diekaiju.duckassist/en-US/icon_Q-EK0oifR6d8QsdAA0ODuyOBQS5K6fgJP8ZZFhdEtKc=.png",
-        "url_codice_sorgente": "https://github.com/diekaiju/duckAssist",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Quicall",
         "id_pacchetto": "org.difft.temptalk",
         "riassunto": "Secure messaging with chat, voice and video calls.",
@@ -48327,7 +48402,7 @@
     {
         "nome": "PAIesque",
         "id_pacchetto": "org.ojrandom.paiesque",
-        "riassunto": "Privacy-first fitness analyzer with built-in BLE/GPS recording and group sharing",
+        "riassunto": "Privacy-first fitness tracker with self-hosted group sharing",
         "categorie": [
             "Connectivity",
             "Health Manager",
