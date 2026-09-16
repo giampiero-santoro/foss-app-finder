@@ -445,7 +445,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//app.clauncher/en-US/icon_lKoCE6zNT9WAhHmysXDGOqkWQyL1mAW-rlQ70T7-WBk=.png",
+        "icona": "https://f-droid.org/repo//app.clauncher/en-US/icon__ZOQ8DV31nUQI4yXA61qRqpFSaTBwf5uaI0iP1eJURM=.png",
         "url_codice_sorgente": "https://github.com/mlm-games/CLauncher",
         "ultimo_aggiornamento": null
     },
@@ -3696,7 +3696,7 @@
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.20.png",
+        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.26.png",
         "url_codice_sorgente": "https://github.com/Limekana/StudyDesk",
         "ultimo_aggiornamento": null
     },
@@ -6883,7 +6883,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.bitmavrick.lumolight/en-US/icon_TfMdTbhLOr_MFBorymONEArPL5ij5LmzJIHd_JjrxQU=.png",
+        "icona": "https://f-droid.org/repo//com.bitmavrick.lumolight/en-US/icon_QPvx3G1uxYDtOVjGHBLgQzVNIBzkCJYWIjSc4z0bN7c=.png",
         "url_codice_sorgente": "https://github.com/BitMavrick/Lumolight",
         "ultimo_aggiornamento": null
     },
@@ -7601,7 +7601,7 @@
     {
         "nome": "Saracroche",
         "id_pacchetto": "com.cbouvat.android.saracroche",
-        "riassunto": "Block unwanted spam calls automatically and protect your privacy",
+        "riassunto": "Block unwanted spam calls and SMS, and protect your privacy",
         "categorie": [
             "Phone & SMS",
             "Security"
@@ -9185,7 +9185,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.divinelink.scenepeek.58.png",
+        "icona": "https://f-droid.org/repo//com.divinelink.scenepeek/en-US/icon_0xRJf7e6ZCo8HhaBHoIhckaSjhVl5H3eEZcGLqPvD38=.png",
         "url_codice_sorgente": "https://codeberg.org/Divinelink/scenepeek-tmdb",
         "ultimo_aggiornamento": null
     },
@@ -9604,7 +9604,7 @@
             "Firewall"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.dt.opnsense_manager.163.png",
+        "icona": "https://f-droid.org/repo//icons/com.dt.opnsense_manager.193.png",
         "url_codice_sorgente": "https://github.com/Etregin/OPNsense_Manager",
         "ultimo_aggiornamento": null
     },
@@ -10920,6 +10920,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Notes Tech",
+        "id_pacchetto": "com.filestech.notes_tech",
+        "riassunto": "Encrypted Markdown notes, 100% local. No Internet permission.",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.filestech.notes_tech/en-US/icon_XQ_Cn5JNCwWN6rxazlDL0PbldRTBh8-VAaSNL4uwqoI=.png",
+        "url_codice_sorgente": "https://github.com/gitubpatrice/notes_tech",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "NightDream",
         "id_pacchetto": "com.firebirdberlin.nightdream.noGms",
         "riassunto": "Clock, screensaver & radio with dynamic brightness & custom layouts.",
@@ -10980,7 +10992,7 @@
         "categorie": [
             "Internet"
         ],
-        "licenza": "MIT",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.fixupxer/en-US/icon_2jYJIM-2DrT24oOFBAkXsMOGHDtm5U_dRQes1KQaodc=.png",
         "url_codice_sorgente": "https://github.com/NeatCode-Labs/fixupxer",
         "ultimo_aggiornamento": null
@@ -11008,7 +11020,7 @@
             "Workout"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.flasskamp.compete/en-US/icon_GPGOPhvmt2JO501pXBgGdWGjYKsjAc8MzLJX1ywS4cY=.png",
         "url_codice_sorgente": "https://codeberg.org/epinez/Compete",
         "ultimo_aggiornamento": null
     },
@@ -11812,7 +11824,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.836.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.840.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -13630,7 +13642,7 @@
             "Role-Playing Game"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gpl.rpg.AndorsTrail.86.png",
+        "icona": "https://f-droid.org/repo//icons/com.gpl.rpg.AndorsTrail.89.png",
         "url_codice_sorgente": "https://github.com/AndorsTrailRelease/andors-trail",
         "ultimo_aggiornamento": null
     },
@@ -16383,6 +16395,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Lplanner",
+        "id_pacchetto": "com.landerlab.lplanner.fdroid",
+        "riassunto": "Mixed-gas decompression planner: ZHL-16C, VVAL-18 and VPM-B. Works offline.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.landerlab.lplanner.fdroid.12.png",
+        "url_codice_sorgente": "https://github.com/landerlab-apps/Lplanner-FDroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Gendie - Grammatical Gender Trainer",
         "id_pacchetto": "com.languageapp.gendie",
         "riassunto": "Never forget the gender of nouns with Gendie - the grammatical gender trainer",
@@ -16670,7 +16694,7 @@
             "Finance Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.34.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.35.png",
         "url_codice_sorgente": "https://github.com/Limekana/nexus-command-center",
         "ultimo_aggiornamento": null
     },
@@ -16682,7 +16706,7 @@
             "Sports & Health"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.23.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.24.png",
         "url_codice_sorgente": "https://github.com/Limekana/limelog",
         "ultimo_aggiornamento": null
     },
@@ -21826,7 +21850,7 @@
             "Camera"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.rogeriodocarmo.miroji.10305.png",
+        "icona": "https://f-droid.org/repo//icons/com.rogeriodocarmo.miroji.10306.png",
         "url_codice_sorgente": "https://github.com/RogerioDoCarmo/mirror_app",
         "ultimo_aggiornamento": null
     },
@@ -22881,6 +22905,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.learnmath/en-US/icon_rps6U5XbvKUro9GAiVgA5VTZ1BHfu69jhzXVaZoY8HU=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/LearnMath",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Ludo",
+        "id_pacchetto": "com.sidhant.ludo",
+        "riassunto": "Multiplayer Board Game",
+        "categorie": [
+            "Board Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.ludo/en-US/icon_3j8b65JLp3rivj0BmNQIZ8DLq20_dBhPvUmj7xmA6oI=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Ludo",
         "ultimo_aggiornamento": null
     },
     {
@@ -24273,7 +24309,7 @@
     {
         "nome": "Privamatic",
         "id_pacchetto": "com.techtrest.privamatic",
-        "riassunto": "Privacy score for your Android — 45+ checks, no cloud, no tracking.",
+        "riassunto": "Privacy score for your Android — 50+ checks, no cloud, no tracking.",
         "categorie": [
             "Security"
         ],
@@ -24438,7 +24474,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.terokarvinen.x54ask.1010200.png",
+        "icona": "https://f-droid.org/repo//com.terokarvinen.x54ask/en-US/icon_FOzSYq6etfsaWRiMc7bx-8vLVKtsug1dmhT9NvxRj9w=.png",
         "url_codice_sorgente": "https://gitlab.com/terokarvinen/x54ask",
         "ultimo_aggiornamento": null
     },
@@ -27125,6 +27161,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Zaelio",
+        "id_pacchetto": "com.zaelio.app",
+        "riassunto": "Offline tracker for custom sessions and measurements",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.zaelio.app/en-US/icon_UvIMu9xnD7yvDLBdWxBklOEu4UW1x5f4C2MQFYAmrXw=.png",
+        "url_codice_sorgente": "https://github.com/braunbearded/zaelio",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ruNNNpe bridge",
         "id_pacchetto": "com.zappbrannigan34.runnnpebridge",
         "riassunto": "Automatic bridge from NPE RUNN to Health Connect.",
@@ -28836,6 +28884,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//de.herk.kfza/de-DE/icon_g7fiY_EuEzzRNvRvMJLj4fO7UPZxhuKn5slL3734iX0=.png",
         "url_codice_sorgente": "https://github.com/HerkDev/KFZ-A",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "KFZ-D",
+        "id_pacchetto": "de.herk.kfzd",
+        "riassunto": "Offline lookup of German vehicle registration identifiers",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//de.herk.kfzd/de-DE/icon_Xs3yUx-BuqdjRaf-vLFv-YCYocMwaqXB4PpD74lFs54=.png",
+        "url_codice_sorgente": "https://github.com/HerkDev/KFZ-D",
         "ultimo_aggiornamento": null
     },
     {
@@ -31914,6 +31974,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Cambium",
+        "id_pacchetto": "dev.forgesworn.cambium",
+        "riassunto": "NIP-55 signer that holds no keys: signing is proxied to a NIP-46 hardware bunker",
+        "categorie": [
+            "Internet",
+            "Security"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//dev.forgesworn.cambium/en-US/icon_sP2cTZy4hkMcz-O26g5R7veyEXK4mxSlagpUipUKaOE=.png",
+        "url_codice_sorgente": "https://github.com/forgesworn/cambium",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Glyfen",
         "id_pacchetto": "dev.glyfen.app",
         "riassunto": "Offline OCR for Android. Search your photos by text, entirely on-device.",
@@ -32062,6 +32135,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Nonius",
+        "id_pacchetto": "dev.kaleve.nonius",
+        "riassunto": "Eight measuring instruments. No ads, no trackers, no network.",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//dev.kaleve.nonius/en-US/icon_nvlv-4H8LG567LtAnYMn11soimmGMqlGYVSilgo9yrY=.png",
+        "url_codice_sorgente": "https://github.com/john-athan/nonius",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SpamBlocker Extended (Call/SMS/Notification)",
         "id_pacchetto": "dev.kerballone.spamblocker",
         "riassunto": "Blocco spam per chiamate, SMS e notifiche",
@@ -32133,7 +32218,7 @@
             "Wallpaper"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//dev.lexip.hecate/en-US/icon_Gvjlwz4BNJ_-aFoSQptogrA5cpp3wCjqq1aeyBrtLxY=.png",
         "url_codice_sorgente": "https://github.com/xLexip/Adaptive-Theme",
         "ultimo_aggiornamento": null
     },
@@ -32145,7 +32230,7 @@
             "Note"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.librenotes.app.4.png",
+        "icona": "https://f-droid.org/repo//dev.librenotes.app/en-US/icon_KkpRX2mvSL4I-xbZFgQQ8Ic4FNBjkbAQ-9tiFfEMJ8g=.png",
         "url_codice_sorgente": "https://github.com/Piliii/LibreNotes",
         "ultimo_aggiornamento": null
     },
@@ -32707,7 +32792,7 @@
             "Reading"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/dev.tulis.readbear.15.png",
+        "icona": "https://f-droid.org/repo//icons/dev.tulis.readbear.16.png",
         "url_codice_sorgente": "https://github.com/Tulis12/ReadBear",
         "ultimo_aggiornamento": null
     },
@@ -32936,6 +33021,19 @@
         "licenza": "Unlicense",
         "icona": "https://f-droid.org/repo//duress.keyboard.lite/en-US/icon_5i5gWHSJE_aBhzYGneHzKysVUDk7-3k8b0MoqDFwd3s=.png",
         "url_codice_sorgente": "https://github.com/pofesk0/DuressKeyboardLite/",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "DuressUltimate",
+        "id_pacchetto": "duress.ultimate",
+        "riassunto": "Duress Password trigger via length with ultimate protection",
+        "categorie": [
+            "Emergency Action",
+            "Security"
+        ],
+        "licenza": "Unlicense",
+        "icona": "https://f-droid.org/repo//duress.ultimate/en-US/icon_bgniYCv8cPVeXk8vfMlNb4JDIKfFfzgrXpjnOqLMp68=.png",
+        "url_codice_sorgente": "https://github.com/pofesk0/DuressUltimate",
         "ultimo_aggiornamento": null
     },
     {
@@ -33417,7 +33515,7 @@
             "Internet"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/eu.heili.wormhole.8423.png",
+        "icona": "https://f-droid.org/repo//eu.heili.wormhole/en-US/icon_nL5OCBEJzGnqW6gDampOl4Xo1vwX8BjOIriZxV8nXXU=.png",
         "url_codice_sorgente": "https://github.com/wormhole-app/wormhole",
         "ultimo_aggiornamento": null
     },
@@ -33709,7 +33807,7 @@
             "Science & Education"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/eu.radio_science_institute.smart_radio_telescope.1.png",
+        "icona": "https://f-droid.org/repo//eu.radio_science_institute.smart_radio_telescope/en-US/icon_16eCHwqYGDwmLpkU9khUvl4SEIiQuX0LSGPgOVDsmeQ=.png",
         "url_codice_sorgente": "https://gitlab.com/radio-science-institute/projects/smart-radio-telescope",
         "ultimo_aggiornamento": null
     },
@@ -36715,6 +36813,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Custom Routes",
+        "id_pacchetto": "io.github.customroutes.app",
+        "riassunto": "Mark custom climbing routes on gym photos and export shareable images.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.customroutes.app/en-US/icon_apTO1dvqoBDYucxJDC6Dtsyb494aSXKN0FLjsOOi8QY=.png",
+        "url_codice_sorgente": "https://github.com/customroutes/custom-routes-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "DanXi",
         "id_pacchetto": "io.github.danxi_dev.dan_xi",
         "riassunto": "Maybe the best all-rounded service app for Fudan University students.",
@@ -36827,6 +36937,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.deweyreed.timer.other/en-US/icon_TMZco2ZcCb7Cd1be6qALDlR-wdWKqwC0p0FG6U7HhkA=.png",
         "url_codice_sorgente": "https://github.com/timer-machine/timer-machine-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Open TeleScope VR",
+        "id_pacchetto": "io.github.digvijaylp.OpenTeleScopeVR",
+        "riassunto": "A VR-based digital telescope camera application for people with low vision",
+        "categorie": [
+            "Camera",
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.digvijaylp.OpenTeleScopeVR/en-US/icon_RfUJb9elvEZzO8TEMPaxFuC1klyQJl5EPxCYUe4GV_g=.png",
+        "url_codice_sorgente": "https://github.com/digvijaylp/OpenTeleScopeVR",
         "ultimo_aggiornamento": null
     },
     {
@@ -37457,7 +37580,7 @@
             "Remote Controller"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/io.github.jrichter24.moldqueen.10200.png",
+        "icona": "https://f-droid.org/repo//io.github.jrichter24.moldqueen/en-US/icon_AYHPcUT2Gzo6GH9ZfipMho9edEyj1gwnuH2jzIxVGxw=.png",
         "url_codice_sorgente": "https://github.com/jrichter24/moldqueen",
         "ultimo_aggiornamento": null
     },
@@ -37544,7 +37667,7 @@
             "Voice & Video Chat"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//io.github.koukobin.ermis.ermismobile/en-US/icon_XG2qTFThhbcrhJXXdTj5kbMp4MAw65mOfvpY6mga150=.png",
         "url_codice_sorgente": "https://github.com/Koukobin/Ermis",
         "ultimo_aggiornamento": null
     },
@@ -38588,7 +38711,7 @@
             "Action Game"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/io.github.vipaol.mobapp.game.23.png",
+        "icona": "https://f-droid.org/repo//io.github.vipaol.mobapp.game/en-US/icon_nZ8X90eKkpgN52KR1dIlYmmVDZXDFep-nOg2idLfY1k=.png",
         "url_codice_sorgente": "https://github.com/vipaoL/mobapp-game",
         "ultimo_aggiornamento": null
     },
@@ -39903,7 +40026,7 @@
             "Email"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/jp.nonbili.meron.32.png",
+        "icona": "https://f-droid.org/repo//jp.nonbili.meron/en-US/icon_rhtHx0M5JeilHaPDauC77VTBV7YMNgkEmvrlh-vjHSo=.png",
         "url_codice_sorgente": "https://github.com/nonbili/meron",
         "ultimo_aggiornamento": null
     },
@@ -40162,6 +40285,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//lab.rreedd.oyatsu/en-US/icon_l2TnE2ya8NX58hVEPzEJ0CFz4JmwkpZl276vjCQ8Vfs=.png",
         "url_codice_sorgente": "https://github.com/tknv/Oyatsu",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Message487",
+        "id_pacchetto": "life.andre.message487",
+        "riassunto": "Forward notifications and SMS to n8n or your own webhook",
+        "categorie": [
+            "Notification",
+            "Phone & SMS"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//life.andre.message487/en-US/icon_3IObya8NdQmfTPM-xn5gofl0CszAFu-E0HzLAFvSqzc=.png",
+        "url_codice_sorgente": "https://github.com/andre487/AndroidMessage487",
         "ultimo_aggiornamento": null
     },
     {
@@ -40615,6 +40751,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//me.impa.knockonports/en-US/icon_KfnmPBeRazqbNoiopBFz4Le5wucTDxtZ5YC2ao50DYI=.png",
         "url_codice_sorgente": "https://github.com/impalex/knockonports",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Simple File Manager",
+        "id_pacchetto": "me.jaival.files",
+        "riassunto": "No bloat simple file manager",
+        "categorie": [
+            "File Manager",
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//me.jaival.files/en-US/icon_iMWLUwra3SrKu9vKpSN5E3caiOM7tbGgE_CtC3N-_hg=.png",
+        "url_codice_sorgente": "https://github.com/jaival-11/Simple-File-Manager",
         "ultimo_aggiornamento": null
     },
     {
@@ -42863,7 +43012,7 @@
             "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//net.taler.merchantpos/en-US/icon_eygQcY5NYchr0zQ1GdSer03uWau_Jr09naWC9PQyjtY=.png",
+        "icona": "https://f-droid.org/repo//net.taler.merchantpos/en-US/icon_bIiNX7iGMKjr-BjFyd1dSb-atZ31DrxtKR_0U8jaMDA=.png",
         "url_codice_sorgente": "https://git-www.taler.net/taler-android.git/",
         "ultimo_aggiornamento": null
     },
@@ -43443,7 +43592,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.700.png",
+        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.801.png",
         "url_codice_sorgente": "https://gitlab.com/JohnRenz/emborg",
         "ultimo_aggiornamento": null
     },
@@ -45069,7 +45218,7 @@
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.comunes.tane.423.png",
+        "icona": "https://f-droid.org/repo//org.comunes.tane/en-US/icon_IUL92ox-mDjLJIN9QjSaaoNrwITWr0DeLUaihSnaRIs=.png",
         "url_codice_sorgente": "https://git.comunes.org/comunes/tane",
         "ultimo_aggiornamento": null
     },
@@ -53650,7 +53799,7 @@
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//sushi.hardcore.droidfs/en-US/icon_6N05in6K4NA2BFj5YcninogjocC2UFhHa3u0FmUuB2I=.png",
-        "url_codice_sorgente": "https://forge.chapril.org/hardcoresushi/DroidFS",
+        "url_codice_sorgente": "https://tangled.org/cipherd.arkensys.dedyn.io/DroidFS",
         "ultimo_aggiornamento": null
     },
     {
