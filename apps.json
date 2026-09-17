@@ -1877,6 +1877,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "How2Vote",
+        "id_pacchetto": "au.how2vote.app",
+        "riassunto": "See how parties' real parliamentary voting records compare with your views.",
+        "categorie": [
+            "Science & Education"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/au.how2vote.app.10323000.png",
+        "url_codice_sorgente": "https://github.com/National-Digital/how2vote.au",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "NFC Quick Settings",
         "id_pacchetto": "au.id.colby.nfcquicksettings",
         "riassunto": "View NFC status, and quickly access NFC settings, from the Quick Settings menu",
@@ -8824,6 +8836,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "GPA Whiz",
+        "id_pacchetto": "com.deehem.gpawhiz",
+        "riassunto": "Offline academic tracker: GPA, CGPA, timetable, and scholarship deadlines",
+        "categorie": [
+            "Calendar & Agenda",
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.deehem.gpawhiz/en-US/icon_7xHtQA0mveAoSn1PCzf2V9mYfVQQsMbEC1kJ6J_nghQ=.png",
+        "url_codice_sorgente": "https://github.com/Dee-Hem/GPA-Whiz",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Defang",
         "id_pacchetto": "com.defang.launcher",
         "riassunto": "Launcher that puts speed bumps between you and the apps engineered against you",
@@ -9090,13 +9115,13 @@
     {
         "nome": "NetToggle",
         "id_pacchetto": "com.dhangofa.networktoggle",
-        "riassunto": "Force 5G/4G Only or Pref modes directly from Quick Settings using Root/Shizuku",
+        "riassunto": "5G network control with custom Quick Settings cycles, shortcuts and automation",
         "categorie": [
             "Connectivity",
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.dhangofa.networktoggle/en-US/icon_cFU2NlH8GL4QempK8cWQijjV3aQy8Jqf_LObx5gFmKs=.png",
+        "icona": "https://f-droid.org/repo//com.dhangofa.networktoggle/en-US/icon_GhTKD7Czn1nIuNj7sqGm6rJKHY-QffSCg1lR7XsTXn0=.png",
         "url_codice_sorgente": "https://github.com/Dhangofa/NetToggle",
         "ultimo_aggiornamento": null
     },
@@ -9802,7 +9827,7 @@
     {
         "nome": "Transport Widgets",
         "id_pacchetto": "com.eden.livewidget",
-        "riassunto": "Live arrival times widget.",
+        "riassunto": "Live bus, metro, trains and more widget.",
         "categorie": [
             "Internet",
             "Public Transport"
@@ -10988,7 +11013,7 @@
     {
         "nome": "FixupXer - URL Enhancer",
         "id_pacchetto": "com.fixupxer",
-        "riassunto": "Clean URL tracking, fix embeds (X, IG, FB, TikTok, Bluesky), catch link leaks",
+        "riassunto": "Clean tracking, choose link frontends, and spot sensitive data in URLs",
         "categorie": [
             "Internet"
         ],
@@ -11824,7 +11849,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.840.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.844.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -11849,7 +11874,7 @@
             "Speech Recognizer"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.georgernstgraf.polishedrecognition.10202.png",
+        "icona": "https://f-droid.org/repo//icons/com.georgernstgraf.polishedrecognition.10203.png",
         "url_codice_sorgente": "https://github.com/georgernstgraf/polished-recognition",
         "ultimo_aggiornamento": null
     },
@@ -12629,7 +12654,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.github.metacubex.clash.meta.211032.png",
+        "icona": "https://f-droid.org/repo//icons/com.github.metacubex.clash.meta.211033.png",
         "url_codice_sorgente": "https://github.com/MetaCubeX/ClashMetaForAndroid",
         "ultimo_aggiornamento": null
     },
@@ -15768,6 +15793,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Kasette",
+        "id_pacchetto": "com.kasette.app",
+        "riassunto": "Offline music player. Import local files, no accounts, no servers.",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "BSD-3-Clause",
+        "icona": "https://f-droid.org/repo//icons/com.kasette.app.11.png",
+        "url_codice_sorgente": "https://github.com/nico-alvz/kasette",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Sobriety",
         "id_pacchetto": "com.katiearose.sobriety",
         "riassunto": "Track your addictions and maintain sobriety!",
@@ -16480,7 +16517,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//com.leadaxe.lxbox/en-US/icon_Ib_HnffGVqzpMvQiUl08KYLLGUrHabuUWyYPkPD8P_c=.png",
+        "icona": "https://f-droid.org/repo//com.leadaxe.lxbox/en-US/icon_YHHq4l2b2xx28uR0LPqiTS1mgQljE5fFRSfUjcGPrh4=.png",
         "url_codice_sorgente": "https://github.com/Leadaxe/LxBox",
         "ultimo_aggiornamento": null
     },
@@ -18371,7 +18408,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//com.monstera.harbor/en-US/icon_M3sVFsfD0jZGv16N4TRmDPVyRAHLyI-pbFMcfR9Gb84=.png",
         "url_codice_sorgente": "https://github.com/Stem0794/harbor",
         "ultimo_aggiornamento": null
     },
@@ -22101,7 +22138,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.9.png",
+        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.10.png",
         "url_codice_sorgente": "https://github.com/saad-ibra/gray-matter",
         "ultimo_aggiornamento": null
     },
@@ -31705,6 +31742,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "CipherNotes",
+        "id_pacchetto": "dev.cipher.notes",
+        "riassunto": "Notes. Encrypted. Local. Nothing more.",
+        "categorie": [
+            "Note",
+            "Security"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//dev.cipher.notes/en-US/icon_JayCz9JVbhazZiaQikWPD7Y96YaIEeP7ggHwhW88rtM=.png",
+        "url_codice_sorgente": "https://github.com/CipherApps/cipher-notes",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "DNSNet",
         "id_pacchetto": "dev.clombardo.dnsnet",
         "riassunto": "Lightweight ad and content blocker",
@@ -35053,6 +35103,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Duper",
+        "id_pacchetto": "fr.sudotiz.duper",
+        "riassunto": "Remotely ring or locate your phone via SMS, no internet needed.",
+        "categorie": [
+            "Location Tracker & Sharer",
+            "Security",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/sudo-Tiz/Duper",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "KeepOn - Keep your screen on smartly!",
         "id_pacchetto": "fr.twentynine.keepon",
         "riassunto": "Keep your screen on smartly and easily with Quick Settings.",
@@ -37786,6 +37850,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Wind Bubble",
+        "id_pacchetto": "io.github.mickaelmagniez.windbubble",
+        "riassunto": "See where the wind hits you, on top of your navigation app.",
+        "categorie": [
+            "Navigation",
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/mickaelmagniez/WindBubble",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "OpenPhotoFrame",
         "id_pacchetto": "io.github.micw.openphotoframe",
         "riassunto": "Turn your old Android tablet into a beautiful digital photo frame.",
@@ -37983,6 +38060,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.nvlad1.function3danimator/en-US/icon_KLb1TpvkepIzAC8v-EpKkhSFKOJ2-sVN4XL_n8eAIGo=.png",
         "url_codice_sorgente": "https://github.com/NVlad1/3D-Geometry-Animation",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Pulse",
+        "id_pacchetto": "io.github.nyxar77.pulse",
+        "riassunto": "Plan your own weekly workouts and keep every exercise offline",
+        "categorie": [
+            "Sports & Health",
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.nyxar77.pulse/en-US/icon_o0S9zIkSNf83QHtIrbCejZJW8txIh1RxqwKQaWbTfzw=.png",
+        "url_codice_sorgente": "https://github.com/nyxar77/Pulse",
         "ultimo_aggiornamento": null
     },
     {
@@ -39913,7 +40003,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.130.png",
+        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.131.png",
         "url_codice_sorgente": "https://github.com/rignaneseleo/SlimSocial-for-Facebook",
         "ultimo_aggiornamento": null
     },
@@ -46856,7 +46946,7 @@
             "Development"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/org.godotengine.editor.v3.306025003.png",
+        "icona": "https://f-droid.org/repo//icons/org.godotengine.editor.v3.306035003.png",
         "url_codice_sorgente": "https://github.com/godotengine/godot/",
         "ultimo_aggiornamento": null
     },
@@ -52646,6 +52736,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "DBase Downloader",
+        "id_pacchetto": "rs.in.dbase.downloader",
+        "riassunto": "Download video and music from 1,750+ sites with yt-dlp and FFmpeg",
+        "categorie": [
+            "Download"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//rs.in.dbase.downloader/en-US/icon_FYmYpT_dMcNfBtWBJnm0UBpqbl2f5SFOlqby2eXisMc=.png",
+        "url_codice_sorgente": "https://github.com/DBase-In-Rs/Downloader",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Ltt.rs",
         "id_pacchetto": "rs.ltt.android",
         "riassunto": "Client email per Android senza fronzoli, facile da usare e mantenere",
@@ -55139,6 +55241,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/emansih/FireflyMobile",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ReminDiary",
+        "id_pacchetto": "xyz.hub13.remindiary",
+        "riassunto": "Offline daily journal that surfaces what you wrote this day in past years",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//icons/xyz.hub13.remindiary.100069992.png",
+        "url_codice_sorgente": "https://github.com/grantstephens/ReminDiary",
         "ultimo_aggiornamento": null
     },
     {
