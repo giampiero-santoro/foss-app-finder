@@ -3538,6 +3538,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Husk",
+        "id_pacchetto": "co.xplat.husk",
+        "riassunto": "Turn a spare Android phone into a remote camera and control rig",
+        "categorie": [
+            "Camera",
+            "Remote Access"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//co.xplat.husk/en-US/icon_I1Ol9quhBX1ShaVW-iKZ2ClUOzxU-HbHbiTSVMKgC9s=.png",
+        "url_codice_sorgente": "https://github.com/hf1985/husk",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Image Meta Cleaner",
         "id_pacchetto": "code.alimiracle.image_meta_cleaner",
         "riassunto": "a cross-platform application designed to Show and Remove metadata from images",
@@ -6074,7 +6087,7 @@
             "Reading"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.artifex.mupdf.mini.app.250.png",
+        "icona": "https://f-droid.org/repo//icons/com.artifex.mupdf.mini.app.260.png",
         "url_codice_sorgente": "https://github.com/ArtifexSoftware/mupdf-android-viewer-mini",
         "ultimo_aggiornamento": null
     },
@@ -6087,7 +6100,7 @@
             "Reading"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.artifex.mupdf.viewer.app.250.png",
+        "icona": "https://f-droid.org/repo//icons/com.artifex.mupdf.viewer.app.260.png",
         "url_codice_sorgente": "https://github.com/ArtifexSoftware/mupdf-android-viewer",
         "ultimo_aggiornamento": null
     },
@@ -6306,6 +6319,19 @@
         "licenza": "0BSD",
         "icona": "https://f-droid.org/repo//com.atr.hiit/en-US/icon_iF11pOx0semwB-tz46rCFB7WDik0uctxsVZLscUDN64=.png",
         "url_codice_sorgente": "https://github.com/ATryder/HIIT",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Janken (Rock Paper Scissors)",
+        "id_pacchetto": "com.attenomy.janken",
+        "riassunto": "Modern offline Rock Paper Scissors with private Pass & Play, Bot AI and RPSLS.",
+        "categorie": [
+            "Casual Game",
+            "Party Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.attenomy.janken/en-US/icon_SnGiZFRfLR0AGiuIlQzswcDyvLTO24pqO-DN5qPCDNc=.png",
+        "url_codice_sorgente": "https://github.com/attenomy/janken",
         "ultimo_aggiornamento": null
     },
     {
@@ -10816,6 +10842,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Fairy Mahjong",
+        "id_pacchetto": "com.fairytrick.fairymahjong",
+        "riassunto": "Clear a layered garden board with a four-slot matching hand",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.fairytrick.fairymahjong/en-US/icon_rJwl4at8GwlHXb8FXbxrjKVYpV3QqiZRiysRaTwX8RQ=.png",
+        "url_codice_sorgente": "https://github.com/FairyTrick/FairyMahjong",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Diaguard: Diario del diabete",
         "id_pacchetto": "com.faltenreich.diaguard",
         "riassunto": "Diario del diabete e banca dati alimentare",
@@ -12702,7 +12740,7 @@
         "id_pacchetto": "com.github.mistermo_vibecode.voiceplus",
         "riassunto": "Offline audiobook player with some quality of life features.",
         "categorie": [
-            "Multimedia"
+            "Audiobook"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.github.mistermo_vibecode.voiceplus/en-US/icon_y635El1ibhm0_u4NZUcQv2190FLh6YJ14JtWg3AmV8E=.png",
@@ -16434,12 +16472,12 @@
     {
         "nome": "Lplanner",
         "id_pacchetto": "com.landerlab.lplanner.fdroid",
-        "riassunto": "Mixed-gas decompression planner: ZHL-16C, VVAL-18 and VPM-B. Works offline.",
+        "riassunto": "Mixed-gas decompression planner: ZHL-16C, VVAL-79 and VPM-B. Works offline.",
         "categorie": [
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.landerlab.lplanner.fdroid.12.png",
+        "icona": "https://f-droid.org/repo//icons/com.landerlab.lplanner.fdroid.15.png",
         "url_codice_sorgente": "https://github.com/landerlab-apps/Lplanner-FDroid",
         "ultimo_aggiornamento": null
     },
@@ -16691,7 +16729,7 @@
         "id_pacchetto": "com.likhithpraveenk.storii",
         "riassunto": "Audiobookshelf client with offline downloads and background playback",
         "categorie": [
-            "Multimedia"
+            "Audiobook"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.likhithpraveenk.storii/en-US/icon_dSGKIQmhgYMBOLrt_s27QsWPx1Le4Jx9MIzbYJepdWA=.png",
@@ -20917,7 +20955,7 @@
         "id_pacchetto": "com.prangesoftwaresolutions.audioanchor",
         "riassunto": "Lettore audio che traccia il processo di ascolto dei vostri audiolibri e podcast",
         "categorie": [
-            "Multimedia",
+            "Audiobook",
             "Podcast"
         ],
         "licenza": "GPL-3.0-only",
@@ -22019,6 +22057,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Rowtine",
+        "id_pacchetto": "com.rowtine.app",
+        "riassunto": "Knitting and crochet companion: patterns, stash, counters. Offline.",
+        "categorie": [
+            "Habit Tracker",
+            "Inventory",
+            "Time Tracker"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/com.rowtine.app.6.png",
+        "url_codice_sorgente": "https://github.com/alxia0/rowtine",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Look4Sat: Satellite tracker",
         "id_pacchetto": "com.rtbishop.look4sat",
         "riassunto": "Satellite tracker and pass predictor for Android",
@@ -22107,7 +22159,7 @@
     {
         "nome": "Dosezy",
         "id_pacchetto": "com.saad2134.dosezy",
-        "riassunto": "Simple medicine (meds) tracker & reminder app. Enter the details, we'll remind y",
+        "riassunto": "Track your medications, get timely reminders, and manage your health with ease.",
         "categorie": [
             "Health Manager",
             "Medication"
@@ -22138,7 +22190,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.10.png",
+        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.11.png",
         "url_codice_sorgente": "https://github.com/saad-ibra/gray-matter",
         "ultimo_aggiornamento": null
     },
@@ -23044,6 +23096,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tents",
+        "id_pacchetto": "com.sidhant.tents",
+        "riassunto": "A logic puzzle game where goal is to place tents in the grid",
+        "categorie": [
+            "Casual Game",
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.tents/en-US/icon_huc1li_1vw-cblF8WCOBF6y48Z9rfIyl_1FV2EW8iyA=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Tents",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Triple Match",
         "id_pacchetto": "com.sidhant.triplematch",
         "riassunto": "A minimal, open-source 3D tile-matching puzzle game.",
@@ -23697,7 +23762,7 @@
             "Writing"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005229.png",
+        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005230.png",
         "url_codice_sorgente": "https://github.com/standardnotes/app",
         "ultimo_aggiornamento": null
     },
@@ -23906,8 +23971,8 @@
         "id_pacchetto": "com.studio4plus.homerplayer2",
         "riassunto": "Audiobooks and podcasts: simple player managed by a caregiver",
         "categorie": [
+            "Audiobook",
             "Local Media Player",
-            "Multimedia",
             "Podcast"
         ],
         "licenza": "MIT",
@@ -27210,6 +27275,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "LocReminder",
+        "id_pacchetto": "com.zaifears.locreminder",
+        "riassunto": "An alarm that rings when you arrive, not at a set time.",
+        "categorie": [
+            "Alarm Clock",
+            "Navigation"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.zaifears.locreminder/en-US/icon_Aosophs2mzF4kdF_34ffI0SZ5bAO0ueYBOD-Mt4K-f0=.png",
+        "url_codice_sorgente": "https://github.com/zaifears/locreminder",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "ruNNNpe bridge",
         "id_pacchetto": "com.zappbrannigan34.runnnpebridge",
         "riassunto": "Automatic bridge from NPE RUNN to Health Connect.",
@@ -29374,6 +29452,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "BoatSpeedy",
+        "id_pacchetto": "de.kewl.boatspeedy",
+        "riassunto": "GPS speedometer and waterway navigation for boats, with battery analytics",
+        "categorie": [
+            "Navigation",
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/Glenn-Dandy/BoatSpeedy",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "time-tracking",
         "id_pacchetto": "de.killi199.timetracking",
         "riassunto": "Keep track of your working hours with precision and ease",
@@ -30319,7 +30410,7 @@
         "id_pacchetto": "de.ph1b.audiobook",
         "riassunto": "A clean audiobook player for your own files, with sleep timer and bookmarks.",
         "categorie": [
-            "Multimedia"
+            "Audiobook"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//de.ph1b.audiobook/en-US/icon_j4CDUSTa3OL4p_nTWV6ewlbjYIAtXeHMgW64UvW1iBw=.png",
@@ -30786,6 +30877,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.singular.recorder/en-US/icon_snFHZmuAzs6O7UksZ3XRDJVySSmz-cNQRaIW-w3-14I=.png",
         "url_codice_sorgente": "https://github.com/mkay/TitleTrack",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Pocket Prose",
+        "id_pacchetto": "de.singular.writer",
+        "riassunto": "A writing app for a folder of Markdown notes, filed by tag.",
+        "categorie": [
+            "Note",
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//de.singular.writer/en-US/icon_lO22ul1WG1qY1cyIw2FSDLOR3rhEn3CO4f7Wu0Sspw0=.png",
+        "url_codice_sorgente": "https://github.com/mkay/PocketProse",
         "ultimo_aggiornamento": null
     },
     {
@@ -32065,7 +32169,7 @@
         "id_pacchetto": "dev.halim.shelfdroid",
         "riassunto": "Audiobookshelf Android client with playback, downloads, and server management",
         "categorie": [
-            "Multimedia"
+            "Audiobook"
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.halim.shelfdroid/en-US/icon_SgZffFAbBzshy-mehtEyBEcBVO5C4p4tVtRNXtrZJfI=.png",
@@ -32842,7 +32946,7 @@
             "Reading"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/dev.tulis.readbear.16.png",
+        "icona": "https://f-droid.org/repo//icons/dev.tulis.readbear.17.png",
         "url_codice_sorgente": "https://github.com/Tulis12/ReadBear",
         "ultimo_aggiornamento": null
     },
@@ -38327,7 +38431,7 @@
     {
         "nome": "Karui ToDo",
         "id_pacchetto": "io.github.ronynn.karui",
-        "riassunto": "An open source, privacy focussed, 90kB aesthetic todo list app with easter eggs.",
+        "riassunto": "90kB aesthetic terminalesque todo list app with offline sync and widgets",
         "categorie": [
             "Note",
             "Task",
@@ -38630,6 +38734,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.sykoram.sis/en-US/icon_5i-EyDowiV0H29t19bGkuGIgUfLiJTLH_PwqahHMCl0=.png",
         "url_codice_sorgente": "https://github.com/sykoram/sis",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "OnStop2FinishAndRemoveTask",
+        "id_pacchetto": "io.github.takusan23.onstop2finishandremovetask",
+        "riassunto": "If change other app, Auto close task in prev app. Required Shizuku APP.",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//io.github.takusan23.onstop2finishandremovetask/en-US/icon_eTDYs-yvJe8jTeFb6-2AQajDO1kCPzXyZN2dR8HqN5c=.png",
+        "url_codice_sorgente": "https://github.com/takusan23/OnStop2FinishAndRemoveTask",
         "ultimo_aggiornamento": null
     },
     {
@@ -39037,8 +39153,7 @@
         "id_pacchetto": "io.gitlab.libre_librivox_listener",
         "riassunto": "An unofficial libre application to listen to public domain audiobooks.",
         "categorie": [
-            "Multimedia",
-            "Reading"
+            "Audiobook"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.gitlab.libre_librivox_listener/en-US/icon_Dv6Q52-CdCKG19NLWSMIO5Hc9BOLmdrW99fMr8i9kxM=.png",
@@ -40003,7 +40118,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.131.png",
+        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.132.png",
         "url_codice_sorgente": "https://github.com/rignaneseleo/SlimSocial-for-Facebook",
         "ultimo_aggiornamento": null
     },
@@ -40444,7 +40559,7 @@
         "id_pacchetto": "live.pageless.mobile",
         "riassunto": "Offline-first audiobook player for your self-hosted Pageless server.",
         "categorie": [
-            "Multimedia"
+            "Audiobook"
         ],
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//live.pageless.mobile/en-US/icon_TZG9-LjrfsJqMAgf-O_By5LPm8baEa1q0qQ-qbxyVHE=.png",
@@ -45937,7 +46052,7 @@
             "Game Helper"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//org.emunix.unipatcher/en-US/icon_91vzSMJ3PRJNJE-utqJySu_EnNW-OnXsCzrjR24GwPE=.png",
         "url_codice_sorgente": "https://github.com/btimofeev/UniPatcher",
         "ultimo_aggiornamento": null
     },
@@ -46991,7 +47106,7 @@
         "id_pacchetto": "org.grakovne.lissen",
         "riassunto": "Clean Audiobookshelf Player",
         "categorie": [
-            "Multimedia"
+            "Audiobook"
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//org.grakovne.lissen/en-US/icon_k3qflE2tlusghVDchLiwAQtD1ThlIwF3RcDyw1-hA3A=.png",
@@ -48641,7 +48756,7 @@
     {
         "nome": "PAIesque",
         "id_pacchetto": "org.ojrandom.paiesque",
-        "riassunto": "Privacy-first fitness tracker with self-hosted group sharing",
+        "riassunto": "Privacy-first fitness tracker with end-to-end encrypted group sharing",
         "categorie": [
             "Connectivity",
             "Health Manager",
@@ -51865,7 +51980,7 @@
             "Note"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/page.tine.app.6982.png",
+        "icona": "https://f-droid.org/repo//icons/page.tine.app.6983.png",
         "url_codice_sorgente": "https://github.com/martinkoutecky/tine",
         "ultimo_aggiornamento": null
     },
@@ -52600,7 +52715,7 @@
         "id_pacchetto": "rocks.mm_dev.audav",
         "riassunto": "A cross-platform player for audiobooks stored on NextCloud/WebDAV.",
         "categorie": [
-            "Multimedia"
+            "Audiobook"
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//rocks.mm_dev.audav/en-US/icon_Wj1u7GuMHUJW5BQtaz9Y1VJodJ7D8Rlr1oHMv-My6o0=.png",
