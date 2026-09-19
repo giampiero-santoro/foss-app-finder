@@ -50,6 +50,30 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "CloudSound - SoundCloud facilitator for Podcini.A",
+        "id_pacchetto": "ac.amalfi.cloudsound",
+        "riassunto": "A service app providing SoundCloud contents to Podcini.A",
+        "categorie": [
+            "Podcast"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//ac.amalfi.cloudsound/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png",
+        "url_codice_sorgente": "https://github.com/XilinJia/CloudSound",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "PeerPop - PeerTube facilitator for Podcini.A",
+        "id_pacchetto": "ac.ella.peerpop",
+        "riassunto": "A service app providing PeerTube contents to Podcini.A",
+        "categorie": [
+            "Podcast"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//ac.ella.peerpop/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png",
+        "url_codice_sorgente": "https://github.com/XilinJia/PeerPop",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Podcini.A - Extensible media instrument",
         "id_pacchetto": "ac.mdiq.Podcini.A",
         "riassunto": "Your premier podcast/media instrument, now extensible, capable of YouTubing",
@@ -3721,7 +3745,7 @@
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.26.png",
+        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.27.png",
         "url_codice_sorgente": "https://github.com/Limekana/StudyDesk",
         "ultimo_aggiornamento": null
     },
@@ -9689,7 +9713,7 @@
     {
         "nome": "Duetto",
         "id_pacchetto": "com.duetto",
-        "riassunto": "A permanent voice and video channel for two people, on your own server.",
+        "riassunto": "A tiny Discord for two, on your own server: a permanent voice and video channel.",
         "categorie": [
             "Voice & Video Chat"
         ],
@@ -11887,7 +11911,7 @@
             "Wallet"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.844.png",
+        "icona": "https://f-droid.org/repo//icons/com.gemwallet.android.846.png",
         "url_codice_sorgente": "https://github.com/gemwalletcom/wallet",
         "ultimo_aggiornamento": null
     },
@@ -20804,13 +20828,13 @@
     {
         "nome": "DuWave",
         "id_pacchetto": "com.polonio.duwave",
-        "riassunto": "Dynamic local music player",
+        "riassunto": "Dynamic local and online music player",
         "categorie": [
             "Local Media Player",
             "Online Media Player"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.polonio.duwave.9.png",
+        "icona": "https://f-droid.org/repo//com.polonio.duwave/en-US/icon_5XXZ8xzkvf7rCXcP13bc5DjLwipKKiBnJO2Jc9iQ8T8=.png",
         "url_codice_sorgente": "https://github.com/POL0i/DuWave",
         "ultimo_aggiornamento": null
     },
@@ -22785,7 +22809,7 @@
     {
         "nome": "Shattered Pixel Dungeon",
         "id_pacchetto": "com.shatteredpixel.shatteredpixeldungeon",
-        "riassunto": "Un gioco roguelike basato su Pixel Dungeon",
+        "riassunto": "A roguelike dungeon crawler RPG that's simple to get into but hard to master!",
         "categorie": [
             "Role-Playing Game"
         ],
@@ -23093,6 +23117,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.screwjam/en-US/icon_SWrwmaCGyW-Y9EYM5MEL356XBZdlFEM7qXSk-lQIAsY=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/ScrewJam",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Shikaku",
+        "id_pacchetto": "com.sidhant.shikaku",
+        "riassunto": "A minimalist block logic puzzle game",
+        "categorie": [
+            "Casual Game",
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.shikaku/en-US/icon_Ma9ME08QJILYRPPe3JLvd4IzdwFchQTbZnPpbz9YwIc=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Shikaku",
         "ultimo_aggiornamento": null
     },
     {
@@ -23762,7 +23799,7 @@
             "Writing"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005230.png",
+        "icona": "https://f-droid.org/repo//icons/com.standardnotes.3005232.png",
         "url_codice_sorgente": "https://github.com/standardnotes/app",
         "ultimo_aggiornamento": null
     },
@@ -26438,6 +26475,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://github.com/frankmorgner/vsmartcard/tree/HEAD/remote-reader",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Autometer",
+        "id_pacchetto": "com.vtrack",
+        "riassunto": "Track fuel economy and vehicle maintenance schedules",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vtrack/en-US/icon_rl4PiFmEkt9aCYGOZ9DdClhHaQ6PxLUeqo0POt2mcG4=.png",
+        "url_codice_sorgente": "https://github.com/curiousfyre/vtrack",
         "ultimo_aggiornamento": null
     },
     {
@@ -29488,7 +29537,7 @@
             "Timer"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//de.kitshn.android/en-US/icon_KDwu4yHOCStyP2LD4Lj90QVwS9UscFzFcGCjEp_YSlY=.png",
+        "icona": "https://f-droid.org/repo//de.kitshn.android/en-US/icon_sVclQDTZpXVQvvTGghGeqE2mmQyNHUzyFLDgBzlcJ_I=.png",
         "url_codice_sorgente": "https://github.com/aimok04/kitshn",
         "ultimo_aggiornamento": null
     },
@@ -32184,7 +32233,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.413.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.433.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -32405,7 +32454,7 @@
     {
         "nome": "Linwood Butterfly Nightly",
         "id_pacchetto": "dev.linwood.butterfly.nightly",
-        "riassunto": "Powerful, minimalistic, cross-platform, opensource note-taking app",
+        "riassunto": "Take notes, draw freely, and organize ideas across an endless workspace",
         "categorie": [
             "Draw",
             "Note",
@@ -32946,7 +32995,7 @@
             "Reading"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/dev.tulis.readbear.17.png",
+        "icona": "https://f-droid.org/repo//dev.tulis.readbear/en-US/icon_6u9hTFP1zaWdZv64ARewRBrU0WVpllrpu_XFpCno3S8=.png",
         "url_codice_sorgente": "https://github.com/Tulis12/ReadBear",
         "ultimo_aggiornamento": null
     },
@@ -37544,7 +37593,7 @@
             "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.86.png",
+        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.87.png",
         "url_codice_sorgente": "https://github.com/herrerad85/tallybook",
         "ultimo_aggiornamento": null
     },
@@ -43797,7 +43846,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.801.png",
+        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.905.png",
         "url_codice_sorgente": "https://gitlab.com/JohnRenz/emborg",
         "ultimo_aggiornamento": null
     },
@@ -48391,7 +48440,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.mlm.miniter/en-US/icon_J0gcWJ-dg5hrkRLltm0j_9BfZRk7VKF2LF7PXBe-IOo=.png",
+        "icona": "https://f-droid.org/repo//org.mlm.miniter/en-US/icon_fEQOgUK_wsGjE7SQufDTZF1Ce8XBFJ1l30913pGggME=.png",
         "url_codice_sorgente": "https://github.com/mlm-games/miniter",
         "ultimo_aggiornamento": null
     },
@@ -50434,6 +50483,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Sherpr",
+        "id_pacchetto": "org.sherpr.app",
+        "riassunto": "Drive your Herdr AI-agent fleet from your phone, over SSH — no cloud",
+        "categorie": [
+            "Connectivity",
+            "Development"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//org.sherpr.app/en-US/icon_3xaIvpcF2_OPQkd97dKYVlo2KV3uDl4_8OFX-5K_u6c=.png",
+        "url_codice_sorgente": "https://codeberg.org/alevui/sherpr",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Ocelot",
         "id_pacchetto": "org.shirakumo.ocelot",
         "riassunto": "Lichat chat protocol client",
@@ -51980,7 +52042,7 @@
             "Note"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/page.tine.app.6983.png",
+        "icona": "https://f-droid.org/repo//icons/page.tine.app.6984.png",
         "url_codice_sorgente": "https://github.com/martinkoutecky/tine",
         "ultimo_aggiornamento": null
     },
@@ -55366,7 +55428,7 @@
             "Note"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/xyz.hub13.remindiary.100069992.png",
+        "icona": "https://f-droid.org/repo//xyz.hub13.remindiary/en-US/icon_t6diMb1fkffbYQD1GKNKW5d-C0-zUdy5edTGI3Y1kvc=.png",
         "url_codice_sorgente": "https://github.com/grantstephens/ReminDiary",
         "ultimo_aggiornamento": null
     },
