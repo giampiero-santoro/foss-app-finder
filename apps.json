@@ -1908,7 +1908,7 @@
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/au.how2vote.app.10323000.png",
+        "icona": "https://f-droid.org/repo//icons/au.how2vote.app.10328000.png",
         "url_codice_sorgente": "https://github.com/National-Digital/how2vote.au",
         "ultimo_aggiornamento": null
     },
@@ -16793,7 +16793,7 @@
             "Finance Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.35.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.36.png",
         "url_codice_sorgente": "https://github.com/Limekana/nexus-command-center",
         "ultimo_aggiornamento": null
     },
@@ -16805,7 +16805,7 @@
             "Sports & Health"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.24.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.25.png",
         "url_codice_sorgente": "https://github.com/Limekana/limelog",
         "ultimo_aggiornamento": null
     },
@@ -22954,7 +22954,7 @@
             "Puzzle Game"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.sidhant.blockblast/en-US/icon_mhpFy2pGYuVF1cxgp2P1ko5M32SpO_ktTdO1H-W_kdA=.png",
+        "icona": "https://f-droid.org/repo//com.sidhant.blockblast/en-US/icon_ErnVOVzhBJvc_IBqNUUCtNRbR5xlU0JN8SdMqC97igQ=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/BlockBlast",
         "ultimo_aggiornamento": null
     },
@@ -28949,6 +28949,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "MapFlip - Apple to Google",
+        "id_pacchetto": "de.goork.mapflip",
+        "riassunto": "Redirect Apple Maps links to Google Maps. Fast Apple map redirect & converter.",
+        "categorie": [
+            "Navigation"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//de.goork.mapflip/en-US/icon_Xj9wfoEvt5_t27KqZ6T05r5XAKOnI4KYNAnSY9JjNiQ=.png",
+        "url_codice_sorgente": "https://github.com/thefraggle/mapflip",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AstroClock",
         "id_pacchetto": "de.goraran.astroclock",
         "riassunto": "Astronomically correct 24-hour clock: the Sun is the hand, the star sky turns",
@@ -32209,7 +32221,7 @@
             "Navigation"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.gpxit.app.4.png",
+        "icona": "https://f-droid.org/repo//icons/dev.gpxit.app.5.png",
         "url_codice_sorgente": "https://github.com/7FM/GPXIT",
         "ultimo_aggiornamento": null
     },
@@ -32678,6 +32690,18 @@
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//dev.nemeyes.ncarousel/en-US/icon_gADswx-fidBne5QmW-Rd3_e0pbNgA3cS6NzTiN6Z1UQ=.png",
         "url_codice_sorgente": "https://github.com/myNemy/NCarousel",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "VaultPony",
+        "id_pacchetto": "dev.norsehorse.vaultpony",
+        "riassunto": "Encrypted vaults you control, compatible with VeraCrypt.",
+        "categorie": [
+            "File Encryption & Vault"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//dev.norsehorse.vaultpony/en-US/icon_LfclbpQEIMz8oCaF73BsyqygU3BJNn8VlXnaE7GmIcI=.png",
+        "url_codice_sorgente": "https://github.com/norsehorse-dev/VaultPonyAndroid",
         "ultimo_aggiornamento": null
     },
     {
@@ -33229,7 +33253,7 @@
     {
         "nome": "DuressUltimate",
         "id_pacchetto": "duress.ultimate",
-        "riassunto": "Duress Password trigger via length with ultimate protection",
+        "riassunto": "Robust implementation of the Duress Password trigger",
         "categorie": [
             "Emergency Action",
             "Security"
@@ -33918,7 +33942,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/eu.pretix.pretixprint.84.png",
+        "icona": "https://f-droid.org/repo//icons/eu.pretix.pretixprint.85.png",
         "url_codice_sorgente": "https://github.com/pretix/pretixprint-android",
         "ultimo_aggiornamento": null
     },
@@ -34494,7 +34518,7 @@
             "Development"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/exa.lnx.a.676.png",
+        "icona": "https://f-droid.org/repo//icons/exa.lnx.a.677.png",
         "url_codice_sorgente": "https://github.com/EXALAB/AnLinux-Adfree",
         "ultimo_aggiornamento": null
     },
@@ -38351,18 +38375,6 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.potsdam_pnp.initiative_tracker/en-US/icon_m2frNsQgMtDkrifT8RqNUQ-Q4OUqJaEI_PTDH9l7KTg=.png",
         "url_codice_sorgente": "https://github.com/potsdam-pnp/initiative-tracker",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "Human Benchmark",
-        "id_pacchetto": "io.github.printn.humanbenchmark",
-        "riassunto": "Test and compare your cognitive abilities with fun challenges",
-        "categorie": [
-            "Educational Game"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.github.printn.humanbenchmark/en-US/icon_v-sbrrntCy6eYHHCS873cNXACVygXIHWqzzjNUZh-Fg=.png",
-        "url_codice_sorgente": "https://github.com/printn/human-benchmark",
         "ultimo_aggiornamento": null
     },
     {
@@ -43846,7 +43858,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.905.png",
+        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.906.png",
         "url_codice_sorgente": "https://gitlab.com/JohnRenz/emborg",
         "ultimo_aggiornamento": null
     },
@@ -45141,7 +45153,7 @@
             "Security"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.briarproject.briar.android.10519.png",
+        "icona": "https://f-droid.org/repo//icons/org.briarproject.briar.android.10520.png",
         "url_codice_sorgente": "https://code.briarproject.org/briar/briar",
         "ultimo_aggiornamento": null
     },
