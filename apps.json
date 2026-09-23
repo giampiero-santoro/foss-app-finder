@@ -574,6 +574,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "DevSwitch",
+        "id_pacchetto": "app.devswitch",
+        "riassunto": "Toggle developer options, USB and wireless debugging, with Quick Settings tiles",
+        "categorie": [
+            "Development",
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//app.devswitch/en-US/icon_KB8ln6briq5Se3pufzDCr5B0jUzlT6yzgRJcxUyTV6w=.png",
+        "url_codice_sorgente": "https://github.com/retransmit/DevSwitch",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "DumDum",
         "id_pacchetto": "app.dumdum",
         "riassunto": "Simple VPN over SOCKS/HTTP/HTTPS proxy",
@@ -979,7 +992,7 @@
             "Messaging"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/app.nightdrop.4073.png",
+        "icona": "https://f-droid.org/repo//icons/app.nightdrop.4083.png",
         "url_codice_sorgente": "https://github.com/nightdropapp/nightdrop",
         "ultimo_aggiornamento": null
     },
@@ -1334,9 +1347,10 @@
     {
         "nome": "Sound Center",
         "id_pacchetto": "app.soundcenter.player",
-        "riassunto": "Local music and podcast and stream player, built to enhance your quality of life",
+        "riassunto": "Local music, podcast, stream and cloud player, built to enhance your quality of ",
         "categorie": [
             "Local Media Player",
+            "Online Media Player",
             "Podcast",
             "Radio"
         ],
@@ -5111,7 +5125,7 @@
     {
         "nome": "Anti-Vocale",
         "id_pacchetto": "com.antivocale.app",
-        "riassunto": "Offline voice-message transcription, fully on-device",
+        "riassunto": "Offline transcription of voice messages and recorded calls, on-device",
         "categorie": [
             "Speech Recognizer"
         ],
@@ -11932,7 +11946,7 @@
             "Timer"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.gdf.hema_timer/en-US/icon_7P8iqYxjwx8TXvqEunLowLWJuCtzkJVrRvhj0EXnDWk=.png",
+        "icona": "https://f-droid.org/repo//com.gdf.hema_timer/en-US/icon_6GoaTL1R2aOBoYqe83pw4uZDrb4hdrisG76thhCUGJQ=.png",
         "url_codice_sorgente": "https://github.com/kstepanovdev/gdf_hema_timer",
         "ultimo_aggiornamento": null
     },
@@ -12034,7 +12048,7 @@
             "Speech Recognizer"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.georgernstgraf.polishedrecognition.10204.png",
+        "icona": "https://f-droid.org/repo//com.georgernstgraf.polishedrecognition/en-US/icon_DtKQYePOEGliEZLnHGGm6Pjh8o7pjTBN9RVj5AadBnI=.png",
         "url_codice_sorgente": "https://github.com/georgernstgraf/polished-recognition",
         "ultimo_aggiornamento": null
     },
@@ -19655,6 +19669,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ScrubPony",
+        "id_pacchetto": "com.norsehorse.scrubpony",
+        "riassunto": "Strip GPS and metadata from JPEG, PNG, WebP and HEIC photos, on your device.",
+        "categorie": [
+            "Graphics"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.norsehorse.scrubpony/en-US/icon_nHi9vre0bUpiUfYsA6OQT_zDAIRTuJh9hHMZjlPiW5c=.png",
+        "url_codice_sorgente": "https://github.com/norsehorse-dev/ScrubPonyAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "nospeak",
         "id_pacchetto": "com.nospeak.app",
         "riassunto": "nospeak is a modern Nostr chat client",
@@ -22362,7 +22388,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.11.png",
+        "icona": "https://f-droid.org/repo//icons/com.saadibra.graymatter.12.png",
         "url_codice_sorgente": "https://github.com/saad-ibra/gray-matter",
         "ultimo_aggiornamento": null
     },
@@ -25363,6 +25389,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Ramblr",
+        "id_pacchetto": "com.trevornk.ramblr",
+        "riassunto": "Tap, ramble, tap. Clean dictated text lands wherever your cursor is.",
+        "categorie": [
+            "Keyboard & IME",
+            "Speech Recognizer"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.trevornk.ramblr/en-US/icon_fHezMN92Xcyu-67cDcUZXkM4rvVPlg_N7IB0O9SmIn4=.png",
+        "url_codice_sorgente": "https://github.com/trevornk/ramblr",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Adnihilation",
         "id_pacchetto": "com.trianguloy.adnihilation",
         "riassunto": "This is just a very small app to allow you take out on those nasty ads.",
@@ -25941,8 +25980,8 @@
             "Download",
             "Internet"
         ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.vakarux.instadownload/en-US/icon_ApbJ0GNXOQPQNzgSUEWOG5CgbwS_wRDT6R07F1yrI8E=.png",
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vakarux.instadownload/en-US/icon_UTnwJYow-Ax7UuXQz-ZE9pAw2yVOmq_U6B99A6g_LUE=.png",
         "url_codice_sorgente": "https://github.com/Orang-Studio/InstaDownload",
         "ultimo_aggiornamento": null
     },
@@ -26499,6 +26538,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.vitabytes.meteoweathergr/en-US/icon_0euFDuV-uePp-wJLO7l7tpPalZ9yHqWvXomT0caSaS4=.png",
         "url_codice_sorgente": "https://gitlab.com/vitaspiros/meteo-weather-gr",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Zabb",
+        "id_pacchetto": "com.vitexsoftware.zabb",
+        "riassunto": "Mobile client for Zabbix monitoring",
+        "categorie": [
+            "Internet",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/com.vitexsoftware.zabb.113.png",
+        "url_codice_sorgente": "https://github.com/VitexSoftware/Zabb",
         "ultimo_aggiornamento": null
     },
     {
@@ -32467,7 +32519,7 @@
             "Calendar & Agenda"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.433.png",
+        "icona": "https://f-droid.org/repo//icons/dev.henriquecouto.calsync.443.png",
         "url_codice_sorgente": "https://github.com/henriquecouto/calendar-sync",
         "ultimo_aggiornamento": null
     },
@@ -34836,7 +34888,7 @@
     {
         "nome": "FirTube",
         "id_pacchetto": "fir.tube",
-        "riassunto": "FirTube — browser based on Android webView for watching YouTube.",
+        "riassunto": "FirTube — simple webView browser for YouTube",
         "categorie": [
             "Online Media Player"
         ],
@@ -38545,7 +38597,7 @@
             "Workout"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//io.github.nyxar77.pulse/en-US/icon_o0S9zIkSNf83QHtIrbCejZJW8txIh1RxqwKQaWbTfzw=.png",
+        "icona": "https://f-droid.org/repo//io.github.nyxar77.pulse/en-US/icon_0jJh-JYFOJoFRF5IpVj9HRKu6I2hxJ1-Wy1OSAk-jrQ=.png",
         "url_codice_sorgente": "https://github.com/nyxar77/Pulse",
         "ultimo_aggiornamento": null
     },
@@ -41190,18 +41242,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//me.blog.korn123.easydiary/en-US/icon_JXRYBwdlVkKteQFiGR7t_48h_tq_FJOmaCdhyutkCjE=.png",
         "url_codice_sorgente": "https://github.com/hanjoongcho/aaf-easydiary",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "APatch",
-        "id_pacchetto": "me.bmax.apatch",
-        "riassunto": "The patching of Android kernel and Android system",
-        "categorie": [
-            "System"
-        ],
-        "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//me.bmax.apatch/en-US/icon_PxoKfPYMPtjG8cxmiCpNVk1pVhWiQbRdipVINnY7mIA=.png",
-        "url_codice_sorgente": "https://github.com/bmax121/APatch",
         "ultimo_aggiornamento": null
     },
     {
@@ -54097,12 +54137,12 @@
     {
         "nome": "Snowdrop",
         "id_pacchetto": "site.remlit.snowdrop",
-        "riassunto": "Multiplatform Mastodon API client using Compose",
+        "riassunto": "Multiplatform client for Mastodon API compatible fediverse software",
         "categorie": [
             "Social Network"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/site.remlit.snowdrop.8.png",
+        "icona": "https://f-droid.org/repo//icons/site.remlit.snowdrop.9.png",
         "url_codice_sorgente": "https://github.com/ihateblueb/snowdrop",
         "ultimo_aggiornamento": null
     },
