@@ -1222,6 +1222,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Scratchpad Launcher",
+        "id_pacchetto": "app.scratchpad.launcher",
+        "riassunto": "A minimal launcher with an always-visible scratchpad. Zero ads.",
+        "categorie": [
+            "Launcher"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.scratchpad.launcher/en-US/icon_dC7NX4YV3a8I-l_I9f4YUmeWYIdKAcVcU_0G4LaZnHw=.png",
+        "url_codice_sorgente": "https://github.com/mstcgalis/scratchpad-launcher",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Seeneva: smart comic reader",
         "id_pacchetto": "app.seeneva.reader",
         "riassunto": "Fully open source smart comic book reader with the ability to use OCR and TTS.",
@@ -6229,6 +6241,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "MyLexicon",
+        "id_pacchetto": "com.aryanyadav.mylexicon",
+        "riassunto": "Offline-first personal dictionary and vocabulary companion.",
+        "categorie": [
+            "Note"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.aryanyadav.mylexicon/en-US/icon_V1H2FrIvWVjIZ9WY60r7SsXI5JucFH6zFXpY6PvN5Ss=.png",
+        "url_codice_sorgente": "https://github.com/aryany9/MyLexicon",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "GymWen",
         "id_pacchetto": "com.asdoi.gymwen",
         "riassunto": "Official App for the Gymnasium Wendelstein",
@@ -6597,6 +6621,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.b44t.messenger/en-US/icon_ZflLc7eMvI3Iy6M0mjNBv-jvbkqH3f_rfAUvsMXPNAs=.png",
         "url_codice_sorgente": "https://github.com/deltachat/deltachat-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Baby Touch Lock",
+        "id_pacchetto": "com.babytouchlock",
+        "riassunto": "Block accidental touches, gestures and buttons while your kid watches videos",
+        "categorie": [
+            "Multimedia",
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.babytouchlock/en-US/icon_1jHoQmm5qdeO-Hjbzvs5hNsNVCIH36i3XdWqWpRUOM0=.png",
+        "url_codice_sorgente": "https://github.com/dmici/baby-touch-lock",
         "ultimo_aggiornamento": null
     },
     {
@@ -7023,6 +7060,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.bitmavrick.lumolight/en-US/icon_QPvx3G1uxYDtOVjGHBLgQzVNIBzkCJYWIjSc4z0bN7c=.png",
         "url_codice_sorgente": "https://github.com/BitMavrick/Lumolight",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "BLACKBOX",
+        "id_pacchetto": "com.blackbox.app",
+        "riassunto": "File Encryption & Vault",
+        "categorie": [
+            "File Encryption & Vault"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.blackbox.app/en-US/icon_TZ7VaZDScZrvqlsnompobPDpYgP3OBbJZClS6YerGb4=.png",
+        "url_codice_sorgente": "https://github.com/alpha-1-design/BLACKBOX",
         "ultimo_aggiornamento": null
     },
     {
@@ -7973,6 +8022,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "VaultX - Secure Password Manager",
+        "id_pacchetto": "com.chiranth7.vaultx",
+        "riassunto": "Secure offline password and identity wallet manager",
+        "categorie": [
+            "Password & 2FA",
+            "Security"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.chiranth7.vaultx/en-US/icon_F_N3jpf0jDFLFEVNZFQa1RRlxZElCZqVKCjKdrarrF4=.png",
+        "url_codice_sorgente": "https://github.com/Chiranth-Janardhan-moger/vaultx-offline-password-manager",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Liseur",
         "id_pacchetto": "com.chmouel.liseur",
         "riassunto": "EPUB reader in sync with your own calibre-web, Komga or OPDS book server.",
@@ -8155,6 +8217,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.coboltforge.dontmind.multivnc/en-US/icon_u266wT9vkox55sKdAIh_fR6B4JMtGj1tnLVrQ0NWieo=.png",
         "url_codice_sorgente": "https://github.com/bk138/multivnc",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Battleship",
+        "id_pacchetto": "com.cocode.battleship",
+        "riassunto": "Offline naval combat against an AI opponent, with no ads and no account",
+        "categorie": [
+            "Board Game",
+            "Strategy Game"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/com.cocode.battleship.1000013.png",
+        "url_codice_sorgente": "https://github.com/cocodedk/Battleship",
         "ultimo_aggiornamento": null
     },
     {
@@ -20371,6 +20446,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "AMARadio",
+        "id_pacchetto": "com.ounben.amaradio",
+        "riassunto": "Ad-Free - No Paywall - Just Radio",
+        "categorie": [
+            "Internet",
+            "Multimedia",
+            "Radio"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.ounben.amaradio/en-US/icon_pjFKVN2UyXH16DYwNImWOehtM7SJcf3LDUyb5V0BtxA=.jpg",
+        "url_codice_sorgente": "https://github.com/ounben/AMARadio",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "WairToNow - Aviation Navigation",
         "id_pacchetto": "com.outerworldapps.wairtonow",
         "riassunto": "Aviation mappng program, includes geo-referenced airport diagrams and plates.",
@@ -22257,14 +22346,14 @@
     {
         "nome": "Rowtine",
         "id_pacchetto": "com.rowtine.app",
-        "riassunto": "Knitting and crochet companion: patterns, stash, counters. Offline.",
+        "riassunto": "Knitting and crochet app: patterns, stash, counters. Offline and free.",
         "categorie": [
             "Habit Tracker",
             "Inventory",
             "Time Tracker"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.rowtine.app.6.png",
+        "icona": "https://f-droid.org/repo//icons/com.rowtine.app.8.png",
         "url_codice_sorgente": "https://github.com/alxia0/rowtine",
         "ultimo_aggiornamento": null
     },
@@ -23142,6 +23231,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.arrowescape/en-US/icon_nR3BXi7hyQDKPax3xKpmW7ytBQxsTCyo8_Olzw7q5uA=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/ArrowEscape",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Binary Puzzle",
+        "id_pacchetto": "com.sidhant.binarypuzzle",
+        "riassunto": "A minimalist binary placement logic puzzle game.",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.binarypuzzle/en-US/icon_QREupJEsiXpNWhQcq8aypztNxgUIPS55qD2Xlv7BrFg=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/BinaryPuzzle",
         "ultimo_aggiornamento": null
     },
     {
@@ -38564,6 +38665,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "LatentJam",
+        "id_pacchetto": "io.github.nikitasud.latentjam.kmp",
+        "riassunto": "Local music player with an on-device recommender. No account, no network.",
+        "categorie": [
+            "Local Media Player"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//io.github.nikitasud.latentjam.kmp/en-US/icon_rKpJLpIkz5ujbYEjaI4EPpRAwigzZAnm2sVI5Z9VZoE=.png",
+        "url_codice_sorgente": "https://github.com/Nikita-sud/latentjam",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "NOVA",
         "id_pacchetto": "io.github.nofuturekid.nova",
         "riassunto": "Open-source client for Unraid® NAS servers",
@@ -38599,6 +38712,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.nyxar77.pulse/en-US/icon_0jJh-JYFOJoFRF5IpVj9HRKu6I2hxJ1-Wy1OSAk-jrQ=.png",
         "url_codice_sorgente": "https://github.com/nyxar77/Pulse",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "MinLauncher",
+        "id_pacchetto": "io.github.ouj4k2q5.minlauncher",
+        "riassunto": "A minimal, ad-free Android launcher with no internet access and no tracking.",
+        "categorie": [
+            "Launcher"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/ouj4k2q5/Minlauncher",
         "ultimo_aggiornamento": null
     },
     {
@@ -42784,6 +42909,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "QRieux - QR Scanner",
+        "id_pacchetto": "net.hilson.qrieux",
+        "riassunto": "QR scanner & creator. No ads, no tracking, works offline.",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//net.hilson.qrieux/en-US/icon_DqlX4ZR-SM55Py22TWZ2QSeBtcIQsOiB0rX9ZMKmNEc=.png",
+        "url_codice_sorgente": "https://github.com/abumalick/QRieux",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "I2P",
         "id_pacchetto": "net.i2p.android.router",
         "riassunto": "Rete anonima I2P",
@@ -44529,6 +44666,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//icons/omegacentauri.mobi.simplestopwatch.31.png",
         "url_codice_sorgente": "https://github.com/arpruss/simplestopwatch",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "OmniBeat",
+        "id_pacchetto": "omnibeat.app",
+        "riassunto": "Internet radio player built to support all modern online stations.",
+        "categorie": [
+            "Radio"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//omnibeat.app/en-US/icon_N3_ytvQMFIXfWiazROcAptRtUHFNFJ674YLQh95u5go=.png",
+        "url_codice_sorgente": "https://github.com/Vikindor/omnibeat",
         "ultimo_aggiornamento": null
     },
     {
