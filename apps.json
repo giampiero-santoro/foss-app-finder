@@ -1384,6 +1384,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Starling",
+        "id_pacchetto": "app.starlingmap",
+        "riassunto": "End to end encrypted location sharing. No accounts, no tracking.",
+        "categorie": [
+            "Location Tracker & Sharer"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//app.starlingmap/en-US/icon_8ijsagL83D7ZKZBEMGCSNeBoG4du6SRokPc0eaXnRIQ=.png",
+        "url_codice_sorgente": "https://github.com/munzzyy/starling",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Status - Chat, Wallet, Browser",
         "id_pacchetto": "app.status.mobile",
         "riassunto": "Privacy super app with messenger, crypto wallet, browser, communities & more",
@@ -2207,7 +2219,7 @@
             "Connectivity"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30400.png",
+        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30500.png",
         "url_codice_sorgente": "https://github.com/ppareit/swiftp",
         "ultimo_aggiornamento": null
     },
@@ -4218,7 +4230,7 @@
     {
         "nome": "Vault Explorer",
         "id_pacchetto": "com.aeidolon.vaultexplorer",
-        "riassunto": "Encrypted container explorer: VeraCrypt, LUKS, BitLocker, and more.",
+        "riassunto": "Encrypted container explorer: VeraCrypt, LUKS, BitLocker, Cryptomator, gocryptfs",
         "categorie": [
             "File Encryption & Vault"
         ],
@@ -8035,6 +8047,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "WebStack",
+        "id_pacchetto": "com.chiranth7.webstack",
+        "riassunto": "Visual bookmark stack and website manager for Android with offline snapshots.",
+        "categorie": [
+            "Bookmark",
+            "Internet"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.chiranth7.webstack/en-US/icon_jZg6NV4Behlbd6m7wH9qRheQSWhd1RnRGUmEl7uKhx4=.png",
+        "url_codice_sorgente": "https://github.com/Chiranth-Janardhan-moger/webstack",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Liseur",
         "id_pacchetto": "com.chmouel.liseur",
         "riassunto": "EPUB reader in sync with your own calibre-web, Komga or OPDS book server.",
@@ -11153,7 +11178,7 @@
         ],
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.ferlagod.rocinante/en-US/phoneScreenshots/icon_tQm5bU7N_Vt2VQrJcTuy2QRR8OzpsCHWiEFcIvCjUKg=.png",
-        "url_codice_sorgente": "https://forjalibre.eu/ferlagod/rocinante_android",
+        "url_codice_sorgente": "https://github.com/ferlagod/Rocinante",
         "ultimo_aggiornamento": null
     },
     {
@@ -16702,7 +16727,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.landerlab.lplanner.fdroid.15.png",
+        "icona": "https://f-droid.org/repo//icons/com.landerlab.lplanner.fdroid.16.png",
         "url_codice_sorgente": "https://github.com/landerlab-apps/Lplanner-FDroid",
         "ultimo_aggiornamento": null
     },
@@ -17593,7 +17618,7 @@
             "Code & Forge"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.59.png",
+        "icona": "https://f-droid.org/repo//icons/com.maneeshacooray.gitling.61.png",
         "url_codice_sorgente": "https://github.com/maneeshacooray/Gitling",
         "ultimo_aggiornamento": null
     },
@@ -21310,7 +21335,7 @@
             "Workout"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.presley.flexify/en-US/icon_BBeJtKPePtGO8WiLmL6LHNQKPk9RX3_wjR-NipOxmNw=.png",
+        "icona": "https://f-droid.org/repo//com.presley.flexify/en-US/icon_HdE6LoKxoX0SWfkudKfdw5Hfv1JQ0pjxwEi9SpDLk7I=.png",
         "url_codice_sorgente": "https://github.com/brandonp2412/Flexify",
         "ultimo_aggiornamento": null
     },
@@ -23268,6 +23293,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.bubbleshooter/en-US/icon_ISrF7dyODkW0oJZzgUtBDsfiqtZBcDWsEwGbJ5ZuuZA=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/BubbleShooter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Colorgram",
+        "id_pacchetto": "com.sidhant.colorgram",
+        "riassunto": "A free, open-source color logic puzzle game with no ads or tracking",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.colorgram/en-US/icon_masAz3fPa0MCm6X_ANsygh99Tw7Gy2pRdTnuprSDDwg=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Colorgram",
         "ultimo_aggiornamento": null
     },
     {
@@ -25347,7 +25384,7 @@
             "VPN & Proxy"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.tokyoxpa3.androidproxy/en-US/icon_7hrh0KSJ07bXQEheP54Q8HvJ3aJFXEzXblYx-xR3g7U=.png",
+        "icona": "https://f-droid.org/repo//com.tokyoxpa3.androidproxy/en-US/icon_tNAiLeDxaOP4AvdP7KMAPRAMM-ZlKjxVcvKbNQABUlQ=.png",
         "url_codice_sorgente": "https://github.com/tokyoxpa3/5G-Proxy-Pro",
         "ultimo_aggiornamento": null
     },
@@ -27207,7 +27244,7 @@
         ],
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.wordpress.brunoloff.meditationtimer/en-US/icon_dfmqjE9qbsCo8SGEq6e8UJmikxT5oID93bbIso84C5s=.png",
-        "url_codice_sorgente": "https://github.com/bloff/meditation-timer",
+        "url_codice_sorgente": "https://github.com/brunoloff/meditation-timer",
         "ultimo_aggiornamento": null
     },
     {
@@ -29420,7 +29457,7 @@
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//de.herk.kfza/de-DE/icon_g7fiY_EuEzzRNvRvMJLj4fO7UPZxhuKn5slL3734iX0=.png",
+        "icona": "https://f-droid.org/repo//de.herk.kfza/de-DE/icon_M2O0e2Oly0mpEdCkptV6NHlHawfTFIH-ZUFLMLct_6k=.png",
         "url_codice_sorgente": "https://github.com/HerkDev/KFZ-A",
         "ultimo_aggiornamento": null
     },
@@ -29432,7 +29469,7 @@
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//de.herk.kfzd/de-DE/icon_Xs3yUx-BuqdjRaf-vLFv-YCYocMwaqXB4PpD74lFs54=.png",
+        "icona": "https://f-droid.org/repo//de.herk.kfzd/de-DE/icon_BDYvC5HXPWtrfr2TIW05c70-x81BmelREjZrXsr8vD8=.png",
         "url_codice_sorgente": "https://github.com/HerkDev/KFZ-D",
         "ultimo_aggiornamento": null
     },
@@ -35657,7 +35694,7 @@
     {
         "nome": "Duper",
         "id_pacchetto": "fr.sudotiz.duper",
-        "riassunto": "Remotely ring or locate your phone via SMS, no internet needed.",
+        "riassunto": "Lost your phone? Send it \"duper\".",
         "categorie": [
             "Location Tracker & Sharer",
             "Security",
@@ -38004,7 +38041,7 @@
             "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.87.png",
+        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.88.png",
         "url_codice_sorgente": "https://github.com/herrerad85/tallybook",
         "ultimo_aggiornamento": null
     },
@@ -38473,7 +38510,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//io.github.mickaelmagniez.windbubble/en-US/icon_aDEeM-Efe9nHl6WkjeDOtfn3EnHCD4oz8AlNM1htSsw=.png",
         "url_codice_sorgente": "https://github.com/mickaelmagniez/WindBubble",
         "ultimo_aggiornamento": null
     },
@@ -40741,7 +40778,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/jp.ddo.hotmist.unicodepad.79.png",
+        "icona": "https://f-droid.org/repo//icons/jp.ddo.hotmist.unicodepad.81.png",
         "url_codice_sorgente": "https://github.com/Ryosuke839/UnicodePad",
         "ultimo_aggiornamento": null
     },
@@ -43361,7 +43398,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//net.pgaskin.batterytile/en-US/icon_NYMqUm27QgxM-yudpDCH2e3FF3eNR-1iuYDN0g9eZgc=.png",
         "url_codice_sorgente": "https://github.com/pgaskin/batterytile",
         "ultimo_aggiornamento": null
     },
@@ -43373,7 +43410,7 @@
             "Local Media Player"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//net.pgaskin.cmus.android/en-US/icon_c1LhCtOBZTlU18FWNvnulFDb26otcOgy65PKRsTT34E=.png",
         "url_codice_sorgente": "https://github.com/pgaskin/cmus-android",
         "ultimo_aggiornamento": null
     },
@@ -48714,7 +48751,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.maegley.megrim.83.png",
+        "icona": "https://f-droid.org/repo//icons/org.maegley.megrim.93.png",
         "url_codice_sorgente": "https://github.com/smaegley/megrim",
         "ultimo_aggiornamento": null
     },
