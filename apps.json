@@ -15212,6 +15212,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Pixel Tag Drawer",
+        "id_pacchetto": "com.iwadjp.pixeltagdrawer",
+        "riassunto": "Organize and launch Android apps with tags and usage-based sorting.",
+        "categorie": [
+            "App Manager"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.iwadjp.pixeltagdrawer/en-US/icon_dQC7y5nkP6G3rut76kthx9pzs4ahaAAsOZUM8mjVaSg=.png",
+        "url_codice_sorgente": "https://github.com/iwadjp/pixel-tag-drawer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "iyox Wormhole",
         "id_pacchetto": "com.iyox.wormhole",
         "riassunto": "Secure, open-source file sharing",
@@ -16786,7 +16798,7 @@
     {
         "nome": "Mood Cairns",
         "id_pacchetto": "com.lcdcode.moodcairns",
-        "riassunto": "Private, fully offline mood tracker. No network access. Your data's yours..",
+        "riassunto": "Private, fully offline mood tracker with tags and charts. No network access. You",
         "categorie": [
             "Mental Health"
         ],
@@ -48165,6 +48177,31 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Ethic Notes",
+        "id_pacchetto": "org.jpi59.ethicnotes",
+        "riassunto": "Private, offline, zero-permission notes application.",
+        "categorie": [
+            "Note",
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.jpi59.ethicnotes/en-US/icon_IYLGmC8WPX-3AmY__E6Cc70rh1OGp4NfmE-gw7ATmKo=.png",
+        "url_codice_sorgente": "https://github.com/jpi59/ethic-notes",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Ethic QR Scanner",
+        "id_pacchetto": "org.jpi59.ethicqrscanner",
+        "riassunto": "An offline QR and barcode scanner that never opens links automatically.",
+        "categorie": [
+            "Internet"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.jpi59.ethicqrscanner/en-US/icon_YJ_Ia6_i9u0JH1H-SdG0qfvxfRk5iRn_YAGcy58IpK0=.png",
+        "url_codice_sorgente": "https://github.com/jpi59/ethic-qr-scanner",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CameraAlign",
         "id_pacchetto": "org.jshobbysoft.cameraalign",
         "riassunto": "Align your phone with a previously taken photo",
@@ -52626,7 +52663,7 @@
             "Note"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/page.tine.app.6984.png",
+        "icona": "https://f-droid.org/repo//icons/page.tine.app.6985.png",
         "url_codice_sorgente": "https://github.com/martinkoutecky/tine",
         "ultimo_aggiornamento": null
     },
