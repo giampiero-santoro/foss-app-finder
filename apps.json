@@ -839,7 +839,7 @@
             "Internet"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/app.intra.74.png",
+        "icona": "https://f-droid.org/repo//icons/app.intra.75.png",
         "url_codice_sorgente": "https://github.com/Jigsaw-Code/Intra",
         "ultimo_aggiornamento": null
     },
@@ -4896,6 +4896,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Anchor Chain",
+        "id_pacchetto": "com.anchor.chain",
+        "riassunto": "Safe anchoring with phisycs",
+        "categorie": [
+            "Navigation"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/com.anchor.chain.1.png",
+        "url_codice_sorgente": "https://codeberg.org/iic-mowa/anchor-chain",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Die Simulator",
         "id_pacchetto": "com.andreiapps.diesimu",
         "riassunto": "A simple app which allows you to roll a die.",
@@ -6672,6 +6684,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.bald.uriah.baldphone/en-US/icon_lN8bNt6lgE5c0WnhAr8fVPsZ04DXw-Efp18WdwbmmZQ=.png",
         "url_codice_sorgente": "https://github.com/UriahShaulMandel/BaldPhone",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Baby Monito",
+        "id_pacchetto": "com.baldo.babymonito",
+        "riassunto": "Offline daily baby tracker: feedings, diapers, weight, daily care, reminders",
+        "categorie": [
+            "Health Manager",
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.baldo.babymonito/en-US/icon_k8XrytSummGfHfFYBzUF5zXMbrGXaOzuIg2yiS7GZcI=.png",
+        "url_codice_sorgente": "https://gitlab.com/LaBaude32/bam-baby-monito",
         "ultimo_aggiornamento": null
     },
     {
@@ -18337,6 +18362,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "MeteoCompare",
+        "id_pacchetto": "com.meteocompare.app",
+        "riassunto": "Compare 19 weather models, 4 forecast engines and coastal conditions.",
+        "categorie": [
+            "Weather"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.meteocompare.app/de-DE/icon_pY0x13wgTiZXwEoGDRvgrn1btqGLC1hecBeQl5vzwZ4=.png",
+        "url_codice_sorgente": "https://github.com/Pat0chat/meteocompare",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Meteocool - Rain radar",
         "id_pacchetto": "com.meteocool",
         "riassunto": "Free & Open High-Accuracy Local Weather Radar and Forecasting",
@@ -19199,6 +19236,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/com.nbossard.packlist.19.png",
         "url_codice_sorgente": "https://github.com/nbossard/packlist",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "TabGreater",
+        "id_pacchetto": "com.neatcode.tabgreater",
+        "riassunto": "Crypto watchlist with live prices, charts and home-screen widgets",
+        "categorie": [
+            "Market & Price"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.neatcode.tabgreater/en-US/icon_ey-nDwQZOGUjNlghErDsHA4U30YnK8Fry9bs2kIMtLw=.png",
+        "url_codice_sorgente": "https://github.com/NeatCode-Labs/TabGreater",
         "ultimo_aggiornamento": null
     },
     {
@@ -26525,6 +26574,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Verdetto: QR & Barcode Scanner",
+        "id_pacchetto": "com.verdettoqr.scanner",
+        "riassunto": "See the link before it opens. Looks a product up, on your phone.",
+        "categorie": [
+            "Multimedia",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.verdettoqr.scanner/en-US/icon__rz4taANwyhdXXReEdFRz6TqZdRU_YpDMdXtNczGn4U=.png",
+        "url_codice_sorgente": "https://gitlab.com/verdettoqr/verdetto-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "LCTerm (Lucky Cat Terminal)",
         "id_pacchetto": "com.vermont.possin",
         "riassunto": "Bitcoin and Crypto point of sale payment system for merchants",
@@ -26984,7 +27046,7 @@
     {
         "nome": "WM Keyboard",
         "id_pacchetto": "com.wasimaster.wmkeyboard",
-        "riassunto": "A private, offline keyboard: 350+ languages, smart typing, themes, and tools.",
+        "riassunto": "A private, offline keyboard: 845 languages, smart typing, themes, and tools.",
         "categorie": [
             "Keyboard & IME"
         ],
@@ -27607,7 +27669,7 @@
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.yepgoryo.CaptureCap/en-US/icon_RNoeN1UIc2LfP3maIkifINMg5F3VawqiaAaMTivlwm8=.png",
+        "icona": "https://f-droid.org/repo//com.yepgoryo.CaptureCap/en-US/icon_yRYgNtjOnZcmXNdiW5hvbmyobuZi7iBH-PwlF2K6Sjg=.png",
         "url_codice_sorgente": "https://github.com/yepgoryo/CaptureCap",
         "ultimo_aggiornamento": null
     },
@@ -28274,6 +28336,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//cz.mod42.diktafon/en-US/icon_PhwSd1F2281mwjTMNej91BSuC3Q_d0KpzaxN_X7i3Ls=.png",
         "url_codice_sorgente": "https://github.com/jaromiru/diktafon",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Phone (cz.mts)",
+        "id_pacchetto": "cz.mts.phone",
+        "riassunto": "Phone app (calling, blocking, contacts) that you’ll love !",
+        "categorie": [
+            "Phone & SMS"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//cz.mts.phone/cs-CZ/icon_wKbwuLIuEJAfmJoXNYrvy9SJQudfrgTG7lP2d-_UmZ8=.png",
+        "url_codice_sorgente": "https://github.com/martintobola-cz/czmtsphone",
         "ultimo_aggiornamento": null
     },
     {
@@ -38053,7 +38127,7 @@
             "Finance Manager"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.88.png",
+        "icona": "https://f-droid.org/repo//icons/io.github.herrerad85.tallybook.89.png",
         "url_codice_sorgente": "https://github.com/herrerad85/tallybook",
         "ultimo_aggiornamento": null
     },
@@ -40714,7 +40788,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.133.png",
+        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.134.png",
         "url_codice_sorgente": "https://github.com/rignaneseleo/SlimSocial-for-Facebook",
         "ultimo_aggiornamento": null
     },
@@ -52663,7 +52737,7 @@
             "Note"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/page.tine.app.6985.png",
+        "icona": "https://f-droid.org/repo//icons/page.tine.app.6986.png",
         "url_codice_sorgente": "https://github.com/martinkoutecky/tine",
         "ultimo_aggiornamento": null
     },
@@ -56139,7 +56213,7 @@
             "Ambient Sound"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//xyz.metiq/ar/icon_YysJn4IRWWOqrhhrwNG2DA9TsTFpmS9KSZ5QSkQ0Kik=.png",
+        "icona": "https://f-droid.org/repo//xyz.metiq/en-US/icon_DZ6xootEfXCuqDCXzo1Qk6aMwewIHEK1m8D2MqHQQUk=.png",
         "url_codice_sorgente": "https://github.com/metiq-xyz/android-app",
         "ultimo_aggiornamento": null
     },
