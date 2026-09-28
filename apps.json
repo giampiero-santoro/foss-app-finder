@@ -1328,7 +1328,7 @@
             "Recorder"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//app.smallthingz.reverb/en-US/icon_kV9NAgDXdn-yfNj29LqPyqdsvKyJ5cALEGVGDv_4yJQ=.png",
+        "icona": "https://f-droid.org/repo//app.smallthingz.reverb/en-US/icon_-oOCOeyhzovdB2hqDYSeY4mBBvRkcJ0lMTldFBqRToI=.png",
         "url_codice_sorgente": "https://github.com/SmallThingz/reverb",
         "ultimo_aggiornamento": null
     },
@@ -6223,7 +6223,7 @@
             "Reading"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.artifex.mupdf.mini.app.260.png",
+        "icona": "https://f-droid.org/repo//icons/com.artifex.mupdf.mini.app.270.png",
         "url_codice_sorgente": "https://github.com/ArtifexSoftware/mupdf-android-viewer-mini",
         "ultimo_aggiornamento": null
     },
@@ -6236,7 +6236,7 @@
             "Reading"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.artifex.mupdf.viewer.app.260.png",
+        "icona": "https://f-droid.org/repo//icons/com.artifex.mupdf.viewer.app.270.png",
         "url_codice_sorgente": "https://github.com/ArtifexSoftware/mupdf-android-viewer",
         "ultimo_aggiornamento": null
     },
@@ -6593,6 +6593,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.aw.huda/en-US/icon_x6xRqL4M6QvabJ6Csngosa8rqO-DUgiPP7BDRlUHnB8=.png",
         "url_codice_sorgente": "https://github.com/abdulwahed-s/huda",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "AWAGAM TLD and Domain Blocker",
+        "id_pacchetto": "com.awagam.android",
+        "riassunto": "Block TLDs and domains at the DNS level using your own blocklists",
+        "categorie": [
+            "DNS & Hosts",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.awagam.android/en-US/icon_llLeHpN4Ep-3KhTketcAu5rY18vQFKcSFByANVNrdws=.png",
+        "url_codice_sorgente": "https://github.com/iadefensa/awagam-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -13973,6 +13986,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "GPG Key Manager",
+        "id_pacchetto": "com.gpgapp",
+        "riassunto": "GPG Tool for Android",
+        "categorie": [
+            "Password & 2FA"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.gpgapp/en-US/icon_HEs_cZi2XAhS0UcrNVpKInWxxgINuy3-SYj5ZwOw06E=.png",
+        "url_codice_sorgente": "https://github.com/44114/gpgapp",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Andor's Trail",
         "id_pacchetto": "com.gpl.rpg.AndorsTrail",
         "riassunto": "Gioco di ruolo basato su missioni",
@@ -18648,7 +18673,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Hermes Agent Fork",
+        "nome": "Agent",
         "id_pacchetto": "com.mobilefork.hermesagent",
         "riassunto": "Independent fork for local AI chat and Android workflows",
         "categorie": [
@@ -20416,6 +20441,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Open Recorder",
+        "id_pacchetto": "com.openrecorder.app",
+        "riassunto": "Open-source screen recorder with internal audio and no internet access",
+        "categorie": [
+            "Recorder"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.openrecorder.app/en-US/icon_FP9PZgElsiGytJ-mF0piie7dPeJs1vB3TaCq6E59aL4=.png",
+        "url_codice_sorgente": "https://github.com/NoneBaiano/OpenRecorder",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "deutsia radio",
         "id_pacchetto": "com.opensource.i2pradio",
         "riassunto": "Privacy-focused radio player supporting clearnet, Tor, and I2P networks",
@@ -21345,7 +21382,7 @@
         ],
         "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.prayer_times/en-US/icon_sfJSGlR4HZXhltyTaYj85NDwX7ub5k5pMOLi2PjP9Ys=.png",
-        "url_codice_sorgente": "https://github.com/Hassan-PS/Mihrab",
+        "url_codice_sorgente": "https://github.com/MihrabHQ/Mihrab",
         "ultimo_aggiornamento": null
     },
     {
@@ -21696,6 +21733,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.quitter.app/en-US/icon_dNSIRJ3zO2O4U7ChdA7wul8SNl2dUzFl_kusM9hZpAo=.png",
         "url_codice_sorgente": "https://github.com/brandonp2412/Quitter",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Aya: Quran, Hadith & Prayer Times",
+        "id_pacchetto": "com.quran.aya",
+        "riassunto": "Offline Quran with 10 Qira'at, Hadith, prayer times, adhan, azkar & qibla.",
+        "categorie": [
+            "Religion"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.quran.aya/en-US/icon_LKYoPU0SmQeyLN8ux64R2Leh7gBUcTSszrQ-czPFLio=.png",
+        "url_codice_sorgente": "https://github.com/Cancelllls/Aya",
         "ultimo_aggiornamento": null
     },
     {
@@ -23415,6 +23464,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.jigsaw/en-US/icon_XiM9ZKBzT2rZ2zqe8o2GEZ0sgIDWtHyUrForF07LQEI=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/Jigsaw",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Kakuro",
+        "id_pacchetto": "com.sidhant.kakuro",
+        "riassunto": "Solve Kakuro puzzles! The addictive blend of Sudoku and crossword sums.",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.kakuro/en-US/icon_s2zUiW2hDJxXsKmbWSBjEKlq3TcO7xl88HR3tokTivU=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Kakuro",
         "ultimo_aggiornamento": null
     },
     {
@@ -28276,6 +28337,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "MeshCore Signal Tester",
+        "id_pacchetto": "cz.kyblsoft.meshcore.signaltester",
+        "riassunto": "Real-time mesh signal monitor for MeshCore companion radios & repeaters",
+        "categorie": [
+            "Connectivity"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//cz.kyblsoft.meshcore.signaltester/en-US/icon_x9LYnKrF3MH9NkFaH0V_Vzxgki7SjipIJwYMz8s9ltw=.png",
+        "url_codice_sorgente": "https://github.com/kybl/meshcore-signal-tester",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CTU Menza",
         "id_pacchetto": "cz.lastaapps.menza",
         "riassunto": "Dish menus from CTU cafeterias, offers a modern UI and functionality.",
@@ -29386,6 +29459,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "AdaptKey",
+        "id_pacchetto": "de.froehlichmedia.adaptkey",
+        "riassunto": "Privacy-first Android keyboard that learns your typing style. Fully offline.",
+        "categorie": [
+            "Keyboard & IME"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.froehlichmedia.adaptkey/de-DE/icon_H3tnHtuXKpS0oC4JmahPLhm8QIaN8vqfFIPRxW0RDz0=.png",
+        "url_codice_sorgente": "https://github.com/m-froehlich/adaptkey",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Forro Lyrics",
         "id_pacchetto": "de.gabbo.forro_lyrics",
         "riassunto": "Database offline dei testi di Forró",
@@ -29594,6 +29679,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//icons/de.hirtenstrasse.michael.lnkshortener.7.png",
         "url_codice_sorgente": "https://github.com/michaelachmann/LnkShortener",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "KeepADB",
+        "id_pacchetto": "de.hohnepeople.keepadb",
+        "riassunto": "Keep Wireless Debugging active and toggle it from a tile or widget",
+        "categorie": [
+            "Development",
+            "System"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.hohnepeople.keepadb/en-US/icon_R4euAR0K3wnIni7AcHHOXa8jkCiKo710l0saFkejxvU=.png",
+        "url_codice_sorgente": "https://github.com/m00sfett/KeepADB",
         "ultimo_aggiornamento": null
     },
     {
@@ -30962,6 +31060,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//de.oeffisounds.app/en-US/icon_ricbuYudaiTCqtlNmrZi-bU7bSaXv8SR49NYDOq3dhI=.png",
         "url_codice_sorgente": "https://github.com/thrillfall/OeffiSounds",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Fossy Protokoll",
+        "id_pacchetto": "de.pascalstier.fossyprotokoll",
+        "riassunto": "Document rental defects and build protocols — offline, no tracking.",
+        "categorie": [
+            "Note",
+            "Writing"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.pascalstier.fossyprotokoll/de-DE/icon_v-mtpNjisXFLIdsl_ctkbYUbf3WO4wh_wZMDo3doBDA=.png",
+        "url_codice_sorgente": "https://gitlab.com/p.stier/fossyprotokoll",
         "ultimo_aggiornamento": null
     },
     {
@@ -33609,6 +33720,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://via.placeholder.com/64",
         "url_codice_sorgente": "https://gitlab.com/Star95/keepass-deltasync",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Chess Puzzles",
+        "id_pacchetto": "dk.cocode.chess",
+        "riassunto": "Offline chess tactics from real Lichess puzzles. No account, ads, or tracking",
+        "categorie": [
+            "Board Game",
+            "Puzzle Game"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/dk.cocode.chess.5010.png",
+        "url_codice_sorgente": "https://github.com/cocodedk/chess-puzzles",
         "ultimo_aggiornamento": null
     },
     {
@@ -40788,7 +40912,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.134.png",
+        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.137.png",
         "url_codice_sorgente": "https://github.com/rignaneseleo/SlimSocial-for-Facebook",
         "ultimo_aggiornamento": null
     },
@@ -45278,7 +45402,7 @@
             "Email"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//org.astermail.android/en-US/icon_11D3fM-4Aed8Bqv3EfZrpXhqTbBi9mWeMsHdjKJSrWc=.png",
+        "icona": "https://f-droid.org/repo//org.astermail.android/en-US/icon_RaOE16H3tMafKyWugclN1Q8raGCd4jHOMI9Oy0N5Qxo=.png",
         "url_codice_sorgente": "https://github.com/Aster-Privacy/Aster-Android",
         "ultimo_aggiornamento": null
     },
@@ -48009,8 +48133,21 @@
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/org.hwyl.sexytopo.97.png",
+        "icona": "https://f-droid.org/repo//icons/org.hwyl.sexytopo.99.png",
         "url_codice_sorgente": "https://github.com/richsmith/sexytopo",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "keepIT",
+        "id_pacchetto": "org.hyperstarit.keepitapp",
+        "riassunto": "simple notes app with checklists and reminders: self-hosted sync or standalone",
+        "categorie": [
+            "Note",
+            "Task"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//org.hyperstarit.keepitapp/en-US/icon_NSnTqiFEHzePghOe1JOn_qH5ruA0fj03v8YhWgWmFkM=.png",
+        "url_codice_sorgente": "https://github.com/Richy1989/keepIT",
         "ultimo_aggiornamento": null
     },
     {
