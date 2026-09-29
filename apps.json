@@ -992,7 +992,7 @@
             "Messaging"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/app.nightdrop.4083.png",
+        "icona": "https://f-droid.org/repo//icons/app.nightdrop.4103.png",
         "url_codice_sorgente": "https://github.com/nightdropapp/nightdrop",
         "ultimo_aggiornamento": null
     },
@@ -1390,7 +1390,7 @@
         "categorie": [
             "Location Tracker & Sharer"
         ],
-        "licenza": "MIT",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//app.starlingmap/en-US/icon_8ijsagL83D7ZKZBEMGCSNeBoG4du6SRokPc0eaXnRIQ=.png",
         "url_codice_sorgente": "https://github.com/munzzyy/starling",
         "ultimo_aggiornamento": null
@@ -15061,7 +15061,7 @@
     {
         "nome": "Linux Command Library",
         "id_pacchetto": "com.inspiredandroid.linuxcommandbibliotheca",
-        "riassunto": "9022 manual pages, 30 basic categories and a bunch of general terminal tips.",
+        "riassunto": "9137 manual pages, 30 basic categories and a bunch of general terminal tips.",
         "categorie": [
             "Reading",
             "Science & Education"
@@ -18675,13 +18675,13 @@
     {
         "nome": "Agent",
         "id_pacchetto": "com.mobilefork.hermesagent",
-        "riassunto": "Independent fork for local AI chat and Android workflows",
+        "riassunto": "Local AI chat, your models, and practical Android tools",
         "categorie": [
             "AI Chat",
             "Speech Recognizer"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.mobilefork.hermesagent/en-US/icon_Vmt_ZSB-ZYViuznDexWlEyDokVjl4UhagHw7RtdIDpo=.png",
+        "icona": "https://f-droid.org/repo//com.mobilefork.hermesagent/en-US/icon_Cj75cUHRcCBmdAC3uvz9a6HE1jEONECfP9zfz08BBVQ=.png",
         "url_codice_sorgente": "https://github.com/adybag14-cyber/hermes-agent",
         "ultimo_aggiornamento": null
     },
@@ -21374,9 +21374,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Mihrab: Prayer Times & Quran",
+        "nome": "Mihrab: The Muslim Companion",
         "id_pacchetto": "com.prayer_times",
-        "riassunto": "Adhan alarms, qibla compass, the Madinah mushaf, widgets. No trackers.",
+        "riassunto": "Prayer times, adhan, the Quran, duas and qibla in one calm app. No ads.",
         "categorie": [
             "Religion"
         ],
@@ -21433,7 +21433,7 @@
             "Workout"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.presley.flexify/en-US/icon_HdE6LoKxoX0SWfkudKfdw5Hfv1JQ0pjxwEi9SpDLk7I=.png",
+        "icona": "https://f-droid.org/repo//com.presley.flexify/en-US/icon_BBeJtKPePtGO8WiLmL6LHNQKPk9RX3_wjR-NipOxmNw=.png",
         "url_codice_sorgente": "https://github.com/brandonp2412/Flexify",
         "ultimo_aggiornamento": null
     },
@@ -23601,6 +23601,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.shikaku/en-US/icon_Ma9ME08QJILYRPPe3JLvd4IzdwFchQTbZnPpbz9YwIc=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/Shikaku",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Slitherlink: Logic Loop Puzzle",
+        "id_pacchetto": "com.sidhant.slitherlink",
+        "riassunto": "Connect the dots to form a single continuous loop. Pure, relaxing logic puzzle.",
+        "categorie": [
+            "Puzzle Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.slitherlink/en-US/icon_Sx5i1DLtHWuttZu6-wl0pOBPL2PQHJH_cTeUX-8dzrw=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/Slitherlink",
         "ultimo_aggiornamento": null
     },
     {
@@ -33731,7 +33743,7 @@
             "Puzzle Game"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/dk.cocode.chess.5010.png",
+        "icona": "https://f-droid.org/repo//icons/dk.cocode.chess.5011.png",
         "url_codice_sorgente": "https://github.com/cocodedk/chess-puzzles",
         "ultimo_aggiornamento": null
     },
@@ -33781,7 +33793,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://f-droid.org/repo//icons/dnsfilter.android.1506008.png",
+        "icona": "https://f-droid.org/repo//icons/dnsfilter.android.1506103.png",
         "url_codice_sorgente": "https://github.com/IngoZenz/personaldnsfilter",
         "ultimo_aggiornamento": null
     },
