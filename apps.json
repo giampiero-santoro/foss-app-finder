@@ -750,7 +750,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//app.fluffy/en-US/icon_iWyZE1DGugTYUI64dov4I_xyZxKxeG_ewE1PR7_sZ68=.png",
+        "icona": "https://f-droid.org/repo//app.fluffy/en-US/icon_lIhz5L1B7yNpLSwyILW7OGvbaWHvkksTE5eEqKSLAq8=.png",
         "url_codice_sorgente": "https://github.com/mlm-games/fluffy",
         "ultimo_aggiornamento": null
     },
@@ -3857,7 +3857,7 @@
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.27.png",
+        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.30.png",
         "url_codice_sorgente": "https://github.com/Limekana/StudyDesk",
         "ultimo_aggiornamento": null
     },
@@ -4614,6 +4614,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Count for me",
+        "id_pacchetto": "com.al.countforme",
+        "riassunto": "An interval timer you write, not one you just set.",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.al.countforme/en-US/icon_9S9UD_I6ZzUMJjh8ys_nCeTsWt7H5QOcd4stbvwQ_ds=.png",
+        "url_codice_sorgente": "https://github.com/ether-strannik/CountForMe",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Critical Velocity",
         "id_pacchetto": "com.alaskalinuxuser.criticalvelocity",
         "riassunto": "Gioco in stile arcade a scorrimento laterale",
@@ -5027,7 +5039,7 @@
             "VPN & Proxy"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.android.xrayfa/en-US/icon_rxyjfZbFxmndEvrZrof1x0d0PBThKj_V1TkJynZ2zaI=.png",
+        "icona": "https://f-droid.org/repo//com.android.xrayfa/en-US/icon_M6pN6Z1G_MhTiMjXP-rZuFcjv0Q0i3HhZzpqfNmdbl4=.png",
         "url_codice_sorgente": "https://github.com/Q7DF1/XrayFA",
         "ultimo_aggiornamento": null
     },
@@ -8558,6 +8570,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Cookie Extractor",
+        "id_pacchetto": "com.cookiesextractor.app",
+        "riassunto": "Extract your own session cookies after a manual login",
+        "categorie": [
+            "Development"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.cookiesextractor.app/en-US/icon_gd2GJu4P50mNRO45MyuJwWHEc7XvuN4asDKMV1MAc-0=.png",
+        "url_codice_sorgente": "https://github.com/paoloantinori/cookies-extractor",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "[ROOT] Night Light (KCAL)",
         "id_pacchetto": "com.corphish.nightlight.generic",
         "riassunto": "Un'app per regolare l'intensità della luce blu, alimentata da KCAL",
@@ -9598,19 +9622,6 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.dn0ne.lotus.community/en-US/icon_vZVDblir3-YHdrSREVJnGvhdz6RfijaguZPKnsc7flg=.png",
         "url_codice_sorgente": "https://github.com/Bjorn99/lotus",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "DobbyVPN",
-        "id_pacchetto": "com.dobby.vpn",
-        "riassunto": "VPN client-side toolset.",
-        "categorie": [
-            "Internet",
-            "VPN & Proxy"
-        ],
-        "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//com.dobby.vpn/en-US/icon_CZRg3Eghfv6Mtkvc3kX1nYbRp3QQGVfFxHLMZfHA85c=.png",
-        "url_codice_sorgente": "https://github.com/DobbyVPN/DobbyVPN",
         "ultimo_aggiornamento": null
     },
     {
@@ -11218,6 +11229,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Garage",
+        "id_pacchetto": "com.fearmikey.garage",
+        "riassunto": "A modern, privacy-focused, comprehensive vehicle management app.",
+        "categorie": [
+            "Navigation",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.fearmikey.garage/en-US/icon_cSn4KeYR317ySWUXFLX4CNdzAAjbvAXcUqsp8BoPYr8=.png",
+        "url_codice_sorgente": "https://github.com/fearmikey/Garage",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "FediPhoto-Lineage",
         "id_pacchetto": "com.fediphoto.lineage",
         "riassunto": "FediPhoto-Lineage - pubblica velocemente foto nel Fediverso.",
@@ -11278,6 +11302,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.ferrarid.converterpro/en-US/icon_uEY19YPU2bitb3rf66SjA7qD7wzw_gsvgZZtW15O1Lg=.png",
         "url_codice_sorgente": "https://github.com/ferraridamiano/ConverterNOW",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Agenda Tech",
+        "id_pacchetto": "com.filestech.agenda_tech",
+        "riassunto": "Private offline calendar: encrypted, zero network, encrypted backups.",
+        "categorie": [
+            "Calendar & Agenda"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.filestech.agenda_tech/en-US/icon_Gt2gA5w7WVoZfEr1LEJQpSdy39McehlYXbKQtuOBH9Y=.png",
+        "url_codice_sorgente": "https://github.com/gitubpatrice/AGENDA-TECH",
         "ultimo_aggiornamento": null
     },
     {
@@ -11777,6 +11813,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Captain's Log",
+        "id_pacchetto": "com.frabon.captainslog",
+        "riassunto": "Your Personal Log for Navigating the Inner Cosmos",
+        "categorie": [
+            "Habit Tracker",
+            "Health Manager"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.frabon.captainslog/en-US/icon_R5xFpwWCzwmOngb2yFPoabXctj28oUxsw2wNb8ve5X0=.png",
+        "url_codice_sorgente": "https://github.com/francescobonesi/CaptainsLog",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Date-a-base",
         "id_pacchetto": "com.frabon.rememberthedate",
         "riassunto": "Your Personal Assistant for Every Special Occasion.",
@@ -11984,6 +12033,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.galagidae.broadboard/en-US/icon_1mI9uXRY-qtWSQDn5dAwf8dvztIQ_rg0NMjbbYai8bg=.png",
         "url_codice_sorgente": "https://github.com/galagidae/broadboard",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Grace Launcher",
+        "id_pacchetto": "com.galaxyrio.gracelauncher",
+        "riassunto": "A simple launcher with an app list, calendar agenda and music controls",
+        "categorie": [
+            "Launcher",
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//icons/com.galaxyrio.gracelauncher.1.png",
+        "url_codice_sorgente": "https://github.com/Galaxy-rio/GraceLauncher",
         "ultimo_aggiornamento": null
     },
     {
@@ -17099,6 +17161,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "LibreCrate",
+        "id_pacchetto": "com.librecrate.app",
+        "riassunto": "Private offline vault for your documents and notes",
+        "categorie": [
+            "Ebook Reader",
+            "File Encryption & Vault",
+            "Pass Wallet"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.librecrate.app/en-US/icon_D2Ji_u_CgvTZkXPn6Y0OGRyov6Vq732vU6AS5LUa0bA=.png",
+        "url_codice_sorgente": "https://github.com/DavidNeurieder/LibreCrate",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "LibreLynx Lite",
         "id_pacchetto": "com.librelynx.lite",
         "riassunto": "Lightweight privacy-focused web browser",
@@ -21481,7 +21557,7 @@
             "Internet"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.prajwalch.torrentsearch/en-US/icon_670tPwKt3XacCkDK8qoH4Ctx4vbQs9f-kYeyqPqEokI=.png",
+        "icona": "https://f-droid.org/repo//com.prajwalch.torrentsearch/en-US/icon_4RqzvYAIc6G_PNhwBIHh1-PVLGXZ8dPmK1Uk1l3ta9A=.png",
         "url_codice_sorgente": "https://github.com/prajwalch/TorrentSearch",
         "ultimo_aggiornamento": null
     },
@@ -22106,6 +22182,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Chroma Launcher",
+        "id_pacchetto": "com.rcmz.chromalauncher",
+        "riassunto": "Your home screen, sorted by color. Find any app at a glance.",
+        "categorie": [
+            "Launcher",
+            "Theming"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.rcmz.chromalauncher/en-US/icon_8qQgOX8s4-d-ndb6Eu4gj04OVBnAwHcusvHrvUsy1Fo=.png",
+        "url_codice_sorgente": "https://gitlab.com/rcmz/chromalauncherreborn",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Readrops",
         "id_pacchetto": "com.readrops.app",
         "riassunto": "multi-services RSS client",
@@ -22613,7 +22702,7 @@
             "Time Tracker"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.rowtine.app.12.png",
+        "icona": "https://f-droid.org/repo//icons/com.rowtine.app.13.png",
         "url_codice_sorgente": "https://github.com/alxia0/rowtine",
         "ultimo_aggiornamento": null
     },
@@ -23393,13 +23482,13 @@
     {
         "nome": "kiFOSSk",
         "id_pacchetto": "com.shinydiscoballsdev.kifossk",
-        "riassunto": "Lightweight FOSS kiosk browser for dashboards. Zero Google services.",
+        "riassunto": "Lightweight FOSS kiosk browser for dashboards. Auto-recovery, zero Google.",
         "categorie": [
             "Internet",
             "System"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.shinydiscoballsdev.kifossk.6.png",
+        "icona": "https://f-droid.org/repo//icons/com.shinydiscoballsdev.kifossk.7.png",
         "url_codice_sorgente": "https://github.com/ShinyDiscoBallsDev/kiFOSSk",
         "ultimo_aggiornamento": null
     },
@@ -23434,12 +23523,12 @@
     {
         "nome": "Rush - Lyrics App",
         "id_pacchetto": "com.shub39.rush",
-        "riassunto": "App to search, view, save and share lyrics",
+        "riassunto": "App to search, view and share lyrics",
         "categorie": [
             "Lyrics"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.shub39.rush/en-US/icon_ZxKhsswHqz8ySBuMuIJgCU4a9djWMYgQLFyYG9DYlRA=.png",
+        "icona": "https://f-droid.org/repo//com.shub39.rush/en-US/icon_b3Cr6lsFWTI5eiTOM9lJG0776TE0S5IoKcMPQJOMSjg=.png",
         "url_codice_sorgente": "https://github.com/shub39/Rush",
         "ultimo_aggiornamento": null
     },
@@ -23458,7 +23547,7 @@
     {
         "nome": "FTPS Server",
         "id_pacchetto": "com.siarheikuchuk.ftpsserver",
-        "riassunto": "FTPS server for secure file sharing over network.",
+        "riassunto": "Run a secure FTP server and share files on your local network, with no ads.",
         "categorie": [
             "File Transfer"
         ],
@@ -24974,7 +25063,7 @@
             "Phone & SMS"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.talsk.amadz/en-US/icon_3fPnJsf_UTsZh-JoPLIW9Tn9OlORpT3lgd-RZ3moP18=.png",
+        "icona": "https://f-droid.org/repo//com.talsk.amadz/en-US/icon_iVCgwYepBLi4v8SNEwDJLwb2WlwgHA-wK4E-kupLzWg=.png",
         "url_codice_sorgente": "https://github.com/msusman1/Amadz",
         "ultimo_aggiornamento": null
     },
@@ -26012,6 +26101,18 @@
         "licenza": "GPL-2.0-only",
         "icona": "https://f-droid.org/repo//com.tss.android/en-US/icon_nYEm49GKRLkfl2epNoR9DaIGUejsenVBKQ44vcm-SkA=.png",
         "url_codice_sorgente": "https://gitlab.com/langurmonkey/particle-physics-sim",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "TU Expense Tracker",
+        "id_pacchetto": "com.tu.expense.manager",
+        "riassunto": "Private, offline-first expense tracking directly from bank SMS alerts.",
+        "categorie": [
+            "Finance Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.tu.expense.manager/en-US/icon_-8aR9SI0uANZ9Ctw6hblEgLoK29ryuzCugxonOVGs6s=.png",
+        "url_codice_sorgente": "https://github.com/Jayachandran-jayy/TU-Expense-Manager",
         "ultimo_aggiornamento": null
     },
     {
@@ -29999,12 +30100,12 @@
     {
         "nome": "Calendula",
         "id_pacchetto": "de.jeanlucmakiola.calendula",
-        "riassunto": "A modern Material 3 Expressive calendar for Android.",
+        "riassunto": "A Material 3 Expressive calendar for Android with no network access.",
         "categorie": [
             "Calendar & Agenda"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//de.jeanlucmakiola.calendula/de-DE/icon__V7IAREbQ2MjV43nZiaCtqxST9PHlo7vaZ_bJmS6Png=.png",
+        "icona": "https://f-droid.org/repo//de.jeanlucmakiola.calendula/en-US/icon_-dPgZBHToPH-Ko_gCnpnl9dbLgIMuztYB0NLCpB4srI=.png",
         "url_codice_sorgente": "https://codeberg.org/jlmakiola/calendula",
         "ultimo_aggiornamento": null
     },
@@ -31837,6 +31938,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Spool Maker",
+        "id_pacchetto": "de.spoolmaker.android",
+        "riassunto": "Read and create NFC spool tags for UltiMaker 3D printers",
+        "categorie": [
+            "Inventory"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.spoolmaker.android/de-DE/icon_g5ic-QYumqI9JJmo3MEkObT2IjNyjrEBf4hR2661hfo=.png",
+        "url_codice_sorgente": "https://github.com/joker-mik/SpoolMakerAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "SnoopSnitch",
         "id_pacchetto": "de.srlabs.snoopsnitch",
         "riassunto": "Controlla la sicurezza della rete mobile",
@@ -33340,6 +33453,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "TABI",
+        "id_pacchetto": "dev.lorsupra.tabi",
+        "riassunto": "Japanese from zero in five minutes a day. Kana, phrases, signs, trains.",
+        "categorie": [
+            "Educational Game",
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//dev.lorsupra.tabi/en-US/icon_K4COI-PL0yQ13wlvCCPIf1arfoJkrKw-dJRGFNvASj8=.png",
+        "url_codice_sorgente": "https://gitlab.com/lorsupra/tabi",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Minesweeper - Antimine",
         "id_pacchetto": "dev.lucanlm.antimine",
         "riassunto": "A puzzle game where you search for all hidden mines. ",
@@ -33793,6 +33919,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Bitcoin Ticker (+Widget)",
+        "id_pacchetto": "dev.steamy.bitcointicker",
+        "riassunto": "Ad-free Bitcoin home-screen widget: EUR/USD price, 24h change and charts",
+        "categorie": [
+            "Market & Price"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//dev.steamy.bitcointicker/de-DE/icon_tO70P-7mndXIN8-db5r78E0OM2HQBglevPV4W4gwJis=.png",
+        "url_codice_sorgente": "https://github.com/Chiptrip19845/Bitcoin-price-widget",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Scrib",
         "id_pacchetto": "dev.thaulow.scrib",
         "riassunto": "A simple text workspace to edit text before pasting somewhere else.",
@@ -33957,6 +34095,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//icons/dk.cocode.chess.5020.png",
         "url_codice_sorgente": "https://github.com/cocodedk/chess-puzzles",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "LifeMeter",
+        "id_pacchetto": "dk.cocode.lifemeter",
+        "riassunto": "Your birthdate turned into a live dashboard of numbers about your life",
+        "categorie": [
+            "Clock"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/cocodedk/lifemeter",
         "ultimo_aggiornamento": null
     },
     {
@@ -38000,6 +38150,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "GymLog",
+        "id_pacchetto": "io.github.dcmcand.gymlog",
+        "riassunto": "Simple offline workout tracker. No accounts, no cloud, no tracking",
+        "categorie": [
+            "Workout"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.dcmcand.gymlog/en-US/icon_g_B9zk94Wc3iBnYoPP7QnFElEMjBiCP7BPiF83Q_3Gk=.png",
+        "url_codice_sorgente": "https://github.com/dcmcand/gymlog",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "EnigmaDroid",
         "id_pacchetto": "io.github.deprec8.enigmadroid",
         "riassunto": "The smartest Enigma2 companion for Android.",
@@ -38245,6 +38407,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Andropolis",
+        "id_pacchetto": "io.github.ds17f.andropolis",
+        "riassunto": "Classic city building: an open-source Android port of Micropolis (SimCity).",
+        "categorie": [
+            "Strategy Game"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.ds17f.andropolis/en-US/icon_e5aGQBWROQezut3dVo_jueXDpil2AK2GGkHxmUN5hOE=.png",
+        "url_codice_sorgente": "https://github.com/ds17f/andropolis",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Bouncy",
         "id_pacchetto": "io.github.ebraminio.bouncy",
         "riassunto": "A tiny bouncing ball that plays musical notes when it hits the walls.",
@@ -38302,6 +38476,18 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.ewoc2026.ewoc/en-US/icon_0R3vs93Hc1xyRA-DyYyf1pXSxIUWeceyrvMA2EuhOK8=.png",
         "url_codice_sorgente": "https://github.com/Ewoc2026/ewoc",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Visual Routines",
+        "id_pacchetto": "io.github.ewoc2026.visualroutines",
+        "riassunto": "Create and follow calm visual routines one step at a time",
+        "categorie": [
+            "Task"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.ewoc2026.visualroutines/en-US/icon_g_L9MCRtEyLGqVaigLhnGDzIj6px8MBjPOvqFl5S7Oo=.png",
+        "url_codice_sorgente": "https://github.com/oikumene-works/visual-routines",
         "ultimo_aggiornamento": null
     },
     {
@@ -38593,7 +38779,7 @@
     {
         "nome": "SPRAWL//RUN",
         "id_pacchetto": "io.github.jbinder.sprawlrun",
-        "riassunto": "Cyberpunk story missions that chase you while you run. Offline, no trackers.",
+        "riassunto": "A running tracker wrapped in a cyberpunk story that chases you. Fully offline.",
         "categorie": [
             "Sports & Health"
         ],
@@ -39160,6 +39346,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "liftmath",
+        "id_pacchetto": "io.github.munzzyy.liftmath",
+        "riassunto": "Gym calculator: 1RM, plates, warm-ups, strength scores, records, rest timer",
+        "categorie": [
+            "Calculator",
+            "Workout"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.munzzyy.liftmath/en-US/icon_lT_0Jj8HlPJHEgJHQHxOYfQDLzt-Fsr5AxsCRDnJtNc=.png",
+        "url_codice_sorgente": "https://github.com/munzzyy/liftmath",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Magpie",
         "id_pacchetto": "io.github.munzzyy.magpie",
         "riassunto": "Tamper-evident incident journal with encrypted, self-proving exports",
@@ -39170,6 +39369,19 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.munzzyy.magpie/en-US/icon_Ch7WcfIZ0rYuBw3CRfdV1YHyH2FGi_V2JNfeM0IqNFM=.png",
         "url_codice_sorgente": "https://github.com/munzzyy/magpie",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Tern",
+        "id_pacchetto": "io.github.munzzyy.tern",
+        "riassunto": "Follow app releases where they are published and check them before they install",
+        "categorie": [
+            "App Store & Updater",
+            "Security"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//io.github.munzzyy.tern/en-US/icon__rjfOJy8e79Sjq5ppxR1-RcYsm3B_xTG4glulM2l7GA=.png",
+        "url_codice_sorgente": "https://github.com/munzzyy/tern",
         "ultimo_aggiornamento": null
     },
     {
@@ -39573,6 +39785,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Read Later",
+        "id_pacchetto": "io.github.sak.read.it.later",
+        "riassunto": "Bookmark. Read. Listen. The simple way to manage your reading list.",
+        "categorie": [
+            "Bookmark",
+            "Reading"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.sak.read.it.later/ar/icon_mun57K1wldEq5E6Xa2jlKawv8XXvxOHKEnCB3wksBco=.png",
+        "url_codice_sorgente": "https://github.com/sak96/read_later",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "JRBP Survey",
         "id_pacchetto": "io.github.samcrow.jrbpsurvey",
         "riassunto": "Jasper Ridge ant survey navigation and data entry",
@@ -39710,7 +39935,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//io.github.snood21.workprofilevpnswitcher/en-US/icon_gFb1jrvUrSoX3ZDFzuleM2NPN1AwexTGU-9StFXPVx8=.png",
         "url_codice_sorgente": "https://github.com/snood21/workprofile-vpn-switcher",
         "ultimo_aggiornamento": null
     },
@@ -42912,6 +43137,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Where",
+        "id_pacchetto": "net.af0.where",
+        "riassunto": "End-to-end encrypted realtime location sharing",
+        "categorie": [
+            "Location Tracker & Sharer"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/net.af0.where.1404.png",
+        "url_codice_sorgente": "https://github.com/danmarg/where",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AlexGames",
         "id_pacchetto": "net.alexbarry.alexgames",
         "riassunto": "Play simple Lua games, host web games server",
@@ -44034,6 +44271,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//net.pufstudio.fieldsurvey/en-US/icon_HyfFIOkL4vZavQJsAbJoYsT4g8oD4zOh3Ybgs8LfHUU=.png",
         "url_codice_sorgente": "https://codeberg.org/even311379/FieldSurvey",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Cycluna",
+        "id_pacchetto": "net.quietflare.cycluna",
+        "riassunto": "Your cycle and the moon, tracked privately on your phone.",
+        "categorie": [
+            "Health Manager"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//net.quietflare.cycluna/en-US/icon_oNBsppHyxFsardasvsqFkb_r1EPn_LzaMRdw65MW498=.png",
+        "url_codice_sorgente": "https://github.com/QuietFlare/Cycluna",
         "ultimo_aggiornamento": null
     },
     {
@@ -55831,6 +56080,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "SmartVoice",
+        "id_pacchetto": "tts.smartvoice",
+        "riassunto": "Multilingual speech synthesis",
+        "categorie": [
+            "Text to Speech"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//tts.smartvoice/en-US/icon_WnQvcnKMbDQBSgAqad2o1QoYIkrcB7B2EoFzZ1TYWtU=.png",
+        "url_codice_sorgente": "https://github.com/poretsky/SmartVoice5",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "VirtualSoftKeys",
         "id_pacchetto": "tw.com.daxia.virtualsoftkeys",
         "riassunto": "Un softKeys (barra di navigazione) semplice, sicuro e facile da usare",
@@ -56131,7 +56392,7 @@
             "Reading"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//universe.constellation.orion.viewer/en-US/icon_50TdyV15TecKdXGXkgKPxr2U41WpwxbaBevZZ0lMnjE=.png",
+        "icona": "https://f-droid.org/repo//universe.constellation.orion.viewer/en-US/icon_yWumO-KcQGXQHFBoa5msdr9iLLxyfzd8ggJ9xOYDEHQ=.png",
         "url_codice_sorgente": "https://github.com/max-kammerer/orion-viewer",
         "ultimo_aggiornamento": null
     },
