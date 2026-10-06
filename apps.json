@@ -460,6 +460,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "QR Code Displayer",
+        "id_pacchetto": "app.cbdm.qrcodedisplayer",
+        "riassunto": "Reconstruct damaged or blurry QR codes entirely on-device for easy scanning.",
+        "categorie": [
+            "Graphics"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//app.cbdm.qrcodedisplayer/en-US/icon_6bdEFhm1CQ1ReymGRml-XTqsPpg8vSNnbbC0MKE7EPU=.png",
+        "url_codice_sorgente": "https://github.com/cbdm/QRCodeDisplayer",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "CClauncher",
         "id_pacchetto": "app.cclauncher",
         "riassunto": "Minimal home launcher that hides apps by default to reduce distractions",
@@ -2219,7 +2231,7 @@
             "Connectivity"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30500.png",
+        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30600.png",
         "url_codice_sorgente": "https://github.com/ppareit/swiftp",
         "ultimo_aggiornamento": null
     },
@@ -3379,9 +3391,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "FluffyChat",
+        "nome": "FluffyChat Matrix Messenger",
         "id_pacchetto": "chat.fluffy.fluffychat",
-        "riassunto": "Nessuna descrizione disponibile.",
+        "riassunto": "The open-source, non-profit European alternative to big tech’s messaging and vid",
         "categorie": [
             "Internet",
             "Messaging",
@@ -3493,6 +3505,18 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//cloud.valetudo.companion/en-US/icon_7nIurWTXCit3tADRknn9VuE5dkVnMVSL6ygEBKjfBIw=.png",
         "url_codice_sorgente": "https://github.com/Hypfer/valetudo-companion",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Flare Enough",
+        "id_pacchetto": "club.hiraeth.flareenough",
+        "riassunto": "Calm, private, offline tracking for medication, symptoms and stillness.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/hiraethclub/FlareEnough",
         "ultimo_aggiornamento": null
     },
     {
@@ -7610,7 +7634,7 @@
             "Graphics"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/com.burhanrashid52.photoediting.12.png",
         "url_codice_sorgente": "https://github.com/burhanrashid52/PhotoEditor",
         "ultimo_aggiornamento": null
     },
@@ -15753,6 +15777,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Constanza - Good habits",
+        "id_pacchetto": "com.jjrapps.constanza",
+        "riassunto": "Habit reminders you answer without opening the app. No cloud, no ads.",
+        "categorie": [
+            "Habit Tracker"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.jjrapps.constanza/en-US/icon_fAqk9TcRcSRvVtEfrbnaLKVVPJg5ImT3Isx0dTU8xaU=.png",
+        "url_codice_sorgente": "https://github.com/jorgejiro/constanza-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AnkiEditor",
         "id_pacchetto": "com.jkcarino.ankieditor",
         "riassunto": "Un avanzato editor per le note per AnkiDroid",
@@ -17214,7 +17250,7 @@
     {
         "nome": "Storii - audiobookshelf client",
         "id_pacchetto": "com.likhithpraveenk.storii",
-        "riassunto": "Audiobookshelf client with downloads, accurate playback sync and, customization",
+        "riassunto": "Audiobookshelf client with downloads, accurate playback sync, and Android Auto",
         "categorie": [
             "Audiobook"
         ],
@@ -17520,7 +17556,7 @@
             "Online Media Player"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.luc4n3x.levyra/en-US/icon_aPMWpNBuTQyQkcoMqOkV3t-YTK5gPUU0t2yqvLz2-tY=.png",
+        "icona": "https://f-droid.org/repo//com.luc4n3x.levyra/en-US/icon_JSBSDT7h3YySRP-XkLjLyWY3Kc7bz9jr5m1eTFcTbOw=.png",
         "url_codice_sorgente": "https://github.com/LUC4N3X/Levyra-deepsound",
         "ultimo_aggiornamento": null
     },
@@ -20889,6 +20925,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "PassPony: Git Password Manager",
+        "id_pacchetto": "com.passpony.android",
+        "riassunto": "Password manager for pass and passage stores, synced with git",
+        "categorie": [
+            "Password & 2FA"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.passpony.android/en-US/icon_NxghEOibWkaJkX8PFxNLVm7WNmJv8cPAJbn8g7upHgc=.png",
+        "url_codice_sorgente": "https://github.com/norsehorse-dev/PassPonyAndroid",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Password Monitor",
         "id_pacchetto": "com.password.monitor",
         "riassunto": "Ensure your password safety by scanning for potential breaches.",
@@ -21744,7 +21792,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.qfs.pagan/en-US/icon_-C3CRXucoNfE1W9vH64FAFPYO9uMdqf82yDh3D2zM5o=.png",
+        "icona": "https://f-droid.org/repo//com.qfs.pagan/en-US/icon_ee9XEDF2OPLUOd2X7p0MQg8WVHcaJjdhmCawbA-SRE4=.png",
         "url_codice_sorgente": "https://codeberg.org/quintinfsmith/pagan",
         "ultimo_aggiornamento": null
     },
@@ -21900,9 +21948,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Quiet Grid",
+        "nome": "Quiet Grid: Logic Puzzles",
         "id_pacchetto": "com.quietgrid.app",
-        "riassunto": "Privacy-first logic puzzles. No ads, no internet, no account required.",
+        "riassunto": "Sudoku, Nonogram, Minesweeper, Word Search & more. No ads, fully offline.",
         "categorie": [
             "Puzzle Game"
         ],
@@ -24126,7 +24174,7 @@
             "Launcher"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.slate.launcher.5.png",
+        "icona": "https://f-droid.org/repo//icons/com.slate.launcher.6.png",
         "url_codice_sorgente": "https://github.com/roufsyed/Slate-Minimal-Launcher",
         "ultimo_aggiornamento": null
     },
@@ -27128,6 +27176,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "VocaPhone",
+        "id_pacchetto": "com.vocahq.vocaphone",
+        "riassunto": "Voice dictation keyboard that transcribes on hardware you control",
+        "categorie": [
+            "Keyboard & IME",
+            "Writing"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.vocahq.vocaphone/en-US/icon_MhpT6DPKpdDiptuykbeUa0gDTxqZaAPcXV0UeNBGmzA=.png",
+        "url_codice_sorgente": "https://github.com/VocaHQ/vocaphone",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Daily Diary",
         "id_pacchetto": "com.voklen.daily_diary",
         "riassunto": "A diary that starts with a blank page every day",
@@ -29068,6 +29129,20 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "DeepWave: Binaural Beats",
+        "id_pacchetto": "de.binauralbeats.app.foss",
+        "riassunto": "Binaural beats & isochronic tones for sleep, focus and relaxation",
+        "categorie": [
+            "Meditation",
+            "Multimedia",
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//de.binauralbeats.app.foss/de-DE/icon_pEtb_GAf2j5mFe-9Ig3k57xxsHvrRLN9dZfRp2FhAU4=.png",
+        "url_codice_sorgente": "https://github.com/mandres747/DeepWave",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "UniThen",
         "id_pacchetto": "de.bixilon.unithen",
         "riassunto": "Unofficial course check in app for UniNow digital booking systems (DBS)",
@@ -29100,7 +29175,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.blinkt.openvpn.221.png",
+        "icona": "https://f-droid.org/repo//icons/de.blinkt.openvpn.220.png",
         "url_codice_sorgente": "https://github.com/schwabe/ics-openvpn",
         "ultimo_aggiornamento": null
     },
@@ -29274,6 +29349,18 @@
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//de.circle_dev.flux_news/en-US/icon_Pz_G8OApjUg10E5M7Ryoi52TeF3zmWqoHOtCvvQfRhA=.png",
         "url_codice_sorgente": "https://github.com/KevinCFechtel/FluxNews/tree/main",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Clio Audiobook Player",
+        "id_pacchetto": "de.clio.audiobook",
+        "riassunto": "Clean, modern audiobook player for Android focused on privacy and simplicity.",
+        "categorie": [
+            "Audiobook"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//de.clio.audiobook/de-DE/icon_nU5k_WROTiFYobA4d2sTr7lFRgDxskwBswwsaDB9p1k=.png",
+        "url_codice_sorgente": "https://github.com/mryx007/clio-audiobook-player",
         "ultimo_aggiornamento": null
     },
     {
@@ -30098,7 +30185,7 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Calendula",
+        "nome": "Calendula: Calendar",
         "id_pacchetto": "de.jeanlucmakiola.calendula",
         "riassunto": "A Material 3 Expressive calendar for Android with no network access.",
         "categorie": [
@@ -31439,6 +31526,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ScaleLauncher",
+        "id_pacchetto": "de.pritcloud.scalelauncher",
+        "riassunto": "Use Xiaomi S400 locally via Bluetooth with openScale and Health Connect",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//de.pritcloud.scalelauncher/de-DE/icon_u9Z3WcIKaP8AagzkNOmunrS7CvAYVLnA7H1oltvAavI=.png",
+        "url_codice_sorgente": "https://github.com/1260er/ScaleLauncher",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "OneShot",
         "id_pacchetto": "de.ptrlx.oneshot",
         "riassunto": "Remember the happy days!",
@@ -31746,9 +31845,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "MoveAPiece",
+        "nome": "MoveAPiece: Offline Chess",
         "id_pacchetto": "de.schliweb.moveapiece",
-        "riassunto": "Offline chess against Stockfish, optionally with a real DGT Pegasus board",
+        "riassunto": "Offline chess vs Stockfish or Maia, opening trainer, Pegasus & Chessnut boards",
         "categorie": [
             "Board Game"
         ],
@@ -32375,7 +32474,7 @@
             "Sports & Health"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.106043.png",
+        "icona": "https://f-droid.org/repo//icons/de.uwrplan.app.106053.png",
         "url_codice_sorgente": "https://git.pabr.de/uwr/uwr_plan_app",
         "ultimo_aggiornamento": null
     },
@@ -33967,6 +34066,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//dev.thomasbuilds.spectre/en-US/icon_8NF7zZF3_pwnlTNk0QEeTTZhzQYULEMJDL9ZlDbkwfw=.png",
         "url_codice_sorgente": "https://github.com/thomasbuilds/Spectre",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Shelf",
+        "id_pacchetto": "dev.tn3w.shelf",
+        "riassunto": "Offline book catalogue: search, track streaks, read your own files.",
+        "categorie": [
+            "Ebook Reader",
+            "Reading"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//dev.tn3w.shelf/de/icon_WRaHC2X4064Xu7L0LhhzohJ90agfnRJtkP9ENzVGC0g=.png",
+        "url_codice_sorgente": "https://github.com/tn3w/Shelf",
         "ultimo_aggiornamento": null
     },
     {
@@ -37934,6 +38046,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "ErmChat",
+        "id_pacchetto": "io.github.bananguh.ErmChat",
+        "riassunto": "A Twitch chat client for mobile, inspired by DankChat",
+        "categorie": [
+            "Internet",
+            "Messaging"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.bananguh.ErmChat/en-US/icon_sNxVumGbdbPrvWMWN260UteCcfdd8atiIDvORml_ylU=.png",
+        "url_codice_sorgente": "https://github.com/banan-guh/ermchat",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "XDYou",
         "id_pacchetto": "io.github.benderblog.traintime_pda",
         "riassunto": "Free and Open Source data assistant for XDU students.",
@@ -38850,6 +38975,18 @@
         "licenza": "AGPL-3.0-only",
         "icona": "https://f-droid.org/repo//io.github.jens_3.socialdeductiongame/de-DE/icon_m4d1Oi6kDGN8n2IdmQCLfduSjkiehrsQaRl45xVgHVE=.png",
         "url_codice_sorgente": "https://github.com/Jens-3/SocialDeductionGame",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Plunge Tracker",
+        "id_pacchetto": "io.github.jherforth.plungetracker",
+        "riassunto": "Offline cold plunge timer and log. No accounts, no network, no tracking.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "MIT",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/jherforth/Plunge-Tracker",
         "ultimo_aggiornamento": null
     },
     {
@@ -41834,6 +41971,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//life.andre.message487/en-US/icon_3IObya8NdQmfTPM-xn5gofl0CszAFu-E0HzLAFvSqzc=.png",
         "url_codice_sorgente": "https://github.com/andre487/AndroidMessage487",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "L9",
+        "id_pacchetto": "life.furrer.l9",
+        "riassunto": "Nessuna descrizione disponibile.",
+        "categorie": [
+            "Launcher",
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://git.sr.ht/~timofurrer/nine",
         "ultimo_aggiornamento": null
     },
     {
@@ -44988,7 +45138,7 @@
     {
         "nome": "Yumi Co. Radio",
         "id_pacchetto": "net.yumicoradio.android",
-        "riassunto": "Future Funk, City Pop and more, live 24/7 with chat and Android Auto.",
+        "riassunto": "A 24/7 radio station playing Future Funk, City Pop and more, with live chat.",
         "categorie": [
             "Radio"
         ],
@@ -45832,6 +45982,21 @@
         "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.anonomi.android/en-US/icon_e1WvGK7wBcbPGjg9QjrScD42nrs70kZETuBf8mnSjw0=.png",
         "url_codice_sorgente": "https://github.com/anonomi-org/anonomi-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Anonomi Postbox",
+        "id_pacchetto": "org.anonomi.postbox",
+        "riassunto": "Self-hosted relay that holds Anonomi messages until you are back online",
+        "categorie": [
+            "Connectivity",
+            "Internet",
+            "Messaging",
+            "Security"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.anonomi.postbox/en-US/icon_ytCohhSmyJ0iNCmEfQK-jTzYxOq0UtsHxIXz8kxwYao=.png",
+        "url_codice_sorgente": "https://github.com/anonomi-org/anonomi-postbox",
         "ultimo_aggiornamento": null
     },
     {
@@ -49624,19 +49789,6 @@
         "licenza": "GPL-2.0-or-later",
         "icona": "https://f-droid.org/repo//org.malinux.lectureFrancais.actLecture/en-US/icon_-cAn8RjIbhbVTs6gJLOZAqci0poAFpJBlDDAX1uRSRI=.png",
         "url_codice_sorgente": "https://gitlab.com/Afrikalan/lecture_francais_android/tree/HEAD",
-        "ultimo_aggiornamento": null
-    },
-    {
-        "nome": "TLSFragment",
-        "id_pacchetto": "org.maoist2009.tlsfragment",
-        "riassunto": "TLS fragmentation to bypass China's Great Firewall.",
-        "categorie": [
-            "DNS & Hosts",
-            "VPN & Proxy"
-        ],
-        "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//org.maoist2009.tlsfragment/en-US/icon_Demy6i7bLxybspIcK1dpvnA0cY8CEUdNnDEHnARPPDA=.png",
-        "url_codice_sorgente": "https://github.com/maoist2009/TlsFragment",
         "ultimo_aggiornamento": null
     },
     {
@@ -55470,6 +55622,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//studip_uni_passau.femtopedia.de.unipassaustudip/en-US/icon_NvZqq8RiBH370-HpcliTq3UzGd9-1FviYr2Vyl6SjcU=.png",
         "url_codice_sorgente": "https://github.com/ThexXTURBOXx/studipassau",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Mock Location that actually works",
+        "id_pacchetto": "su.mya.mocklock",
+        "riassunto": "A reliable mock location provider that actually works to replay GPX tracks.",
+        "categorie": [
+            "Development",
+            "Navigation"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//su.mya.mocklock/en-US/icon_9aLNuJZ9SoKizexndUezUMNFSyL_6CClYIfKw3_EDYQ=.png",
+        "url_codice_sorgente": "https://github.com/ma5ter/MockLock",
         "ultimo_aggiornamento": null
     },
     {
