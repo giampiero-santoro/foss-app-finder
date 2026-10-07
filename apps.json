@@ -1004,7 +1004,7 @@
             "Messaging"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/app.nightdrop.4123.png",
+        "icona": "https://f-droid.org/repo//icons/app.nightdrop.4133.png",
         "url_codice_sorgente": "https://github.com/nightdropapp/nightdrop",
         "ultimo_aggiornamento": null
     },
@@ -3881,7 +3881,7 @@
             "Science & Education"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.30.png",
+        "icona": "https://f-droid.org/repo//icons/com.StudyDesk.app.31.png",
         "url_codice_sorgente": "https://github.com/Limekana/StudyDesk",
         "ultimo_aggiornamento": null
     },
@@ -6905,6 +6905,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.beatbridge/en-US/icon_xkxSOe14huX18OAsEfJxwfkIYEPYSbWbixzhtMd3XgU=.png",
         "url_codice_sorgente": "https://github.com/brandonp2412/BeatBridge",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Cyclic Alarms",
+        "id_pacchetto": "com.beemasfincon.cyclicalarms",
+        "riassunto": "Alarm app for shift schedules — repeats every N days, not just weekly",
+        "categorie": [
+            "Alarm Clock"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.beemasfincon.cyclicalarms/en-US/icon_AYtjc3ppl-8RYpriv-wmR1UiBEhc5uZRCWTcon6v4IU=.png",
+        "url_codice_sorgente": "https://github.com/pramodbeema/cyclic-alarms",
         "ultimo_aggiornamento": null
     },
     {
@@ -10270,6 +10282,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Desktop Mascot",
+        "id_pacchetto": "com.ekinao.desktopmascot",
+        "riassunto": "A customizable animated mascot for your Android screen",
+        "categorie": [
+            "Casual Game"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.ekinao.desktopmascot/en-US/icon_X0DOpj7ZuglQB3-9YOnu6dCjiz4UUGGbUsLsagtEJI4=.png",
+        "url_codice_sorgente": "https://github.com/DesktopMascot/DesktopMascot_android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Candle",
         "id_pacchetto": "com.elasticrock.candle",
         "riassunto": "A display flashlight",
@@ -12068,7 +12092,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.galaxyrio.gracelauncher.1.png",
+        "icona": "https://f-droid.org/repo//com.galaxyrio.gracelauncher/en-US/icon_deQxhl9HC_9CuGRcfLJo62rycLuDu1DoXVNIIZkaK6k=.png",
         "url_codice_sorgente": "https://github.com/Galaxy-rio/GraceLauncher",
         "ultimo_aggiornamento": null
     },
@@ -14478,6 +14502,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.harr1424.listmaker/en-US/icon_UlCMyHUuWkRDRHqFqyhbVV03p0owXlEJRmHcFMFhook=.png",
         "url_codice_sorgente": "https://github.com/harr1424/ListMaker",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Lomo Camera",
+        "id_pacchetto": "com.harristownapps.lomocamera",
+        "riassunto": "A tiny camera that shoots vivid, cross-processed Lomo-style photos",
+        "categorie": [
+            "Camera"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.harristownapps.lomocamera/en-US/icon__wYxPE8LjLeBUm80E9skRAeFC0iHgmKDb0_zVf29D0c=.png",
+        "url_codice_sorgente": "https://github.com/penno2/lomo-camera",
         "ultimo_aggiornamento": null
     },
     {
@@ -17292,7 +17328,7 @@
             "Finance Manager"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.38.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.nexus.39.png",
         "url_codice_sorgente": "https://github.com/Limekana/nexus-command-center",
         "ultimo_aggiornamento": null
     },
@@ -17304,7 +17340,7 @@
             "Sports & Health"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.27.png",
+        "icona": "https://f-droid.org/repo//icons/com.limecore.workouttracker.28.png",
         "url_codice_sorgente": "https://github.com/Limekana/limelog",
         "ultimo_aggiornamento": null
     },
@@ -19516,9 +19552,21 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "DNS Resolver",
+        "id_pacchetto": "com.netshield.dns.psbdx",
+        "riassunto": "Local DNS resolver, ad/tracker sinkhole, and traffic monitor",
+        "categorie": [
+            "DNS & Hosts"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.netshield.dns.psbdx/en-US/icon_Bkp2mSNHzzUSTSAWHTmiF2bSMX4dulEIwZvEBAX4LBs=.png",
+        "url_codice_sorgente": "https://github.com/m-farhan-hamim/NetShield-DNS-Resolver-by-PSBDx",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Network Scanner - WiFi & IP",
         "id_pacchetto": "com.networkscanner.app",
-        "riassunto": "Who's on your WiFi? Find every device, with IP address, hostname & open ports.",
+        "riassunto": "Who's on my WiFi? Find every device, its IP address & open ports. No ads.",
         "categorie": [
             "Network Analyzer"
         ],
@@ -23132,6 +23180,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Wol Panel",
+        "id_pacchetto": "com.sasas991.wolpanel",
+        "riassunto": "Wake your machines over the LAN with a magic packet",
+        "categorie": [
+            "Connectivity",
+            "System"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.sasas991.wolpanel/en-US/icon_JcHwYwdhgzAsa6OJwHxn5t1zFOht-HS54J6XiugArZI=.png",
+        "url_codice_sorgente": "https://github.com/sasas991/android_wol_panel",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Word of the day - Learn a new word every day",
         "id_pacchetto": "com.saverio.wordoftheday_en",
         "riassunto": "Every day a new word to learn, copy and share!",
@@ -23541,6 +23602,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "是语输入法",
+        "id_pacchetto": "com.shiyu.sime",
+        "riassunto": "A fast offline Chinese Pinyin input method",
+        "categorie": [
+            "Keyboard & IME",
+            "Writing"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.shiyu.sime/en-US/icon_x8CzU3ECrYWBlGVh9xcRQs77kS8XeHN0yM7Ga7sYrjU=.png",
+        "url_codice_sorgente": "https://github.com/Ismantic/SimeApp",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Dharmik Online",
         "id_pacchetto": "com.shub39.dharmik.online",
         "riassunto": "Browse Bhagavad Gita",
@@ -23701,6 +23775,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sidhant.einsteinriddle/en-US/icon_6jLT0U-KqdGb84Xm8ShDgGpcnXEchkHwUBUDPSqOOYc=.png",
         "url_codice_sorgente": "https://github.com/sidhant947/Einstein-Riddle",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Find Words: Word Search Puzzle",
+        "id_pacchetto": "com.sidhant.findwords",
+        "riassunto": "Solve fun word search puzzles! Connect letters & challenge your brain",
+        "categorie": [
+            "Casual Game",
+            "Word Game"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.sidhant.findwords/en-US/icon_15AjKPkfEgVw52nArU-p98PfXLLJrvJQXHRUDT6epCA=.png",
+        "url_codice_sorgente": "https://github.com/sidhant947/FindWords",
         "ultimo_aggiornamento": null
     },
     {
@@ -25219,7 +25306,7 @@
     {
         "nome": "Privamatic",
         "id_pacchetto": "com.techtrest.privamatic",
-        "riassunto": "Privacy score for your Android — 50+ checks, no cloud, no tracking.",
+        "riassunto": "Your phone's privacy, scored 0–100. 50 checks, no internet permission.",
         "categorie": [
             "Security"
         ],
@@ -26338,7 +26425,7 @@
             "Religion"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/com.uli.bokyfivavahana2.11.png",
+        "icona": "https://f-droid.org/repo//icons/com.uli.bokyfivavahana2.12.png",
         "url_codice_sorgente": "https://github.com/ulightm111/boky-fivavahana-ion",
         "ultimo_aggiornamento": null
     },
@@ -29175,7 +29262,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.blinkt.openvpn.220.png",
+        "icona": "https://f-droid.org/repo//icons/de.blinkt.openvpn.224.png",
         "url_codice_sorgente": "https://github.com/schwabe/ics-openvpn",
         "ultimo_aggiornamento": null
     },
@@ -33705,7 +33792,7 @@
     {
         "nome": "Cyclauncher",
         "id_pacchetto": "dev.msbs.cyclauncher",
-        "riassunto": "Fast, accessible launcher focused on speed and one-handed use",
+        "riassunto": "Ergonomic one-handed launcher with side alphabet grid, tags & widgets",
         "categorie": [
             "Launcher"
         ],
@@ -34002,6 +34089,19 @@
         "licenza": "CC0-1.0",
         "icona": "https://f-droid.org/repo//dev.serwin.AnarchRE/en-US/icon_oLATp1J2YQ5gZptCWvBpl5uA_Unjiphpx5zY0sdQupc=.png",
         "url_codice_sorgente": "https://git.sr.ht/~marcin-serwin/anarch-re-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Waqfah",
+        "id_pacchetto": "dev.shrekbytes.waqfah.fdroid",
+        "riassunto": "Read a Quranic ayah before the apps you choose to open",
+        "categorie": [
+            "Reading",
+            "Religion"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://f-droid.org/repo//dev.shrekbytes.waqfah.fdroid/en-US/icon_4kwJYjpa2htN3Q37YEu_idhKqf6L8PCnyEdpHiTF3tY=.png",
+        "url_codice_sorgente": "https://github.com/ShrekBytes/waqfah",
         "ultimo_aggiornamento": null
     },
     {
@@ -37994,6 +38094,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Coffee Log",
+        "id_pacchetto": "io.github.adrian2414745.coffeelog",
+        "riassunto": "Log your coffee recipes so you can dial in and repeat the perfect cup",
+        "categorie": [
+            "Recipe Manager"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/adrian-2414745/coffee-log",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Tumblr Downloader",
         "id_pacchetto": "io.github.akarimarisa.tumblrdownloader",
         "riassunto": "Download images and videos from Tumblr posts",
@@ -38108,6 +38220,19 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//io.github.bommbomm34.latindefense/en-US/icon_0NO3CBzHNxAePptkf-e2fX_56xEZMoHDEncRLwxluTQ=.png",
         "url_codice_sorgente": "https://github.com/bommbomm34/latindefense",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "APODroid",
+        "id_pacchetto": "io.github.buerlino.apodroid",
+        "riassunto": "Sets NASA's Astronomy Picture of the Day as your wallpaper, every day",
+        "categorie": [
+            "Science & Education",
+            "Wallpaper"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.buerlino.apodroid/en-US/icon_3pCpkadmk2jHQHaFR7mcQxlT4GjrmWwrlyYQlefV0E4=.png",
+        "url_codice_sorgente": "https://github.com/buerlino/APODroid",
         "ultimo_aggiornamento": null
     },
     {
@@ -39848,7 +39973,7 @@
     {
         "nome": "Karui ToDo",
         "id_pacchetto": "io.github.ronynn.karui",
-        "riassunto": "90kB aesthetic terminalesque todo list app with offline sync and widgets",
+        "riassunto": "120kB aesthetic terminalesque todo list app with calendar, offline sync and widg",
         "categorie": [
             "Note",
             "Task",
@@ -44501,6 +44626,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Ganxet",
+        "id_pacchetto": "net.retiolus.ganxet",
+        "riassunto": "Board game timer for the whole table, with a clock facing each player",
+        "categorie": [
+            "Game Helper",
+            "Timer"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//net.retiolus.ganxet/en-US/icon_FolQEJyc5leSx7KLzbevWekxF_MHk4VWIBCKxMR8Jkk=.png",
+        "url_codice_sorgente": "https://codeberg.org/retiolus/ganxet",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "NATINFo+",
         "id_pacchetto": "net.retiolus.natinfo",
         "riassunto": "Advanced NATINF (NATure INFraction) search, offences under French law",
@@ -44515,7 +44653,7 @@
     {
         "nome": "osm2gmaps",
         "id_pacchetto": "net.retiolus.osm2gmaps",
-        "riassunto": "Mapping and geolocation services link converter",
+        "riassunto": "Convert coordinates and map links between formats, services and apps",
         "categorie": [
             "Navigation"
         ],
@@ -48910,7 +49048,7 @@
             "Task"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//org.hyperstarit.keepitapp/en-US/icon_NSnTqiFEHzePghOe1JOn_qH5ruA0fj03v8YhWgWmFkM=.png",
+        "icona": "https://f-droid.org/repo//org.hyperstarit.keepitapp/en-US/icon__fKUOrJWykqAsiTorPaRUukO5wJgw7QufYEozYb_8Cw=.png",
         "url_codice_sorgente": "https://github.com/Richy1989/keepIT",
         "ultimo_aggiornamento": null
     },
@@ -49027,7 +49165,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.jarsi.devicewatch.19.png",
+        "icona": "https://f-droid.org/repo//icons/org.jarsi.devicewatch.20.png",
         "url_codice_sorgente": "https://github.com/jrs8205/Device-Watch",
         "ultimo_aggiornamento": null
     },
@@ -52137,7 +52275,7 @@
             "Writing"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/org.smc.inputmethod.indic.211.png",
+        "icona": "https://f-droid.org/repo//icons/org.smc.inputmethod.indic.221.png",
         "url_codice_sorgente": "https://gitlab.com/indicproject/Indic-Keyboard",
         "ultimo_aggiornamento": null
     },
