@@ -856,6 +856,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Kryfo",
+        "id_pacchetto": "app.kryfo",
+        "riassunto": "private messages over tor. no phone number, no account, no metadata trail.",
+        "categorie": [
+            "Messaging"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//app.kryfo/en-US/icon_KDYavebc-FT1ZBuAixG65qAa8kAV70w8mcukpDC3Hzc=.png",
+        "url_codice_sorgente": "https://github.com/GnosiWorks/Kryfo",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Ladefuchs",
         "id_pacchetto": "app.ladefuchs.android",
         "riassunto": "Shows the cheapest charging card - with only one swipe at the charging point.",
@@ -3900,9 +3912,9 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "invoice, quote, delivery note",
+        "nome": "g8: delivery note, invoice",
         "id_pacchetto": "com.a4a.g8invoicing",
-        "riassunto": "Invoice in 10 seconds — bundle quotes and delivery notes into invoices!",
+        "riassunto": "Invoice in 10 seconds & bundle quotes and delivery notes into invoices!",
         "categorie": [
             "Finance Manager"
         ],
@@ -6644,6 +6656,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Turn the Page",
+        "id_pacchetto": "com.avstaim.listai",
+        "riassunto": "Read FB2, EPUB and PDF with paper page turns and a spread on foldables",
+        "categorie": [
+            "Ebook Reader"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.avstaim.listai/en-US/icon_mCcnNnF6L1K-CUEoTYZ5JgXYbTFV2nxTl1cp4GFYBMw=.png",
+        "url_codice_sorgente": "https://sourcecraft.dev/avstaim/listai",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Huda",
         "id_pacchetto": "com.aw.huda",
         "riassunto": "Prayer times, Quran, Qibla, Tasbih, Adhkar and more — your Islamic companion",
@@ -6903,7 +6927,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//com.beatbridge/en-US/icon_xkxSOe14huX18OAsEfJxwfkIYEPYSbWbixzhtMd3XgU=.png",
+        "icona": "https://f-droid.org/repo//com.beatbridge/en-US/icon_ZMkdcuj1TMaEau6Ejnv8Z-v9HQ8eO7cJ1uAUoWNWvLo=.png",
         "url_codice_sorgente": "https://github.com/brandonp2412/BeatBridge",
         "ultimo_aggiornamento": null
     },
@@ -8172,8 +8196,9 @@
     {
         "nome": "Liseur",
         "id_pacchetto": "com.chmouel.liseur",
-        "riassunto": "EPUB reader in sync with your own calibre-web, Komga or OPDS book server.",
+        "riassunto": "EPUB reader and client for calibre-web, Komga, BookOrbit and OPDS servers",
         "categorie": [
+            "Cloud Storage & File Sync",
             "Ebook Reader",
             "Reading"
         ],
@@ -10080,6 +10105,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.eanema.graph89/en-US/icon_zj6uWViMPFM0oEnggsEYE-pbjh5SDMHY_uG-S4HrnBY=.png",
         "url_codice_sorgente": "https://github.com/eanema/graph89",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Tapbar",
+        "id_pacchetto": "com.earendel.tapbar",
+        "riassunto": "Launch apps or quick actions from the status bar or anywhere on your screen",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.earendel.tapbar/en-US/icon_yZAEk0F3v_s_WGEnNC7ESyiRyyeEZMu-N9jnrXkGx3g=.png",
+        "url_codice_sorgente": "https://github.com/Earendel-lab/Tapbar",
         "ultimo_aggiornamento": null
     },
     {
@@ -13182,7 +13219,7 @@
     {
         "nome": "VoicePlus – Audiobook Player",
         "id_pacchetto": "com.github.mistermo_vibecode.voiceplus",
-        "riassunto": "Offline audiobook player with some quality of life features.",
+        "riassunto": "Play local audiobooks with a smart sleep timer and listening stats.",
         "categorie": [
             "Audiobook"
         ],
@@ -15825,6 +15862,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Sleep Noise",
+        "id_pacchetto": "com.jjrapps.sleepnoise",
+        "riassunto": "Noise to sleep, or to cover the room around you. Plays when you open it.",
+        "categorie": [
+            "Ambient Sound",
+            "Multimedia"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.jjrapps.sleepnoise/en-US/icon_PThY3aaVGZ83UJE3vSejbMrs4QP_aUOLWsDvpMELF1g=.png",
+        "url_codice_sorgente": "https://github.com/jorgejiro/sleep-noise-android",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "AnkiEditor",
         "id_pacchetto": "com.jkcarino.ankieditor",
         "riassunto": "Un avanzato editor per le note per AnkiDroid",
@@ -18200,7 +18250,7 @@
     {
         "nome": "Materializr",
         "id_pacchetto": "com.materializr.app",
-        "riassunto": "Maker 3D CAD — the middle ground between Tinkercad and FreeCAD",
+        "riassunto": "Maker 3D CAD - the middle ground between Tinkercad and FreeCAD",
         "categorie": [
             "Graphics"
         ],
@@ -18583,6 +18633,19 @@
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//com.merxury.blocker/en-US/icon_mXCxWmESLu0e9qtGawEu6RRgI_KunQfdGaZEyEksqGE=.png",
         "url_codice_sorgente": "https://github.com/lihenggui/blocker",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "MeshNavarra Utility",
+        "id_pacchetto": "com.meshkachoutility",
+        "riassunto": "Administer Meshtastic nodes and NavaTastic repeaters over USB and Bluetooth",
+        "categorie": [
+            "Connectivity",
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.meshkachoutility/en-US/icon_Bc8f6LFph8hBo1pVwFyBr2JygW8dNzOqCzLjeUrlZ6I=.png",
+        "url_codice_sorgente": "https://github.com/EA2OY/MeshNavarra-Utility",
         "ultimo_aggiornamento": null
     },
     {
@@ -22427,6 +22490,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "AwayDoomscrollin'",
+        "id_pacchetto": "com.resolvecommunity.awaydoomscrollin",
+        "riassunto": "Beta shield that blocks Instagram Reels, TikTok and YouTube Shorts scrolling",
+        "categorie": [
+            "System"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//com.resolvecommunity.awaydoomscrollin/en-US/icon_JTeTJUEkzMPkRW21oRKxqffc1lDw0JGh329rLlZjkpg=.png",
+        "url_codice_sorgente": "https://github.com/resolvecommunity/AwayDoomscrollin",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Resonance",
         "id_pacchetto": "com.resonance.music",
         "riassunto": "Stream music from your Subsonic or Navidrome server",
@@ -22798,7 +22873,7 @@
             "Time Tracker"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/com.rowtine.app.13.png",
+        "icona": "https://f-droid.org/repo//icons/com.rowtine.app.14.png",
         "url_codice_sorgente": "https://github.com/alxia0/rowtine",
         "ultimo_aggiornamento": null
     },
@@ -23232,6 +23307,19 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.scalepractice/en-US/icon_w9-UaftukbkxNY3WscI4dJ4cL9YBNkA0UhbY4DWKrgA=.png",
         "url_codice_sorgente": "https://github.com/aburdiss/ScalePractice",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Horus",
+        "id_pacchetto": "com.scariflabs.horus",
+        "riassunto": "Alpine Linux workspace for Claude Code, Codex, OpenCode, and a zsh shell",
+        "categorie": [
+            "Development",
+            "System"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.scariflabs.horus/en-US/icon_T92L4talNXavo73YXECtaCW49_7S5-PESoeHltaJWDU=.png",
+        "url_codice_sorgente": "https://github.com/scarif-labs/horus",
         "ultimo_aggiornamento": null
     },
     {
@@ -25895,6 +25983,18 @@
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.tokyoxpa3.androidproxy/en-US/icon_tNAiLeDxaOP4AvdP7KMAPRAMM-ZlKjxVcvKbNQABUlQ=.png",
         "url_codice_sorgente": "https://github.com/tokyoxpa3/5G-Proxy-Pro",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "5G Proxy Client",
+        "id_pacchetto": "com.tokyoxpa3.socksclient",
+        "riassunto": "Routes device traffic through a remote SOCKS5 proxy via TUN. No root, TCP/UDP.",
+        "categorie": [
+            "VPN & Proxy"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.tokyoxpa3.socksclient/en-US/icon_R28IfrpkUNj8oJTKUeQ4McTmNOjoFnaL3Nv2ZrJXTZE=.png",
+        "url_codice_sorgente": "https://github.com/tokyoxpa3/5G-Proxy-Client",
         "ultimo_aggiornamento": null
     },
     {
@@ -38106,6 +38206,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Webby Images Downloader",
+        "id_pacchetto": "io.github.aiya000.webbyimagesdownloader",
+        "riassunto": "Pick images from a web page and download them all at once",
+        "categorie": [
+            "Download",
+            "Internet"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//io.github.aiya000.webbyimagesdownloader/en-US/icon_lOVmSGdXSxjQPtVzsJndOOvDVG80wJfGugOIl6vTEFE=.png",
+        "url_codice_sorgente": "https://github.com/aiya000/Webby-Images-Downloader",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Tumblr Downloader",
         "id_pacchetto": "io.github.akarimarisa.tumblrdownloader",
         "riassunto": "Download images and videos from Tumblr posts",
@@ -41711,7 +41824,7 @@
             "Internet"
         ],
         "licenza": "GPL-2.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.137.png",
+        "icona": "https://f-droid.org/repo//icons/it.rignanese.leo.slimfacebook.138.png",
         "url_codice_sorgente": "https://github.com/rignaneseleo/SlimSocial-for-Facebook",
         "ultimo_aggiornamento": null
     },
@@ -45478,7 +45591,7 @@
             "Task"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.1000.png",
+        "icona": "https://f-droid.org/repo//icons/nl.renzit.emborg.1001.png",
         "url_codice_sorgente": "https://gitlab.com/JohnRenz/emborg",
         "ultimo_aggiornamento": null
     },
@@ -48138,7 +48251,7 @@
             "System"
         ],
         "licenza": "Apache-2.0",
-        "icona": "https://f-droid.org/repo//icons/org.fdroid.fdroid.privileged.2130.png",
+        "icona": "https://f-droid.org/repo//icons/org.fdroid.fdroid.privileged.2140.png",
         "url_codice_sorgente": "https://gitlab.com/fdroid/privileged-extension",
         "ultimo_aggiornamento": null
     },
@@ -49287,6 +49400,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//org.joinmastodon.android.moshinda/en-US/icon_ah8e5tmWYAHShz21Gksm8AMie_XGJRuXg3X4wODBO8o=.png",
         "url_codice_sorgente": "https://github.com/LucasGGamerM/moshidon",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Ethic One Call",
+        "id_pacchetto": "org.jpi59.ethichandoff",
+        "riassunto": "Lend your phone for one call while keeping the rest private.",
+        "categorie": [
+            "Phone & SMS"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.jpi59.ethichandoff/en-US/icon_QrJkL3_qleqIHOmumojabb7VeQ77uyD7PzIYN_RWWHE=.png",
+        "url_codice_sorgente": "https://github.com/jpi59/ethic-one-call",
         "ultimo_aggiornamento": null
     },
     {
