@@ -785,7 +785,7 @@
             "Wallpaper"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//app.floatdeck/en-US/icon_KK2uURdlNdWpm2vggkVkrrvd2YXglEzyNOOa2Khmj-E=.png",
+        "icona": "https://f-droid.org/repo//app.floatdeck/en-US/icon_87doaW_QoqKjIwofOF_wROF5tzdSxISwMmDBy7qpxA8=.png",
         "url_codice_sorgente": "https://github.com/kxxoling/FloatDeck",
         "ultimo_aggiornamento": null
     },
@@ -920,11 +920,11 @@
     {
         "nome": "Kryfo",
         "id_pacchetto": "app.kryfo",
-        "riassunto": "private messages over tor. no phone number, no account, no metadata trail.",
+        "riassunto": "Private messages over Tor. No phone number, no account, no metadata trail.",
         "categorie": [
             "Messaging"
         ],
-        "licenza": "GPL-3.0-only",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//app.kryfo/en-US/icon_Pp9gXIdLXACZU_J6i5JHZGzO1OpIh07B_YFI24Wp3LI=.png",
         "url_codice_sorgente": "https://github.com/GnosiWorks/Kryfo",
         "ultimo_aggiornamento": null
@@ -2238,7 +2238,7 @@
             "Science & Education"
         ],
         "licenza": "AGPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/au.how2vote.app.104013000.png",
+        "icona": "https://f-droid.org/repo//icons/au.how2vote.app.109001000.png",
         "url_codice_sorgente": "https://github.com/National-Digital/how2vote.au",
         "ultimo_aggiornamento": null
     },
@@ -3227,7 +3227,7 @@
     {
         "nome": "Matewave",
         "id_pacchetto": "cc.skysparkle.matewave",
-        "riassunto": "Offline chess: AI, puzzles, opening training and play with friends nearby",
+        "riassunto": "Play chess offline, sharpen tactics, and practice openings with AI or friends.",
         "categorie": [
             "Board Game"
         ],
@@ -11347,6 +11347,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "EVB Folder Player",
+        "id_pacchetto": "com.evb.folderplayer",
+        "riassunto": "Offline audiobooks from your folders, with saved progress and large controls",
+        "categorie": [
+            "Audiobook"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//com.evb.folderplayer/en-US/icon_ugnI8g7RwCCkwUG1U_7iwXYjLTUbuc6mHW9yryqfJgI=.png",
+        "url_codice_sorgente": "https://github.com/evb0110/evb-folder-player",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "TTime",
         "id_pacchetto": "com.example.TTime",
         "riassunto": "Android app to calculate transfer time, data quantity and bandwidth",
@@ -16139,7 +16151,7 @@
     {
         "nome": "Ironvellum",
         "id_pacchetto": "com.ironvellum.app",
-        "riassunto": "Strength training with a ledger that remembers everything.",
+        "riassunto": "Plan your week by effort, log sets fast, track every PR. Free, offline, no ads.",
         "categorie": [
             "Health Manager",
             "Workout"
@@ -22560,7 +22572,7 @@
         "categorie": [
             "Finance Manager"
         ],
-        "licenza": "MIT",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//com.pixelpen.whereitwent.stable/en-US/icon_cE_6tekXV2Wy25Ts1aXUyOMPqTr4nk36VjOeeaUNuaU=.png",
         "url_codice_sorgente": "https://github.com/PIXEL-PEN/Where-It-Went",
         "ultimo_aggiornamento": null
@@ -23817,7 +23829,7 @@
             "Multimedia"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.rjnsdev.linklift.app/en-US/icon_iru_ZZ3eYNBwS-qEq_sRhXz4DtSQqX0jyIPZjPW2mj4=.png",
+        "icona": "https://f-droid.org/repo//com.rjnsdev.linklift.app/en-US/icon_eYhfpxLFhyiqvX6gRJIUybeUEqnBgfr9GmRmHSHDMKA=.png",
         "url_codice_sorgente": "https://github.com/RajnishOne/linklift",
         "ultimo_aggiornamento": null
     },
@@ -35200,6 +35212,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Kokoro Android system TTS driver",
+        "id_pacchetto": "dev.kokoro.tts",
+        "riassunto": "Text-to-speech engine that speaks through your own Kokoro server",
+        "categorie": [
+            "System",
+            "Text to Speech"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//icons/dev.kokoro.tts.1.png",
+        "url_codice_sorgente": "https://github.com/Gishi1/kokoro-android-tts",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Osmosis",
         "id_pacchetto": "dev.konraditurbe.osmosis",
         "riassunto": "Copy photos and videos off DJI Osmo cameras over Bluetooth and Wi-Fi",
@@ -39006,6 +39031,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Tetherbug",
+        "id_pacchetto": "ie.xav.tetherbug",
+        "riassunto": "Your Mac turns on your phone's hotspot when its Wi-Fi disconnects. No taps.",
+        "categorie": [
+            "Connectivity"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//ie.xav.tetherbug/en-US/icon_sZnHQMEq0-rq_kSZRbN7PNo4so68dpV2M2HfC0MiES8=.png",
+        "url_codice_sorgente": "https://github.com/xav-ie/Tetherbug",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Axichat",
         "id_pacchetto": "im.axi.axichat",
         "riassunto": "Replace your email, messenger, and calendar with one app.",
@@ -42069,6 +42106,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "RWR: onlooker alert",
+        "id_pacchetto": "io.github.revocx35.rwr",
+        "riassunto": "Warns you when someone behind you looks at your screen (shoulder surfing)",
+        "categorie": [
+            "Security"
+        ],
+        "licenza": "GPL-3.0-only",
+        "icona": "https://f-droid.org/repo//io.github.revocx35.rwr/en-US/icon_no6oMQcWhhicXONSVjYBBfVPxU3FS8Gpb9pQG9l0ZBI=.png",
+        "url_codice_sorgente": "https://github.com/revocx35/RWR",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "OpenDefault",
         "id_pacchetto": "io.github.rickymohk.opendefault",
         "riassunto": "Help opening URLs with default App",
@@ -44391,7 +44440,7 @@
             "Phone & SMS"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//life.andre.message487/en-US/icon_3IObya8NdQmfTPM-xn5gofl0CszAFu-E0HzLAFvSqzc=.png",
+        "icona": "https://f-droid.org/repo//life.andre.message487/en-US/icon_8dFcX7UnWhzkgcSz7_dtDAwIAHm1C5SbN4UE2TBMMKo=.png",
         "url_codice_sorgente": "https://github.com/andre487/AndroidMessage487",
         "ultimo_aggiornamento": null
     },
@@ -47232,7 +47281,7 @@
         ],
         "licenza": "Apache-2.0",
         "icona": "https://f-droid.org/repo//net.tecogonaz.tcsameuradammonitor/en-US/icon_w1VtFQbYuzmRKIKNLPi_m84_BLemKdXbPF8uCdlRZEU=.png",
-        "url_codice_sorgente": "https://codeberg.org/tecogonaz0439/TCSameuraDamMonitor-android",
+        "url_codice_sorgente": "https://github.com/tecogonaz0439/TCSameuraDamMonitor-android",
         "ultimo_aggiornamento": null
     },
     {
@@ -47787,6 +47836,18 @@
         "licenza": "LGPL-2.1-only",
         "icona": "https://f-droid.org/repo//nl.neerdael.projectm/en-US/icon_rCtjeSLK13PxyfozwZLteW_PBd8UFYyxbQ-V_27rLKA=.png",
         "url_codice_sorgente": "https://github.com/johnneerdael/ProjectM-Android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "ProjectM TV",
+        "id_pacchetto": "nl.neerdael.projectmtv",
+        "riassunto": "MilkDrop music visuals for Android TV",
+        "categorie": [
+            "Multimedia"
+        ],
+        "licenza": "LGPL-2.1-only",
+        "icona": "https://f-droid.org/repo//nl.neerdael.projectmtv/en-US/icon_rCtjeSLK13PxyfozwZLteW_PBd8UFYyxbQ-V_27rLKA=.png",
+        "url_codice_sorgente": "https://github.com/johnneerdael/ProjectM-TV",
         "ultimo_aggiornamento": null
     },
     {
@@ -53096,6 +53157,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "OpenBanners Overlay",
+        "id_pacchetto": "org.openbanners.overlay",
+        "riassunto": "Route map overlay and mission tracker for Ingress mission banners.",
+        "categorie": [
+            "Game Helper",
+            "Navigation"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//org.openbanners.overlay/en-US/icon_SBENGHYOaivX3ns1fuCjT1cxIA89fpwty-mKCRmBc-w=.png",
+        "url_codice_sorgente": "https://github.com/Gamer1120/OpenBanners-overlay",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Formulus",
         "id_pacchetto": "org.opendataensemble.formulus",
         "riassunto": "Offline-first bespoke data collection apps from Open Data Ensemble",
@@ -56293,7 +56367,7 @@
             "Note"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/page.tine.app.7002.png",
+        "icona": "https://f-droid.org/repo//icons/page.tine.app.7004.png",
         "url_codice_sorgente": "https://github.com/martinkoutecky/tine",
         "ultimo_aggiornamento": null
     },
@@ -57914,7 +57988,7 @@
             "Multimedia"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//shub39.momentum/en-US/icon_C4duU50QwaqENh1j6QvlZ6xYWVsREuwwxesuBgiM3PM=.png",
+        "icona": "https://f-droid.org/repo//shub39.momentum/en-US/icon_xHRIc1jLoJ28DDNn4zwsGHQd9MjhLsy-hXqKtuszBb0=.png",
         "url_codice_sorgente": "https://github.com/shub39/Momentum",
         "ultimo_aggiornamento": null
     },
@@ -59976,12 +60050,12 @@
     {
         "nome": "Inner Breeze",
         "id_pacchetto": "xyz.waozi.inbe",
-        "riassunto": "Syncable breathing, meditation, and habit practice app.",
+        "riassunto": "Lumi guides your day: breathing, meditation, yoga, habits, lists and a diary.",
         "categorie": [
             "Meditation"
         ],
         "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//xyz.waozi.inbe/en-US/icon_CnaCrRXG-PtWJyb7XgDvGSVIrGqMGQYs8nEjH4ApCe0=.png",
+        "icona": "https://f-droid.org/repo//xyz.waozi.inbe/en-US/icon_DMmoX0PUDU5qdixI5R2vzHtDlKIv5pj6RH1bU5PkebQ=.png",
         "url_codice_sorgente": "https://github.com/waozixyz/inbe",
         "ultimo_aggiornamento": null
     },
