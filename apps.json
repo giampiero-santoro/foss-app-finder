@@ -2558,8 +2558,21 @@
             "Connectivity"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30600.png",
+        "icona": "https://f-droid.org/repo//icons/be.ppareit.swiftp_free.30700.png",
         "url_codice_sorgente": "https://github.com/ppareit/swiftp",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Suivi compteurs",
+        "id_pacchetto": "be.suivicompteurs.app",
+        "riassunto": "Read your meters and forecast your consumption, weather-adjusted.",
+        "categorie": [
+            "Finance Manager",
+            "Science & Education"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//be.suivicompteurs.app/en-US/icon_AmUr5RBv16P8BHN0BYemngId5qdbW-HfX5l1zrBmlKg=.png",
+        "url_codice_sorgente": "https://github.com/doolieSoft/suivi_compteurs_project",
         "ultimo_aggiornamento": null
     },
     {
@@ -2806,7 +2819,7 @@
             "Navigation"
         ],
         "licenza": "MIT",
-        "icona": "https://via.placeholder.com/64",
+        "icona": "https://f-droid.org/repo//icons/btools.routingapp.57.png",
         "url_codice_sorgente": "https://github.com/abrensch/brouter",
         "ultimo_aggiornamento": null
     },
@@ -7857,6 +7870,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Blazify",
+        "id_pacchetto": "com.blazify.music",
+        "riassunto": "Stream millions of songs with synced lyrics, an equalizer and offline downloads",
+        "categorie": [
+            "Online Media Player",
+            "Podcast"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.blazify.music/en-US/icon_kdCuO5-oNno7V3f_zzwhYQI4VdTiuNZ4ZwS6V5Ye_dg=.png",
+        "url_codice_sorgente": "https://github.com/rajendra7169/blazify",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Just Another Workout Timer",
         "id_pacchetto": "com.blockbasti.justanotherworkouttimer",
         "riassunto": "A simple timer for your workouts, built with Flutter!",
@@ -11790,20 +11816,6 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "DeepLAndroid",
-        "id_pacchetto": "com.example.deeplviewer",
-        "riassunto": "Un'applicazione Android non ufficiale per traduzioni DeepL",
-        "categorie": [
-            "Reading",
-            "Science & Education",
-            "Translation & Dictionary"
-        ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//com.example.deeplviewer/en-US/icon_-DXJ7590PLjLCKlfSSn8VkZgIfYQpgx_5tklyH_VWmI=.png",
-        "url_codice_sorgente": "https://github.com/sakusaku3939/DeepLAndroid",
-        "ultimo_aggiornamento": null
-    },
-    {
         "nome": "Dozenal Clock",
         "id_pacchetto": "com.example.dozenalclock",
         "riassunto": "A dozenal (duodecimal, or base-twelve) clock and homescreen/lockscreen widget.",
@@ -13098,7 +13110,7 @@
     {
         "nome": "Frequent Habits",
         "id_pacchetto": "com.frequent.habits",
-        "riassunto": "Aesthetic habit tracker with deep analytics. 100% private and offline.",
+        "riassunto": "A modern, privacy-focused & feature-packed open-source habit tracker for Android",
         "categorie": [
             "Habit Tracker"
         ],
@@ -14937,7 +14949,7 @@
     {
         "nome": "Social Thread Markdown",
         "id_pacchetto": "com.gitlab.cyberghost13337.socialthreadmarkdown",
-        "riassunto": "Expands Twitter/X links into readable, shareable Markdown format.",
+        "riassunto": "Turn websites and X/Twitter threads into readable, shareable Markdown",
         "categorie": [
             "Social Network"
         ],
@@ -16120,7 +16132,7 @@
         ],
         "licenza": "MIT",
         "icona": "https://f-droid.org/repo//com.hugo.theuniversedecides/en-US/icon_dalooy8ZDSmnOl49AQ9BIQpo9LAqmzvWtItoT2__D3c=.png",
-        "url_codice_sorgente": "https://github.com/vitorhugo-dotnet/the_universe_decides",
+        "url_codice_sorgente": "https://github.com/hugoalves-dev/the_universe_decides",
         "ultimo_aggiornamento": null
     },
     {
@@ -17041,7 +17053,7 @@
     {
         "nome": "JemRec",
         "id_pacchetto": "com.jemcik.jemrec",
-        "riassunto": "Records phone, WhatsApp, Telegram and Viber calls, both sides, no root",
+        "riassunto": "Records phone, WhatsApp, Telegram, Viber and Meet calls, both sides, no root",
         "categorie": [
             "Phone & SMS",
             "Recorder"
@@ -19735,7 +19747,7 @@
             "Graphics"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/com.materializr.app.51.png",
+        "icona": "https://f-droid.org/repo//icons/com.materializr.app.52.png",
         "url_codice_sorgente": "https://github.com/materializr-cad/materializr",
         "ultimo_aggiornamento": null
     },
@@ -20580,7 +20592,7 @@
     {
         "nome": "Money Manager Ex",
         "id_pacchetto": "com.money.manager.ex",
-        "riassunto": "Gestisci le tue finanze in mobilità, con crittografia di sicurezza e sinc tramit",
+        "riassunto": "Gestisci le tue finanze in mobilità, crittografate e sincronizzate sul tuo cloud",
         "categorie": [
             "Finance Manager"
         ],
@@ -21896,6 +21908,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "FilmLab",
+        "id_pacchetto": "com.nsheremet.filmlab",
+        "riassunto": "Edit photos on your device with film-inspired looks",
+        "categorie": [
+            "Graphics"
+        ],
+        "licenza": "Apache-2.0",
+        "icona": "https://f-droid.org/repo//com.nsheremet.filmlab/en-US/icon_b9jvBbZjfsFp2u9MNySKeHbrEpDvcaUzB5h2xYj5q0o=.png",
+        "url_codice_sorgente": "https://github.com/gdwrd/FilmLab",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Number Guesser",
         "id_pacchetto": "com.numguesser.tonio_rpchp.numberguesser",
         "riassunto": "Indovina il numero corretto",
@@ -22729,7 +22753,7 @@
     {
         "nome": "Encly: Encrypted Offline Notes",
         "id_pacchetto": "com.pasich.encly",
-        "riassunto": "Private notes & tasks with a PIN lock. No account, no internet, no ads.",
+        "riassunto": "Secure notepad with a PIN lock: notes & tasks. No account, no internet, no ads.",
         "categorie": [
             "Note",
             "Security",
@@ -23204,7 +23228,7 @@
     {
         "nome": "Where It Went",
         "id_pacchetto": "com.pixelpen.whereitwent.stable",
-        "riassunto": "You think you know. Then you see the numbers. Track where it really went.",
+        "riassunto": "You think you know. Then you see the numbers. An offline expense tracker.",
         "categorie": [
             "Finance Manager"
         ],
@@ -23506,7 +23530,7 @@
     {
         "nome": "Mihrab: The Muslim Companion",
         "id_pacchetto": "com.prayer_times",
-        "riassunto": "Prayer times, adhan, the Quran, duas and qibla in one calm, private app.",
+        "riassunto": "Prayer times matching Diyanet, Kemenag & more to the minute. Quran, dua, qibla.",
         "categorie": [
             "Religion"
         ],
@@ -25332,6 +25356,18 @@
         "licenza": "GPL-3.0-only",
         "icona": "https://f-droid.org/repo//com.sebiai.glyphport/en-US/icon_DDulMxpBc9s1vjFmVAdu9Ri3MjI7r-taZyc4Oup2aGg=.png",
         "url_codice_sorgente": "https://github.com/SebiAi/GlyphPort",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "Seca Contacts",
+        "id_pacchetto": "com.seca.contacts",
+        "riassunto": "Private contacts: coloured profiles, duplicate merging, no Internet access",
+        "categorie": [
+            "Phone & SMS"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//com.seca.contacts/en-US/icon_o9MX39TOhTyRhDi-4t-_wCr6OQE73GcZTsvpGLlJdr0=.png",
+        "url_codice_sorgente": "https://github.com/arditore/Seca",
         "ultimo_aggiornamento": null
     },
     {
@@ -29863,7 +29899,7 @@
     {
         "nome": "WM Keyboard",
         "id_pacchetto": "com.wasimaster.wmkeyboard",
-        "riassunto": "A private, offline keyboard: 845 languages, smart typing, themes, and tools.",
+        "riassunto": "A private, offline keyboard: 955 languages, smart typing, themes, and tools.",
         "categorie": [
             "Keyboard & IME"
         ],
@@ -31677,7 +31713,7 @@
             "VPN & Proxy"
         ],
         "licenza": "GPL-2.0-only",
-        "icona": "https://f-droid.org/repo//icons/de.blinkt.openvpn.224.png",
+        "icona": "https://f-droid.org/repo//icons/de.blinkt.openvpn.225.png",
         "url_codice_sorgente": "https://github.com/schwabe/ics-openvpn",
         "ultimo_aggiornamento": null
     },
@@ -32523,7 +32559,7 @@
     {
         "nome": "Rechenzwerge",
         "id_pacchetto": "de.happybuers.rechenzettel",
-        "riassunto": "Counting and math practice for preschool and elementary school.",
+        "riassunto": "Counting and math practice for preschool and elementary school",
         "categorie": [
             "Educational Game"
         ],
@@ -32591,7 +32627,7 @@
             "Science & Education"
         ],
         "licenza": "GPL-3.0-only",
-        "icona": "https://f-droid.org/repo//de.herrmann_engel.rbv/en-US/icon_BLXtQcQkMebvz5pj7UDFkUmVw3OlrOHIEv3ny3ZzBXs=.png",
+        "icona": "https://f-droid.org/repo//de.herrmann_engel.rbv/en-US/icon_-UJqMnBxVRgx2w_xqHQseYimrrh95ownW-N6yf7GMu0=.png",
         "url_codice_sorgente": "https://github.com/jonathanherrmannengel/vocabapp",
         "ultimo_aggiornamento": null
     },
@@ -33064,7 +33100,7 @@
     {
         "nome": "BoatSpeedy",
         "id_pacchetto": "de.kewl.boatspeedy",
-        "riassunto": "GPS speedometer and waterway navigation for boats, with battery analytics",
+        "riassunto": "Route planner for canoes and boats, GPS speedometer and battery analytics",
         "categorie": [
             "Navigation",
             "Sports & Health"
@@ -37080,6 +37116,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Parvaz",
+        "id_pacchetto": "dk.cocode.parvaz",
+        "riassunto": "Farsi-first browser tunnel through a self-hosted Apps Script relay",
+        "categorie": [
+            "VPN & Proxy"
+        ],
+        "licenza": "MIT",
+        "icona": "https://f-droid.org/repo//icons/dk.cocode.parvaz.1018.png",
+        "url_codice_sorgente": "https://github.com/cocodedk/parvaz",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Six Shooter",
         "id_pacchetto": "dk.dustytales.sixshooter",
         "riassunto": "Western revolver drum spinner — pick a winner among up to six players",
@@ -38603,6 +38651,19 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Immich Wear",
+        "id_pacchetto": "fi.nikosavola.immichwear",
+        "riassunto": "Browse your self-hosted Immich photos from your wrist",
+        "categorie": [
+            "Gallery",
+            "Multimedia"
+        ],
+        "licenza": "AGPL-3.0-only",
+        "icona": "https://via.placeholder.com/64",
+        "url_codice_sorgente": "https://github.com/nikosavola/immich-wear",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "Valet",
         "id_pacchetto": "finance.valet",
         "riassunto": "The Bitcoin Lightning Wallet with Extra Features",
@@ -39016,6 +39077,18 @@
         "licenza": "BSD-3-Clause",
         "icona": "https://f-droid.org/repo//fr.kanis.foldio/en-US/icon_bzPW5cYIY_VLZCFCOos9mj0rh54alLnqwlVw7VwA36Y=.png",
         "url_codice_sorgente": "https://gitlab.com/ivankanis/foldio-android",
+        "ultimo_aggiornamento": null
+    },
+    {
+        "nome": "KOOK SESSION",
+        "id_pacchetto": "fr.kooksession.app",
+        "riassunto": "Surf and wingfoil session logbook, stored in your own Nextcloud",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "AGPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//fr.kooksession.app/en-US/icon_6dc_NuOAkJBp3heYsG456BpDRJDKdodC9fvF0ojh5ng=.png",
+        "url_codice_sorgente": "https://codeberg.org/badscooter/kook-session",
         "ultimo_aggiornamento": null
     },
     {
@@ -43818,14 +43891,14 @@
         "ultimo_aggiornamento": null
     },
     {
-        "nome": "Linthra",
+        "nome": "Linthra: Offline Music Player",
         "id_pacchetto": "io.github.thezupzup.linthra",
-        "riassunto": "Open-source, local-first music player for music you own. No forced sync.",
+        "riassunto": "Linthra: Open-source offline music player for local and self-hosted music.",
         "categorie": [
             "Local Media Player",
             "Online Media Player"
         ],
-        "licenza": "MPL-2.0",
+        "licenza": "AGPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//io.github.thezupzup.linthra/en-US/icon_CaJlK4vwTcLxVrK1nN2G9ZZD0CreZqMhKQsoQTEvL6Y=.png",
         "url_codice_sorgente": "https://github.com/TheZupZup/Linthra",
         "ultimo_aggiornamento": null
@@ -51163,7 +51236,7 @@
             "Internet",
             "Security"
         ],
-        "licenza": "MIT",
+        "licenza": "GPL-3.0-or-later",
         "icona": "https://f-droid.org/repo//org.darknetcrawler.mobile/en-US/icon_EG_DM7YadRJX4WSlW4Y9bdFCTAMdTKLO2UiiMDiBsdk=.png",
         "url_codice_sorgente": "https://codeberg.org/sookoothaii/digital-spyglass-android",
         "ultimo_aggiornamento": null
@@ -53093,7 +53166,7 @@
             "System"
         ],
         "licenza": "GPL-3.0-or-later",
-        "icona": "https://f-droid.org/repo//icons/org.jarsi.devicewatch.23.png",
+        "icona": "https://f-droid.org/repo//icons/org.jarsi.devicewatch.24.png",
         "url_codice_sorgente": "https://github.com/jrs8205/Device-Watch",
         "ultimo_aggiornamento": null
     },
@@ -56951,6 +57024,18 @@
         "ultimo_aggiornamento": null
     },
     {
+        "nome": "Underfoot",
+        "id_pacchetto": "org.underfoot",
+        "riassunto": "Track walking pad sessions to Health Connect. No account, no analytics.",
+        "categorie": [
+            "Sports & Health"
+        ],
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//org.underfoot/en-US/icon_3h4vpNMWx4KZTXvu0IIXJcjaCzXWuSoSrfTdfwFCFZg=.png",
+        "url_codice_sorgente": "https://github.com/TechHQUSA/underfoot",
+        "ultimo_aggiornamento": null
+    },
+    {
         "nome": "NextPush",
         "id_pacchetto": "org.unifiedpush.distributor.nextpush",
         "riassunto": "UnifiedPush distributor using Nextcloud server.",
@@ -57739,8 +57824,8 @@
         "categorie": [
             "Weather"
         ],
-        "licenza": "MIT",
-        "icona": "https://f-droid.org/repo//orinasa.njarasoa.maripanatokana/en-US/icon_hZXPQAePXYLVERcDZfaQQ-3Gid-0t12LXhjkbv5WAcU=.png",
+        "licenza": "GPL-3.0-or-later",
+        "icona": "https://f-droid.org/repo//orinasa.njarasoa.maripanatokana/en-US/icon_w55UmFx84kRWj0SKNWp1buW4sL3tLOmkt5jEViC0QVk=.png",
         "url_codice_sorgente": "https://github.com/mpilasy/maripanaTokana",
         "ultimo_aggiornamento": null
     },
@@ -57827,7 +57912,7 @@
             "Note"
         ],
         "licenza": "AGPL-3.0-only",
-        "icona": "https://f-droid.org/repo//icons/page.tine.app.7004.png",
+        "icona": "https://f-droid.org/repo//icons/page.tine.app.8000.png",
         "url_codice_sorgente": "https://github.com/martinkoutecky/tine",
         "ultimo_aggiornamento": null
     },
